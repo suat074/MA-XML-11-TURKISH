@@ -26,7 +26,7 @@ Use the [Github Issue tracker](https://github.com/suat074/MA-XML-11-TURKISH/issu
 
 ## Changes will be added
 
-* This is MIUI 10.x Turkish Language Project supported all of models...
+* This is MIUI 11.x Turkish Language Project supported all of models...
 
 Check [Contributing to a project](https://guides.github.com/activities/forking) for further informations.
 
