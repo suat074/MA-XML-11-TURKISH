@@ -1,6 +1,6 @@
 MIUI V11 Turkish Translation
 
-[![Issue Stats](https://img.shields.io/github/issues-raw/suat074/MA-XML-11-TURKISH.svg)](https://github.com/suat074/MA-XML-10-TURKISH/issues)
+[![Issue Stats](https://img.shields.io/github/issues-raw/suat074/MA-XML-11-TURKISH.svg)](https://github.com/suat074/MA-XML-11-TURKISH/issues)
 
 ## Introduction
 
