@@ -1316,7 +1316,7 @@
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tercih edilen ağ tipi</string>
   <string name="preferred_phone_account">Tercih edilen arama hesabı</string>
-  <string name="preferred_wificall_title">Wi-Fi çağrıları</string>
+  <string name="preferred_wificall_title">Ağ tercihleri</string>
   <string name="preferred_wificall_roaming_title">Dolaşım tercihleri</string>
   <string name="privacy_policy_title">Gizlilik Politikası</string>
   <string name="private_dns_mode_off">Kapalı</string>
@@ -1680,8 +1680,8 @@
   <string name="verify_apps_over_usb_title">USB üzerinden uygulamaları doğrulayın</string>
   <string name="vice_card_data_in_use_alert">Ek veri ücretleri oluşturulabilir.</string>
   <string name="vice_slot_volte_data_switch_prompt">Devam eden VoLTE çağrıları sırasında cihazınız ikincil SIM\'i kullanarak mobil veri ağına bağlanacaktır. Bu ek veri ücretleri oluşturabilir. Veri planınızla ilgili ayrıntılar için yerel operatörünüze başvurun.</string>
-  <string name="vice_slot_volte_data_switch_summary">VoLTE aramaları sırasında cihaz, ikinci SIM\'i kullanarak mobil veri ağına bağlanır.</string>
-  <string name="vice_slot_volte_data_switch_title">İkincil SIM\'de 4G aramaları sırasında mobil veri kullan</string>
+  <string name="vice_slot_volte_data_switch_summary">VoLTE aramaları sırasında cihaz, ikincil SIM\'i kullanarak mobil veri ağına bağlanır.</string>
+  <string name="vice_slot_volte_data_switch_title">İkincil SIM\'de VoLTE aramaları sırasında mobil veri kullan</string>
   <string name="video_calling_settings_title">Operatör görüntülü arama</string>
   <string name="vm_change_failed">Sesli mesaj numarasını değiştirilemedi.\nBu sorun devam ederse lütfen operatörünüze başvurun.</string>
   <string name="vm_change_pin_error_invalid">Yeni PIN geçersiz karakterler içeriyor.</string>
@@ -1730,7 +1730,7 @@
   <string name="volte_provision_title">VoLTE çağrılarını aktifleştir</string>
   <string name="volte_switch_not_support_summary">Mobil veri SIM kartı için VoLTE aramaları desteklenmiyor.</string>
   <string name="volte_switch_not_support_summary2">VoLTE görüşmeleri operatör tarafından desteklenmiyor.</string>
-  <string name="volte_switch_summary">Ses ve iletişim hizmetini geliştirmek için 4G hizmetlerini kullanın</string>
+  <string name="volte_switch_summary">Sesli çağrıların kalitesini artırmak için VoLTE kullanın</string>
   <string name="volte_switch_summary2">Operatörün açılmadan önce bu özelliği desteklediğini onaylayın.. Aksi takdirde, normal çağrılar etkilenebilir.</string>
   <string name="volte_switch_title">VoLTE kullan</string>
   <string name="volte_switch_title_ct">VoLTE</string>
@@ -1819,8 +1819,8 @@
   <string name="wifi_wapi_fail_to_init">WAPI sertifikaları açılamıyor\nKimlik bilgisi depolama özelliği etkinleştirilmeyebilir</string>
   <string name="wifi_wapi_psk_type">Şifre türü</string>
   <string name="wifi_wapi_user_certificate">Kullanıcı sertifikası</string>
-  <string name="wificall_switch_summary">Mümkün olduğunda arama yapmak ve almak için WLAN kullanın</string>
-  <string name="wificall_switch_title">Wi-Fi çağrısı</string>
+  <string name="wificall_switch_summary">Mümkün olduğunda çağrı yapmak ve almak için WLAN kullanın</string>
+  <string name="wificall_switch_title">WLAN kullanarak çağrı yapın</string>
   <string name="wild_prompt_str">Joker karakteri değiştirin</string>
   <string name="window_animation_scale_title">Pencere animasyon ölçeği</string>
   <string name="wrong_password">Girdiğiniz şifre yanlış</string>
