@@ -208,7 +208,7 @@
   <string name="module_more">Fazlası</string>
   <string name="module_network">Ağ</string>
   <string name="module_search">Ara</string>
-  <string name="module_security">Güvenlik &amp; Mi Bulut</string>
+  <string name="module_security">Güvenlik &amp; Xiaomi Bulut</string>
   <string name="module_system">Sistem</string>
   <string name="module_tools">Sistem Araçları</string>
   <string name="modules">Öğe seç</string>
@@ -362,7 +362,7 @@
   <string name="passport_skip_login">Atla</string>
   <string name="passport_skip_register">Oturum açmayı atla</string>
   <string name="passport_skip_setup_account_msg">Mi Hesabınızı daha sonra Ayarlardan değiştirebilirsiniz.</string>
-  <string name="passport_skip_setup_account_title">Mi Bulut kullanma?</string>
+  <string name="passport_skip_setup_account_title">Xiaomi Bulut kullanma?</string>
   <string name="passport_title_reg">Hesap oluştur</string>
   <string name="passport_trust_device">Bu cihazı doğrulanmış cihazlara ekle</string>
   <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor…</string>

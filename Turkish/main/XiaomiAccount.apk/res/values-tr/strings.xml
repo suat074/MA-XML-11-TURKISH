@@ -198,7 +198,7 @@
   <string name="input_new_pwd">Yeni şifre girin</string>
   <string name="io_error_title">Ağınızı onaylayın</string>
   <string name="just_a_second">Sadece bir saniye…</string>
-  <string name="kr_license_desc">Mi Hesabı ve Mi Bulut hizmetlerini kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı kabul etmelisiniz.</string>
+  <string name="kr_license_desc">Mi Hesabı ve Xiaomi Bulut hizmetlerini kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı kabul etmelisiniz.</string>
   <string name="kr_permission_contacts_desc">Kişi bilgilerine erişmek için</string>
   <string name="kr_permission_desc">Gerekli izinler</string>
   <string name="kr_permission_phone_desc">Hesabınızı korumak için</string>

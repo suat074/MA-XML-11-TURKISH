@@ -120,7 +120,7 @@
   <string name="phone_verify_text">%1$s telefon numaranızı almaz. Sadece numaranın geçerli olduğundan emin olacak. Kabul?</string>
   <string name="phone_verify_title">%1$s ile telefon numaranızı doğrulamak için izin verin</string>
   <string name="privacy_revoke_failed_msg">Etkinleştirme, Mesajlaşma\'nın telefon numaranızı alabilmesi için yetkilendirme verilmesini gerektirir.</string>
-  <string name="privacy_revoke_tips">Yetkilendirmeyi iptal ettikten sonra, Mesajlaşma verilerinizi toplamayı durdurur ve tüm verilerinizi sunucularından siler. Mi Bulut, Mi Mesaj ve diğer Mesajlaşma özellikleriyle eşitleme artık kullanılamayacak. Yine de yetkilendirme iptal edilsin mi?</string>
+  <string name="privacy_revoke_tips">Yetkilendirmeyi iptal ettikten sonra, Mesajlaşma verilerinizi toplamayı durdurur ve tüm verilerinizi sunucularından siler. Xiaomi Bulut, Mi Mesaj ve diğer Mesajlaşma özellikleriyle eşitleme artık kullanılamayacak. Yine de yetkilendirme iptal edilsin mi?</string>
   <string name="sim_unactivated_title">SIM kartınız etkin değil</string>
   <string name="waiting_sim_in_service">SIM\'in etkinleştirilmesi bekleniyor</string>
 </resources>
