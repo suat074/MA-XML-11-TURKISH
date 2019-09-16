@@ -91,6 +91,10 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="sim_dectection_next">Devam et</string>
   <string name="sim_redetection">Tekrar kontrol et</string>
   <string name="sim_scard_detecting_check_mobile_not_available">SIM kartınız geçerli bir operatör ağına bağlanamadı. Bakiyenizin yeterli olduğundan emin olun ve tekrar bağlanmayı deneyin.</string>
+  <string name="skip_gesture_guide_dialog_message">Bu seçeneği seçmeden önce tam ekran hareketlerini nasıl kullanacağınızı bildiğinizden emin olun.</string>
+  <string name="skip_gesture_guide_dialog_negative_btn">İptal</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">Tamam</string>
+  <string name="skip_gesture_guide_dialog_title">Tam ekran hareketleri</string>  
   <string name="skip_underline">Bu adımı atla</string>
   <string name="start_up_slogan">Üretkenliği güçlendir</string>
   <string name="summary_not_set">Ayarlanmadı</string>
