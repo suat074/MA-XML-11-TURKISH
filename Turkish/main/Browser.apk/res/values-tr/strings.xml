@@ -1039,6 +1039,10 @@
   <string name="sync_and_backup_bookmark">Yer işaretlerini senkronize etme ve yedekleme</string>
   <string name="sync_and_backup_history">Senkronize etme ve yedekleme geçmişi</string>
   <string name="sync_cloud_tabs">Eşitle</string>
+  <string name="system_permission_accounts_purpose">Sistem hesabı girişi ve yönetimi için kullanılır</string>
+  <string name="system_permission_main_purpose">İnternete göz atın, bilgi arayın, haber okuyun, video izleyin, vb.</string>
+  <string name="system_permission_phone_state_purpose">İlgili hizmeti sağlamak adına cihaz IMEI tanımlayıcısına ulaşmak için kullanılır.</string>
+  <string name="system_permission_storage_purpose">Kayıtlı görüntüler gibi dosyaları okumak, yazmak ve dosya yükleme/indirme işlevlerini etkinleştirmek için kullanılır</string>
   <string name="tab_hotpage">Haber Kaynağı</string>
   <string name="tab_quicklinks">Başlangıç Sayfası</string>
   <string name="tab_yellowpage">Bağlantılar</string>
