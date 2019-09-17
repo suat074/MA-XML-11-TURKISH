@@ -98,7 +98,6 @@
     <string name="call_sim_menu_title_suffix">(Birinci)</string>
     <string name="call_telex">Teleksi Ara</string>
     <string name="call_tty_tdd">"TTY/TDD'yi Ara"</string>
-    <string name="call_unit">CNY</string>
     <string name="call_work">İşi Ara</string>
     <string name="call_work_mobile">İş Telefonunu Ara</string>
     <string name="call_work_pager">İş Çağrı Cihazını Ara</string>
@@ -112,7 +111,7 @@
     <string name="callrecordview_item_op_time_missed">Bağlanmadı</string>
     <string name="callrecordview_item_op_time_only_minutes">%d dak</string>
     <string name="callrecordview_item_op_time_only_seconds">%d san</string>
-    <string name="callrecordview_item_op_time_rejected">| Çağrı reddedildi</string>
+    <string name="callrecordview_item_op_time_rejected">Reddedildi</string>
     <string name="callrecordview_item_op_time_short_incoming">"Gelen: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Giden: "</string>
     <string name="callrecordview_item_op_video">Video</string>

@@ -1077,6 +1077,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="checking_for_updates">Güncellemeler denetleniyor…</string>
   <string name="child_mode_settings">Ebeveyn denetimleri</string>
   <string name="choose_a_card_to_reset">Sıfırlamak için SIM kartı seçin</string>
+  <string name="choose_lock_pattern_header_text">Deseni ayarla</string>
   <string name="choose_profile">Profili seç</string>
   <string name="choose_smartcover_type">Kapak tipini seçin</string>
   <string name="choose_spell_checker">Yazım denetleyicisini seçin</string>
@@ -1170,6 +1171,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="confirm_frp_credential_message">Cihaz fabrika ayarlarına sıfırlandı, önceki şifrenizi kullanarak kilidini açabilirsiniz.</string>
   <string name="confirm_frp_credential_skip_txt">Bunun yerine Google hesabını kullan</string>
   <string name="confirm_frp_credential_title">Fabrika sıfırlandıktan sonra kilidini aç</string>
+  <string name="choose_lock_pattern_header_text">Deseni ayarla</string>
   <string name="confirm_new_backup_pw_prompt">Buraya yeni tam yedekleme şifrenizi tekrar yazın</string>
   <string name="confirm_privacy_password">Gizlilik koruması parolasını girin</string>
   <string name="confirm_privacy_password_fingerprint">Parmak izini tarayın veya Gizlilik koruması şifrenizi girin</string>
@@ -6042,11 +6044,11 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="security_input">Güvenli klavye</string>
   <string name="security_input_hint">Şifreleri girerken güvenli klavye kullan</string>
   <string name="forget_password_dialog_button_text">Geri</string>
-  <string name="forget_password_dialog_content_four"><Data>2. &lt;font color=#e6e6e6>[Verileri temizle]&lt;/font> seçin, ve cihazınız yeniden başlatılıncaya kadar bekleyin.</Data></string>
+  <string name="forget_password_dialog_content_four">2. [Verileri sil] öğesini seçin ve cihazınız yeniden başlatana kadar bekleyin.</string>
   <string name="forget_password_dialog_content_one"><Data>Şifrenizi unutursanız, geri yükleyemezsiniz. Ancak, &lt;font color=#ec2700>cihazınızdaki tüm veriler silindikten&lt;/font> (fotoğraf, kişi vb. dahil) sonra geri yükleyebilirsiniz. Bunun için önce önemli verileri yedekleyin.</Data></string>
-  <string name="forget_password_dialog_content_three"><Data>"1. Cihazınızı kapatın. &lt;font color=#e6e6e6>[Güç]&lt;/font> düğmesine ve &lt;font color=#e6e6e6>[Ses+]&lt;/font> düğmesine aynı anda basın, ve &lt;img src=''> simgeyi görene kadar basılı tutun."</Data></string>
+  <string name="forget_password_dialog_content_three">1. Cihazınızı kapatın. [Güç] düğmesine ve [Ses +] düğmesine aynı anda basın ve * simgesini görene kadar basılı tutun.</string>
   <string name="forget_password_dialog_content_two">Verileri silmek için şu adımları izleyin:</string>
-  <string name="forget_password_dialog_title">Şifrenizi sıfırlayın</string>  
+  <string name="forget_password_dialog_title">Verileri sil</string>  
   <string name="keyguard_vertical_clock_title">Dikey saat</string>
   <string name="enterprise_mode">Kurumsal mod</string>
   <string name="extended_power_menu">Genişletilmiş güç menüsü</string>
@@ -6672,7 +6674,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="settings_new_version_btn">Güncelleştirme</string>
   <string name="status_bar_title">Durum çubuğu</string>
   <string name="unlock_mode_title">Ekran kilidi</string>
-  <string name="volume_launch_camera_summary">Ekran kilitliyken Kamera\'yı açmak için ses düğmesine iki kez basın</string>
+  <string name="volume_launch_camera_summary">Ekran kilitliyken Kamera\'yı açmak için \"Ses kısma\" düğmesine iki kez basın</string>
   <string name="wakeup_and_sleep_settings_category_name">Kilit ekranı ayarları</string>
   <string name="miui_sos_emergency_delete">Sil</string>
   <string name="disallow_lock_screen_summary">Önce \"Uygulama bildirimleri\" içinden bildirimlere izin verin</string>

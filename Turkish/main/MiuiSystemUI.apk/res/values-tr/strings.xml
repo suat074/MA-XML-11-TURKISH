@@ -623,6 +623,8 @@
   <string name="ext_media_unmountable_notification_title">Hasarlı USB depolama birimi</string>
   <string name="external_source_trusted">İzin verildi</string>
   <string name="external_source_untrusted">İzin verilmiyor</string>
+  <string name="face_data_apply_for_category_title">Yüz verisi kullanarak kilidi aç</string>
+  <string name="face_data_apply_for_keyguard_title">Kilit ekranı</string>
   <string name="face_data_input_camera_fail">Kamera yüklenemedi</string>
   <string name="face_data_input_camera_ok">Kamera yükleniyor…</string>
   <string name="face_data_input_cancel">İptal</string>
@@ -653,7 +655,8 @@
   <string name="face_unlock_adjust_distance">Yüzünüz ile cihaz arasındaki mesafenin optimum olduğundan emin olun.</string>
   <string name="face_unlock_be_on_the_screen">Cihazı yüzünüzün önünde tutun</string>
   <string name="face_unlock_by_notification_screen_on_msg">Gelen bildirimler için ekran her açıldığında, yüz verisini kullanarak cihazın kilidini açabilirsiniz. Bu, pili daha hızlı boşaltabilir.</string>
-  <string name="face_unlock_by_notification_screen_on_title">Ekran aydınlandığında Yüz Tanıma ile kilit açmaya izin ver</string>
+  <string name="face_unlock_by_notification_screen_on_title">Ekran aydınlandığında Yüz ile kilit açmaya izin ver</string>
+  <string name="face_unlock_category_title">Kilit ekranı seçenekleri</string>
   <string name="face_unlock_check_failed">Seni tanıyamadım</string>
   <string name="face_unlock_close_screen">Ekrana yaklaşın</string>
   <string name="face_unlock_down">Başını kaldır</string>
