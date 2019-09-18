@@ -49,7 +49,14 @@
   <string name="delete_timer_item_title">Zamanlayıcı görevini sil</string>
   <string name="delete_timezone_title">Zaman dilimini sil</string>
   <string name="dialog_confirm_abort">Değişiklikler silinsin mi?</string>
-  <string name="done">Tamam</string>
+  <string name="dialog_legal_off_day"><Data>"Tatil alarmları kullanıyorsunuz gibi görünüyor. Bu özelliğin normal çalışması için internete bağlı olması gerekiyor. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisin. Kabul ediyor musun?"</Data></string>
+  <string name="dialog_legal_off_day_desc">"Tatiller hakkındaki bilgileri güncellemek için Saat\'in internete bağlanmasına izin verilmez. Tatil alarmları Cumartesi ve Pazar günleri devam edecektir."</string>
+  <string name="dialog_legal_workday"><Data>"Hafta içi alarmları kullanıyorsunuz gibi görünüyor. Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisin. Kabul ediyor musun?"</Data></string>
+  <string name="dialog_legal_workday_and_off_day"><Data>"Hafta içi ve tatil alarmları kullanıyorsunuz gibi görünüyor. Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisin. Kabul ediyor musun?"</Data></string>
+  <string name="dialog_legal_workday_and_off_day_desc">"Tatiller hakkındaki bilgileri güncellemek için Saat\'in internete bağlanmasına izin verilmez. Hafta içi alarmları Pazartesiden Cumayadır. Tatil alarmları Cumartesi ve Pazar günleri devam edecektir."</string>
+  <string name="dialog_legal_workday_desc">"Çalışma günleriyle ilgili bilgileri güncellemek için Saat\'in internete bağlanmasına izin verilmez. Hafta içi alarmları Pazartesiden Cumayadır."</string>
+  <string name="dialog_net_permission_in_repeat_type"><Data>Bu özelliğin normal çalışması için internete bağlanması gerekir. Bu özelliği kullanmadan önce, &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisin. Kabul ediyor musun?"</Data></string>
+  <string name="done">Tamamlandı</string>
   <string name="edit_systemtime">Sistem saatini düzenle</string>
   <string name="every_day">Her gün</string>
   <string name="force_touch_add_alarm">Alarm ekle</string>
@@ -313,7 +320,7 @@
   <string name="shutdown_alarm_alert_enable_summary">Kapatma alarmları, cihazınızı kapattıktan en az 10 dakika sonra kapanacak</string>
   <string name="shutdown_alarm_alert_title">Kapatma alarmı</string>
   <string name="system_permission_phone_desc">Farklı cihazları tanımlamak için</string>
-  <string name="system_permission_purpose">Alarmlar, kronometre, zamanlayıcılar, dünya saati</string>
+  <string name="system_permission_purpose">Hafta içi alarmları oluşturma ve özelleştirilmiş zil sesleri ayarlama</string>
   <string name="system_permission_storage_desc">Alarm zil seslerine erişmek için</string>
   <string name="timer_alert_type_spring_rain">Yaz yağmuru</string>
   <string name="volume_button_setting_desc">Güç ve Ses +/- düğmeleri için işlev atama</string>
