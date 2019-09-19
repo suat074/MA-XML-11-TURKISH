@@ -9,7 +9,7 @@
   <string name="app_name">Geribildirim</string>
   <string name="btn_send">Gönder</string>
   <string name="bugreport_dialog_not_show_again">"Tekrar gösterme"</string>
-  <string name="bugreport_dialog_submit_content"><Data>"Şimdi bu cihazda yazılım günlüklerini kaydediyorsunuz. Günlükleri kişisel bilgi ve konum verileri içerebilir. Bu bilginin açığa çıkmasını istemiyorsanız, günlükleri kimseyle paylaşmayın. \"Kabul\" seçeneğini seçmek &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikası&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmesi&amp;lt;/a&amp;gt; okuduğunuz ve kabul ettiğiniz anlamına gelir."</Data></string>
+  <string name="bugreport_dialog_submit_content"><Data>"Şimdi bu cihazda yazılım günlüklerini kaydediyorsunuz. Günlükleri kişisel bilgi ve konum verileri içerebilir. Bu bilginin açığa çıkmasını istemiyorsanız, günlükleri kimseyle paylaşmayın. \"Kabul et\" seçeneğini seçmek, &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> okuduğunuz ve kabul ettiğiniz anlamına gelir."</Data></string>
   <string name="bugreport_dump_complete_notification_summary">Görüntülemek için dokunun</string>
   <string name="bugreport_dump_complete_notification_title">Hata raporu oluşturuldu.</string>
   <string name="bugreport_dump_start_notification_summary">Bu işlem birkaç dakika sürebilir.</string>
@@ -69,7 +69,7 @@
   <string name="feedback_description_suggest_hint">"Yeni bir özellik eklemenizi istiyorum () çünkü şuna ihtiyacımız var ()."</string>
   <string name="feedback_detail_tile">İşlem</string>
   <string name="feedback_empty_report_list">Henüz rapor yok</string>
-  <string name="feedback_guess">Misafirimiz</string>
+  <string name="feedback_guess">Tahminimiz:</string>
   <string name="feedback_history_remind_login_desc">"Mi Hesabıyla oturum açıp detayları görüntüleyin ve raporunuz durumunu takip edin"</string>
   <string name="feedback_id">Kimlik: %d</string>
   <string name="feedback_jira_key">JIRA Anahtarı: %s</string>
@@ -411,7 +411,7 @@
   <string name="server_unknown_error_message">Sunucu hatası, lütfen tekrar deneyin</string>
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
-  <string name="submit_dialog_content">&lt;Data&gt;"Geri Bildirim\'i kullanabilmek için &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikamızı&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmemizi&amp;lt;/a&amp;gt; kabul etmeniz gerekir. Eklediğiniz öğelerle birlikte bildirdiğiniz sorunlar (kişisel bilgilerin yanı sıra cihazınız ve ağınızla ilgili bilgiler de içerebilir) MIUI sunucularına yüklenir. Bu, bildirdiğiniz sorunları bulmamıza ve çözmemize yardımcı olacaktır."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content"><Data>"Geri bildirimi kullanabilmek için &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> kabul etmelisiniz. Eklediğiniz öğelerle birlikte bildirdiğiniz sorunlar (kişisel bilgilerin yanı sıra cihazınız ve ağınızla ilgili bilgileri de içerebilir) MIUI sunucularına yüklenir. Bu, bildirdiğiniz sorunları bulmamıza ve çözmemize yardımcı olacaktır."</Data></string>
   <string name="submit_dialog_not_wifi_content">"Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir."</string>
   <string name="submit_dialog_title">Raporu gönder</string>
   <string name="submit_feedback_info_failed">"Rapor gönderilemedi"</string>
@@ -461,7 +461,7 @@
   <string name="feedback_title_reproductivity">Tekrarlanabilir olanı seçin</string>  
   <string name="app_search">Uygulamaları ara</string>
   <string name="issue_search">Arama</string>
-  <string name="submit_dialog_content_global"><Data>"Geri bildiriminiz, ekleri (varsa) ve günlükleri (yüklemek istemediğiniz öğeler için ilgili kutuların işaretini kaldırabilirsiniz) ile birlikte MIUI sunucularına gönderilir. Günlükler kişisel bilgilerinizi ve konum verilerinizi içerebilir. \"Kabul et\" öğesini seçmek, &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik Politikası&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Kullanıcı Sözleşmesi&lt;/a> metnini okuduğunuz ve kabul ettiğiniz anlamına gelir."</Data></string>
+  <string name="submit_dialog_content_global"><Data>"Geri bildiriminiz, eklerle (varsa) ve günlüklerle birlikte (yüklemek istemediğiniz öğeler için ilgili kutuların işaretini kaldırabilirsiniz) MIUI sunucularına gönderilecektir. Günlükler kişisel bilgilerinizi ve konum verilerinizi içerebilir. \"Kabul et\" seçeneğini seçmek, &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> okuduğunuz ve kabul ettiğiniz anlamına gelir."</Data></string>
   <string name="feedback_status_collect_log_failed">Günlükler alınamadı</string>
   <string name="feedback_status_get_and_save_bbs_info_failed">Ek URL adresi alınamadı</string>
   <string name="feedback_status_save_log_info_failed">Ek URL adresi alınamadı</string>
@@ -518,12 +518,12 @@
   <string name="feedback_reproductivity_once">Bir kez</string>
   <string name="kr_authorization_agree">Kabul</string>
   <string name="kr_authorization_contact">Hesaplar</string>
-  <string name="kr_authorization_contact_desc">Mi Hesap bilgilerini almak ve hesabınızı doğrulamak için</string>
+  <string name="kr_authorization_contact_desc">Cihazı tanımlamak için Mi Hesap bilgilerine erişmek için</string>
   <string name="kr_authorization_exit">Çıkış</string>
   <string name="kr_authorization_log_protocol">Günlük Protokolü (isteğe bağlı)</string>
   <string name="kr_authorization_log_protocol_desc">Size sunulan hizmetleri geliştirmek için kullanım istatistiklerini ve sistem kayıtlarını sunucularımıza yükleyeceğiz. Bu öğeler, kişisel bilgilerinizin yanı sıra cihazınız ve şebekeleriniz hakkındaki bilgileri içerebilir. Sistemdeki sorunları bulmak ve analiz etmek için yüklenen öğeleri kullanacağız.</string>
   <string name="kr_authorization_phone">Telefon</string>
-  <string name="kr_authorization_phone_desc">IMEI ve model numarası kullanarak cihazı tanımlamak, ayrıca sorunları bulmak ve analiz etmek için</string>
+  <string name="kr_authorization_phone_desc">Sorunları bulmak ve çözmek için cihaz modeline, IMEI ve cihaz kimliğine erişmek için</string>
   <string name="kr_authorization_privacy_policy">Gizlilik Politikası (zorunlu)</string>
   <string name="kr_authorization_select_all">Tümünü seç</string>
   <string name="kr_authorization_storage">Depolama</string>
@@ -531,5 +531,25 @@
   <string name="kr_authorization_summary">Yasal belgeler</string>
   <string name="kr_authorization_user_protocol">Kullanıcı Sözleşmesi (zorunlu)</string>
   <string name="feedback_description_hint_suggestion">MIUI\'yi nasıl geliştirmek istediğinizi bize söyleyin.</string>
-  <string name="feedback_jira_key_place_holder">Jira oluşturuluyor…</string>  
+  <string name="feedback_jira_key_place_holder">Jira oluşturuluyor…</string>
+  <string name="feedback_detail_copy_toast">Panoya kopyalandı</string>
+  <string name="feedback_detail_feedback_attach">Ekler</string>
+  <string name="feedback_detail_feedback_attach_upload_failed">Yüklenemedi</string>
+  <string name="feedback_detail_feedback_attach_uploading">Yükleniyor…</string>
+  <string name="feedback_detail_feedback_category">Kategori</string>
+  <string name="feedback_detail_feedback_id">Rapor kimliği: %d</string>
+  <string name="feedback_detail_feedback_reply_hint">Cevap</string>
+  <string name="feedback_detail_feedback_summary">Geri bildirim</string>
+  <string name="feedback_detail_need_content">Önce içeriği girin</string>
+  <string name="feedback_detail_title">Ayrıntılar</string>
+  <string name="feedback_detail_upload_generate_log">Günlükleri oluştur</string>
+  <string name="feedback_detail_upload_image">Resim/video yükle</string>
+  <string name="feedback_detail_upload_local_log">Dosya yükle</string>
+  <string name="feedback_detail_upload_log">Günlükleri yükle</string>
+  <string name="feedback_detail_waiting">Oluşturuluyor…</string>
+  <string name="kr_authorization_function">Geri bildirim gönderme, günlükleri oluşturma, sık sorulan soruları görüntüleme</string>
+  <string name="mi_service_dialog_cancel">Çıkış</string>
+  <string name="mi_service_dialog_confirm">Aç</string>
+  <string name="mi_service_dialog_content">Tüm geri bildirim özellikleri yeni \"Hizmetler &amp; geri bildirim\" uygulamasına taşındı. Geri bildirim uygulaması Ana ekranınızdan kaldırılacaktır. \"Hizmetler &amp; geri bildirim\" uygulamasını denemek için \"Aç\" seçeneğine dokunun.</string>
+  <string name="mi_service_dialog_title">\"Hizmetler &amp; geri bildirim\" ile tanışın</string>  
 </resources>

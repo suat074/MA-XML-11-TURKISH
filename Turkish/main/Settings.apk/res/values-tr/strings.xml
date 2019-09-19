@@ -292,6 +292,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="aod_mode_title">Daima Açık Modu</string>
   <string name="aod_mode_turn_off">Kapalı</string>
   <string name="aod_mode_turn_on">Açık</string>
+  <string name="aod_name_wanxiang">Ortam ekranı</string>
   <string name="aod_notification_style_none">Hiçbir şey yapma</string>
   <string name="aod_notification_style_screen_on">Ekranı aydınlat</string>
   <string name="aod_notification_style_animation">Animasyonu göster</string>	
