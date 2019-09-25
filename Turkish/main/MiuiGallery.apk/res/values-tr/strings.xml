@@ -227,6 +227,8 @@
   <string name="cloud_guide_auto_backup_title">Yedeklenecek albümleri seçin</string>
   <string name="cloud_guide_login_title">Fotoğrafları ve videoları otomatik olarak yedekle</string>
   <string name="cloud_guide_welcome_title">Xiaomi Bulut</string>
+  <string name="cloud_privacy_with_ai_album">Otomatik yedekleme ve görüntü işleme ile ilgili gizlilik beyanı</string>
+  <string name="cloud_privacy_with_face">Otomatik yedekleme ve yüz tanıma ile ilgili gizlilik bildirimi</string>
   <string name="cloud_screenshots_display_name">Ekran Görüntüleri</string>
   <string name="cloud_settings">Galeri yedekleri</string>
   <string name="cloud_storage_extend">Bulut alanını genişlet</string>

@@ -108,6 +108,8 @@
   <string name="unkonw_device">Bilinmeyen aygıt</string>
   <string name="unrecognized_manufacture">Bilinmeyen</string>
   <string name="unrecognized_model">Bilinmeyen aygıt</string>
-  <string name="wait_receive_file">Alınmayı bekliyor…</string>
-  <string name="wait_remote_receive_tips">Bekliyor…</string>
+  <string name="scanning_only_xiaomi_device">Bu öğeyi sadece bir Xiaomi cihazına gönderebilirsiniz</string>
+  <string name="wait_receive_file">Almak için bekleniyor…</string>
+  <string name="wait_remote_receive_tips">Bekleniyor…</string>
+  <string name="wifi_is_not_enabled">Önce Wi-Fi\'yi aç</string>
 </resources>

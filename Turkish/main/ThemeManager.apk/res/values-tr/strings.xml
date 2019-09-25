@@ -107,8 +107,8 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
     <string name="description_uploadtime">Güncelleme</string>
     <string name="description_version">Sürüm</string>
     <string name="description_version_szie">Sürüm: %1$s Boyut: %2$s</string>
-    <string name="desktop_effects">Ana ekran efektleri</string>
-    <string name="desktop_wallpaper">Ana ekran</string>
+    <string name="desktop_effects">Canlı duvar kağıtları</string>
+    <string name="desktop_wallpaper">Duvar kağıdı</string>
     <string name="detail_recommend_title">Bunları beğenebilirsin</string>
     <string name="dev_options">Geliştirici seçenekleri</string>
     <string name="dev_options_summary">Web kaynakları</string>
@@ -200,8 +200,8 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
     <string name="hide_pull_down_message">Bibloyu gizle?</string>
     <string name="hide_pull_down_negative">Gizleme</string>
     <string name="hide_pull_down_positive">Gizle</string>
-    <string name="home_apply_failured">Ana Ekrana duvar kağıdı uygulanamıyor</string>
-    <string name="home_apply_success">Ana Ekran duvar kağıdı uygulandı</string>
+    <string name="home_apply_failured">Ana ekran duvar kağıdı uygulanamıyor</string>
+    <string name="home_apply_success">Ana ekran duvar kağıdı uygulandı</string>
     <string name="in_the_end">Daha fazla yok</string>
     <string name="incall_show_apply">Giden aramalar için profil videosu</string>
     <string name="incall_show_apply_fail">Ayarlanamadı</string>
@@ -216,7 +216,7 @@ Bu özelliği kapatmak için, Ayarlar > Ses ve titreşim > Profil videosu bölü
     <string name="incall_show_remove_success">Profil videosu başarıyla kaldırıldı</string>
     <string name="incall_show_title">Profil videoları</string>
     <string name="incompatible_dialog_cancel">Uygulama</string>
-    <string name="incompatible_dialog_message">"Bu tema, cihazınızda yüklü olan MIUI sürümü ile uyumlu değil. Bu temayı uygularsanız, MIUI'nin bazı bölümleri düzgün çalışmayabilir."</string>
+    <string name="incompatible_dialog_message">Bu tema henüz MIUI 11 ile tam olarak uyumlu değil. Bazı sayfalar düzgün çalışmayabilir.</string>
     <string name="incompatible_dialog_ok">Anladım</string>
     <string name="incompatible_dialog_title">Uyumluluk Problemleri</string>
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor…</string>
@@ -233,10 +233,10 @@ Bu özelliği kapatmak için, Ayarlar > Ses ve titreşim > Profil videosu bölü
     <string name="local_photos">Yerel fotoğraflar</string>
     <string name="local_resouce_creator_name">Geliştirici: %1$s</string>
     <string name="lock_screen_apply">Kilit ekranı olarak ayarla</string>
-    <string name="lockscreen_apply_failured">Kilit Ekran duvar kağıdı uygulanamıyor</string>
-    <string name="lockscreen_apply_failured_but_home_apply_success">Ana Ekran duvar kağıdı uygulandı fakat Kilit Ekran için uygulanamadı</string>
-    <string name="lockscreen_apply_success">Kilit Ekran duvar kağıdı uygulandı</string>
-    <string name="lockscreen_apply_success_but_home_apply_failured">Kilit Ekran duvar kağıdı uygulandı fakat Ana Ekran için uygulanamadı</string>
+    <string name="lockscreen_apply_failured">Kilit ekranı duvar kağıdı uygulanamıyor</string>
+    <string name="lockscreen_apply_failured_but_home_apply_success">Ana ekran duvar kağıdı uygulandı. Kilit ekranı duvar kağıdı uygulanamıyor.</string>
+    <string name="lockscreen_apply_success">Kilit ekranı duvar kağıdı uygulandı</string>
+    <string name="lockscreen_apply_success_but_home_apply_failured">Kilit ekranı duvar kağıdı uygulandı. Ana ekran duvar kağıdı uygulanamıyor.</string>
     <string name="lockscreen_magazine_subscribe">%1$s takipçi</string>
     <string name="lockscreen_magazine_summary">Kategoriler</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s duvar kağıdı</string>
@@ -542,11 +542,11 @@ Bu özelliği kapatmak için, Ayarlar > Ses ve titreşim > Profil videosu bölü
     <string name="service_btn_text_know">Tanıyın</string>
     <string name="service_btn_text_try">Deneyin</string>
     <string name="set_color_ring_back_tone">Özel bir zil sesi ayarla</string>
-    <string name="set_home_wallpaper_failed">%s. Ana ekran duvar kağıdını uygulayamıyorum.</string>
+    <string name="set_home_wallpaper_failed">%s. Ana ekran duvar kağıdı uygulanamıyor.</string>
     <string name="settings">Ayarlar</string>
     <string name="shortcut_add">Ekle</string>
     <string name="shortcut_cancel">Hayır teşekkürler</string>
-    <string name="shortcut_message">Ana ekrana kısayol ekle!</string>
+    <string name="shortcut_message">Ana ekran kısayolu ekleyin!</string>
     <string name="shortcut_show_tip">Tekrar gösterme</string>
     <string name="shortcut_title">"Duvar kağıtlarımız gibi mi? "</string>
     <string name="show_free">"%1$s ücretsiz göster "</string>
@@ -596,7 +596,7 @@ Bu özelliği kapatmak için, Ayarlar > Ses ve titreşim > Profil videosu bölü
     <string name="theme_component_title_photo_frame">Resim çerçeveleri</string>
     <string name="theme_component_title_ringtone">Zil sesi</string>
     <string name="theme_component_title_statusbar">Durum çubuğu</string>
-    <string name="theme_component_title_wallpaper">Ana ekran</string>
+    <string name="theme_component_title_wallpaper">Duvar kağıdı</string>
     <string name="theme_current_using_has_update">Tema güncellemesi mevcut</string>
     <string name="theme_description_title_customized">Özel</string>
     <string name="theme_description_title_default">Varsayılan</string>
@@ -639,8 +639,8 @@ Bu özelliği kapatmak için, Ayarlar > Ses ve titreşim > Profil videosu bölü
     <string name="tips_theme_gate_transfer_fail">Bu sayfa açılamadı. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
     <string name="title_component">Temayı özelleştir</string>
     <string name="title_my_audio_resource">Zil seslerim</string>
-    <string name="title_my_miwallpaper_desktop_effects">Ana ekran efektleri</string>
-    <string name="title_my_miwallpaper_resource">Canlı duvar kağıtlarım</string>
+    <string name="title_my_miwallpaper_desktop_effects">Canlı duvar kağıtları</string>
+    <string name="title_my_miwallpaper_resource">Video duvar kağıtlarım</string>
     <string name="title_my_miwallpaper_video_file_resource">Duvar kağıdı filmlerim</string>
     <string name="title_my_wallpaper_resource">Duvar kağıtlarım</string>
     <string name="title_system_audio_notification_resource">Sistem bildirimleri</string>
@@ -650,7 +650,8 @@ Bu özelliği kapatmak için, Ayarlar > Ses ve titreşim > Profil videosu bölü
     <string name="transparency_pref_summary">Duvar kağıdınızın ne kadar saydam olmasını istediğinizi seçin</string>
     <string name="transparency_pref_title">Opaklık seviyesi</string>
     <string name="transparent_wallpaper">Şeffaf duvar kağıdı</string>
-    <string name="transparent_wallpaper_apply_success">Başarıyla ayarlandı. Daha fazla özellik için Temalar > Profil > Tema laboratuvarına gidin.</string>
+    <string name="transparent_wallpaper_apply_success">"Başarıyla uygulandı.
+Daha fazla seçenek için Temalar > Profil > Tema laboratuvarına gidin."</string>
     <string name="transparent_wallpaper_disable">Kapalı</string>
     <string name="transparent_wallpaper_enable">Açık</string>
     <string name="transparent_wallpaper_enable_success">Başarıyla açıldı</string>
@@ -814,5 +815,9 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="system_cta_runtime_perm_desc_storage">Kayıtlı temaları, zil seslerini, yazı tiplerini, duvar kağıtlarını ve video duvar kağıtlarını saklamak için</string>
     <string name="title_system_audio_alarm_resource">Sistem alarmları</string>
     <string name="transparent_wallpaper_auto_start_pref_summary">Cihazınızı yeniden başlattıktan sonra şeffaf duvar kağıtlarını kullanmaya devam edin</string>
-    <string name="transparent_wallpaper_auto_start_pref_title">Otomatik başlat</string>	
+    <string name="transparent_wallpaper_auto_start_pref_title">Otomatik başlat</string>
+    <string name="current_using">Şu anki</string>
+    <string name="recommend_trigger">Kişiselleştirilmiş öneriler</string>
+    <string name="recommend_trigger_summary">Tercihlerinize göre öneriler almak için açın</string>
+    <string name="update_flag">Güncelleme</string>	
 </resources>

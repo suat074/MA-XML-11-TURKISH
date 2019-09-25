@@ -544,7 +544,7 @@
   <string name="name_password_not_consistent">Girdiğiniz Apple kimliği ve şifre eşleşmiyor</string>
   <string name="need_more_memory_cacel">İptal</string>
   <string name="need_more_memory_confirm">Temizleyici</string>
-  <string name="need_more_memory_summary">Üçüncü taraf uygulama verileri aktarılmadan önce sıkıştırılmalıdır. Sıkıştırılmış paketler oluşturmak için yeterli depolama alanı yok.\n1. Sadece önemli öğeleri aktarmayı deneyin.\n2. İhtiyacınız olmayan uygulamaları kaldırın.\n3. Depolama alanını boşaltmak için Temizleyici\'yi kullanın.</string>
+  <string name="need_more_memory_summary">Üçüncü taraf uygulama verileri aktarılmadan önce sıkıştırılmalıdır. Mi Transfer\'ın sıkıştırılmış paketler oluşturmak için %1$s ek depolama alanına ihtiyacı var.</string>
   <string name="need_more_memory_title">Yeterli depolama alanı yok</string>
   <string name="new_main_activity_label">Mi Transfer</string>
   <string name="new_trans_intro_desc_2">Aktarmayı iptal edin, Mi Transfer\'den çıkın ve baştan başlayın. Mi Transfer aktarıma kaldığı yerden devam edecek.</string>
@@ -849,4 +849,9 @@
   <string name="miui_need_open_high_accuracy_summary">Yakındaki cihazları bulmak için Mi Transfer\'in konumunuza Yüksek doğruluk modunda erişmesine izin verin. Bu izni vermediğiniz sürece Mi Transfer\'i kullanamazsınız.</string>
   <string name="miui_need_open_high_accuracy_title">Doğru konum bilgisine erişime izin ver</string>
   <string name="need_location_permission_summary">Yakındaki cihazları bulabilmek için Mi Transfer\'in konumunuza erişmesine izin verin.</string>
+  <string name="dialog_rating_desc_ask">Mi Transfer hakkında ne düşünüyorsun?</string>
+  <string name="dialog_rating_desc_less">Uygulamamızı geliştirmek için bize birkaç öneri verebilir misin?</string>
+  <string name="dialog_rating_desc_perfect">Teşekkürler! GetApps\'de Mi Transfer\'i değerlendirir misin?</string>
+  <string name="dialog_rating_title">Mi Transfer\'i değerlendir</string>
+  <string name="trans_detail_item_app_skip_data">Bu uygulama taşınamıyor</string>
 </resources>

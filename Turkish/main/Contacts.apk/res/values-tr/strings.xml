@@ -1502,5 +1502,9 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
     <string name="share_contact_as">Kişi olarak paylaş</string>
     <string name="share_qrcode">QR kodunu paylaş</string>
     <string name="shortcut_new_contact_label">Yeni kişi</string>
-    <string name="shortcut_scan_label">Kartviziti tara</string> 	
+    <string name="shortcut_scan_label">Kartviziti tara</string>
+    <string name="callrecordview_menu_identify_numbers">Telefon numaralarını tanımlayın</string>
+    <string name="contact_detail_calllog_correct_yellow_page">Doğru veya bildir</string>
+    <string name="yellowpage_address_tag">Adres</string>
+    <string name="yellowpage_provider_label">Tarafından sağlanan veriler</string> 	
 </resources>

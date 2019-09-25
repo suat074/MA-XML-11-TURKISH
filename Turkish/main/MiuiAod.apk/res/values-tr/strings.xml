@@ -53,7 +53,7 @@
   <string name="color_change_with_time_description">Metin rengini zaman içinde otomatik olarak değiştir</string>
   <string name="color_change_with_time_title">Rengi otomatik olarak değiştir</string>
   <string name="deep_space_planet">Dış mekan</string>
-  <string name="deep_space_planet_des">\"Dış mekan\" gün boyunca çevrende meydana gelen ışık değişikliklerini yansıtır. Bu temadaki gün doğumu ve gün batımı konumunuzla eşitlenir.</string>
+  <string name="deep_space_planet_des">Bu tema, gün boyunca etrafınızda olan ışık değişimlerini yansıtır. Gündoğumu ve günbatımı da konumunuz ile senkronize edilir.</string>
   <string name="large_time">Büyük saat</string>
   <string name="mini_time">Küçük saat</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
@@ -82,4 +82,22 @@
 olacağına inan"</string>
   <string name="text_length_exceed_limit_alert">*Girdiğiniz metin çok uzun</string>
   <string name="text_size">Metin boyutu</string>
+  <string name="aod_style">Tema</string>
+  <string name="apply_succeed">Başarıyla uygulandı</string>
+  <string name="chosen_picture">Arka plan seç</string>
+  <string name="digital_clock">Dijital</string>
+  <string name="letter_space">Harf boşluğu</string>
+  <string name="line_space">Satır aralığı</string>
+  <string name="notification_anim_pulse">Titreşim</string>
+  <string name="notification_anim_rhythm">Ritim</string>
+  <string name="notification_anim_star">Yıldız ışığı</string>
+  <string name="notification_nothing">Yok</string>
+  <string name="notification_screen_on">Ekranı aydınlat</string>
+  <string name="panel_clock">Analog</string>
+  <string name="select_notification_notify_style">Bildirim efektini seç</string>
+  <string name="show_battery">Pil durumunu göster</string>
+  <string name="show_notificaton">Bildirimleri göster</string>
+  <string name="standard_clock_panel">Standart</string>
+  <string name="time_style">Stil</string>
+  <string name="time_style_layout">Yerleşim</string>
 </resources>

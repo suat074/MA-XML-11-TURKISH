@@ -165,6 +165,7 @@
   <string name="toast_file_is_downloading">Dosya yükleniyor...</string>
   <string name="toast_max_record_time">%1$s yaklaşık %2$s kayıt yapabilirsin</string>
   <string name="toast_uninstall_fileexplorer">"Gezgin uygulaması yüklü değil"</string>
+  <string name="usage_description">Ses aktarma ve öğeleri bulutla eşitleme</string>
   <string name="wifi_recommended_body" formatted="false">Mobil veri bağlantısı kullanarak bu dosyayı indirmeniz (%s) veri kullanımını arttıracaktır. Eğer planladığınız veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir. WLAN bağlantısıyla bun dosyayı indirmeniz için bekletiliyor, %s dokunun.</string>
   <string name="wifi_recommended_title">Veri Kullanım Uyarısı</string> 
   <string name="cloud_service_state_open_reminder">Kayıtları eşitlemek için bulutla eşitlemeyi açın.</string>

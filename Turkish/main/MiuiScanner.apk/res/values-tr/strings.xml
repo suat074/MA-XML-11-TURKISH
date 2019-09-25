@@ -135,7 +135,7 @@
   <string name="module_title_plant">Bitki</string>
   <string name="module_title_shopping">Alışveriş</string>
   <string name="module_title_study">Ödev</string>
-  <string name="module_title_translation">Çevir</string>
+  <string name="module_title_translation">Çeviri</string>
   <string name="name">Adı:</string>
   <string name="new_schedule">Etkinlik oluştur</string>
   <string name="nickname">Takma ad:</string>
@@ -232,11 +232,13 @@
   <string name="website_details">Web sitesi:</string>
   <string name="weixin_code_tip">WeChat kullanarak bu QR kodunu tarayın.</string>
   <string name="wifi_details">Wi-Fi:</string>
-  <string name="wifi_exist_fail">Kablosuz bağlantı noktası \"%1$s\" zaten mevcut. Silin ve tekrar deneyin</string>
+  <string name="wifi_exist_fail">Bağlantı noktası \"%1$s\" zaten var. Silin ve ardından bağlanmak için kodu tekrar tarayın.</string>
   <string name="wifi_open_fail">Wi-Fi açılmıyor</string>
   <string name="wifi_pwd">Şifre:</string>
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_psd_toolong">Şifre çok uzun. Şifreyi manuel olarak girin.</string>
-  <string name="wx_not_installed_toast">Bu özelliğin WeChat kullanması gerekir. Önce WeChat\'i yükleyin.</string>  
+  <string name="wx_not_installed_toast">Bu özelliğin WeChat kullanması gerekir. Önce WeChat\'i yükleyin.</string> 
+  <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi\'yi açın.</string>
+  <string name="setting_function_sort">Özellikleri yeniden düzenle</string>  
 </resources>

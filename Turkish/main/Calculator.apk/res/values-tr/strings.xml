@@ -298,6 +298,7 @@
   <string name="negDesc">Sıfırın üstündeki ve altındaki sıcaklıklar arasında geçiş yapın</string>
   <string name="network_confirm_content">Döviz dönüştürücüsü, vergi ve ipotek hesaplayıcısının normal çalışması için ağ bağlantısı gereklidir.</string>
   <string name="network_confirm_title">İzin gerekli</string>
+  <string name="network_purpose">Hesap makinesine hoş geldiniz! Hesap makinesi, para birimlerini dönüştürmenize, ipotek ödemelerini hesaplamanıza ve daha pek çok şeye olanak sağlar.</string>
   <string name="nickname">Takma ad</string>
   <string name="night">ÖS</string>
   <string name="no_network">Ağa bağlanılamıyor</string>

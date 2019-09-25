@@ -2,8 +2,9 @@
 <resources>
   <string name="app_name">Uygulama Uzantısı Hizmeti</string>
   <string name="auth_activity_label">Doğrulama kodları</string>
-  <string name="auth_fingerprint_content">Kaydedilen şifrelere erişmek için parmak izinizi doğrulayın</string>
-  <string name="auth_fingerprint_content_message">Parmak izi doğrulanamadı, tekrar deneyin</string>
+  <string name="auth_fingerprint_content">Parmak izi okunuyor…</string>
+  <string name="auth_fingerprint_content_message">Parmağınızı sensöre yerleştirin</string>
+  <string name="auth_fingerprint_content_message_error">Parmak izi taranamadı, tekrar deneyin</string>
   <string name="auth_fingerprint_title">Parmak izinizi doğrulayın</string>
   <string name="autofill_description">MIUI şifrelerinizi, şifreleyebilir ve saklayabilir, böylece ihtiyacınız olduğunda otomatik olarak girebilirsiniz. Xiaomi şifreli şifrelerinizi okuyamaz.</string>
   <string name="autofill_hint_email_address">E-posta</string>

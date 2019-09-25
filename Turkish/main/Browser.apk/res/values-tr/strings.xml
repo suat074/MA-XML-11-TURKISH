@@ -1164,5 +1164,7 @@
   <string name="voice_title_please">Konuşmaya başlayın...</string>
   <string name="voice_title_speech_again">Seni anlayamadım</string>
   <string name="webpage_title">Yer işaretleri &amp; Geçmiş</string>
-  <string name="window_manager_hybrid_application_list_title_text">Son zamanlarda kullanılmış</string>
+  <string name="window_manager_hybrid_application_list_title_text">Son Kullanılanlar</string>
+  <string name="no_memory_space">hafıza alanı yok</string>
+  <string name="wechat_not_installed">Wechat yüklü değil</string>
 </resources>

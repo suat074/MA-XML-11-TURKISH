@@ -35,6 +35,8 @@
   <string name="accessibility_hdr_off">HDR kapalı</string>
   <string name="accessibility_hdr_on">HDR açık</string>
   <string name="accessibility_intent_done_apply">Tamam</string>
+  <string name="accessibility_mimovie_off">Film modu kapalı</string>
+  <string name="accessibility_mimovie_on">Film modu açık</string>
   <string name="accessibility_mode_dismiss_button">Mod seçim düğmesini kapat</string>
   <string name="accessibility_more">Daha</string>
   <string name="accessibility_open">Açık</string>
@@ -915,5 +917,11 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="macro_mode_use_hint_text_title">Makro</string>
   <string name="macro_mode_use_hint_text_body">"Küçük nesnelerin fotoğraflarda daha büyük görünmesini sağlamak için
 Makro modunu kullanın"</string>
-  <string name="live_music_author">Xiaomi Kısa Video</string>  
+  <string name="live_music_author">Xiaomi Kısa Video</string>
+  <string name="color_effect_entry_classic">Klasik</string>
+  <string name="config_name_mimovie">Film modu</string>
+  <string name="confirm_reset_manually_parameter_message">Tüm parametreler varsayılan değerlerine sıfırlansın mı?</string>
+  <string name="hint_mimovie">En iyi etki için yatay modda çekim yapın</string>
+  <string name="reset_manually_parameter_confirmed">Tamam</string>
+  <string name="reset_manually_parameter_hint">Sıfırla</string>  
 </resources>

@@ -1175,4 +1175,13 @@ Postayı bir kez eşitlemek için \"&lt;b>Şimdi Eşitle&lt;/b>ye veya bu hesapt
     <string name="you_are_in_mobile_network">Günlükleri yüklemek için mobil veri kullanılsın mı?</string>
     <string name="youfuli">Tanıtım</string>
     <string name="zip_viewer_no_file">Dosya yok.</string>
+    <string name="account_options_actionbar_title">Genel Ayarlar</string>
+    <string name="mail_outlook_login_tips">Microsoft gereksinimlerine göre, Microsoft Yetkilendirme sayfasında şifreyi girmeniz gerekir.</string>
+    <string name="mail_outlook_oauth_login">OAuth ile giriş yapın</string>
+    <string name="mail_outlook_psw_login">Şifre ile giriş yap</string>
+    <string name="outlook_login_failed_non_proxy_title">OutLook sunucusuna erişilemedi</string>
+    <string name="quick_reply_expend">Genişlet</string>
+    <string name="sync_calendra_fail_per_content">Takvime erişime izin vermek için dokunun</string>
+    <string name="sync_calendra_fail_per_title">Takvim eşitlenemedi</string>
+    <string name="sync_calendra_fail_permission">Takvim eşitlenemedi, Posta için Ayarlar\’dan takviminize erişmesine izin verin</string>
 </resources>

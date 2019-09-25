@@ -32,6 +32,8 @@
   <string name="check_in_todo_app">Görevleri görüntüle</string>
   <string name="cloud_service_state_open_reminder">Notları eşitlemek için bulut ile eşitlemeyi açın.</string>
   <string name="cloud_trash_bin_title">Buluttan silinmiş notlar</string>
+  <string name="confirm_cancel">Reddet</string>
+  <string name="confirm_ok">Kabul et</string>
   <string name="cta_confirm_cancel">İzin verme</string>
   <string name="cta_confirm_ok">İzin ver</string>
   <string name="cta_dialog_message">Notlar\'ın normal çalışması için, internete bağlanması, ses kaydetmesi ve kişilerinize erişmesi gerekir. İzin verilsin mi?</string>
@@ -135,8 +137,15 @@
   <string name="permission_intro_microphone">Sesli notlar kaydetmek için</string>
   <string name="permission_intro_phone">Çağrılar sırasında alınan notları işaretlemek için</string>
   <string name="permission_intro_storage">Notları ve ekleri kaydetmek için</string>
+  <string name="permission_get_account_desc">Notları bulutla eşitleme</string>
+  <string name="permission_microphone_desc">Sesli not alma</string>
+  <string name="permission_network_for_cloud_desc">Notları bulutla eşitlemek için internete bağlanmanız gerekir. Öğeleri eşitlemek için mobil veri kullanılabilir. Şimdi bağlanılsın mı?</string>
+  <string name="permission_read_contact_desc">Çağrılar sırasında oluşturulan notları kişilerle ilişkilendirme</string>
+  <string name="permission_xiaoai_desc"><Data>Mi AI, ses kaydı yapmak ve sesli notlar oluşturmak için ses kayıtlarınızı ve cihaz kimliğinizi toplar. Mi AI &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> ile daha fazla bilgi edinin.</Data></string>
   <string name="permlab_accessNote">Notlar\'a erişim</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Onaylamadan notları silmek için 2 parmağınızla yukarı kaydırın</string>
+  <string name="pref_remind_type_summary">Sessiz modda hatırlatıcı sesini çal</string>
+  <string name="pref_remind_type_title">Sessiz modu yoksay</string>
   <string name="pref_title_cloud_trash_bin">Buluttan silinmiş notlar</string>
   <string name="pref_title_common">Ek ayarlar</string>
   <string name="pref_title_font_size">Yazı tipi boyutu</string>
@@ -147,6 +156,7 @@
   <string name="redo">Yeniden yap</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Not yüklenene kadar bekleyin ve tekrar deneyin.</string>
   <string name="refuse_to_share_as_pic_because_of_content">Bu not paylaşmak için çok büyük.</string>
+  <string name="remind_title">Hatırlatmalar</string>
   <string name="rename_folder_dialog_tile">Klasörü yeniden adlandır</string>
   <string name="rich_text_bold_description">Kalın</string>
   <string name="rich_text_center_description">Ortala</string>
