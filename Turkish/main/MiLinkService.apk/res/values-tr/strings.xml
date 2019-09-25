@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Evrensel Oynatıcı Hizmeti</string>
-  <string name="casting_tips">Taranıyor...</string>
+  <string name="casting_tips">Yansıtılıyor…</string>
   <string name="console_guide_btn_got_it">Anladım</string>
   <string name="console_guide_subtitle_hang_up">Telefonun ekranı kapandığı tarafından yayın yapmayı kesmeyin. Bu özellik güç tüketimini artırabilir.</string>
   <string name="console_guide_subtitle_private">Açılır bildirimler, gelen çağrı bildirimleri ve kişisel bilgi içerebilecek diğer öğeleri yansıtmayın</string>
@@ -99,7 +99,11 @@
 　　•Telefonun belleğini okur, içeriği okuduktan sonra, içeriği büyük ekranlı cihazda yayınlar.
 　　•Telefon bilgilerini alır,Telefon IMEI, Android_id, sürüm ve günlük bilgileri kaydını okur.
 　　•Sesi okuduktan sonra, sesi büyük ekranlı cihaza aktarır.
-　　•Hedefleme izinleri, çevredeki aygıtları bulur ve keşfeder."</string>  
+　　•Hedefleme izinleri, çevredeki aygıtları bulur ve keşfeder."</string>
+  <string name="san_wait_msg_1">Hedef cihazın kablosuz ekran yansıtmayı açması gerekiyor</string>
+  <string name="san_wait_msg_2">Cihazları aramak biraz zaman alabilir…</string>
+  <string name="san_wait_msg_3">Harici cihazların telefonunuzla aynı ağa bağlı olduklarında bulunması daha kolaydır.</string>
+  <string name="san_wait_msg_4">Aygıtları bulamıyorsanız \"Yardım\" sayfasını görüntüleyin</string>  
   <string name="service_name">Evrensel Oynatıcı Hizmeti</string>
   <string name="small_window">Pencereyi küçült</string>
   <string name="status_bar_in_casting">Yansıtma</string>

@@ -4380,6 +4380,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="sound_vibrate_settings">Ses &amp; titreşim</string>
   <string name="sound_work_settings">İş profili sesleri</string>
   <string name="speaker">Hoparlör</string>
+  <string name="speaker_clean">Hoparlörü temizle</string>
   <string name="special_access">Özel Erişim</string>
   <string name="spell_checker_not_selected">Seçilmedi</string>
   <string name="spellchecker_language">Dil</string>

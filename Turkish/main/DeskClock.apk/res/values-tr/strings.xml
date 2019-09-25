@@ -299,13 +299,13 @@
   <string name="module_weather_ringtone_introduce_global">Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer.</string>
   <string name="module_weather_ringtone_update_data">Hava durumu alarmı şimdi arka plan müziği ve daha iyi sesli duyurular ile birlikte geliyor. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
   <string name="module_weather_ringtone_update_success">Hava durumu alarmı şimdi arka plan müziği ve daha iyi sesli duyurular ile birlikte geliyor. Bu özelliği denemek için yeni bir alarm oluşturabilirsiniz.</string>
-  <string name="module_week_ringtone_download_data">Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
-  <string name="module_week_ringtone_download_data_privacy"><Data>Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Saat\'in ≈30MB ses dosyasını indirmek için internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href= %1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
-  <string name="module_week_ringtone_download_wifi">Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Saat\'in bunun için ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
-  <string name="module_week_ringtone_download_wifi_privacy"><Data>Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Ses dosyası indirmek için Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href= %1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
-  <string name="module_week_ringtone_introduce">Haftalık alarm, haftanın her günü farklı doğa sesleri çalar.</string>
-  <string name="module_week_ringtone_update_data">Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
-  <string name="module_week_ringtone_update_success">Haftalık alarm haftanın her günü için arka plan müziği ile birlikte gelir. Bu özelliği denemek için yeni bir alarm oluşturabilirsiniz.</string>
+  <string name="module_week_ringtone_download_data">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_week_ringtone_download_data_privacy"><Data>Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Saat\'in ≈30MB ses dosyasını indirmek için internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href= %1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_week_ringtone_download_wifi">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Saat\'in bunun için ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_week_ringtone_download_wifi_privacy"><Data>Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Ses dosyası indirmek için Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href= %1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_week_ringtone_introduce">Doğa alarmı tarihe bağlı olarak farklı sesler çalar.</string>
+  <string name="module_week_ringtone_update_data">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_week_ringtone_update_success">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Bu özelliği denemek için yeni bir alarm oluşturabilirsiniz.</string>
   <string name="module_white_noise_download_data">Saat\'in zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirmesi gerekiyor. Bu indirme için ≈30MB mobil veri gerekecektir. Şimdi indirilsin mi?</string>
   <string name="module_white_noise_download_data_privacy"><Data>Zamanlayıcı bölümündeki ortam sesleri için ses dosyaları indirmek (≈30MB) ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href= %1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Şu anda mobil verileri kullanıyorsun. Kabul ediyor musun?</Data></string>
   <string name="module_white_noise_download_wifi">Saat\'in zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirmesi gerekiyor. Şimdi indirilsin mi?</string>
@@ -315,7 +315,7 @@
   <string name="privacy_policy_title">Gizlilik Politikası</string>
   <string name="ringtone_other">Daha fazla zil sesi</string>
   <string name="ringtone_weather">Hava alarmı</string>
-  <string name="ringtone_week">Haftalık alarm</string>
+  <string name="ringtone_week">Doğa alarmı</string>
   <string name="setting_alarm_arriving_subtitle">Alarmlar çalmadan önce bildirimleri göster</string>
   <string name="shutdown_alarm_alert_enable_summary">Cihaz kapatıldıktan en az 10 dakika sonra alarm çalacak</string>
   <string name="shutdown_alarm_alert_title">Cihaz kapalı alarm</string>

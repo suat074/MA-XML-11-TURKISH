@@ -383,6 +383,10 @@
   <string name="passenger">Yolcu</string>
   <string name="path_calendar_settings">Sistem Uygulamaları/Takvim/Ayarlar</string>
   <string name="pengzu">Pang</string>
+  <string name="permission_accounts">Sistem hesabınızda oturum açmak ve yönetmek ve öğeleri onunla ilişkilendirmek için</string>
+  <string name="permission_contacts">Kişilerinizin doğum günlerini eşitlemek ve hatırlatıcı göndermek için</string>
+  <string name="permission_main_purpose">Takvim etkinliklerini görüntüleme ve yönetme, seyahat planlama, hatırlatıcı alma ve servislere abone olma</string>
+  <string name="permission_storage">Hatırlatıcıları ve zil seslerini kaydetmek için</string>
   <string name="phone_num">Telefon</string>
   <string name="pref_reminder_time">Hatırlatma zamanı</string>
   <string name="pref_title_alarm_remind">Hatırlatma alarmı</string>
