@@ -227,7 +227,7 @@
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">Yakın alandaki (NFC) donanıma erişebilir</string>
   <string name="HIPS_Perm_process_outgoing_calls">Telefon uygulamalarına erişebilir</string>
-  <string name="HIPS_Perm_process_outgoing_calls_Desc">Aramaları cevaplar, izler ve bitirir</string>
+  <string name="HIPS_Perm_process_outgoing_calls_Desc">gelen çağrıyı izle</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Hizmeti</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">SMS Hizmetini okur</string>
   <string name="HIPS_Perm_service_foreground">Ön plan hizmetleri</string>
@@ -331,7 +331,19 @@
   <string name="permgroupdesc_microphone">Ses kaydı</string>
   <string name="permgroupdesc_camera">Fotoğraf çekme ve video kaydetme</string>
   <string name="permgroupdesc_calllog">Çağrı geçmişine erişir ve öğeleri kaydeder</string>
-  <string name="permgroupdesc_phone">Çağrılar yapar ve konuşmaları yönetir</string>
+  <string name="permgroupdesc_phone">Çağrı yapma ve cihaz bilgilerine erişim</string>
   <string name="permgroupdesc_sensors">Vücut sensör verilerine erişir</string>
-  <string name="permgroupdesc_recognition">Sağlık &amp; aktivite verilerine erişir</string>  
+  <string name="permgroupdesc_recognition">Sağlık &amp; aktivite verilerine erişir</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve IMSI\'ye erişim</string>
+  <string name="permdesc_camera">Fotoğraf çekme ve video kaydetme</string>
+  <string name="permdesc_in_calls">Gelen çağrıları izleme</string>
+  <string name="permdesc_location">Konum bilgisine erişim</string>
+  <string name="permdesc_microphone">Çağrı ve ses kaydetme</string>
+  <string name="permdesc_out_calls">Giden çağrıları izleme</string>
+  <string name="permdesc_read_calendar">Takvim etkinliklerine erişim</string>
+  <string name="permdesc_read_storage">Aygıtta depolanan fotoğraflara ve dosyalara erişim</string>
+  <string name="permdesc_recognition">Sağlık &amp; aktivite verilerine erişim</string>
+  <string name="permdesc_sensors">Vücut sensör verilerine erişim</string>
+  <string name="permdesc_write_calendar">Takvim etkinliklerine erişim ve ekleme</string>
+  <string name="permdesc_write_storage">Cihazdaki fotoğraf ve dosyalara erişim ve kaydetme</string>  
 </resources>
