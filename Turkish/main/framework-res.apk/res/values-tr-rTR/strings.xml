@@ -79,7 +79,7 @@
   <string name="app_suspended_more_details">Daha fazla bilgi edin</string>
   <string name="app_suspended_title">Uygulama mevcut değil</string>
   <string name="app_upgrading_toast">%1$s yükseltiyor…</string>
-  <string name="autofill">Otomatik doldur</string>
+  <string name="autofill">Oto. doldur</string>
   <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -111,7 +111,7 @@
   <string name="autofill_save_yes">Kaydet</string>
   <string name="autofill_shipping_designator_re">gönder</string>
   <string name="autofill_state">Durum</string>
-  <string name="autofill_this_form">Otomatik doldur</string>
+  <string name="autofill_this_form">Oto. doldur</string>
   <string name="autofill_window_title">%1$s ile otomatik doldur</string>
   <string name="autofill_zip_code">Posta Kodu</string>
   <string name="back_button_label">Geri</string>

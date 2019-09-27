@@ -160,6 +160,9 @@
   <string name="hunt_dual_water_mark">Çift kamera filigranı otomatik olarak eklenecektir.</string>
   <string name="install_confirmed">Yükle</string>
   <string name="live_sticker_tab_name">TikTok Sihirli Etiket</string>
+  <string name="location_permission_des">Fotoğraf ve videoların konumlarını hatırla</string>
+  <string name="location_permission_not_ask_again">Ayarlar\’dan Kamera\’nın konumunuza erişmesine izin verin.</string>
+  <string name="location_permission_not_ask_again_go_to_settings">İzin ver</string>
   <string name="message_snap_double_confirm">Ses düğmesine uzun süre basmak NFC\'yi tetikler. Bu özellik değiştirilsin mi?</string>
   <string name="mimoji_app_name">Eğlenceli Kamera</string>
   <string name="module_name_beauty">Güzellik</string>
@@ -727,6 +730,16 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="autozoom_disabled_hint">Hareketli nesneyi izleme durduruldu</string>
   <string name="autozoom_hint">Hareketli nesneyi izle</string>
   <string name="live_sticker_fragment_tab_name">TikTok efektleri</string>
+  <string name="network_access_user_notice_agree">Kabul</string>
+  <string name="network_access_user_notice_message_live_video">"Kamera\'nın, kısa videolara efekt, müzik ve diğer özellikleri sağlaması için internete bağlanması gerekir.
+	
+Aşağıdaki \"Kabul\" seçeneğine dokunarak, "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı</a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz.</string>
+  <string name="network_access_user_notice_message_sticker">"Kamera\'nın bu özelliğe çıkartmalar temin edebilmesi için internete bağlanması gerekir.
+	
+Aşağıdaki \"Kabul\" seçeneğine dokunarak, "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı</a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz.</string>
+  <string name="network_access_user_notice_message_voice_caption">"Kamera\'nın konuşma-metin çıkışı işlevselliği sağlaması için internete bağlanması gerekir.
+	
+Aşağıdaki \"Kabul\" seçeneğine dokunarak, "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı</a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz.</string>
   <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
   <string name="hand_gesture_open_tip">Zamanlayıcıyı başlatmak için avucunuzu kameraya gösterin</string>
   <string name="hand_gesture_tip">Avuç içi ile çekim</string>

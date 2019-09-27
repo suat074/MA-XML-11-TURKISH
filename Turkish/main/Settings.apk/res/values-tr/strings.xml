@@ -1172,6 +1172,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="confirm_frp_credential_message">Cihaz fabrika ayarlarına sıfırlandı, önceki şifrenizi kullanarak kilidini açabilirsiniz.</string>
   <string name="confirm_frp_credential_skip_txt">Bunun yerine Google hesabını kullan</string>
   <string name="confirm_frp_credential_title">Fabrika sıfırlandıktan sonra kilidini aç</string>
+  <string name="confirm_lock_pattern_header_text">Deseni çizin</string>
   <string name="confirm_new_backup_pw_prompt">Buraya yeni tam yedekleme şifrenizi tekrar yazın</string>
   <string name="confirm_privacy_password">Gizlilik koruması parolasını girin</string>
   <string name="confirm_privacy_password_fingerprint">Parmak izini tarayın veya Gizlilik koruması şifrenizi girin</string>

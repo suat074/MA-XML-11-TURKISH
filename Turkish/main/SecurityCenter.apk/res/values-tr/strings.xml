@@ -2600,7 +2600,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="menu_summary_garbage_cleanup_ex">%s çöp kutusunu temizle</string>
   <string name="phone_manage">Araçlar</string>
   <string name="phone_manage_app_manager_summary">Cihazınızdaki uygulamaları yönetin</string>
-  <string name="phone_manage_clean_summary">Boş depolama alanı</string>
+  <string name="phone_manage_clean_summary">Depolama alanı boşaltın</string>
   <string name="phone_manage_clean_title">Temizleyici</string>
   <string name="phone_manage_electric_summary">Pilden tasarruf etmek için cihazınızı optimize edin</string>
   <string name="phone_manage_electric_title">Pil</string>
