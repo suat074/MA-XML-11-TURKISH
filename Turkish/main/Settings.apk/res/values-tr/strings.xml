@@ -2722,8 +2722,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="miui_allow_vibrate">Titreşim</string>
   <string name="miui_data_usage_menu_metered">Mobil Paylaşım</string>
   <string name="miui_experience_optimization">MIUI optimizasyonunu açın</string>
-  <string name="miui_lab_aiasst_call_screen_desc">İpuçlarıyla Bağlan</string>
-  <string name="miui_lab_aiasst_call_screen_title">İpuçları Çağrısı</string>  
+  <string name="miui_lab_aiasst_call_screen_desc">Çağrıları sessizce yanıtlamak için sesi ve metni dönüştür</string>
+  <string name="miui_lab_aiasst_call_screen_title">AI Çağrı Asistanı</string>  
   <string name="miui_lab_ai_cloud_closed">AI önyükleme henüz mevcut değil.</string>
   <string name="miui_lab_ai_preload_desc">AI önyükleme uygulama başlatma hızını artırır</string>
   <string name="miui_lab_ai_preload_title">AI önyükleme</string>

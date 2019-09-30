@@ -322,6 +322,9 @@
   <string name="settings">Ayarlar</string>
   <string name="settings_shortcut">Ayarlar</string>
   <string name="share">Paylaş</string>
+  <string name="shortcut_share_dialog_content">"Telefonunuzdan gönderdiğiniz dosyalar ve bunların alıcıları sizin tarafınızdan seçilir ve belirlenir. Paylaşılacak dosyaları ve alıcıları seçtiğinizde dikkatli olun. Telefonunuzu virüsleri, kötü amaçlı yazılımları, Truva atlarını, saatli bombaları ve diğer zararlı nesneleri diğer kişilere iletmek için kullanamazsınız. Telefonunuzu, alıcı cihazın normal kullanımını etkileyebilecek herhangi bir yazılımı veya mobil terminal cihazlardaki herhangi bir sistem verisine veya kişisel bilgilere zarar verebilecek, engelleyebilecek, müdahele edebilecek veya ortadan kaldırabilecek herhangi bir öğeyi iletmek için kullanmayın. Diğer kullanıcılara veya mobil terminal cihazlarına verilen herhangi bir zarardan siz sorumlu olacaksınız. Xiaomi, paylaşım işlevselliğinin yanı sıra ilgili teknoloji ve bilgilerin güvenli, etkili, doğru ve güvenilir olmasını sağlamak için elinden gelenin en iyisini yapacaktır. Bununla birlikte, mevcut teknoloji sınırlamaları nedeniyle, xiaomi paylaşım işlevselliğinin kusursuz olduğunu ve tüm ihtiyaçlarınızı karşılayacağını garanti etmez."</string>
+  <string name="shortcut_share_dialog_positive_button">Anladım</string>
+  <string name="shortcut_share_dialog_title">Vazgeç</string>
   <string name="show_all">Tümünü göster</string>
   <string name="show_mem_info_title">Hafıza durumunu göster</string>
   <string name="show_recents_recommend_title">Önerileri göster</string>
