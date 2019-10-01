@@ -46,7 +46,7 @@
   <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Yoksay</string>
   <string name="miui_feedback_edit_discard_draft_dialog_content">Bu raporda yaptığınız tüm değişiklikler kaybolacak.</string>
   <string name="miui_feedback_edit_discard_draft_dialog_title">Taslağı sil?</string>
-  <string name="miui_feedback_edit_hint">Sorunları daha hızlı çözmemize yardımcı olacak sorunlarla her karşılaştığınızda hataları bildirin</string>
+  <string name="miui_feedback_edit_hint">Sorunları daha hızlı çözmemize yardımcı olmak için hatalarla her karşılaştığınızda bize bildirin</string>
   <string name="miui_feedback_edit_hint_gone">Mesaj kapalı</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wi-Fi için bekleyin</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Yükle</string>

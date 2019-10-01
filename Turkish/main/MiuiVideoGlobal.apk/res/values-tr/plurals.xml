@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="feed_back_home">
+        <item quantity="other">%1$d saniye içinde ana sayfaya geri gidiliyor…</item>
+        <item quantity="one">%1$d saniye içinde ana sayfaya geri gidiliyor…</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Altyazı %.1f sn. erken görüntülenecek</item>
         <item quantity="one">Altyazı %.1f sn. erken görüntülenecek</item>
@@ -24,20 +28,40 @@
         <item quantity="other">%d video</item>
         <item quantity="one">%d video</item>
     </plurals>
-    <plurals name="pw_comment_count">
-        <item quantity="other">%d yorum</item>
-        <item quantity="one">%d yorum</item>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">%s öge şimdi silinsin mi?</item>
+        <item quantity="one">%s öge şimdi silinsin mi?</item>
     </plurals>
-    <plurals name="pw_comment_sub_count">
-        <item quantity="other">%d yanıt</item>
-        <item quantity="one">%d yanıt</item>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s öge seçildi</item>
+        <item quantity="one">%s öge seçildi</item>
     </plurals>
-    <plurals name="pw_comment_view_all_comment">
-        <item quantity="other">%d yorumu görüntüle</item>
-        <item quantity="one">%d yorumu görüntüle</item>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Dosya boyutu: %.2fKB</item>
+        <item quantity="one">Dosya boyutu: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">\"%1$s\" için %2$s sonuç</item>
+        <item quantity="one">\"%1$s\" için %2$s sonuç</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d resim</item>
+        <item quantity="one">%d resim</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other"> aboneler</item>
-        <item quantity="one"> aboneler</item>
-    </plurals>	
+        <item quantity="other">%s abone</item>
+        <item quantity="one">%s abone</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Altyazı %.1f saniye ileri alındı</item>
+        <item quantity="one">Altyazı %.1f saniye ileri alındı</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Altyazı %.1f saniye geri alındı</item>
+        <item quantity="one">Altyazı %.1f saniye geri alındı</item>
+    </plurals>
 </resources>
