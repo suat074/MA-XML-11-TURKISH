@@ -464,7 +464,6 @@
   <string name="notify_apk_installed">Başarıyla indirildi</string>
   <string name="off">[kapalı]</string>
   <string name="ok">Tamam</string>
-  <string name="order_alphabet">A-Z</string>
   <string name="order_recently_subscribe">Son abonelikler</string>
   <string name="order_recently_updated">Son güncellenen</string>
   <string name="ovp_alert_dialog_download_install_task">HD eklentisi indiriliyor…</string>
