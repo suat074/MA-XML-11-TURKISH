@@ -752,6 +752,8 @@
   <string name="guest_wipe_session_wipe">Baştan başla</string>
   <string name="gxzw_area">Parmak izi tarayıcısı</string>
   <string name="gxzw_press_harder">Biraz daha sert basın</string>
+  <string name="gxzw_quick_close">Kapat</string>
+  <string name="gxzw_quick_open_title">Açılır kısayol menüsü</string>
   <string name="gxzw_quick_open_add_event">Etkinlik ekle</string>
   <string name="gxzw_quick_open_add_event_sub">Takvim</string>
   <string name="gxzw_quick_open_alipay_pay">Ödeme kodu</string>

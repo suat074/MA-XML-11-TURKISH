@@ -18,6 +18,9 @@
   <string name="cloud_find_device">Cihazı bul</string>
   <string name="cloud_find_device_off">Kapalı</string>
   <string name="cloud_find_device_on">Açık</string>
+  <string name="cloud_storage_already_full">Bulut depolama alanı dolu: %1$s/%2$s</string>
+  <string name="cloud_storage_default_title">Bulut depolama</string>
+  <string name="cloud_storage_loading_data">Sadece bir saniye…</string>
   <string name="cloudservice_new_sync">%s Xiaomi Bulut ile eşitle</string>
   <string name="confirm_delete">Sil</string>
   <string name="confirm_save">Tut</string>

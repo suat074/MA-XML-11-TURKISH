@@ -65,6 +65,7 @@
   <string name="tap_to_sign_up">Kaydolmak için dokunun</string>
   <string name="wifi_disconnected">Bağlı değil</string>
   <string name="wifi_limited_connection">Sınırlı bağlantı</string>
+  <string name="wifi_security_eap">WPA/WPA2-Kurumsal</string>
   <string name="wifi_scan_throttling">WLAN tarama azaltma</string>
   <string name="wifi_scan_throttling_summary">Pil tüketimini azaltır &amp; ağ performansını iyileştirir</string>
   <string name="yes_bubbles">İzin ver</string>

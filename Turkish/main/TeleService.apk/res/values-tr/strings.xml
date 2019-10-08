@@ -421,7 +421,7 @@
   <string name="change_pin_title">Sesli mesaj PIN\'ini değiştir</string>
   <string name="change_pin2">PIN2 kodunu değiştir</string>
   <string name="charge_length_format">%1$s önce</string>
-  <string name="china_mobile_palm_category">Operatör Hizmeti</string>
+  <string name="china_mobile_palm_category">Taşıyıcı hizmetleri</string>
   <string name="china_mobile_palm_title">CMCC Çevrimiçi Servis Salonu</string>
   <string name="choose_network_title">Ağ seçin</string>
   <string name="choose_profile">Profil seçin</string>
@@ -730,6 +730,7 @@
   <string name="fiveg_network_config_type2">"Ağ Yapılandırma Türü[Slot2] : "</string>
   <string name="fiveg_plmn_info_list1">"PLMN bilgi listesi[Slot1] : "</string>
   <string name="fiveg_plmn_info_list2">"PLMN bilgi listesi[Slot2] : "</string>
+  <string name="fiveg_power_secret_code_tip">Bunu Güvenlik uygulaması üzerinden çalıştırın - Pil - 5G tasarrufu</string>
   <string name="fiveg_restrict_dcnr1">"DCNR kısıtlama[Slot1] : "</string>
   <string name="fiveg_restrict_dcnr2">"DCNR kısıtlama[Slot2] : "</string>
   <string name="fiveg_signal_strength1">"5G Sinyal gücü[Slot1] : "</string>

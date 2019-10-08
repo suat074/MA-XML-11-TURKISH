@@ -6525,7 +6525,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="choose_unlock_fingerprint_msg">Parmak izinizi eklemeden önce ekran kilidini ayarlayın.</string>
   <string name="miui_lab_gesture_title">Tam ekran hareketleri</string>
   <string name="miui_lab_gesture_desc">Gezinme için düğmeler yerine hareketleri kullanın</string>
-  <string name="search_ambient_display_screen_title">Ortam ekranı</string>
+  <string name="search_ambient_display_screen_title">Ortam ekranı;Her zaman açık ekran</string>
   <string name="search_doze_always_on_title">Her zaman açık</string>
   <string name="usage_state_date">d MMM</string>
   <string name="popup_title">Ön kamera efektleri</string>

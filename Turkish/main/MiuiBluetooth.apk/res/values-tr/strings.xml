@@ -42,6 +42,7 @@
   <string name="fast_connect_device_connect_retry">Tekrar dene</string>
   <string name="fast_connect_device_connect_setup">Ayarlar</string>
   <string name="fast_connect_device_connect_success">Tamamlandı</string>
+  <string name="fast_connect_device_headset">Pil</string>
   <string name="fast_connect_device_headset_l">Sol</string>
   <string name="fast_connect_device_headset_r">Sağ</string>
   <string name="fast_connect_device_headset_reset">Kutunun üzerindeki düğmeye basılı tutun</string>

@@ -5,7 +5,7 @@
   <string name="agree_terms">Kullanıcı Sözleşmesini ve Gizlilik Politikasını okudum ve kabul ediyorum.</string>
   <string name="agree_terms_input_method_facemoji">Facemoji Gizlilik Politikasını okudum ve kabul ediyorum.</string>
   <string name="agree_terms_input_method_kika">Kika Gizlilik Politikasını okudum ve kabul ediyorum.</string>
-  <string name="ai_button_desc">Akıllı ses yardımcınıza anında erişin</string>
+  <string name="ai_button_desc">AI düğmesi Mi AI\'yi tetiklemenizi ve Mi AI kısayollarını kullanmanızı sağlar.</string>
   <string name="ai_button_double_press">İki kere basın</string>
   <string name="ai_button_double_press_desc">Özel görevleri tamamlamak için AI düğmesine iki kez basın</string>
   <string name="ai_button_long_press">Basın ve basılı tutun</string>

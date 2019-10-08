@@ -49,6 +49,11 @@ Hem telefonunuzu hem de harici monitörünüzü (örn. TV\'niz) aynı Wi-Fi ağ�
 2. İlk kez bir Xiaomi cihazına yansıtma yapıyorsanız, doğrulamayı tamamlamanız gerekir. 
 3. Xiaomi ürünü olmayan bir cihazı kullanıyor, ancak mevcut cihazlar listesinde bulamıyorsanız, aşağıdakileri deneyin:
 Hem telefonunuzu hem de harici monitörünüzü (örn. TV\'niz) aynı Wi-Fi ağına bağlayın veya harici monitörü telefonunuzun paylaşım noktasına bağlayın. Bu işe yaramazsa, LeEco yansıtma uygulamasını TV\'nize yükleyin ve talimatları izleyin."</string>
+  <string name="help_page_text_14_global">"1. Bir Xiaomi cihazı kullanmak istiyor ancak mevcut cihazlar listesinde bulamıyorsanız, aşağıdakileri deneyin:
+Hem telefonunuzu hem de harici monitörünüzü (örn. TV\'niz) aynı Wi-Fi ağına bağlayın veya harici monitörü telefonunuzun internet paylaşım noktasına bağlayın. Kullanılabilir bir Wi-Fi ağı yoksa veya her iki cihazı aynı ağa bağlayamıyorsanız, harici monitörünüzdeki yayın özelliklerinin güncel olup olmadığını kontrol edin, hem telefonunuzda hem de harici monitörde Bluetooth\'u açın, TV'nizde Miracast\'ı açın.
+2. İlk kez bir Xiaomi cihazına yansıtma yapıyorsanız, doğrulamayı tamamlamanız gerekir.
+3. Xiaomi ürünü olmayan bir cihazı kullanıyor, ancak mevcut cihazlar listesinde bulamıyorsanız, aşağıdakileri deneyin:
+Hem telefonunuzu hem de harici monitörünüzü (örn. TV\'niz) aynı Wi-Fi ağına bağlayın veya harici monitörü telefonunuzun internet paylaşım noktasına bağlayın."</string>
   <string name="help_page_text_15">Farklı cihazlarda Miracast işlevselliği</string>
   <string name="help_page_text_16">Mi TV/Mi Projektörü</string>
   <string name="help_page_text_17">"Miracast\'i manuel açmadan Bluetooth özelliklerine sahip çoğu Mi TV modeline Mi telefonunuzdaki öğeleri yansıtabilirsiniz.
@@ -91,7 +96,9 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım > Y
   <string name="help_page_text_52">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, bu özelliği Ayarlar &gt; Ağlar &gt; Çoklu ekran &gt; Kablosuz Ekran\'dan açabilirsiniz.</string>
   <string name="help_page_text_53">Leeco müşteri desteği: 10109000</string>
   <string name="help_page_text_55">"Ağa bağlanamıyorsanız, harici monitörünüzün Miracast işlevselliğini desteklediğinden ve açık olduğundan emin olun. Bazı modellerde, bu özelliğe Kablosuz Ekran, Ekran Aynalama veya Çoklu ekran denir. Miracast\'ın nasıl açılacağını öğrenmek için aşağıdaki bilgileri görüntüleyin.
-4. Herhangi bir sorunla karşılaşırsanız, \"Hizmetler &amp; geri bildirim \" uygulamamızı kullanarak bunları bildirebilirsiniz."</string>
+4. Herhangi bir sorunla karşılaşırsanız, \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bunları bildirebilirsiniz."</string>
+  <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız, harici monitörünüzün Miracast işlevselliğini desteklediğinden ve açık olduğundan emin olun. Bazı modellerde, bu özelliğe Kablosuz Ekran, Ekran Aynalama veya Çoklu ekran denir.
+4. Herhangi bir sorunla karşılaşırsanız, \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bunları bildirebilirsiniz."</string>
   <string name="help_page_text_end">Cihazınızın markası burada listelenmemişse, yansıtma işlevi hakkında daha fazla bilgi edinmek için üreticiye başvurun.</string>
   <string name="notification_rc_desc">Cep telefonunuz için XiaoMi Box\'a (veya TV) video, fotoğraf ve uygulama yansıtmak için en iyi TV Yardımcısı, şimdi deneyin!</string>
   <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>

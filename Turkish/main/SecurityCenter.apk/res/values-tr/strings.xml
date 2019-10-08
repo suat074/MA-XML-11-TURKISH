@@ -389,7 +389,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="battery_charge_estimating">Hesaplanıyor</string>
   <string name="battery_charge_full">Şarj oldu</string>
   <string name="battery_charging_prompt">Şarj ediliyor</string>
-  <string name="battery_desc_ambient_display">Ortam ekranı tarafından tüketilen güç</string>
+  <string name="battery_desc_ambient_display">Her zaman açık ekran tarafından tüketilen güç</string>
   <string name="battery_desc_apps">Uygulama tarafından kullanılan pil</string>
   <string name="battery_desc_bluetooth">Bluetooth tarafından kullanılan pil</string>
   <string name="battery_desc_display">Ekran ve arka ışık tarafından kullanılan pil</string>
@@ -1614,7 +1614,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="pm_root_success_notification_infomation">Root erişimi ile ilgili riskleri anladığınızdan emin olun.</string>
   <string name="pm_root_success_notification_title">Root erişimine izin verildi</string>
   <string name="power_20s_shutdown">Cihaz %d saniye sonra kapatılacak</string>
-  <string name="power_ambient_display">Ortam ekranı</string>
+  <string name="power_ambient_display">Her zaman açık ekran</string>
   <string name="power_analysis_consume_title">Pil kullanımı</string>
   <string name="power_analysis_suggestion_need_optimize">Pil kullanım sorunları tespit edildi.</string>
   <string name="power_autorun_apps_empty">Otomatik başlatma uygulaması yok</string>
@@ -2229,7 +2229,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="superpower_progress_turnoff_process">Arka plan etkinliği kısıtla</string>
   <string name="superpower_savemode_limit1">Karanlık tema</string>
   <string name="superpower_savemode_limit2">Arka plan etkinliği kısıtla</string>
-  <string name="superpower_savemode_limit3">Güç tüketen etkinliği kısıtla (eşitleme, GPS, titreşim, Ortam ekranı vb.)</string>
+  <string name="superpower_savemode_limit3">Güç tüketen etkinliği kısıtla (eşitleme, GPS, titreşim, Her zaman açık ekran vb.)</string>
   <string name="superpower_savemode_limit4">Seçilen uygulamaların normal çalışmasına izin ver</string>
   <string name="superpower_settings">Ultra pil tasarrufu</string>
   <string name="superpower_settins_autoenter_summary">Pil sadece 10% sarj olduğunda Ultra pil tasarrufunu otomatik olarak aç</string>
@@ -2613,4 +2613,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="securitycenter_tab_title">Güvenlik</string>
   <string name="system_tool_green_guard">Aile Koruması</string>
   <string name="system_tool_sos">Acil SOS</string>
+  <string name="power_center_5g_save_close_detail">5G pil tasarrufu, 5G bağlantısını etkilemeden pil ömrünü artırır. Yine de kapatılsın mı?</string>
+  <string name="power_center_5g_save_close_later">Kapatma</string>
+  <string name="power_center_5g_save_close_title">5G pil tasarrufu kapatılıyor</string>
+  <string name="power_center_5g_save_summary_text">Belirli senaryolarda 5G bağlantısını daha az güç tüketir hale getirin</string>
+  <string name="power_center_5g_save_title_text">5G pil tasarrufu</string>
+  <string name="process_vpnsdkmanager_label">Oyun Turbo</string>
 </resources>
