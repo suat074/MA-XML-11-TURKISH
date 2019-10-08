@@ -1190,17 +1190,14 @@ Postayı bir kez eşitlemek için \"&lt;b>Şimdi Eşitle&lt;/b>ye veya bu hesapt
     <string name="sync_calendra_fail_per_content">Takvime erişime izin vermek için dokunun</string>
     <string name="sync_calendra_fail_per_title">Takvim eşitlenemedi</string>
     <string name="sync_calendra_fail_permission">Takvim eşitlenemedi, Posta için Ayarlar\’dan takviminize erişmesine izin verin</string>
-    <string name="account_cache_provider">Hesap Önbellek Sağlayıcısı</string>
     <string name="all_purpose">Posta\'ya Hoşgeldiniz! Bu e-posta istemcisi, Xiaomi için Kingsoft tarafından oluşturuldu. E-posta göndermek ve almak için bu uygulamayı kullanabilirsiniz.</string>
     <string name="confirm_age">Yaşı Onayla</string>
-    <string name="conversation_content_provider">Konuşma İçeriği Sağlayıcısı</string>
     <string name="over_16_content">16 yaşından büyük olduğunuzu onaylıyor musunuz?</string>
     <string name="over_sixteen">16\'dan büyüğüm.</string>
     <string name="personal_data_collection_summary">Anahtar açıldığında, kişisel verilerinizi toplayabileceğimizi kabul etmiş olursunuz. İstediğiniz zaman kapatabilir, yetkilendirmenizi iptal edebilir ve verilerinizi sunucularımızdan silebilirsiniz.</string>
     <string name="personal_data_collection_title">Kişisel verilerin toplanması</string>
     <string name="pl_select_age">Lütfen yaşı seçiniz.</string>
     <string name="privacy_setting_agree">Kabul</string>
-    <string name="remote_no_mail">Sunucuda başka e-posta yok.</string>
     <string name="setting_kids_subtitle">Kullanıcının yaşını onayla</string>
     <string name="setting_kids_title">16 yaşından büyük.</string>
     <string name="under_16_content">16\'nın altında onayla?</string>
