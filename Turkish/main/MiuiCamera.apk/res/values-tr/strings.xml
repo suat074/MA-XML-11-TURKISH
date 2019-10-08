@@ -160,9 +160,6 @@
   <string name="hunt_dual_water_mark">Çift kamera filigranı otomatik olarak eklenecektir.</string>
   <string name="install_confirmed">Yükle</string>
   <string name="live_sticker_tab_name">TikTok Sihirli Etiket</string>
-  <string name="location_permission_des">Fotoğraf ve videoların konumlarını hatırla</string>
-  <string name="location_permission_not_ask_again">Ayarlar\’dan Kamera\’nın konumunuza erişmesine izin verin.</string>
-  <string name="location_permission_not_ask_again_go_to_settings">İzin ver</string>
   <string name="message_snap_double_confirm">Ses düğmesine uzun süre basmak NFC\'yi tetikler. Bu özellik değiştirilsin mi?</string>
   <string name="mimoji_app_name">Eğlenceli Kamera</string>
   <string name="module_name_beauty">Güzellik</string>
@@ -425,7 +422,8 @@
   <string name="pref_camera_zoom_mode_entry_high_pixel">DÜŞÜK IŞIK</string>
   <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
   <string name="pref_camera_zoom_mode_entry_tele">YAKIN</string>
-  <string name="pref_camera_zoom_mode_entry_tele_2X">YAKIN 2X</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">2X YAKIN</string>
+  <string name="pref_camera_zoom_mode_entry_tele_standalone">5X YAKIN</string>
   <string name="pref_camera_zoom_mode_entry_wide">GENİŞ</string>
   <string name="pref_camera_zoom_mode_title">LENS</string>
   <string name="pref_camera_zsl_entry_off">Kapalı</string>
@@ -731,15 +729,6 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="autozoom_hint">Hareketli nesneyi izle</string>
   <string name="live_sticker_fragment_tab_name">TikTok efektleri</string>
   <string name="network_access_user_notice_agree">Kabul</string>
-  <string name="network_access_user_notice_message_live_video">"Kamera\'nın, kısa videolara efekt, müzik ve diğer özellikleri sağlaması için internete bağlanması gerekir.
-	
-Aşağıdaki \"Kabul\" seçeneğine dokunarak, "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı</a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz.</string>
-  <string name="network_access_user_notice_message_sticker">"Kamera\'nın bu özelliğe çıkartmalar temin edebilmesi için internete bağlanması gerekir.
-	
-Aşağıdaki \"Kabul\" seçeneğine dokunarak, "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı</a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz.</string>
-  <string name="network_access_user_notice_message_voice_caption">"Kamera\'nın konuşma-metin çıkışı işlevselliği sağlaması için internete bağlanması gerekir.
-	
-Aşağıdaki \"Kabul\" seçeneğine dokunarak, "<a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı</a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz.</string>
   <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
   <string name="hand_gesture_open_tip">Zamanlayıcıyı başlatmak için avucunuzu kameraya gösterin</string>
   <string name="hand_gesture_tip">Avuç içi ile çekim</string>
@@ -904,7 +893,6 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="beauty_clear">Temizle</string>
   <string name="beauty_clear_toast">Güzelleştirme efekti başarıyla temizlendi</string>
   <string name="edit_hairline">Saç çizgisi</string>
-  <string name="ultra_wide_recommend_tip_hint_sat">0.6X ultra geniş açı modunu deneyin</string>
   <string name="pref_camera_zoom_mode_entry_macro">MAKRO</string>
   <string name="lying_direct_hint">Geçerli oryantasyon</string>
   <string name="calibration_guide_tittle">Kalibre edilmemiş kamera</string>
@@ -926,7 +914,6 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD açık</string>
   <string name="ultra_pixel_zoom_no_support_tip">Yakınlaştırma %s Ultra HD modunda çalışmıyor</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Yumuşak ışık</string>
-  <string name="recommend_soft_light_tip">Yumuşak ışık modunda flaş kullanın</string>
   <string name="macro_mode_use_hint_text_title">Makro</string>
   <string name="macro_mode_use_hint_text_body">"Küçük nesnelerin fotoğraflarda daha büyük görünmesini sağlamak için
 Makro modunu kullanın"</string>
@@ -942,14 +929,11 @@ Makro modunu kullanın"</string>
   <string name="location_permission_des">Fotoğraflar ve videolar için konumlarını hatırla</string>
   <string name="location_permission_not_ask_again">Kamera\'nın Ayarlar\'dan konumunuza erişmesine izin verin.</string>
   <string name="location_permission_not_ask_again_go_to_settings">İzin ver</string>
-  <string name="network_access_user_notice_agree">Kabul</string>
   <string name="network_access_user_notice_message_live_video"><Data>"Kamera\'nın, kısa videolar için efekt, müzik ve diğer özellikleri sağlaması için internete bağlanması gerekir. &lt;br/>&lt;br/>Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="network_access_user_notice_message_sticker"><Data>"Bu özelliğe çıkartmalar sağlaması için Kamera\'nın internete bağlanması gerekir. &lt;br/>&lt;br/>Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="network_access_user_notice_message_voice_caption"><Data>"Kamera\'nın konuşma-metin çıktısı işlevselliği sağlaması için internete bağlanması gerekir. &lt;br/>&lt;br/>Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="photo_assistance_tips_title">Canlı ipuçları</string>
   <string name="pref_960_watermark_title">960FPS filigranı</string>
-  <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
-  <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
   <string name="pref_lens_dirty_detect_summary">Lens kirli olduğunda bir bildirim alın</string>
   <string name="pref_lens_dirty_detect_title">Kirli lens hakkında bilgi edinin</string>
   <string name="pref_photo_assistance_tips_off">Kapalı</string>
