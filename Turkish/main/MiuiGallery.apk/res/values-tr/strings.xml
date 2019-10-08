@@ -1362,7 +1362,7 @@ mevcut"</string>
   <string name="card_title_monthly_foods">Lezzetli</string>
   <string name="card_title_monthly_pets">Tüylü pençeler</string>
   <string name="card_title_party">Partiler</string>
-  <string name="card_title_past_week_end">Geçen haftasonları</string>
+  <string name="card_title_past_week_end">Geçen hafta sonları</string>
   <string name="card_title_pastyear_activities">Geçen yıl etkinlikleri</string>
   <string name="card_title_pastyear_party">Geçen yıl partileri</string>
   <string name="card_title_pastyear_sports">Geçen yıl egzersizleri</string>
@@ -1508,7 +1508,7 @@ mevcut"</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Eklentiyi indir</string>
   <string name="filter_sky_dusk">Alacakaranlık</string>
   <string name="filter_sky_glow">Parlaklık</string>
-  <string name="filter_sky_hint">Gökyüzü aralığı</string>
+  <string name="filter_sky_hint">Gökyüzü değişimi</string>
   <string name="filter_sky_rainbow">Gökkuşağı</string>
   <string name="filter_sky_sunny">Güneşli</string>
   <string name="filter_sky_sunset">Gün batımı</string>
@@ -1569,7 +1569,7 @@ mevcut"</string>
   <string name="empty_album_cloud_list_title">Eşitlenecek albüm yok</string>
   <string name="empty_album_hidden_list_title">Gizli albüm yok</string>
   <string name="evening">ÖS</string>
-  <string name="filter_single_sky">Gökyüzü aralığı</string>
+  <string name="filter_single_sky">Gökyüzü değişimi</string>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM yyyy</string>

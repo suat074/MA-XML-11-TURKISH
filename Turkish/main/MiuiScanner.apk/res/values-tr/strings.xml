@@ -241,7 +241,7 @@
   <string name="wx_not_installed_toast">Bu özelliğin WeChat kullanması gerekir. Önce WeChat\'i yükleyin.</string> 
   <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi\'yi açın.</string>
   <string name="setting_function_sort">Özellikleri yeniden düzenle</string>
-  <string name="agree_app_use">QR kodlarını tarama ve diğer görüntülerde tanıma</string>
+  <string name="agree_app_use">QR kodlarını tarar ve diğer görüntülerde tanıma yapar</string>
   <string name="agree_camera_permission">Fotoğraf çekmek ve video kaydetmek için</string>
   <string name="agree_storage_permission">Cihazınızda depolanan fotoğraflara ve dosyalara erişmek için</string>
   <string name="always">Her zaman</string>

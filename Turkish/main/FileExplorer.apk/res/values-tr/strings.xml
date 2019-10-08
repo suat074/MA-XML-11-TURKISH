@@ -13,6 +13,7 @@
   <string name="all_topic">Tüm başlıklar</string>
   <string name="already_liked">Zaten bu öğeyi beğenildi</string>
   <string name="app_all_purpose">Dosya yöneticisine hoşgeldiniz! Telefonunuzdaki dosyaların işlevlerini yönetmek için bu uygulamayı kullanabilirsiniz.</string>
+  <string name="app_function">Cihazınızdaki dosyaları yönetin</string>
   <string name="app_name">Dosya Yöneticisi</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Kamera</string>
@@ -234,6 +235,9 @@
   <string name="ftp_transfer_secure">Güvenlik</string>
   <string name="ftp_username_and_passworld">Giriş Yap</string>
   <string name="ftp_username_hint">Kullanıcı Adı</string>
+  <string name="function_file_operation">"Dosyalara erişmek ve açmak için; "</string>
+  <string name="function_set_private">"Dosyaları görüntülemek ve şifrelemek için; "</string>
+  <string name="function_use_imei">"IMEI\'ye erişmek ve dosyaları şifrelemek için; "</string>
   <string name="full_gems">Mücevherlerinizi değiştirin</string>
   <string name="gbk_summary">Basitleştirilmiş Çince için Windows kodlaması</string>
   <string name="gbk_title">GBK</string>

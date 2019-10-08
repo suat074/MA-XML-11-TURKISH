@@ -192,7 +192,7 @@
   <string name="app_manager_menu_clear_data">Veriyi Temizle</string>
   <string name="app_manager_mobile_slot1">Mobil veri (SIM 1)</string>
   <string name="app_manager_mobile_slot2">Mobil veri (SIM 2)</string>
-  <string name="app_manager_net_control_title">Veri Kullanımını Kısıtla</string>
+  <string name="app_manager_net_control_title">Veri kullanımını kısıtla</string>
   <string name="app_manager_net_mobile">Mobil veri</string>
   <string name="app_manager_net_wifi">WLAN</string>
   <string name="app_manager_not_allow">Hayır</string>
@@ -201,16 +201,16 @@
   <string name="app_manager_permission_manager_title">İzinler</string>
   <string name="app_manager_permission_notify_title">Bildirimler</string>
   <string name="app_manager_permission_power_saving_title">Pil tasarrufu</string>
-  <string name="app_manager_permission_startself_title">Otomatik Başlatma</string>
+  <string name="app_manager_permission_startself_title">Otomatik başlat</string>
   <string name="app_manager_permission_summary_reject">Hepsini kısıtla</string>
-  <string name="app_manager_powerkeeper_miui_auto">MIUI Pil Tasarrufu</string>
-  <string name="app_manager_powerkeeper_no_bg">Arkaplan etkinliğini kısıtla</string>
+  <string name="app_manager_powerkeeper_miui_auto">MIUI Pil tasarrufu</string>
+  <string name="app_manager_powerkeeper_no_bg">Arka plan etkinliğini kısıtla</string>
   <string name="app_manager_powerkeeper_no_restrict">Kısıtlama yok</string>
-  <string name="app_manager_powerkeeper_restrict_bg">Arkaplan uygulamalarını kısıtla</string>
+  <string name="app_manager_powerkeeper_restrict_bg">Arka plan uygulamalarını kısıtla</string>
   <string name="app_manager_pref_ads">Öneriler</string>
   <string name="app_manager_reset_app_preferences">Uygulama tercihlerini sıfırlayın</string>
   <string name="app_manager_reset_app_preferences_button">Sıfırlayın</string>
-  <string name="app_manager_reset_app_preferences_desc">"Bu, tüm tercihlerini sıfırlayacakt:
+  <string name="app_manager_reset_app_preferences_desc">"Bu, tüm tercihleri sıfırlayacak:
 
 "&lt;li>Devre dışı bırakılmış uygulamalar&lt;/li>"
 "&lt;li>Devre dışı bırakılmış uygulama bildirimleri&lt;/li>"
@@ -219,13 +219,13 @@
 
 Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="app_manager_reset_app_preferences_title">Uygulama tercihleri sıfırlansın mı?</string>
-  <string name="app_manager_search_prompt">Sonuç bulunamadı? Tüm uygulamalardan sonuçları göstermeyi deneyin.</string>
+  <string name="app_manager_search_prompt">Sonuçlar bulunamadı mı? Tüm uygulamalardan sonuçlar göstermeyi deneyin.</string>
   <string name="app_manager_show_all_apps">Tüm uygulamaları göster</string>
-  <string name="app_manager_show_all_apps_opened">Tüm uygulamaların sonuçlarını gösteriyor…</string>
+  <string name="app_manager_show_all_apps_opened">Tüm uygulamalardan sonuçlar gösteriliyor…</string>
   <string name="app_manager_show_detail_infos">Tümünü gör</string>
   <string name="app_manager_start_by">%s tarafından başlatıldı</string>
-  <string name="app_manager_system_mobile_disable">Veriyi Kapat</string>
-  <string name="app_manager_thumbnail_blur_summary">Son Kullanılanlar bölümünde uygulama önizlemelerini bulanıklaştır</string>
+  <string name="app_manager_system_mobile_disable">Veriyi kapat</string>
+  <string name="app_manager_thumbnail_blur_summary">Son Kullanılanlar bölümünde uygulamanın önizlemesini bulanıklaştır</string>
   <string name="app_manager_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
   <string name="app_manager_title">Uygulamaları yönet</string>
   <string name="app_manager_total_size">Toplam</string>
@@ -2249,16 +2249,16 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="system_permission_declare_agree">Kabul et</string>
   <string name="system_permission_declare_disagree">Kabul etmiyorum</string>
   <string name="system_permission_declare_double_link"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
-  <string name="system_permission_declare_main_purpose" formatted="false">%1s hoş geldiniz! Bu uygulama aşağıdaki özelliği kullanmanızı sağlar: %2s.</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">%1s hoş geldiniz! Bu uygulama şu özelliği kullanmanızı sağlar: %2s.</string>
   <string name="system_permission_declare_no_say_no">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz, bu uygulama normal şekilde çalışamaz.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz, bu uygulama kısmen çalışamaz.</string>
-  <string name="system_permission_declare_privacy_declare">Gizliliğinize saygı duyuyor ve koruyoruz.\n%1s için verilerinizi toplaması ve normal çalışması için aşağıdaki izinlerin gerekli olduğunu unutmayın:</string>
+  <string name="system_permission_declare_privacy_declare">Gizliliğinize saygı duyuyor ve koruyoruz.\n%1s verilerinizi toplamalı ve ayrıca normal çalışması içinde aşağıdaki izinlerin gerekli olduğunu unutmayın:</string>
   <string name="system_permission_declare_privacy_no_permission">%1s normal çalışması için verilerinizi toplaması gerektiğini unutmayın.\nGizliliğinize saygı duyuyor ve koruyoruz.</string>
   <string name="system_permission_declare_privacy_policy"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz.</string>
   <string name="system_permission_declare_revoke_uninstallable">Güvenlik &gt; Uygulamaları yönet &gt; İzinler &gt; İzinler bölümünden çıkış yapabilir, bu uygulamayı kaldırabilir veya yetkilendirmenizi iptal edebilirsiniz.</string>
-  <string name="system_permission_declare_use_network">Ağa bağlan</string>
-  <string name="system_permission_declare_use_network_no_permission">Ağa bağlan</string>
+  <string name="system_permission_declare_use_network">Ağ bağlantısı</string>
+  <string name="system_permission_declare_use_network_no_permission">Ağ bağlantısı</string>
   <string name="system_permission_declare_user_agreement"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="system_permission_perm_answer_call">Çağrı yap</string>
   <string name="system_permission_perm_read_mms">MMS oku</string>

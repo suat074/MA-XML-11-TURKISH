@@ -401,4 +401,16 @@
   <string name="shake_to_align_icons_summary">Boş hücreleri simgelerle otomatik olarak doldurmak için düzenleme modunda cihazınızı sallayın</string>
   <string name="shake_to_align_icons_title">Boş hücreleri doldurmak için sallayın</string>  
   <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
+  <string name="additional_settings">Ek ayarlar</string>
+  <string name="drawer_background">Arka plan</string>
+  <string name="drawer_background_dark">Karanlık</string>
+  <string name="drawer_background_light">Aydınlık</string>
+  <string name="drawer_background_transparency">Uygulama çekmecesi arka plan saydamlığı</string>
+  <string name="drawer_settings">Uygulama çekmecesi</string>
+  <string name="home_screen_settings">Ana ekran</string>
+  <string name="local_apps">Yerel uygulamalar</string>
+  <string name="recommend_app">Uygulama önerileri</string>
+  <string name="search_in_apps_store">%2$s içinde \"%1$s\" için arama yapın</string>
+  <string name="search_no_result">Sonuç bulunamadı</string>
+  <string name="show_most_popular_apps_you_used">Çekmecede en sık kullanılan uygulamaları görüntüle</string>
 </resources>
