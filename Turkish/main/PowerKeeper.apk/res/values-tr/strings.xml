@@ -39,6 +39,8 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="lasttime_applist_cloud">Güncellenmiş uygulamalar:</string>
   <string name="lasttime_feature_cloud">Güncellenmiş özellikler:</string>
   <string name="performance_category">Performans</string>
+  <string name="permstep_label">Adımları Oku</string>
+  <string name="permstep_description">Uygulamanın telefonunuzun adım bilgilerini okumasına izin verin</string>  
   <string name="power_center">Pil optimizasyonu</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s anormal çalışıyor</string>
   <string name="power_checker_background_cpu_title">%1$s anormal çalışıyor</string>
