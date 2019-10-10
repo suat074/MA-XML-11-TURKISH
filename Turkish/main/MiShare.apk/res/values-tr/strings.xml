@@ -66,6 +66,7 @@
   <string name="file_transfer_progress">İlerleme: %1$d%%</string>
   <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin!</string>
   <string name="hide">Gizle</string>
+  <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>
   <string name="mi_drop">Dosya Paylaşımı</string>
   <string name="no_longer_prompt">Engelle</string>
   <string name="no_longer_receive">Bu cihaz engellensin mi? Ondan dosya alamazsınız.</string>

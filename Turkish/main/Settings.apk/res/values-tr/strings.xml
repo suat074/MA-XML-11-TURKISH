@@ -3710,6 +3710,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="screen_compatibility_label">Ekran uyumluluğu</string>
   <string name="screen_compatibility_text">Bu uygulama, ekranınız için tasarlanmamış olabilir. Buradan ekranınıza nasıl uyarlandığını kontrol edebilirsiniz.</string>
   <string name="screen_effect">Renk uyumu</string>
+  <string name="screen_fps_summary">Daha yüksek yenileme hızı, görüntüyü daha yumuşak yaparken, düşük yenileme hızı pil tasarrufu sağlar</string>
+  <string name="screen_fps_title">Yenileme hızı</string>
   <string name="screen_key_long_press">Gezinti tuşlarına uzun bas</string>
   <string name="screen_key_long_press_action">Tetikleme işlevi</string>
   <string name="screen_key_long_press_timeout">Uzun basma süresini ayarla</string>
@@ -6627,7 +6629,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="enable_tcp_rtt_support">TCP RTT\'yi görüntüle</string>
   <string name="enable_tcp_rtt_support_summary">Ağ iletişim kalitesinin performansını değerlendirir</string>
   <string name="popup_gesture_title">Ön kamerayı açmak için kaldırın</string>
-  <string name="popup_gesture_summary">Telefonunuzu önünüzde tutun ve ön kamerayı açmak için hızla 20 cm yukarı kaldırın</string>
+  <string name="popup_gesture_summary">Ana ekrana geri dönün, telefonu kaldırın ve ön kamerayı otomatik olarak açmak için ekrana bakın</string>
   <string name="miui_lab_3d_gesture_title">3B desenler</string>
   <string name="miui_lab_3d_gesture_slogan">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
   <string name="miui_lab_3d_gesture_summary">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>

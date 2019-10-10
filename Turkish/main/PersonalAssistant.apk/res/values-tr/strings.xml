@@ -711,6 +711,9 @@
   <string name="midrop_parent">Mi Drop</string>
   <string name="midrop_send">Gönder</string>
   <string name="mifare_card">Kart Emülatörü</string>
+  <string name="migu_game">Küçük oyunlar</string>
+  <string name="migu_parent">Migu</string>
+  <string name="migu_video">Videolar</string>
   <string name="miot_cta_dialog_title">Yetkilendirme izni ver</string>
   <string name="miot_del_dialog_cancel">Tut</string>
   <string name="miot_del_dialog_sure">Kaldır</string>
