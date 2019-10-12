@@ -177,7 +177,7 @@
   <string name="app_manager_factory_reset_dlg_msg">Bu Android sistem uygulamasına ilişkin tüm güncellemeler kaldırılacaktır.</string>
   <string name="app_manager_factory_reset_dlg_title">Güncellemeler kaldırılsın mı?</string>
   <string name="app_manager_find_apps">Uygulamaları bul</string>
-  <string name="app_manager_force_stop_dlg_text">Bir uygulamayı zorla durdurursanız, yanlış işleyebilir.</string>
+  <string name="app_manager_force_stop_dlg_text">Bir uygulamayı durdurmaya zorlarsanız, yanlış davranabilir.</string>
   <string name="app_manager_force_stop_dlg_title">Zorla durdurulsun mu?</string>
   <string name="app_manager_full_screen_summary">Seçilen uygulamaların tam ekran modunda çalışmasına izin ver</string>
   <string name="app_manager_full_screen_title">Tam ekran modu</string>

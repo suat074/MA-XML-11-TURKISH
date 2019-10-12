@@ -51,7 +51,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Şimdi değil</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Aç</string>
   <string name="fp_nav_center_action_choose_dlg_title">Hızlıca dokunup aç</string>
-  <string name="frequent_email">Sık görülen e-posta</string>
+  <string name="frequent_email">Sık kullanılan e-posta</string>
   <string name="frequent_phrases">Sık kullanılan ifadeler</string>
   <string name="global_actions_airplane_mode">Uçak modu</string>
   <string name="global_actions_reboot">Yeniden başlat</string>

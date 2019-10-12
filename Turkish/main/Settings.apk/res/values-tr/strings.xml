@@ -3710,6 +3710,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="screen_compatibility_label">Ekran uyumluluğu</string>
   <string name="screen_compatibility_text">Bu uygulama, ekranınız için tasarlanmamış olabilir. Buradan ekranınıza nasıl uyarlandığını kontrol edebilirsiniz.</string>
   <string name="screen_effect">Renk uyumu</string>
+  <string name="screen_fps_summary">Daha yüksek yenileme hızı, görüntüyü daha yumuşak yaparken, düşük yenileme hızı pil tasarrufu sağlar</string>
+  <string name="screen_fps_title">Yenileme hızı</string>
   <string name="screen_key_long_press">Gezinti tuşlarına uzun bas</string>
   <string name="screen_key_long_press_action">Tetikleme işlevi</string>
   <string name="screen_key_long_press_timeout">Uzun basma süresini ayarla</string>
@@ -3883,7 +3885,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="search_children_mode_title">Çocuk modu, SMS kilidi, Ebeveyn denetimleri, Çocuk ebeveynleri, SMS\'i kısıtla</string>
   <string name="search_choose_timezone">Zaman Dilimini Seç;Zaman Dilimi</string>
   <string name="search_cloud_backup_settings_section_title">Yedekleme Ayarları;Yedekle;Yedekler</string>
-  <string name="search_cloud_restore_section_title">\"Xiaomi Bulut\'tan Geri Yükle\";Xiaomi Bulut;Bulut Yedekleri</string>
+  <string name="search_cloud_restore_section_title">Mi Bulut\'tan geri yükle;Mi Bulut;Bulut Yedekleri;Xiaomi Bulut; Xiaomi Bulut\'tan geri yükle</string>
   <string name="search_copyright_title">Telif Hakkı</string>
   <string name="search_credentials_install">Depolamadan Yükle;Direkt yükle;APK yükle</string>
   <string name="search_date_and_time_settings_title">Tarih ve Saat;Tarih;Zaman</string>
@@ -3928,7 +3930,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="search_master_clear_title">Fabrika Verisine Sıfırla</string>
   <string name="search_menu">Ara</string>
   <string name="search_menu_title">Arama</string>
-  <string name="search_micloud">Eşitle;Xiaomi Bulut</string>
+  <string name="search_micloud">Eşitle;Mi Bulut;Xiaomi Bulut;Bulut eşitleme;Bulut ile eşitle;Xiaomi Bulut ile eşitle</string>
   <string name="search_music_audio_effect_optimize">Ses Ayarları</string>
   <string name="search_music_equalizer">Ekolayzır</string>
   <string name="search_music_headset_calibrate">Tuş Ataması</string>
@@ -3937,7 +3939,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="search_music_mi_effect_title">Mi Ses Geliştiricisi</string>
   <string name="search_networks_title">Hücresel Ağlar</string>
   <string name="search_nfc_quick_toggle_title">NFC</string>
-  <string name="search_nfc_se_route_title">Varsayılan Cüzdan</string>
+  <string name="search_nfc_se_route_title">Güvenli öğe konumu</string>
   <string name="search_notification_sound_title">Varsayılan bildirim sesi</string>
   <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
   <string name="search_oldman_mode_entry_name">Hafif Mod;Yaşlılık Modu</string>
@@ -6627,7 +6629,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="enable_tcp_rtt_support">TCP RTT\'yi görüntüle</string>
   <string name="enable_tcp_rtt_support_summary">Ağ iletişim kalitesinin performansını değerlendirir</string>
   <string name="popup_gesture_title">Ön kamerayı açmak için kaldırın</string>
-  <string name="popup_gesture_summary">Telefonunuzu önünüzde tutun ve ön kamerayı açmak için hızla 20 cm yukarı kaldırın</string>
+  <string name="popup_gesture_summary">Ana ekrana geri dönün, telefonu kaldırın ve ön kamerayı otomatik olarak açmak için ekrana bakın</string>
   <string name="miui_lab_3d_gesture_title">3B desenler</string>
   <string name="miui_lab_3d_gesture_slogan">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
   <string name="miui_lab_3d_gesture_summary">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
