@@ -57,4 +57,16 @@
     <item>sol</item>
     <item>sağ</item>
   </string-array>
+  <string-array name="cell_icon_size_entries">
+    <item>Çok küçük</item>
+    <item>Küçük</item>
+    <item>Orta</item>
+    <item>Büyük</item>
+    <item>Çok büyük</item>
+    </string-array>
+  <string-array name="minus_screen_entries">
+    <item>Yok</item>
+    <item>Uygulama kasası</item>
+    <item>Google</item>
+  </string-array>
 </resources>

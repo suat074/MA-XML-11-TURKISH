@@ -87,6 +87,7 @@
   <string name="cant_remove_folder">Klasör kaldırılamadı</string>
   <string name="cant_remove_retained_app">Bu uygulama kaldırılamadı</string>
   <string name="cant_remove_system_app">Sistem uygulaması kaldırılamadı</string>
+  <string name="cell_icon_size_title">Simge boyutu</string>
   <string name="change_wallpaper">Değiştir</string>
   <string name="choose_wallpaper">Duvar kağıdını seçin</string>
   <string name="chooser_wallpaper">Yeni duvar kağıdını seç</string>
@@ -214,6 +215,7 @@
   <string name="launcher_title">Ana ekran &amp; Son kullanılanlar</string>
   <string name="like">Favorilere ekle</string>
   <string name="liked">Favorilere eklendi</string>
+  <string name="launcher_minus_screen_title">Sol sayfada özel ekran</string>
   <string name="loading_desktop">Sadece bir saniye…</string>
   <string name="loading_wallpaper">Sadece bir saniye…</string>
   <string name="local_wallpaper">İndirildi</string>
@@ -389,6 +391,7 @@
   <string name="edit_mode_group_error_cant_delete_system_apps">Sistem uygulamaları kaldırılamıyor</string>
   <string name="edit_mode_group_error_nothing_be_selected">Önce bir uygulama seçin</string>
   <string name="minus_one_screen">Uygulama kasası</string>
+  <string name="minus_one_screen_none">Yok</string>
   <string name="menu_auto_fill_of_uninstall">Kaldırılan uygulamaların hücrelerini doldur</string>
   <string name="announce_for_search_bar">Arama çubuğu</string>
   <string name="announce_for_xiaoai">Mi AI</string>
