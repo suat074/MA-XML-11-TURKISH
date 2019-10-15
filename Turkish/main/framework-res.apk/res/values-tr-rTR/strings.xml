@@ -979,14 +979,14 @@
   <string name="permdesc_writeSettings">Uygulamaya, sistem ayarı verilerini değiştirme izni verir. Kötü amaçlı uygulamalar sistem yapılandırmanızı bozabilir.</string>
   <string name="permdesc_writeSyncSettings">Uygulamaya bir hesaba ait senkronizasyon ayarlarını değiştirme izni verir. Örneğin, bu izne sahip bir uygulama Kişiler uygulamasının bir hesapla senkronize edilmesini etkinleştirebilir.</string>
   <string name="permgroupdesc_calendar">takviminize erişir</string>
-  <string name="permgroupdesc_calllog">telefon çağrı günlüğünü okuma ve yazma</string>
-  <string name="permgroupdesc_camera">fotoğraf çekme ve video kaydetme</string>
+  <string name="permgroupdesc_calllog">telefon çağrı günlüğünü okur ve yazar</string>
+  <string name="permgroupdesc_camera">fotoğraf çeker ve video kaydeder</string>
   <string name="permgroupdesc_contacts">kişilerinize erişir</string>
   <string name="permgroupdesc_location">bu cihazın konumuna erişir</string>
   <string name="permgroupdesc_microphone">ses kaydı</string>
-  <string name="permgroupdesc_phone">telefon görüşmeleri yapma ve yönetme</string>
+  <string name="permgroupdesc_phone">telefon görüşmeleri yapar ve yönetir</string>
   <string name="permgroupdesc_sensors">yaşamsal işaretlerinizle ilgili sensör verilerine erişir</string>
-  <string name="permgroupdesc_sms">SMS mesajları gönderme ve görüntüleme</string>
+  <string name="permgroupdesc_sms">SMS mesajları gönderir ve görüntüler</string>
   <string name="permgroupdesc_storage">cihazınızdaki fotoğraflara, medyaya ve dosyalara erişir</string>
   <string name="permgrouplab_calendar">Takvim</string>
   <string name="permgrouplab_calllog">Çağrı günlükleri</string>
@@ -998,6 +998,7 @@
   <string name="permgrouplab_sensors">Vücut Sensörleri</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Depolama</string>
+  <string name="permgrouprequest_activityRecognition">&lt;b>%1$s&lt;/b> için fiziksel etkinliğinize erişme izni verilsin mi?</string>
   <string name="permgrouprequest_calendar">&lt;b>%1$s&lt;/b> için takviminize erişme izni verilsin mi?</string>
   <string name="permgrouprequest_calllog">&lt;b>%1$s&lt;/b> için telefon arama kayıtlarına erişme izni verilsin mi?</string>
   <string name="permgrouprequest_camera">&lt;b>%1$s&lt;/b> için fotoğraf çekme ve video kaydetme izni verilsin mi?</string>
@@ -1008,6 +1009,8 @@
   <string name="permgrouprequest_sensors">&lt;b>%1$s&lt;/b> için sensör verilerinize erişme izni verilsin mi?</string>
   <string name="permgrouprequest_sms">&lt;b>%1$s&lt;/b> için SMS mesajları gönderme ve görüntüleme izni verilsin mi?</string>
   <string name="permgrouprequest_storage">&lt;b>%1$s&lt;/b> için cihazınızdaki fotoğraflara, medyaya ve dosyalara erişme izni verilsin mi?</string>
+  <string name="permgrouprequestdetail_location">Uygulama yalnızca siz uygulamayı kullanırken konuma erişebilir</string>
+  <string name="permission">İzin</string>
   <string name="permission_remember_choice">Hatırla</string>  
   <string name="permission_request_notification_title">İzin isteği</string>
   <string name="permission_request_notification_with_subtitle">"%s hesabı için

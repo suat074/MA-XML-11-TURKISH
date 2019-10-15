@@ -62,6 +62,7 @@
   <string name="handy_mode_summary">Kapatmak için karanlık alana dokunun.</string>
   <string name="handy_mode_title">Tek elle kullanım modu</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Ana sayfa düğmesi üzerine parmağınızı koyun</string>
+  <string name="input_method_clipboard_tips">Kopyalanan öğeler 48 saat sonra panodan silinecek</string>
   <string name="internal_livetalk_enable">Yurtiçi aramalar için kontör paketini kullan</string>
   <string name="international_livetalk_enable">Uluslararası aramalar için kontör paketini kullan</string>
   <string name="key_btn_ok">Tamam</string>

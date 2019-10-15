@@ -152,6 +152,7 @@
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_show_root_folder_in_homepage">Başlangıç ​​sayfasında yalnızca hızlı notları göster</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Hareket kullanarak sil</string>
+  <string name="privacy_note_content_empty">Henüz burada öğe yok.</string>
   <string name="recover_notes_hint">Bir hata oluştu, notları geri yüklemek için i.mi.com adresine gidin.</string>
   <string name="redo">Yeniden yap</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Not yüklenene kadar bekleyin ve tekrar deneyin.</string>

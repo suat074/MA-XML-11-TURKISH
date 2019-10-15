@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
-  <string name="app_name">Dosya paylaşımı</string>
+  <string name="app_name">Dosya Paylaşımı</string>
   <string name="btn_cancel">İptal</string>
   <string name="btn_sure">Tamam</string>
   <string name="cancel_current">GEÇERLİYİ IİPTAL ET</string>
@@ -68,6 +68,9 @@
   <string name="hide">Gizle</string>
   <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>
   <string name="mi_drop">Dosya Paylaşımı</string>
+  <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için Dosya Paylaşımı\'nı kullanabilirsiniz.
+Dosya Paylaşımı, Mi ve Redmi telefonlarıyla uyumludur.
+OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu olacak. Uyumlu cihazların listesini web sitemizden kontrol edebilirsiniz."</string>
   <string name="no_longer_prompt">Engelle</string>
   <string name="no_longer_receive">Bu cihaz engellensin mi? Ondan dosya alamazsınız.</string>
   <string name="operate_too_fast">Çok hızlı! Devam eden işlemler tamamlanana kadar bekleyin.</string>
@@ -102,9 +105,10 @@
   <string name="throwing_screen">Yansıt</string>
   <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
   <string name="transfer_intercept_to_remote">Gönderilemedi: %1$s</string>
-  <string name="transfer_to_pc_summary">Öğeleri doğrudan Mi Notebook\'lara göndermek için Dosya Paylaşımı\'nı kullanabilirsiniz. Diğer dizüstü bilgisayarlara önce Dosya Paylaşımı uygulamasını yüklemelisiniz.</string>
+  <string name="transfer_to_pc_summary">"Telefonunuzdaki öğeleri Mi Notebook\'lara veya bir dizüstü bilgisayardan diğerine göndermek için Dosya Paylaşımı\'nı kullanabilirsiniz.
+Uyumlu cihazların listesini web sitemizde bulabilirsiniz. Dizüstü bilgisayarınız listede bulunuyorsa, ancak Dosya Paylaşımı yüklü değilse, dizüstü bilgisayarınızın BIOS ve ağ bağdaştırıcısı sürücüsünü güncelleyin ve Dosya Paylaşımı\'nı indirin."</string>
   <string name="transfer_to_pc_title">Dosyaları bilgisayarlara gönder</string>
-  <string name="transfer_to_phone_summary">Dosya Paylaşımı, görüntüleri ve dosyaları yakındaki Mi Telefonlara ve diğer uyumlu Android cihazlara göndermenize olanak sağlar.</string>
+  <string name="transfer_to_phone_summary">Dosya Paylaşımı, görüntüleri ve dosyaları yakındaki Mi Telefonlara ve diğer uyumlu cihazlara göndermenize olanak sağlar.</string>
   <string name="transfer_to_phone_title">Telefonlara dosya gönder</string>
   <string name="unkonw_device">Bilinmeyen aygıt</string>
   <string name="unrecognized_manufacture">Bilinmeyen</string>

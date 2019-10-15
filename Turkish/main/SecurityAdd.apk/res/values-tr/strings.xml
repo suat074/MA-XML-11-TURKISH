@@ -78,10 +78,19 @@
   <string name="superpower_progress_battery_last">Kalan %s</string>
   <string name="superpower_progress_left_time">%1$ds %2$dd</string>
   <string name="superpower_search_hint">Uygulamaları ara</string>
-  <string name="superpower_select_app_title">Ana ekran düzeni</string>
+  <string name="superpower_select_app_title">Sık kullanılan uygulamalar</string>
   <string name="superpower_settings">Ultra pil tasarrufu</string>
   <string name="superpower_system">Tavsiye edilen</string>
   <string name="superpower_third">Üçüncü parti uygulamalar</string>
+  <string name="superpower_app_contact">Kişiler</string>
+  <string name="superpower_app_delete">Sil</string>
+  <string name="superpower_app_edit">Düzenle</string>
+  <string name="superpower_app_exit">Çık</string>
+  <string name="superpower_app_isadded">Eklendi</string>
+  <string name="superpower_app_mms">Mesajlaşma</string>
+  <string name="superpower_app_phone">Telefon</string>
+  <string name="superpower_settings_launcher">Ultra pil tasarrufu</string>
+  <string name="superpower_toast_app_select_full">Sık kullanılan uygulamalara en fazla 6 öğe ekleyebilirsiniz</string>
   <string name="gdpr_msg"><Data>"Güvenlik temel özelliklerini kullanmak için, Güvenlik özelliklerini (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılımlarla ilgili bilgiler ve ayrıca cihazınızla ilgili temel bilgiler) ve &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikası&lt;/a>nda belirtilen diğer bilgi türlerini içeren bilgiler de dahil olmak üzere Xiaomi'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmelisiniz."</Data></string>
   <string name="gamebooster_network_dialog_message">Allow Security to connect to the network in order to use all features of the Game speed booster?</string>
   <string name="gamebooster_network_dialog_title">"Some features aren't available"</string>  

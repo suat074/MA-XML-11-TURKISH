@@ -334,7 +334,7 @@
   <string name="permgroupdesc_phone">Çağrı yapar ve cihaz bilgilerine erişir</string>
   <string name="permgroupdesc_sensors">Vücut sensör verilerine erişir</string>
   <string name="permgroupdesc_recognition">Sağlık &amp; aktivite verilerine erişir</string>
-  <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve IMSI\'ye erişir</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişir</string>
   <string name="permdesc_camera">Fotoğraf çeker ve video kaydeder</string>
   <string name="permdesc_in_calls">Gelen çağrıları izler</string>
   <string name="permdesc_location">Konum bilgisine erişir</string>

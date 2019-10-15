@@ -946,7 +946,7 @@ Makro modunu kullanın"</string>
   <string name="super_eis_disabled_hint">Süper stabilizasyon kapalı</string>
   <string name="super_night_hint">Görüntüyü optimize ediliyor… Cihazınızı sabit tutun.</string>
   <string name="ultra_pixel_108mp">108MP</string>
-  <string name="ultra_pixel_portrait_hint">HD portre</string>
+  <string name="ultra_pixel_portrait_hint">Düşük ışık portre</string>
   <string name="ultra_tele_use_hint_text_body">"Uzaktaki nesneleri daha ayrıntılı yakalamak için 
 50X yakınlaştırma kullanın"</string>
   <string name="ultra_tele_use_hint_text_title">50X yakınlaştırma</string>
@@ -957,5 +957,11 @@ Makro modunu kullanın"</string>
   <string name="vv_start">Vlog çekim</string>
   <string name="vv_use_hint_text_body">"Vlog modu hareket halindeyken video
 kaydetmenizi ve düzenlemenizi sağlar"</string>
-  <string name="vv_use_hint_text_title">VLOG</string>  
+  <string name="vv_use_hint_text_title">VLOG</string>
+  <string name="ccc_temperature_warning_msg">Cihazınız aşırı ısınmış. Fotoğraf makinesi %d saniye içinde kapanacaktır. Fotoğraflarınız veya videolarınız otomatik olarak kaydedilir.</string>
+  <string name="ccc_temperature_warning_title">Cihaz aşırı ısınmış</string>
+  <string name="hint_subtitle">Video çekerken altyazıları dikte et</string>
+  <string name="hint_subtitle_prompt">Şimdi altyazıları dikte edebilirsiniz</string>
+  <string name="pref_video_subtitle">Altyazı</string>
+  <string name="subtitle_network_exception_tips">Ağa bağlanılamadı. Şu anda yazıya çeviremiyorum.</string>  
 </resources>

@@ -292,7 +292,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="aod_mode_title">Daima Açık Modu</string>
   <string name="aod_mode_turn_off">Kapalı</string>
   <string name="aod_mode_turn_on">Açık</string>
-  <string name="aod_name_wanxiang">Ortam ekranı</string>
+  <string name="aod_name_wanxiang">Her zaman açık ekran</string>
   <string name="aod_notification_style_none">Hiçbir şey yapma</string>
   <string name="aod_notification_style_screen_on">Ekranı aydınlat</string>
   <string name="aod_notification_style_animation">Animasyonu göster</string>	
@@ -1666,7 +1666,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="doze_always_on_summary">Bu özellik sistem güç tüketimini arttırır. Cihaz uzun süre kullanılmadığında veya Pil tasarrufu kısıtlamaları uygulandığında kapatılır.</string>
   <string name="doze_always_on_title">Açık</string>
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
-  <string name="doze_title">Ortam ekranı</string>
+  <string name="doze_title">Her zaman açık ekran</string>
   <string name="draw_overlay">Diğer uyglmlr üzerinde görüntüle</string>
   <string name="draw_overlay_title">Diğer uygulamaların üzerinde görüntülenen uygulamalar</string>
   <string name="dtmf_tone_enable_title">Tuş Takımı Sesleri</string>
@@ -6235,8 +6235,8 @@ Yukarıdakilerden herhangi birini zaten yaptıysanız, Mi Hesabınızı tekrar e
   <string name="doubletap_app_title">Uygulama seç</string>
   <string name="swipeup_app_title">Uygulama seç</string>
   <string name="4GtoLTE">LTE yerine 4G göster</string>
-  <string name="ambient_display_screen_title">Ortam ekranı</string>
-  <string name="keywords_ambient_display_screen">Ortam ekranı, Kilit ekranı</string>
+  <string name="ambient_display_screen_title">Her zaman açık ekran</string>
+  <string name="keywords_ambient_display_screen">Her zaman açık ekran, Kilit ekranı</string>
   <string name="long_press_power_key_half_of_second">Google Asistan\'ı açmak için güç düğmesine 0,5 saniye basılı tutun.</string>
   <string name="power_key_how_power_force_off">Cihazınızı yeniden başlatmaya zorlama nasıl yapılır?</string>
   <string name="power_key_how_power_force_off_detail">Cihazınız yeniden başlatılıncaya kadar Güç düğmesine basılı tutun</string>
@@ -6651,9 +6651,9 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="account_settings_title">Google &amp; hesaplar</string>
   <string name="ambient_display_screen_summary_always_on">Her zaman açık / Artan pil kullanımı</string>
   <string name="ambient_display_screen_summary_notifications">Yeni bildirimler</string>
-  <string name="aod_and_lock_screen_settings_title">Ortam ekranı &amp; Kilit ekranı</string>   
-  <string name="aod_settings_category_name">Ortam ekranı</string> 
-  <string name="aod_settings_title">Ortam ekranı</string>
+  <string name="aod_and_lock_screen_settings_title">Her zaman açık ekran &amp; Kilit ekranı</string>   
+  <string name="aod_settings_category_name">Her zaman açık ekran</string> 
+  <string name="aod_settings_title">Her zaman açık ekran</string>
   <string name="applications_settings_title">Uygulamalar</string>
   <string name="feedback_settings">Hizmetler &amp; geri bildirim</string>
   <string name="full_screen_display">Tam ekran modu</string>

@@ -437,6 +437,11 @@
   <string name="heavenly_stems_xin">辛</string>
   <string name="heavenly_stems_yi">乙</string>
   <string name="hide_password_description">Şifreyi gizle</string>
+  <string name="host_connect_timeout_tip">Uzun süre bağlanılamıyor</string>
+  <string name="host_dialog_install_button">Başka bir cihaza yükleyin</string>
+  <string name="host_dialog_known_button">Anladım</string>
+  <string name="host_dialog_message">Mi Transfer\'in en son sürümünün diğer cihaza yüklendiğinden emin olun.; aksi takdirde, iki cihaz bağlanamayabilir.</string>
+  <string name="host_dialog_title">Uzun süre bağlanılamıyorv</string>
   <string name="host_memory_insuff_cancel">İptal</string>
   <string name="host_memory_insuff_confirm">Tekrar seç</string>
   <string name="host_memory_insuff_summary">Yeni cihazda bir aktarmayı başlatmak için yeterli depolama alanı yok.</string>
@@ -645,6 +650,7 @@
   <string name="scanner_size_selected">Seçilen: %s</string>
   <string name="scanner_time_remained">Tahmini süre: %s</string>
   <string name="scanner_title_tip">Aktarılacak öğeleri seçin</string>
+  <string name="search_action_mode_cancel">İptal</string>
   <string name="search_input_description">Ara</string>
   <string name="search_mode_button_back_description">Geri</string>
   <string name="searching_for_new_device">Yeni bir cihaz aranıyor…</string>
