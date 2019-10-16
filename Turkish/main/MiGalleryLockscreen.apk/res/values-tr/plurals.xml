@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="feed_article_entrance_title">
-    <item quantity="other">Bu konuyla ilgili %d makale</item>
-    <item quantity="one">Bu konuyla ilgili %d makale</item>
+    <item quantity="other">Size önerilen %s makaleyi görüntüleyin</item>
+    <item quantity="one">Size önerilen %s makaleyi görüntüleyin</item>
   </plurals>
   <plurals name="llks_tools_remote_control_data">
-    <item quantity="other">%d öğe</item>
-    <item quantity="one">%d öğe</item>
+    <item quantity="other">%s öğe</item>
+    <item quantity="one">%s öğe</item>
   </plurals>
   <plurals name="llks_tools_smart_devices_data">
-    <item quantity="other">%d cihaz</item>
-    <item quantity="one">%d cihaz</item>
+    <item quantity="other">%s cihaz</item>
+    <item quantity="one">%s cihaz</item>
   </plurals>
   <plurals name="lockscreen_magazine_subscribe">
     <item quantity="other">%1$s kişi abone oldu</item>
@@ -31,5 +31,9 @@
   <plurals name="time_minute_ago">
     <item quantity="other">%d dak önce</item>
     <item quantity="one">%d dak önce</item>
+  </plurals>
+  <plurals name="wm_cw_count">
+    <item quantity="other">%d görüntü</item>
+    <item quantity="one">%d görüntü</item>
   </plurals>
 </resources>
