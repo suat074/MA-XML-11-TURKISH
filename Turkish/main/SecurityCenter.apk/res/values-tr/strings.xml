@@ -1969,6 +1969,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="shield_keyboard_detail">Tekrar açmak için düğmelere iki kez dokunun</string>
   <string name="shield_keyboard_summary">Oyunlar sırasında düğmeleri ve tam ekran hareketlerini kısıtla</string>
   <string name="shield_keyboard_title">Düğmeleri ve hareketleri kısıtla</string>
+  <string name="shortcut_title_scan">Tara</string>
+  <string name="shortcut_title_whatsapp_clean">WhatsApp temizleyici</string>
   <string name="show_system_app">Sistem uygulamalarını göster</string>
   <string name="show_traffic_dialog_message">Veri kullanım bilgileriniz Bildirim alanında görünecek. Bu özelliği Veri kullanımı &gt; Ayarlar bölümünden istediğiniz zaman açıp kapatabilirsiniz.</string>
   <string name="show_traffic_dialog_title">Bildirim alanında kullanımı göster</string>
