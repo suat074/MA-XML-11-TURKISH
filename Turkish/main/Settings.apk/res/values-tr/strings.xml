@@ -250,7 +250,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="alarm_sound_title">Alarm Sesi</string>
   <string name="alarm_stop">Alarm zil sesi sessiz modda sonlandırabilir</string>
   <string name="alarm_stop_info">Alarm ayar bitmeden çalıyor olması durumunda,sessiz mod sonlandırılabilir</string>
-  <string name="alarm_volume_option_title">Alarm Seviyesi</string>
+  <string name="alarm_volume_option_title">Alarm sesi</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="all_volume_title">Sesler</string>
   <string name="allow">İzin Ver</string>
@@ -4012,7 +4012,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="search_user_dict_settings_title">Kişisel Sözlük</string>
   <string name="search_vibrate_in_silent_title">Sessizken titret</string>
   <string name="search_vibrate_on_touch_title">Dokununca titret</string>
-  <string name="search_vibrate_when_ringing_title">Çağrılarda titret</string>
+  <string name="search_vibrate_when_ringing_title">Ayrıca çağrılar için titreşim;titreşim</string>
   <string name="search_virtual_sim">Sanal SIM Kart</string>
   <string name="search_vpn_enable">Sanal Ağ Noktası (VPN)</string>
   <string name="search_vpn_settings_password">VPN şifre;VPN Koruması</string>
@@ -5110,7 +5110,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="vibrate_input_devices">Titreşimi kullan</string>
   <string name="vibrate_input_devices_summary">Oyun denetleyicisi bağlandığında titreşime yönlendirir.</string>
   <string name="vibrate_on_touch_title">Dokunmatik titreşim</string>
-  <string name="vibrate_when_ringing_title">Çağrılarda ayrıca titret</string>
+  <string name="vibrate_when_ringing_title">Çağrılar için titreşim</string>
   <string name="vip_list">VIP listesi</string>
   <string name="virtual_keyboard_category">Sanal Klavye</string>
   <string name="virtual_sim_category_title">Mi Dolaşımı</string>

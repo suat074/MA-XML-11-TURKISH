@@ -48,8 +48,8 @@
   <string name="fast_connect_device_headset_reset">Kutunun üzerindeki düğmeye basılı tutun</string>
   <string name="fast_connect_device_title_connect_fail">%1$s bağlanamadı</string>
   <string name="fast_connect_device_title_connecting">Bağlanıyor…</string>
-  <string name="fast_connect_device_title_find_headset">Cihazı bul %1$s</string>
-  <string name="fast_connect_device_title_find_headset_others">Cihazı bul %1$s diğerleri</string>
+  <string name="fast_connect_device_title_find_headset">Kulaklığı bul %1$s</string>
+  <string name="fast_connect_device_title_find_headset_others">Kulaklığı bul %1$s diğerleri</string>
   <string name="goto_package">%1$s aç</string>
   <string name="install_package">Daha fazla fonksiyon için %1$s yükleyin</string>
   <string name="mi_band_vibrate_alarm">Alarm sesi çaldığında titret</string>
@@ -62,7 +62,7 @@
   <string name="mi_key_alert_dialog_message">Alarmı susturmak için Tamam\'a dokun</string>
   <string name="mi_key_alert_dialog_title">Mi Key Alarmı</string>
   <string name="mi_key_find_mikey">Mi Key\'i bul</string>
-  <string name="mi_key_find_phone">Cihazı bul</string>
+  <string name="mi_key_find_phone">Kulaklığı bul</string>
   <string name="mi_key_open_camera">Kamerayı aç</string>
   <string name="mi_key_summary_find_phone">Zil sesi için Mi Key\'e basılı tutun</string>
   <string name="mi_key_summary_open_camera">Kamerayı açmak için Mi Key\'e çift tıklayın</string>
