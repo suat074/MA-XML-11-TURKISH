@@ -451,9 +451,9 @@
   <string name="subscribe_success_content_per_three_hour">Her 3 saatte bir duvar kağıdını değiştir</string>
   <string name="subscribe_success_content_per_unlock">Cihaz her kilitlendiğinde duvar kağıdını değiştir</string>
   <string name="subscribe_update_time_setting">Farklı bir aralık ayarla</string>
-  <string name="summary">Çevrimiçi içeriği görüntülemek için &lt;a href='%s'>Gizlilik Politikamızı&lt;/a> kabul edin. Kabul etmezseniz, yerel duvar kâğıtları hala mevcut olacaktır.</string>
-  <string name="summary_international">Bu özelliği kullanarak, &lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir.</string>
-  <string name="summary2">Bu özelliği kullanarak, &lt;font color='#37A5FF'>&lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;font color='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir.</string>
+  <string name="summary">"Çevrimiçi içeriği görüntülemek için &lt;a href='%s'>Gizlilik Politikamızı&lt;/a> kabul edin. Kabul etmezseniz, yerel duvar kâğıtları hala mevcut olacaktır."</string>
+  <string name="summary_international">"Bu özelliği kullanarak, &lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
+  <string name="summary2">"Bu özelliği kullanarak, &lt;font color='#37A5FF'>&lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;font color='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
   <string name="sure_close_gallery">Duvar Kağıdı Döngüsü kapatılsın mı?</string>
   <string name="sure_close_gallery_des">Duvar Kağıdı Döngüsü\'nü kapatırsanız Ana ekranınıza ve Kilit ekranınıza taze görüntüler gönderemezsiniz. Yine de kapatılsın mı?</string>
   <string name="tab_user_title_bar_text">Ayarlar</string>
