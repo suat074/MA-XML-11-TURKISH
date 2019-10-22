@@ -61,6 +61,9 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problemi \"%2$s\"</string>
   <string name="feedback_choose_module">Öğeyi Seç</string>
   <string name="feedback_choose_module_hint">İstenen:</string>
+  <string name="feedback_choose_occurrence_time">Zaman</string>
+  <string name="feedback_hint_optional">Seçin</string>
+  <string name="feedback_title_occurrence_time">Zaman seçin</string>
   <string name="feedback_collect_log_failed">"Günlük alınamadı"</string>
   <string name="feedback_continue">Geribildirimle devam et</string>
   <string name="feedback_description">Açıklama</string>

@@ -10,6 +10,8 @@
   <string name="cancelling_notification_title_template">%1$s iptal ediliyor</string>
   <string name="cannot_add_printer">Yazıcı eklenemedi</string>
   <string name="collapse_handle">Tanıtıcıyı daralt</string>
+  <string name="copies_decrease">Eksi bir kopya</string>
+  <string name="copies_increase">Artı bir kopya</string>
   <string name="could_not_create_file">Dosya oluşturulamadı</string>
   <string name="disabled_services_title">Hizmetler pasif</string>
   <string name="enable_print_service">Etkinleştirmek için seçin</string>

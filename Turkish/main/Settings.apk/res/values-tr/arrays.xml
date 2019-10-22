@@ -972,12 +972,12 @@
   <string-array name="screen_optimize_summary">
     <item>Mevcut ışığa göre renkleri ayarla</item>
     <item>Her zaman renkleri geliştir</item>
-    <item>Renk kalibrasyonu ile ekran içeriğinin standart rengini geri yükle</item>
+    <item>Kontrast sabit kalacak</item>
   </string-array>
   <string-array name="screen_optimize_title">
     <item>Otomatik (önerilir)</item>
     <item>Doygun</item>
-    <item>Orijinal renk</item>
+    <item>Standart</item>
   </string-array>
   <string-array name="screen_saturation_title">
     <item>Parlak</item>
@@ -1396,5 +1396,15 @@
     <item>Dengeli ses ve bağlantı kalitesi (500/560kbps)</item>
     <item>Ses kalitesi için optimize edilmiş (900kbps)</item>
     <item>En iyi çaba (Otomatik bit hızı)</item>
+  </string-array>
+  <string-array name="true_color_screen_optimize_summary">
+    <item>Mevcut ışığa göre renkleri ayarla</item>
+    <item>Her zaman renkleri geliştir</item>
+    <item>Renk kalibrasyonu ile ekran içeriğinin standart rengini geri yükle</item>
+  </string-array>
+  <string-array name="true_color_screen_optimize_title">
+    <item>Otomatik (önerilir)</item>
+    <item>Doygun</item>
+    <item>Orijinal renk</item>
   </string-array>  
 </resources>

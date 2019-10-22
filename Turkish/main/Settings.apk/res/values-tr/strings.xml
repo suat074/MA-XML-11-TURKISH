@@ -2886,6 +2886,10 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="nearby_wifi">Mevcut Ağlar</string>
   <string name="need_reboot_now">Güncelleştirmeyi yüklemek için yeniden başlatın.</string>
   <string name="netcheck_title">Ağ Teşhisi</string>
+  <string name="network_alarm">İnternet çağrılarını susturma</string>
+  <string name="network_alarm_summary">Not: Bazı uygulamalar bu özellik ile uyumlu değil.%1$s</string>
+  <string name="network_alarm_summary_reg">Desteklenen uygulamaları görüntüleyin</string>
+  <string name="network_alarm_support_apps">Desteklenen uygulamalar</string>
   <string name="network_assistant">Veri kullanımı</string>
   <string name="network_changed_noti_summary">Mobil veri kullanılıyor</string>
   <string name="network_changed_noti_title">WLAN bağlantısı kesildi</string>

@@ -36,6 +36,13 @@
     <item>Varsayılan</item>
     <item>Klasik</item>
   </string-array>
+  <string-array name="icon_size">
+    <item>ÇK</item>
+    <item>K</item>
+    <item>O</item>
+    <item>B</item>
+    <item>ÇB</item>
+  </string-array>
   <string-array name="transformation_entries">
     <item>Kaydır</item>
     <item>Geçiş</item>
