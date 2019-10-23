@@ -286,5 +286,8 @@
   <string name="text_play_speed_0_5">0.5X oynatma hızı</string>
   <string name="text_play_speed_1_0">Normal oynatma hızı</string>
   <string name="text_play_speed_1_5">1.5X oynatma hızı</string>
-  <string name="text_play_speed_2_0">2X oynatma hızı</string>  
+  <string name="text_play_speed_2_0">2X oynatma hızı</string>
+  <string name="online_recognize_progress">%s yazılıyor…</string>
+  <string name="search_empty">Sonuç bulunamadı</string>
+  <string name="search_hint">Ara</string>  
 </resources>

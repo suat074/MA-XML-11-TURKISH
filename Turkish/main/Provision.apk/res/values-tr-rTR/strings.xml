@@ -198,7 +198,7 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="require_authority_statement">Size temel hizmetleri sunmamız ve kişisel bilgilerinizi toplamamız için aşağıdaki izinleri vermeniz gerekir:</string>
   <string name="require_network_authority_statement">Size temel hizmetleri sunmamız ve kişisel bilgilerinizi toplamamız için internete bağlanmanız ve aşağıdaki izinleri vermeniz gerekir:</string>
   <string name="screen_recording_introduction">Bu uygulama, ekranda neler olup bittiğini kaydetmenize olanak sağlar.</string>
-  <string name="security_introduction">Cihazınızdaki çöpleri temizleme, virüsleri bulma ve etkisizleştirme, oyun performansını artırma, pil tasarrufu yapma, uygulamaları yönetme ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz.</string>
+  <string name="security_introduction">Cihazınızdaki çöpleri temizlemek, virüsleri bulmak ve etkisizleştirmek, oyun performansını artırmak, pil tasarrufu yapmak, uygulamaları yönetmek, izinleri ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz.</string>
   <string name="security_mobile_account_introduction">Oturum açmak ve sistem hesaplarını yönetmek için</string>
   <string name="service_agreement">Şartlar ve koşulları okudum ve kabul ediyorum.</string>
   <string name="service_name_album">Galeri</string>
@@ -223,5 +223,5 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="service_policy"><Data>&lt;a href=%1$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="service_privacy_index">Gizlilik Politikası</string>
   <string name="servicestate_title">Temel hizmetler hakkında açıklama</string>
-  <string name="user_agreement_declare">MIUI kullanmadan önce, Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okumalı ve kabul etmelisiniz. Cihazınız etkinleştirilirken Mi SIM Etkinleştirme Hizmeti, Ana ekran, Sık kullanılan ifadeler, Çeviri Hizmeti, MIUI Daemon ve Güncelleyici ağa bağlanır. MSA ağa bağlanacak ve konumunuza erişecektir.</string>
+  <string name="user_agreement_declare">MIUI kullanmadan önce, Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okumalı ve kabul etmelisiniz. Cihazınız etkinleştirilirken, Mi SIM Etkinleştirme Hizmeti, Cihazı Bul, Ana ekran, Sık Kullanılan ifadeler, Çeviri Hizmeti, MIUI Daemon, HTML Görüntüleyici ve Güncelleyici ağa bağlanacaktır. Akıllı hizmetler ağa bağlanır ve konumunuza erişir.</string>
 </resources>

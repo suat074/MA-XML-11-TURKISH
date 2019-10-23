@@ -216,7 +216,7 @@
   <string name="pref_camera_auto_capture_when_stable_title">Sabitken seçili nesneleri yakala</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma flaş</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Merkez ağırlıklı</string>
-  <string name="pref_camera_autoexposure_entry_frameaverage">Çerçeve ortalaması</string>
+  <string name="pref_camera_autoexposure_entry_frameaverage">Çerçeve ortalama</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Nokta ölçümü</string>
   <string name="pref_camera_autoexposure_title">Otomatik pozlama ayarları</string>
   <string name="pref_camera_beautify_entry_auto">Kapalı</string>
@@ -293,11 +293,11 @@
   <string name="pref_camera_front_bokeh_entry_off">Kapalı</string>
   <string name="pref_camera_front_bokeh_entry_on">Açık</string>
   <string name="pref_camera_gradienter_title">Düzelt</string>
-  <string name="pref_camera_groupshot_mode_title">Grup özçekim</string>
+  <string name="pref_camera_groupshot_mode_title">Grup özçekimi</string>
   <string name="pref_camera_hand_night_title">Gece Modu</string>
   <string name="pref_camera_hdr_entry_auto">Otomatik</string>
   <string name="pref_camera_hdr_entry_live">Canlı</string>
-  <string name="pref_camera_hdr_entry_normal">Profesyonel</string>
+  <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Kapalı</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
@@ -418,7 +418,7 @@
   <string name="pref_camera_whitebalance_entry_incandescent">Akkor</string>
   <string name="pref_camera_whitebalance_entry_manual">Manuel</string>
   <string name="pref_camera_whitebalance_entry_measure">Ölçü</string>
-  <string name="pref_camera_whitebalance_title">Beyaz dengesi</string>
+  <string name="pref_camera_whitebalance_title">BD</string>
   <string name="pref_camera_zoom_mode_entry_high_pixel">DÜŞÜK IŞIK</string>
   <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
   <string name="pref_camera_zoom_mode_entry_tele">YAKIN</string>
@@ -479,7 +479,7 @@
   <string name="pref_video_time_lapse_frame_interval_title">Zaman atlama aralığı</string>
   <string name="preparing_sd">SD kart kontrol ediliyor…</string>
   <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar dokunun</string>
-  <string name="screen_on_proximity_sensor_hint">Bu özelliği kapatmak için, Yukarı ve Geri düğmelerine aynı anda basın.</string>
+  <string name="screen_on_proximity_sensor_hint">Bu özelliği kapatmak için, Ses açma ve Geri düğmelerine aynı anda basın.</string>
   <string name="screen_on_proximity_sensor_summary">Kulaklık alanını kapatmayın</string>
   <string name="search_settings">Kamera Ayarları;Kalite;Fotoğraf Kalitesi;Resim Konumu;Fotoğraf Konumu;Yüz Tespiti;Kamera Sesi</string>
   <string name="see_qrcode_detals">QR Kodu Detayları</string>
@@ -524,12 +524,12 @@
   <string name="user_agreement2">Kullanım Şartları</string>
   <string name="user_agreement4">Gizlilik Politikası</string>
   <string name="user_notice_identify_summary_format">"Kamera\'yı kullanmadan önce <a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı</a> kabul etmelisiniz. Ayrıca Kamera\'nın normal çalışması için internete bağlanması gerekir. Kabul?"</string>
-  <string name="user_notice_title">Ağ Bağlantısı Anlaşması</string>
-  <string name="video_camera_label">Video Kamera</string>
+  <string name="user_notice_title">Şartlar ve Koşullar</string>
+  <string name="video_camera_label">Video kamera</string>
   <string name="video_effect_entry_blackwhite">S&amp;B</string>
   <string name="video_effect_entry_bygone">Geçmiş</string>
   <string name="video_effect_entry_film">Film</string>
-  <string name="video_effect_entry_forest">Koru</string>
+  <string name="video_effect_entry_forest">Ağaçlık</string>
   <string name="video_effect_entry_holiday">Yansımalar</string>
   <string name="video_effect_entry_polaroid">Polaroid</string>
   <string name="video_reach_size_limit">Boyut sınırına ulaşıldı.</string>
@@ -589,7 +589,7 @@ kullanabilirsiniz"</string>
   <string name="lighting_pattern_rainbow">Gökkuşağı</string>
   <string name="lighting_pattern_shutter">Panjur</string>
   <string name="lighting_pattern_stage">Aşama</string>
-  <string name="pref_camera_super_resolution_title">SR\'yi aç</string>
+  <string name="pref_camera_super_resolution_title">Süper Çözünürlüğü aç</string>
   <string name="pref_google_lens">Google lens</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh kapalı</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string> 
@@ -732,7 +732,7 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
   <string name="hand_gesture_open_tip">Zamanlayıcıyı başlatmak için avucunuzu kameraya gösterin</string>
   <string name="hand_gesture_tip">Avuç içi ile çekim</string>
-  <string name="pref_new_slow_motion_video_quality_960_720only">720p videoları yalnızca 960fps ile kaydedebilirsiniz.</string>
+  <string name="pref_new_slow_motion_video_quality_960_720only">960fps ile yalnızca 720p video kaydedebilirsiniz</string>
   <string name="ultra_wide_mode_use_hint_text_sat">"Fotoğrafınıza daha fazla sahne eklemek için 0.6X Ultra geniş açı modunu deneyin.
 Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı olur."</string>  
   <string name="autozoom_landscape_hint">Manzara altında çekim yapılması önerilir</string>
@@ -797,7 +797,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="example_screen_address_example">Örneğin, 1600 Amfitiyatro Pkwy, Dağ Manzaralı, CA</string>
   <string name="example_screen_address_title">Adres</string>
   <string name="example_screen_barcode_title">Barkod</string>
-  <string name="example_screen_date_example">Örneğin, 8 Mayıs 7PM</string>
+  <string name="example_screen_date_example">Örneğin, 8 Mayıs 7ÖS</string>
   <string name="example_screen_date_title">Tarih</string>
   <string name="example_screen_email_example">Örneğin, melanie@email.com</string>
   <string name="example_screen_email_title">E-posta adresi</string>

@@ -7,7 +7,7 @@
   <string name="add_secret_ensure_title">Gizle</string>
   <string name="add_sharer">Üye ekle</string>
   <string name="add_to_album">Albüme ekle</string>
-  <string name="add_to_album_bulk_result">(%d) Başarısız oldu</string>
+  <string name="add_to_album_bulk_result">Hata (%d)</string>
   <string name="add_to_album_exist">Bu fotoğraf zaten var</string>
   <string name="add_to_album_failed">Albüme ekleme başarısız</string>
   <string name="add_to_album_failed_with_reason">%1$s albüme eklenemiyor</string>
@@ -72,14 +72,14 @@
   <string name="album_share_title_new_album">Yeni albümü paylaş</string>
   <string name="album_show_local_only">Sadece yerel albümleri göster</string>
   <string name="album_show_local_only_summary">Sadece cihazdaki fotoğrafları silmek ve görüntülemek için açın</string>
-  <string name="album_type_baby">Albümü Paylaş</string>
-  <string name="album_type_share">Bebek Albümü</string>
-  <string name="album_type_system">Sistem Albümü</string>
+  <string name="album_type_baby">Bebek albümü</string>
+  <string name="album_type_share">Paylaşılan albümler</string>
+  <string name="album_type_system">Sistem albümü</string>
   <string name="album_videos_name">Videolar</string>
   <string name="album_wallpaper">Duvar kağıtları</string>
   <string name="alert_secret_album_enter">Anladım</string>
-  <string name="alert_secret_album_message">Gizlenen albümü görmek için Albümler sekmesinde aşağı doğru hızlıca kaydırın.</string>
-  <string name="alert_secret_album_message_lower_case">\" gizlenen albümü görüntülemek için Albümler\'e dokunduğunuzda aşağı kaydırın.</string>
+  <string name="alert_secret_album_message">Gizli albümü görüntülemek için Albümler sekmesinde aşağı kaydırın.</string>
+  <string name="alert_secret_album_message_lower_case"> görüntülemek için Albümler\'de aşağı kaydırın</string>
   <string name="alert_secret_album_title">Gizli Albümü nasıl görebilirim</string>
   <string name="all_faces">Kişinin tüm fotoğrafları</string>
   <string name="all_items_synced">Tüm albümler Xiaomi Bulut\'a yedeklendi.</string>
@@ -221,7 +221,7 @@
   <string name="cleaner_space_description">serbest bırakılabilir</string>
   <string name="cleaner_space_detail_description">Depolama alanını boşaltmak için Galeri\'nizden fotoğrafları temizleyin</string>
   <string name="cleaner_stop_scan">Taramayı durdur</string>
-  <string name="click_download_gif">gif indirmek için tıklayın</string>
+  <string name="click_download_gif">"GIF'i indirmek için dokunun"</string>
   <string name="click_top_right">Bu simgeye dokunun</string>
   <string name="cloud_camera_display_name">Kamera fotoğrafları</string>
   <string name="cloud_guide_auto_backup_title">Yedeklenecek albümleri seçin</string>
@@ -266,8 +266,8 @@
   <string name="confirm_hidden_recommend_group">Tamam</string>
   <string name="confirm_hidden_recommend_group_message">Öneriler kapatıldığında, \"Benzeyen Daha Fazla Kişi\" seçeneği de kullanabilirsiniz</string>
   <string name="confirm_hidden_recommend_group_title">Tavsiyeleri gösterme</string>
-  <string name="confirm_merge_face_albums">" \" %s bu albümle birleştirilsin mi? \" "</string>
-  <string name="confirm_merge_many_face_albums">" \" %s bu albümle birleştirilsin mi? \" "</string>
+  <string name="confirm_merge_face_albums">&lt;Data> Albüm %s ile birleştirilsin mi? &lt;/Data></string>
+  <string name="confirm_merge_many_face_albums">&lt;Data> Bu albümler %s ile birleştirilsin mi? &lt;/Data></string>
   <string name="confirm_not_face">Eşleşme yok</string>
   <string name="confirm_recommandation_face_is">" "<Data> Bunun &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olduğundan emin misiniz? Bu kişi \"%2$s\" albümüne taşınacak. </Data>" "</string>
   <string name="confirm_recommandation_face_not">" "<Data>" Bunun &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olmadığından emin misiniz? "</Data>" "</string>

@@ -23,5 +23,9 @@
     <plurals name="choose_call_records_count">
         <item quantity="other">%d öğe</item>
         <item quantity="one">%d öğe</item>
+    </plurals>
+    <plurals name="search_result">
+        <item quantity="other">%d kayıt bulundu</item>
+        <item quantity="one">%d kayıt bulundu</item>
     </plurals>	
 </resources>
