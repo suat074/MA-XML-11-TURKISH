@@ -178,7 +178,6 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="unsupported_home">MIUI\'yi en son sürüme güncelleyin.</string>
   <string name="load_backup_failed">Yedeklemeler yüklenemedi</string>
   <string name="loading_user_backup">Kullanıcı yedekleri yükleniyor…</string>
-  <string name="loading_progress_num">%s%% yüklendi</string>
   <string name="main_space">İlk alan</string>
   <string name="try_continue">Devam etmek için dokunun</string>
   <string name="backup_stopped_msg">Geçerli yedekleme önceki olanın üzerine yazacaktır. Görüntülemek için dokunun.</string>
