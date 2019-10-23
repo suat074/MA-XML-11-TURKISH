@@ -1768,16 +1768,30 @@
   <string name="wifi_ap_unable_to_handle_new_sta">Erişim noktası geçici olarak dolu</string>
   <string name="wifi_auto_sel_wapi_cert">Otomatik seç</string>
   <string name="wifi_call_notification_message">Bu servis Orange tarafından sağlanmaktadır. Bu servisi etkinleştirmek birkaç saat sürebilir. Kullanılabilir olur olmaz bir onay mesajı alacaksınız.</string>
+  <string name="wifi_call_preferred_summary">Mobil ağları tercih etmeyi seçerseniz, mobil ağlar varsayılan olarak çağrılar için kullanılır. Mobil ağ sinyali olmadığında veya çok zayıf olduğunda, bunun yerine WLAN ağı kullanılacaktır.</string>
   <string name="wifi_call_available_title">Wi-Fi Çağrısı açılıyor</string>
-  <string name="wifi_call_available_message">Şimdi Wi-Fi kullanarak arama yapabilirsiniz. Bir Wi-Fi şebekesine bağlıysanız, mobil şebeke kapsama alanı olmayan bölgelerde bile konuşabilirsiniz.</string>
-  <string name="wifi_call_cancel">İptal</string>
-  <string name="wifi_call_accept">Tamam</string>
+  <string name="wifi_call_available_message">Şimdi Wi-Fi kullanarak arama yapabilirsiniz. Bir Wi-Fi ağına bağlıysanız, mobil ağ kapsama alanı olmayan bölgelerde bile konuşabilirsiniz.</string>
+  <string name="wifi_call_cancel">Daha fazla bilgi</string>
+  <string name="wifi_call_accept">Atla</string>
   <string name="wifi_call_help">Yardım</string>
-  <string name="wifi_call_help_title">Wi-Fi Çağrı Yardımı</string>
-  <string name="wifi_call_help_message">Mobil şebekeleri tercih etmeyi seçerseniz, mobil şebekeler varsayılan olarak çağrılar için kullanılacaktır. Mobil şebeke sinyali olmadığında veya çok zayıf olduğunda, bunun yerine Wi-Fi şebekesi kullanılacaktır.</string>
+  <string name="wifi_call_help_title">WLAN Çağrı Yardımı</string>
+  <string name="wifi_call_help_message">Mobil şebekeleri tercih etmeyi seçerseniz, mobil şebekeler varsayılan olarak çağrılar için kullanılacaktır. Mobil ağ sinyali olmadığında veya çok zayıf olduğunda, bunun yerine Wi-Fi şebekesi kullanılacaktır.</string>
+  <string name="wifi_call_help_message_1">"WLAN Çağrısı, Orange tarafından sağlanan ve WLAN üzerinden çağrı yapmanızı ve almanızı sağlayan bir servistir. Bu özellik, mobil ağ kapsama alanının zayıf olduğu alanlarda kullanılabilir.
+
+WLAN Çağrısı'nı kullanmak için, Ayarlar &gt; WLAN Çağrısı\'nı açın.
+
+Hizmeti etkinleştirmek için Orange, servis kullanılabilir olduğunda size bir onay mesajı gönderir. Bundan sonra, bir WLAN ağına bağlanabilir ve çağrı yapabilirsiniz.
+
+WLAN üzerinden yapılan çağrılar planınızın şartlarına göre ücretlendirilecektir.
+
+Bu özellik kullanılabilir olduğunda, ekranınızın üstünde aşağıdaki simge gösterilecektir."</string>
+  <string name="wifi_call_help_message_2">"WLAN ağlarını tercih etmeyi seçerseniz, bunlar varsayılan olarak telefon görüşmeleri yapmak için kullanılır. WLAN\'a bağlı değilseniz veya sinyalin zayıf olması durumunda, çağrı yapmak için mobil ağlar kullanılır.
+
+Mobil ağları tercih etmeyi seçerseniz, varsayılan olarak telefon görüşmeleri yapmak için bunlar kullanılır. Mobil ağ kapsama alanı yoksa veya sinyal zayıfsa, bunun yerine WLAN ağları kullanılacaktır."</string>
   <string name="wifi_call_setting">Wlan çağrıları</string>
   <string name="wifi_call_setting_vodafone_de">WLAN çağrısı</string>
   <string name="wifi_call_setting_vodafone_uk">WLAN çağrısı</string>
+  <string name="wifi_call_welcome_settings">WLAN çağrıları</string>
   <string name="wifi_calling">WLAN çağrısı</string>
   <string name="wifi_calling_settings_title">WLAN çağrısı</string>
   <string name="wifi_cant_connect">Bağlanamıyor</string>

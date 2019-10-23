@@ -777,6 +777,12 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="bluetooth_hid_profile_summary_connected">Giriş cihazı için bağlandı</string>
   <string name="bluetooth_hid_profile_summary_use_for">Giriş için kullan</string>
   <string name="bluetooth_incoming_pairing_msg">Kaynak: %1$s bu cihaz ile eşleştirilsin mi?</string>
+  <string name="bluetooth_inform_messgae">"%1$s ile bağlantı kurulamadı.
+Sorun şunlar olabilir:
+1. Bluetooth bu cihazda kapalı veya kapsama alanı dışında.
+2. Bu cihaz keşfedilebilir modda değil.
+3. Cihaz başka cihazlara bağlı. Bağlantıyı kesin ve tekrar deneyin."</string>
+  <string name="bluetooth_inform_messgae_title">Bağlanamadı</string>
   <string name="bluetooth_is_disconnect_question">%1$s bağlantısı kesilsin mi?</string>
   <string name="bluetooth_is_discoverable">Yakındaki tüm Bluetooth cihazları tarafından görülebilir (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Yakındaki tüm Bluetooth cihazlar için bu cihazı görünür yap</string>

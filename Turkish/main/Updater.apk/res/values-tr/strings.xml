@@ -29,6 +29,7 @@
   <string name="download_fail_desc">MD5 Sum eşleşmiyor ...</string>
   <string name="downloading">İndiriliyor:</string>
   <string name="downloading_desc">İndiriliyor, bildirim alanındaki durumu kontrol edin.</string>
+  <string name="fetching_data">İndirme bağlantısı alınıyor, lütfen bekleyin…</string>
   <string name="install_desc">Cihaz kurtarma modunda yeniden başlatılacak ve seçilen dosyayı yükleyecektir: <b>%1$s</b>"
 Veriler silinmeyecek."</string>
   <string name="install_title">Devam etmekten emin misin?</string>
@@ -39,6 +40,7 @@ Veriler silinmeyecek."</string>
   <string name="message_title">NOT!</string>
   <string name="new_version">Yeni sürüm bulundu!</string>
   <string name="no_info">Bilgi yok.</string>
+  <string name="no_mirror">Tüm sunucular şu anda çevrimdışı, daha sonra deneyin…</string>
   <string name="no_network">Ağ erişimi yok.</string>
   <string name="no_update">Güncelsiniz!</string>
   <string name="no_xioamieu">Xiaomi.eu ekibi tarafından oluşturulan MIUI Rom kullanmıyorsunuz!\nGüncellemeler sizin için uygun değildir!</string>
