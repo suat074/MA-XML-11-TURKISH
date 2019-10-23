@@ -27,7 +27,7 @@
   <string name="can_not_backup_in_lite_mode">Hafif Modda yedeklenemiyor</string>
   <string name="can_not_restore_in_lite_mode">Hafif Modda geri yüklenemiyor</string>
   <string name="cancel_backup">Yedekleme iptal ediliyor…</string>
-  <string name="cancel_recover_settings"><u>İptal</u></string>
+  <string name="cancel_recover_settings">İptal</string>
   <string name="cancel_restore_home">İptal ediliyor...</string>
   <string name="click_try_to_restore_again">Denemek için dokunun</string>
   <string name="cloud_app_backup_success">Uygulamalar başarıyla yedeklendi</string>
@@ -144,6 +144,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="restore_from_this_device">Bu yedeği kullanarak geri yükle</string>
   <string name="restore_home_failed">Ana ekran geri yüklenemedi.</string>
   <string name="restore_home_screen_apps">Bulut yedeklemesinden geri yükle</string>
+  <string name="restoring_home_screen_apps">Xiaomi Bulut\'tan geri yükleniyor…</string>
   <string name="restore_task_cancelling">İptal ediliyor...</string>
   <string name="restore_task_in_process">Geri yükleniyor...</string>
   <string name="restore_unfinished">Geri yükleniyor, daha sonra tekrar deneyin</string>
@@ -177,6 +178,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="unsupported_home">MIUI\'yi en son sürüme güncelleyin.</string>
   <string name="load_backup_failed">Yedeklemeler yüklenemedi</string>
   <string name="loading_user_backup">Kullanıcı yedekleri yükleniyor…</string>
+  <string name="loading_progress_num">%s%% yüklendi</string>
   <string name="main_space">İlk alan</string>
   <string name="try_continue">Devam etmek için dokunun</string>
   <string name="backup_stopped_msg">Geçerli yedekleme önceki olanın üzerine yazacaktır. Görüntülemek için dokunun.</string>

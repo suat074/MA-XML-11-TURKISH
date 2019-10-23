@@ -193,6 +193,7 @@
   <string name="module_download_success">Ek ses başarıyla indirildi</string>
   <string name="module_download_title">Ek ses gerekli</string>
   <string name="module_downloading">Ek ses indiriliyor…</string>
+  <string name="module_unzipping">Ses paketi açılıyor…</string>
   <string name="monday_to_friday">Pazartesiden Cumaya</string>
   <string name="set_alarm_done">Tamam</string>
   <string name="time_picker_colon">:</string>
