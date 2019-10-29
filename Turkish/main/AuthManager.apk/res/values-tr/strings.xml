@@ -318,8 +318,8 @@
   <string name="permission_description_summary_generic">Bu izne sahip uygulamalar %1$s</string>
   <string name="permission_reminders">İzin hatırlatıcıları</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Reddet ve bir daha sorma</string>
-  <string name="grant_dialog_button_deny_background">Kullanımda iken erişimi koru</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Devam et ve bir daha sorma</string>
+  <string name="grant_dialog_button_deny_background">Sadece uygulamayı kullanırken</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Reddet ve bir daha sorma</string>
   <string name="grant_dialog_button_allow_always">Her zaman izin ver</string>
   <string name="grant_dialog_button_allow_foreground">Yalnızca uygulamayı kullanırken izin ver</string>
   <string name="grant_dialog_button_allow_background">Her zaman izin ver</string> 
@@ -338,6 +338,7 @@
   <string name="permdesc_camera">Fotoğraf çeker ve video kaydeder</string>
   <string name="permdesc_in_calls">Gelen çağrıları izler</string>
   <string name="permdesc_location">Konum bilgisine erişir</string>
+  <string name="permdesc_location_background">Arka planda konuma erişir</string>
   <string name="permdesc_microphone">Çağrı ve ses kaydeder</string>
   <string name="permdesc_out_calls">Giden çağrıları izler</string>
   <string name="permdesc_read_calendar">Takvim etkinliklerine erişir</string>

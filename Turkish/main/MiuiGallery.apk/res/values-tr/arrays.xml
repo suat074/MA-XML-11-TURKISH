@@ -131,7 +131,7 @@
   <string-array name="menu_copy_or_move">
      <item>Taşı</item>
      <item>Kopyala</item>
-     <item>İptal</item>
+     <item>@string/cancel</item>
   </string-array>
   <string-array name="month">
      <item>Ocak</item>

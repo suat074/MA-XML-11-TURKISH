@@ -36,6 +36,7 @@
   <string name="miui_feedback_edit_add_original_images_dialog_content">Bildirdiğiniz sorun kameranın görüntü kalitesiyle ilgiliyse, sorunu bulmamıza yardımcı olmak için orijinal bir örnek fotoğraf (sıkıştırılmamış) ekleyin. Şimdi fotoğraf eklensin mi?</string>
   <string name="miui_feedback_edit_choose_module">Öğeyi seçin</string>
   <string name="miui_feedback_edit_choose_module_hint">Gerekli</string>
+  <string name="miui_feedback_edit_choose_occurrence_time">Zaman</string>
   <string name="miui_feedback_edit_choose_reproductivity">Reprodüksiyon</string>
   <string name="miui_feedback_edit_choose_third_app_name">Uygulama adı seç</string>
   <string name="miui_feedback_edit_contact_info_hint">Telefon numarası/E-posta</string>
@@ -48,6 +49,7 @@
   <string name="miui_feedback_edit_discard_draft_dialog_title">Taslağı sil?</string>
   <string name="miui_feedback_edit_hint">Sorunları daha hızlı çözmemize yardımcı olmak için hatalarla her karşılaştığınızda bize bildirin</string>
   <string name="miui_feedback_edit_hint_gone">Mesaj kapalı</string>
+  <string name="miui_feedback_edit_hint_optional">Seç</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wi-Fi için bekleyin</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Yükle</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_content">Ücretli bir ağa bağlı gibi görünüyorsun. Günlükleri yüklemek ek ücretler oluşturabilir.</string>
@@ -82,6 +84,7 @@
   <string name="miui_feedback_edit_submit_dialog_not_show_again">Tekrar gösterme</string>
   <string name="miui_feedback_edit_submit_dialog_title">Rapor gönder</string>
   <string name="miui_feedback_edit_submit_directly">Gönder</string>
+  <string name="miui_feedback_edit_title_occurrence_time">Zamanı seç</string>
   <string name="miui_feedback_edit_title_reproductivity">Verimliliği seçin</string>
   <string name="miui_feedback_edit_toast_description_required">Bir açıklama yazmalısın</string>
   <string name="miui_feedback_edit_toast_module_required">Öğeyi seçin</string>

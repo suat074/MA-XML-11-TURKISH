@@ -60,4 +60,16 @@
         <item quantity="other">%1$d resim</item>
         <item quantity="one">%1$d resim</item>
     </plurals>
+    <plurals name="de_author_fans_amount">
+        <item quantity="one">%1$d hayran</item>
+        <item quantity="other">%1$d hayran</item>
+    </plurals>
+    <plurals name="de_author_theme_amount">
+        <item quantity="one">%1$d öğe</item>
+        <item quantity="other">%1$d öğe</item>
+    </plurals>
+    <plurals name="de_more_comment">
+        <item quantity="one">%1$d daha fazla yorum</item>
+        <item quantity="other">%1$d daha fazla yorum</item>
+    </plurals>
 </resources>

@@ -1234,7 +1234,7 @@
   <string name="phone_locked_foget_password">Şifremi unuttum</string>
   <string name="phone_locked_foget_password_mehod_back">Geri</string>
   <string name="phone_locked_foget_password_method">Parolanızı mı unuttunuz?</string>
-  <string name="phone_locked_foget_password_method_content"><Data>Fotoğraflar ve kişiler de dahil olmak üzere cihazınızdaki &lt;font color=#a5220e>tüm verileri silmeniz &lt;/font> ve ardından yeni bir Kilit ekranı şifresi belirlemeniz gerekir.</Data></string>
+  <string name="phone_locked_foget_password_method_content"><Data>Fotoğraflar ve kişiler de dahil olmak üzere cihazınızdaki &lt;font color=#a5220e>tüm verileri silmeniz &lt;/font>ve ardından yeni bir Kilit ekranı şifresi belirlemeniz gerekir.</Data></string>
   <string name="phone_locked_foget_password_method_next">Sonraki</string>
   <string name="phone_locked_foget_password_ok">Anladım</string>
   <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Cihazınızı kapatın, Mi logosunu görene kadar  &lt;font color=#a5220e>Güç tuşu&lt;/font> ve &lt;font color=#a5220e>Ses açma tuşu&lt;/font>na aynı anda basılı tutun.</Data></string>

@@ -77,7 +77,7 @@
   <string name="ad_download_downloading">Indiriliyor</string>
   <string name="ad_download_error">Hata</string>
   <string name="ad_download_immediately">İndir</string>
-  <string name="ad_download_open">Açık</string>
+  <string name="ad_download_open">Aç</string>
   <string name="ad_exit_dialog_exit_btn_name">çıkış</string>
   <string name="ad_exit_dialog_message">Kurulum tamamlandı! Şimdi açmak ister misin?</string>
   <string name="ad_exit_dialog_open_btn_name">açın</string>
@@ -758,6 +758,7 @@
   <string name="pref_content_night_read_mode">Gece modu</string>
   <string name="pref_content_search_engine">Adres çubuğundaki arama motoru</string>
   <string name="pref_content_search_engine_summary">Bir arama motoru seçin</string>
+  <string name="pref_content_simple_homepage">Basitleştirilmiş başlangıç sayfası</string>
   <string name="pref_debug_mode">Hata ayıklama modu</string>
   <string name="pref_download_setting">İndirme ayarları</string>
   <string name="pref_enable_adblock_notification">Reklam engelleyici bildirimlerini göster</string>

@@ -217,6 +217,7 @@
   <string name="like">Favorilere ekle</string>
   <string name="liked">Favorilere eklendi</string>
   <string name="launcher_minus_screen_title">Sol sayfa ekranı</string>
+  <string name="launcher_search_bar_title">Arama çubuğu</string>
   <string name="loading_desktop">Sadece bir saniye…</string>
   <string name="loading_wallpaper">Sadece bir saniye…</string>
   <string name="local_wallpaper">İndirildi</string>

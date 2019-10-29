@@ -91,14 +91,14 @@
   <string name="open_print_service">Yazdırmayı etkinleştir</string>
   <string name="open_print_service_tips">Bu özelliği kullanabilmek için, önce Ayarlar\’dan yazdırmayı etkinleştirin.</string>
   <string name="open_wlan">WLAN\'ı aç</string>
-  <string name="open_wlan_tips">Yazıcıları daha hızlı bulmak için WLAN\'ı açın.</string>
+  <string name="open_wlan_tips">Yazıcıları bulmak için WLAN\'ı açın</string>
   <string name="other_printer">Diğer yazıcılar</string>
   <string name="please_choose_printer">Önce bir yazıcı seçin.</string>
   <string name="print_error">Yazıcı hatası nedeniyle yazdırılamıyor</string>
   <string name="print_fail">Yazdırılamadı</string>
   <string name="print_fail_network_error">Yazdırılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="print_help_label">Yardım</string>
-  <string name="print_help_tip">Hem telefonunuzun hem de yazıcınızın aynı WLAN ağına bağlı olduğundan veya WLAN Direkt\'in açık olduğundan emin olun. %1$s.</string>
+  <string name="print_help_tip">Hem yazıcının hem de telefonunuzun aynı WLAN ağına bağlı olduğundan veya WLAN Direkt\'in açık olduğundan emin olun. %1$s.</string>
   <string name="print_help_tip_reg">\"Yardım\" görüntüle</string>
   <string name="print_searching_printers">Yazıcılar aranıyor…</string>
   <string name="print_submited">Yazdırmaya hazır</string>

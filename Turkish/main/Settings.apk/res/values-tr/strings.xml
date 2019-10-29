@@ -1902,13 +1902,16 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="fingerprint_not_recognized">Tanımlanamadı</string>
   <string name="fingerprint_payment">Parmak izi ödemeleri</string>
   <string name="fingerprint_removal_failed">Parmak izi kaldırılamadı, sonra tekrar deneyin</string>
-  <string name="fingerprint_swipe_for_notifications_summary">Bildirimlerinizi kontrol etmek için telefonunuzun arkasındaki parmak izi sensöründe parmağınızı hızlıca aşağı kaydırın.</string>
-  <string name="fingerprint_swipe_for_notifications_title">Bildirimler için parmak izini hızlıca kaydırın</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Bildirimlerinizi kontrol etmek için, telefonunuzun arkasındaki parmak izi sensörünü aşağı kaydırın.</string>
+  <string name="fingerprint_swipe_for_notifications_title">Bildirimler için parmak izini kaydırın</string>
+  <string name="fingerprint_unlock_press_type">Basın</string>
   <string name="fingerprint_unlock_set_unlock_password">Parmak izi + Şifre</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Parmak izi + Desen</string>
   <string name="fingerprint_unlock_set_unlock_pin">Parmak izi + PIN</string>
   <string name="fingerprint_unlock_skip_fingerprint">Parmak izi olmadan devam et</string>
-  <string name="fingerprint_unlock_title">Telefonunuzun kilidini parmak izinizle açabilirsiniz. Güvenlik amacıyla, bu seçenek için yedek bir ekran kilidi gerekir.</string>
+  <string name="fingerprint_unlock_title">Parmak izinizi kullanarak telefonunuzun kilidini açabilirsiniz. Güvenlik için, bu seçenek bir yedek ekran kilidi gerektirir.</string>
+  <string name="fingerprint_unlock_touch_type">Dokun</string>
+  <string name="fingerprint_unlock_type">Parmak izi tanıma yöntemi</string>
   <string name="fingerprint_usage_category_title">Şunlar için parmak izi kullan</string>
   <string name="fingerprint_wakeup_summary">Hiçbir parmak izi kaydedilmediğinde ekranı uyandır.</string>
   <string name="fingerprint_wakeup_title">Uyandırma için parmak izi sensörüne dokun</string>  
@@ -2077,6 +2080,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="gxzw_add_fingerprint_put_finger_message">Ekrana basın ve titreşimden sonra parmağınızı kaldırın. Birkaç kez tekrarlayın.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Basın ve titreşimden sonra kaldırın</string>
   <string name="gxzw_add_fingerprint_title">Parmak izinizi ekleyin</string>
+  <string name="gxzw_anim_aurora">Şafak</string>
   <string name="handy_mode">Tek elle kullanım modu</string>
   <string name="handy_mode_enable">Tek elle kullanım modu</string>
   <string name="handy_mode_size">Ekran boyutu</string>
@@ -3722,7 +3726,11 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="screen_compatibility_text">Bu uygulama, ekranınız için tasarlanmamış olabilir. Buradan ekranınıza nasıl uyarlandığını kontrol edebilirsiniz.</string>
   <string name="screen_effect">Renk uyumu</string>
   <string name="screen_fps_summary">Daha yüksek yenileme hızı, görüntüyü daha yumuşak yaparken, düşük yenileme hızı pil tasarrufu sağlar</string>
+  <string name="screen_fps_summary_power_save">Sabit oran kullanmak daha az güç tüketir</string>
+  <string name="screen_fps_summary_smooth">Bazı uygulamalar resim kalitesini artırmak için yenileme hızını otomatik olarak artıracak</string>
   <string name="screen_fps_title">Yenileme hızı</string>
+  <string name="screen_fps_unit_power_save">%dHz (Pil tasarrufu sağlar)</string>
+  <string name="screen_fps_unit_smooth">%dHz (Daha iyi kalite)</string>
   <string name="screen_key_long_press">Gezinti tuşlarına uzun bas</string>
   <string name="screen_key_long_press_action">Tetikleme işlevi</string>
   <string name="screen_key_long_press_timeout">Uzun basma süresini ayarla</string>
@@ -4912,7 +4920,8 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="unlock_set_unlock_pin_summary" formatted="false">Cihazın kilidini açmak için %d-%d haneli rakam girin</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Ekran kilidini ayarla</string>
-  <string name="unlock_setup_wizard_fingerprint_details">Bir ekran kilidi ayarladıktan sonra, parmak izinizi Ayarlar &gt; Kilit ekranı bölümünde de ayarlayabilirsiniz.</string>
+  <string name="unlock_setup_wizard_fingerprint_details">Bir ekran kilidi ayarladıktan sonra, parmak izinizi Ayarlar &gt; Güvenlik bölümünden de ayarlayabilirsiniz.</string>
+  <string name="unlock_type_category_title">Tanıma yöntemi</string>
   <string name="unmount_inform_text">USB depolama bağlantısı kesilecek.</string>
   <string name="unrestrict_max_aspect_ratio_title">Bu uygulamalar tam ekran modu için optimize edilmiştir</string>
   <string name="unrestricted_app_summary">Veri Tasarrufu açıkken sınırsız veri erişimine izin ver</string>
@@ -5311,7 +5320,8 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="webview_disabled_for_user">(%s için devre dışı bırakıldı)</string>
   <string name="webview_license_title">Sistem WebView Lisansı</string>
   <string name="webview_uninstalled_for_user">(%s için yükleme kaldırıldı)</string>
-  <string name="welcome">Hoşgeldiniz!</string>
+  <string name="welcome">Hoş geldiniz!</string>
+  
   <string name="wfc_provisioned_switch_string">Kablosuz Ağ Üzerinden Görüşme Temel Hazırlığını Yap</string>
   <string name="wfd_available_devices">Mevcut Cihazlar</string>
   <string name="wfd_disconnect_diag_msg">%1$s bağlantısı kesilsin mi?</string>

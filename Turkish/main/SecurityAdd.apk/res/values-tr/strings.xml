@@ -19,6 +19,7 @@
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="ad_downloading">İndir…</string>
   <string name="app_name">Sistem hizmeti eklentisi</string>
+  <string name="cancel">İptal</string>
   <string name="cancel_button">İptal</string>
   <string name="cta_main_purpose">Oyun Turbo\'ya hoş geldiniz!</string>
   <string name="dual_app_title">Klonlu uygulamalar</string>
@@ -33,6 +34,11 @@
   <string name="fastboot_status_locked_summary">Kök erişimi alınamıyor</string>
   <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Kilit açma aracını almak için resmi MIUI web sitesine gidin.</string>
+  <string name="fingerprint_not_remind">Bir daha sorma</string>
+  <string name="free_send_net_booster">Ücretsiz Ağ hız artışı</string>
+  <string name="free_send_net_booster_busniess">Ücretsiz bir Xunlei hız artışı alın</string>
+  <string name="free_send_net_booster_busniess_tip">Almak için dokunun</string>
+  <string name="free_send_net_booster_tip">Ücretsiz ağ hızı artışıyla sorunsuz oyun oynamanın tadını çıkarın.</string>
   <string name="game_booster">Oyun hızı yükseltici</string>
   <string name="gamebox_no_network_btn">Tekrar yükle</string>
   <string name="gb_alipays_can_not_complete">Ödeme tamamlanamıyor. Devam etmek için yükleyin.</string>
@@ -43,6 +49,9 @@
   <string name="miuishare_title_share">Paylaş</string>
   <string name="miuishare_wechat_timeline_title">WeChat Anları</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="net_booster_expire_notification">Ağ hızını yükseltme oturumu bitmek üzere</string>
+  <string name="net_booster_overdue_notification">Ağ hızını yükseltme oturumu bitmek üzere</string>
+  <string name="net_booster_overdue_notification_tip">Ağ hızını yükseltme oturumu yakında sona erecek. Oturum yenilensin mi?</string>
   <string name="network_not_available">Ağa bağlanamıyor</string>
   <string name="no_network_btn">Tekrar deneyin</string>
   <string name="ok_button">Tamam</string>
@@ -51,6 +60,7 @@
   <string name="pm_lable_name">Kök erişimi hakkında</string>
   <string name="privacy_declare_dialog_title">Hizmet Şartları</string>
   <string name="privacy_prompt_traffic_purchase_message">Veri satın alma seçenekleri hakkında daha fazla bilgi almak için telefon numaranız ve operatör bilgileriniz şifrelenecek ve Mi sunucularına yüklenecektir.</string>
+  <string name="renew_now">Yenile</string>
   <string name="search_menu_title">Ara</string>
   <string name="share">Paylaş</string>
   <string name="title_share_link">Linki paylaş</string>

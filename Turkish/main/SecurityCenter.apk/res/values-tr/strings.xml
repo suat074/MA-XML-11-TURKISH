@@ -280,10 +280,12 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="applock_face_unlock_title">Yüz ile kilit açma</string>
   <string name="applock_function_base_settings">Uygulama kilidi</string>
   <string name="applock_function_pwd_settings">Şifre</string>
+  <string name="applock_go_to">Ayarlar</string>
   <string name="applock_header_text_less_than_half">Çok küçük. Biraz daha sürükleyin.</string>
   <string name="applock_login_and_add_account">Oturum aç &amp; ekle</string>
   <string name="applock_not_add_account">&lt;u>Şimdi değil&lt;/u></string>
   <string name="applock_not_login_account">Oturum açmadınız</string>
+  <string name="applock_settings_unlock_all_toast">Tüm uygulamaların kilidi açıldı</string>
   <string name="applock_toast_tip">Uygulama kilidi başarıyla doğrulandı</string>
   <string name="apps_item_sign_dialog_content">%s imzası Uygulama Mağazası\'ndaki sürümden farklı. Bu uygulama silinsin ve resmi sürümü yüklensin mi? Not: farklı imzalı bir uygulama yüklemek, uygulama verilerinin kaybolmasına neden olabilir.</string>
   <string name="apps_item_sign_dialog_title">Resmi uygulamayı yükle</string>
@@ -1169,7 +1171,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="list_empty_text">Boş</string>
   <string name="load_only_under_wlan">Yalnızca WLAN kullanarak yükle</string>
   <string name="loading">Sadece bir saniye…</string>
-  <string name="local_ip_exception_summary">Yerel IP adresi alınamadı. MIUI Hata Bildirimi uygulaması ile \n bu sorunu ve cihaz günlüğünü bize iletebilirsiniz.</string>
+  <string name="local_ip_exception_summary">Yerel IP adresi alınamadı. Bu sorunu MIUI\'ye bildirmek için Geri Bildirim uygulamasına gidin ve cihazınızdan bir günlük gönderin.</string>
+  <string name="lock_all_title">Tüm uygulamaları kilitle</string>
   <string name="lock_mode_title">Kilit ayarları</string>
   <string name="lock_screen_traffic_guide_notification_summary">%s kilit ekranında kullanıldı</string>
   <string name="lock_screen_traffic_guide_notification_title">Veri kullanımını yönetmek için dokunun.</string>
@@ -1636,7 +1639,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="power_center_list_item_battery_status_time">s</string>
   <string name="power_center_list_item_close_bluetooth">Bluetooth\'u kapat</string>
   <string name="power_center_list_item_deep_save_title">Gelişmiş ayarlar</string>
-  <string name="power_center_list_item_set_lockscreen_time">30 saniye boyunca işlem yapılmadığında uyku moduna geç</string>
+  <string name="power_center_list_item_set_lockscreen_time">30 saniye kullanılmadığında ekranı uyku moduna geçir</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">%d saniye aktif olmadığında cihazı kilitle</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_one_key_save">Optimize</string>
   <string name="power_center_ontime_boot">Zaman ile gücü aç</string>
@@ -2258,8 +2262,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="system_permission_declare_main_purpose" formatted="false">%1s uygulamasına hoş geldiniz! Bu uygulama şu özelliği kullanmanızı sağlar: %2s.</string>
   <string name="system_permission_declare_no_say_no">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz, bu uygulama normal şekilde çalışamaz.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz, bu uygulama kısmen çalışamaz.</string>
-  <string name="system_permission_declare_privacy_declare">Gizliliğinize saygı duyuyor ve koruyoruz. %1s normal çalışması için verilerinizi toplaması ve aşağıdaki izinlerin gerekli olduğunu unutmayın:</string>
-  <string name="system_permission_declare_privacy_no_permission">%1s normal çalışması için verilerinizi toplaması gerektiğini unutmayın. Gizliliğinize saygı duyuyor ve koruyoruz.</string>
+  <string name="system_permission_declare_privacy_declare">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Güvenlik uygulamasının internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinlerin gerekli olduğunu unutmayın:</string>
+  <string name="system_permission_declare_privacy_no_permission">Size hizmet sunabilmek için Güvenlik uygulamasının internete bağlanması ve gerekli kişisel bilgileri toplaması gerektiğini unutmayın. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</string>
   <string name="system_permission_declare_privacy_policy"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz.</string>
   <string name="system_permission_declare_revoke_uninstallable">Güvenlik &gt; Uygulamaları yönet &gt; İzinler &gt; İzinler bölümünden çıkış yapabilir, bu uygulamayı kaldırabilir veya yetkilendirmenizi iptal edebilirsiniz.</string>

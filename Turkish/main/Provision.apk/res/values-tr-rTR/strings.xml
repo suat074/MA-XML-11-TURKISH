@@ -60,11 +60,11 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="other_settings_ad_disable_summary">Reklamları kişiselleştirmek için açın</string>
   <string name="other_settings_ad_enable">Kişiselleştirilmiş reklamlar</string>
   <string name="other_settings_ad_enable_summary">Reklamları ilgi alanlarınıza göre kişiselleştirin</string>
-  <string name="other_settings_auto_update">Otomatik olarak güncelle</string>
-  <string name="other_settings_auto_update_summary">MIUI güncellemeleri yüklemek için en iyi anı seçecektir</string>
+  <string name="other_settings_auto_update">Otomatik sistem güncellemeleri</string>
+  <string name="other_settings_auto_update_summary">MIUI güncellemeleri indirmek ve yüklemek için en iyi zamanı seçecektir. Cihazınız değişiklikleri uygulamak için otomatik olarak yeniden başlatılacaktır.</string>
   <string name="other_settings_enhanced_lockscreen">Duvar Kağıdı Döngüsü</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Gizlilik Politikası</string>
-  <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak Kilit ekranınıza gönderilen görüntüleri ve hikayelerini alın. Şartlar, koşullar ve Gizlilik Politikası geçerlidir.</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak Kilit ekranınıza gönderilen görüntüleri ve hikayelerini alın. %1$s ve %2$s</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Son Kullanıcı Lisans Sözleşmesi</string>
   <string name="other_settings_location">Konum</string>
   <string name="other_settings_location_summary">Uygulamaların konumunuza erişmesine izin verin</string>
@@ -100,7 +100,9 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="summary_not_set">Ayarlanmadı</string>
   <string name="system_navigation_mode">Sistem gezinme modu</string>
   <string name="terms_of_use">Şartlar ve koşullar</string>
-  <string name="terms_of_use_label">Gizliliğiniz bizim için çok önemlidir. Hangi bilgileri topladığımızı, nasıl kullandığımızı ve sizin için hangi seçeneklerin mevcut olduğunu anlamak için Hizmet Şartları ve Gizlilik Politikamızı okuyun.\n\nMIUI yazılımını kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politikamızı kabul etmelisiniz. %s ve Mi Hesabı bileşenleri internete bağlanır ve konumunuzu alır.</string>
+  <string name="terms_of_use_label">"Hangi bilgileri topladığımızı, nasıl kullandığımızı ve sizin için hangi seçeneklerin mevcut olduğunu anlamak için Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyun.
+MIUI\'yı kullanabilmeniz için önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı kabul etmeniz gerekir.
+%s ve Mi Hesap bileşenleri internete bağlanacak ve konumunuzu alacak."</string>
   <string name="terms_of_use_label_systemhelper">, Kendinden kayıtlı servis</string>
   <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Xiaomi Bulut, Cihazı bul, Ana ekran, Oyunlar, MIUI Daemon, MSA sistem bileşenleri, çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, istatistik, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">\n\nBu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir.</string>

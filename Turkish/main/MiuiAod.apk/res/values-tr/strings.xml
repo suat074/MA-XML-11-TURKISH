@@ -40,7 +40,7 @@
   <string name="aod_mode_summary">Bu özellik sistem güç tüketimini arttırır. Cihaz uzun süre kullanılmadığında veya Pil tasarrufu kısıtlamaları uygulandığında kapatılır.</string>
   <string name="aod_mode_time_summary">Her zaman açık modunu açıp kapatmak için zaman planlayın</string>
   <string name="aod_mode_time_title">Zamanlama</string>
-  <string name="aod_mode_title">Her zaman açık modu</string>
+  <string name="aod_mode_title">Her zaman açık ekran</string>
   <string name="aod_show_style_title">Öğeleri görüntüle</string>
   <string name="aod_to_close">Kapat</string>
   <string name="apply">Uygula</string>
@@ -100,4 +100,10 @@ olacağına inan"</string>
   <string name="standard_clock_panel">Standart</string>
   <string name="time_style">Stil</string>
   <string name="time_style_layout">Yerleşim</string>
+  <string name="above_image">Yukarı</string>
+  <string name="aod_show_date_and_time">Tarih ve saati göster</string>
+  <string name="below_image">Aşağı</string>
+  <string name="custom_image">Özel resim</string>
+  <string name="shownone_arround_image">Yok</string>
+  <string name="time_location">Saat pozisyonu</string>
 </resources>

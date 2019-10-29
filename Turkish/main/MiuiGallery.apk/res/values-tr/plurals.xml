@@ -57,8 +57,12 @@
         <item quantity="one">%d saat içinde yedeklemeye devam et</item>
     </plurals>
     <plurals name="backup_pause_desc">
-        <item quantity="other">%d fotoğraf ve video | Durdu</item>
-        <item quantity="one">%d fotoğraf ve video | Durdu</item>
+        <item quantity="other">%d dakika içinde devam edecek</item>
+        <item quantity="one">%d dakika içinde devam edecek</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="one">Fotoğrafları, videoları, kişileri, notları ve diğer öğeleri bulutla %d dakika eşitlemeyi duraklat.</item>
+        <item quantity="other">Fotoğrafları, videoları, kişileri, notları ve diğer öğeleri bulutla %d dakika eşitlemeyi duraklat.</item>
     </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fotoğraf ve video | %2$s</item>
@@ -141,36 +145,36 @@
         <item quantity="one">Toplam %1$d öğe</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d öğe yedeklenmek için bekliyor</item>
-        <item quantity="one">1 iöğe yedeklenmek için bekliyor</item>
+        <item quantity="other">%1$d öğe eşitleme için bekliyor</item>
+        <item quantity="one">%1$d öğe eşitleme için bekliyor</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotoğraf</item>
         <item quantity="one">1 fotoğraf</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d fotoğraf yedeklenmek için bekliyor</item>
-        <item quantity="one">1 fotoğraf yedeklenmek için bekliyor</item>
+        <item quantity="other">%1$d fotoğraf eşitleme için bekliyor</item>
+        <item quantity="one">%1$d fotoğraf eşitleme için bekliyor</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">%1$d fotoğraf yedekleniyor…</item>
-        <item quantity="one">Fotoğraf yedekleniyor...</item>
+        <item quantity="other">%1$d fotoğraf eşitleniyor…</item>
+        <item quantity="one">%1$d fotoğraf eşitleniyor...</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">%1$d öğe yedekleniyor…</item>
-        <item quantity="one">1 öğe yedekleniyor…</item>
+        <item quantity="other">%1$d öğe eşitleniyor…</item>
+        <item quantity="one">%1$d öğe eşitleniyor…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">%1$d video yedekleniyor…</item>
-        <item quantity="one">Video yedekleniyor...</item>
+        <item quantity="other">%1$d video eşitleniyor…</item>
+        <item quantity="one">%1$d video eşitleniyor...</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d video</item>
         <item quantity="one">1 video</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d video yedeklenmek için bekliyor</item>
-        <item quantity="one">1 video yedeklenmek için bekliyor</item>
+        <item quantity="other">%1$d video eşitleme için bekliyor</item>
+        <item quantity="one">%1$d  video eşitleme için bekliyor</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Seçilen fotoğraflar cihazda değil. Mobil veri kullanarak bunlar indirilsin mi?</item>
@@ -332,18 +336,18 @@
     <item quantity="other">Yarım saat içinde</item>
   </plurals>
   <plurals name="abbrev_in_less_than_one_minute">
-    <item quantity="other">Hemen</item>
+    <item quantity="other">Yakında</item>
   </plurals>
   <plurals name="abbrev_in_num_minutes">
     <item quantity="other">%d dakika içinde</item>
-    <item quantity="one">1 dakika içinde</item>
+    <item quantity="one">%d dakika içinde</item>
   </plurals>
   <plurals name="abbrev_less_than_one_minute_ago">
     <item quantity="other">Şimdi</item>
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
     <item quantity="other">%d dakika önce</item>
-    <item quantity="one">1 dakika önce</item>
+    <item quantity="one">%d dakika önce</item>
   </plurals>
   <plurals name="burst_save_confirm_dialog_title">
     <item quantity="other">%d fotoğrafı sil</item>
