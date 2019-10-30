@@ -98,6 +98,7 @@
   <string name="add_ql_bm_title">Kaydet</string>
   <string name="add_quicklink_to_popular">Başlangıç ​​sayfasına ekle</string>
   <string name="add_quicklinks">Ekle</string>
+  <string name="add_tag">Etiket ekle</string>
   <string name="add_to_bookmark">Yer işaretleri</string>
   <string name="add_to_desk">Ana ekrana ekle</string>
   <string name="add_to_desk_lite_mode_toast">Lite modunda ana ekrana eklenemiyor</string>
@@ -183,6 +184,7 @@
   <string name="cancle_sync_cloud_tabs">Eşitlemeyi iptal et</string>
   <string name="cannot_download">Sadece \"http\" veya \"https\" adreslerinden indirilebilir</string>
   <string name="cast_video">Video yayınla</string>
+  <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
   <string name="channel_complete">Tamamlandı</string>
   <string name="channel_edit">Düzenle</string>
   <string name="channel_header_description">Tıklayın, uzun basın düzenlemesi</string>
@@ -493,6 +495,7 @@
   <string name="more_description">Menü</string>
   <string name="more_option">Daha fazla seçenek</string>
   <string name="movie_player_3g_tip_retry">Devam et</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="multi_window_max_tips">Pencerelerin sayısı üst sınıra ulaştı</string>
   <string name="mw_accessibility_date_picker_month">Ay</string>
   <string name="mw_accessibility_date_picker_week">Hafta</string>
@@ -706,6 +709,7 @@
   <string name="page_info_view">Sayfa bilgisini görüntüle</string>
   <string name="passport_oauth_sucess_tip">Yetkilendirme başarılı</string>
   <string name="password">Şifre</string>
+  <string name="password_toggle_content_description">Şifreyi göster</string>
   <string name="pause_download">Durduruldu</string>
   <string name="paused_queued_for_wifi">Bağlantı bekleniyor...</string>
   <string name="paused_unknown">Durduruldu</string>
@@ -765,6 +769,7 @@
   <string name="pref_enable_news">Haberler</string>
   <string name="pref_enable_novels">Kitaplar</string>
   <string name="pref_enable_videos">Videolar</string>
+  <string name="pref_extras_devopt">Geliştirici Seçenekleri</string>
   <string name="pref_extras_reset_default">Varsayılana sıfırla</string>
   <string name="pref_extras_reset_default_dlg">Ayarları varsayılan duruma getir?</string>
   <string name="pref_extras_reset_default_summary">Varsayılan ayarları geri yükle</string>
@@ -1150,6 +1155,7 @@
   <string name="video_unknown_duration">Süre bilinmiyor</string>
   <string name="view_certificate">Sertifikayı görüntüle</string>
   <string name="view_document_downloaded_files">İndirilenlerde indirilmiş dosyaları görüntüle</string>
+  <string name="vo_info_flow_rs_hint">Ara</string>
   <string name="voice_check_network">Ağ ayarlarını kontrol edin ve yeniden deneyin.</string>
   <string name="voice_close_description">Kapat</string>
   <string name="voice_connect_network">Ağa bağlanılamadı.</string>

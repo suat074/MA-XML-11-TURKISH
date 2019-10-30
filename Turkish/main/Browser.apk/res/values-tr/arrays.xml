@@ -6,8 +6,8 @@
     <item>Yok</item>
   </string-array>
   <string-array name="pref_homepage_choices">
-    <item>Varsayılan başlangıç sayfası</item>
-    <item>Özel</item>
+    <item>Varsayılan</item>
+    <item>Özel URL</item>
   </string-array>
   <string-array name="pref_homepage_choices_with_simplehome">
     <item>Varsayılan başlangıç ​​sayfası</item>
