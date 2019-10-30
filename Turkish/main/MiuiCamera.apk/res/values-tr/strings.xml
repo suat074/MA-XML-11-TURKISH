@@ -324,6 +324,7 @@
   <string name="pref_camera_long_pressing_shutter_title">AE/AF/AWB kilitlenmek için deklanşöre basılı tutun</string>
   <string name="pref_camera_magic_mirror_title">Sihirli Ayna</string>
   <string name="pref_camera_manual_mode_title">Elle ayarla</string>
+  <string name="pref_camera_manually_exposure_value">Pozlama</string>
   <string name="pref_camera_mfnr_sat_enable_title">MFNR\'yi aç</string>
   <string name="pref_camera_movie_solid_title">Görüntüyü sabitle</string>
   <string name="pref_camera_multilevel_entry_high">Yüksek</string>
@@ -440,6 +441,7 @@
   <string name="pref_front_mirror_title">Ayna ön kamera</string>
   <string name="pref_groupshot_with_primitive_title">Orijinal fotoğrafları da kaydet</string>
   <string name="pref_manual_exposure_title">S</string>
+  <string name="pref_popup_camera_title">Pop-up kamera</string>
   <string name="pref_priority_storage_title">SD karta kaydet</string>
   <string name="pref_qc_focus_position_title">Odakla</string>
   <string name="pref_retain_camera_mode_summary">Uygulamayı açtığınızda kamerayı önceden kullanılan moda geçirin.</string>

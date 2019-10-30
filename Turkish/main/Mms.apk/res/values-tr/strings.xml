@@ -385,6 +385,7 @@
   <string name="mx_filter_message_from_stranger_dialog_desc">Hala bilinmeyen numaralardan düzenli SMS alacaksınız. Mesajlar &gt; Ayarlar bölümünden bu özelliği istediğiniz zaman açıp kapatabilirsiniz.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Bilinmeyen numaralardan gelen Mi Mesajlarını engelle</string>
   <string name="mx_filter_message_from_stranger_summary">Hala bilinmeyen numaralardan gelen düzenli SMSleri almak mümkün olacak</string>
+  <string name="mx_main_purpose_short">Mi Mesaj, MIUI kullanıcılarının ücretsiz SMS ve MMS mesajları gönderip almalarını sağlar.</string>
   <string name="mx_message">Mi Mesaj</string>
   <string name="mx_msg">Mi Mesaj</string>
   <string name="mx_msg_pageview_setting_title">Mi Mesaj ayarları</string>
@@ -911,7 +912,7 @@ Bu mesaj istenmeyen olabilir."</string>
   <string name="shortcut_new_msg">Yeni mesaj</string>
   <string name="shortcut_setting">Ayarlar</string>
   <string name="mi_message_title">Mi Mesaj</string>
-  <string name="mms_main_purpose">Mesajlaşma\'nın tüm işlevlerine erişmek için, uygulamanın internete bağlanmasına izin ver ve Mi Mesaj ve Akıllı Mesajlaşma özelliğini aç.</string>
+  <string name="mms_main_purpose">Mesajlaşma\'nın tüm işlevlerine erişmek için, Mi Mesaj ve Akıllı Mesajlaşma\'yı açın.</string>
   <string name="mms_title">Mesajlaşma</string>
   <string name="mx_main_purpose">"Mi Mesaj, diğer Mi Mesaj kullanıcılarına internet üzerinden ücret ödemeden mesaj göndermenizi sağlar.
 Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için operatörünüz sizden ücret isteyecektir."</string>
@@ -927,12 +928,12 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="smart_msg_main_purpose">Akıllı Mesajlaşma, Gönderen Kimliğini tanıma ve akıllı menü hizmetleri sağlar.</string>
   <string name="smart_msg_privacy_policy">Akıllı Mesajlaşma Gizlilik Politikası</string>
   <string name="system_permission_declare_agree">Kabul et</string>
-  <string name="system_permission_declare_disagree">Reddet</string>
+  <string name="system_permission_declare_disagree">İptal</string>
   <string name="system_permission_declare_double_link" formatted="false">Bu özelliği kullanmadan önce %1s ve %2s okuyun ve kabul edin.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">%1s hoş geldiniz! %2s</string>
-  <string name="system_permission_declare_no_say_no">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz, bu uygulama normal şekilde çalışamaz.</string>
-  <string name="system_permission_declare_privacy_declare">"Gizliliğinize saygı duyuyor ve koruyoruz.
-%1s için verilerinizi toplaması ve normal çalışması için aşağıdaki izinlerin gerekli olduğunu unutmayın:"</string>
+  <string name="system_permission_declare_no_say_no">"Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.
+Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu uygulamayı kullanamazsınız."</string>
+  <string name="system_permission_declare_privacy_declare">%1s verilerinizi toplamalı ve normal çalışması için aşağıdaki izinleri alması gerekir:</string>
   <string name="system_permission_declare_revoke_path">Mesajlaşma ayarlarından izninizi iptal edebilir ve servisleri kapatabilirsiniz.</string>
   <string name="system_permission_declare_single_link">Bu özelliği kullanmadan önce %1s okuyun ve kabul edin.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Bu özellikleri kullanmadan önce %1s, %2s ve %3s okuyun ve kabul edin.</string>

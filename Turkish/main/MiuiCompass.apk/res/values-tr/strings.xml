@@ -19,7 +19,7 @@
   <string name="calibrate_success">Kalibrasyon yapıldı</string>
   <string name="calibrate_tip">Cihazınızı eğin ve dairenin etrafında topu döndürün</string>
   <string name="calibrate_title">Pusulayı Kalibre Et</string>
-  <string name="cta_v2_app_purpose">Jeomanyetik yönü, enlem ve boylamı, hava basıncını gösterin ve gösterge yüksekliğini hesaplayın</string>
+  <string name="cta_v2_app_purpose">Yönleri, koordinatları, atmosferik basıncı ve mevcut irtifayı gösterir</string>
   <string name="dialog_body_no_network">Wi-Fi\'ye bağlanın veya mobil veriyi açın.</string>
   <string name="dialog_calibrat_altitude">Kalibre ediliyor...</string>
   <string name="dialog_title_no_network">Ağa bağlanılamadı</string>

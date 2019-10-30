@@ -1834,8 +1834,15 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Şifrenizi girdikten sonra, gizli uygulamaların bulunduğu klasör görünecektir.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Ekranda iki parmağınızı yayın. Uygulama kilitleme şifrenizi girmenizi isteyen bir mesaj görürsünüz.</string>
   <string name="privacy_declare_dialog_title">Hizmet Şartları</string>
+  <string name="privacy_description_camera">%1s arka planda kamerayı kullanıyor. Bu etkinliği kısıtlamak için aşağıdaki anahtarı değiştirebilirsiniz.</string>
+  <string name="privacy_description_camera_mic">%1s arka planda kamerayı ve mikrofonu kullanıyor. Bu etkinliği kısıtlamak için aşağıdaki anahtarı değiştirebilirsiniz.</string>
+  <string name="privacy_description_mic">%1s arka planda mikrofonu kullanıyor. Bu etkinliği kısıtlamak için aşağıdaki anahtarı değiştirebilirsiniz.</string>
   <string name="privacy_dialog_message">Internet\'e bağlandığınızda, taşıyıcı bilgileri ile birlikte bu ileti şifrelenir ve veri kullanımı izleme geliştirmemize yardımcı olmak için Mİ sunucularına yüklenir.</string>
   <string name="privacy_mode_dialog_title">Misafir Modu</string>
+  <string name="privacy_notification_subtitle">İzinleri yönetmek için dokunun</string>
+  <string name="privacy_notification_title_camera">%1s arka planda kamerayı kullanıyor.</string>
+  <string name="privacy_notification_title_camera_mic">%1s arka planda kamerayı ve mikrofonu kullanıyor.</string>
+  <string name="privacy_notification_title_mic">%1s arka planda mikrofonu kullanıyor.</string>
   <string name="privacy_prompt_tc_sms_report_message">Veri kullanımı bilgilerinizi güncellemek için telefon numaranız ve operatör bilgileriniz  şifreli olacak ve Mi sunucularına yüklenecektir.</string>
   <string name="privacy_prompt_traffic_adjust_message">Kalibrasyona başladıktan sonra, MIUI ağa bağlanacak, operatörünüzün bilgisini, telefon numarasını, IMEI\'yi ve Mi Hesabı\'nı kodlayacak ve bu öğeleri Mi sunucularına yükleyecektir. Bu, taşıyıcının kalibrasyon şablonunu edinmek ve konumunuzda veri satın almanın mümkün olup olmadığını öğrenmek için yapılır.\n\nKalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir kısa mesaj gönderir.</string>
   <string name="privacy_prompt_upload">Yükle</string>
