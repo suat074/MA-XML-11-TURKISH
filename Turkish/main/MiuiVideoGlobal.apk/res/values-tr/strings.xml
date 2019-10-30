@@ -111,7 +111,6 @@
     <string name="cast_forward">İleri sar</string>
     <string name="cast_forward_10">On saniye ileri sar</string>
     <string name="cast_forward_30">Otuz saniye ileri sar</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Sesi kapat</string>
     <string name="cast_notification_connected_message">%1$s bağlantısı yapıldı</string>
     <string name="cast_notification_connecting_message">%1$s bağlantısı yapılıyor</string>
@@ -532,7 +531,6 @@ seçin"</string>
     <string name="not_show">Tekrar gösterme</string>
     <string name="notify_apk_installed">Başarıyla indirildi</string>
     <string name="ok">Tamam</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Son abonelikler</string>
     <string name="order_recently_updated">Son güncellenen</string>
     <string name="ovp_alert_dialog_download_install_task">HD eklentisi indiriliyor…</string>
