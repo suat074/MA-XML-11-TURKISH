@@ -1399,6 +1399,12 @@ mevcut"</string>
   <string name="movie_audio_light">Şarkı</string>
   <string name="movie_audio_linear">Rok</string>
   <string name="movie_audio_none">Yok</string>
+  <string name="movie_audio_point1">Neon</string>
+  <string name="movie_audio_point2">Gün batımı</string>
+  <string name="movie_audio_point3">Hatıralar</string>
+  <string name="movie_audio_point4">Yaz ortası</string>
+  <string name="movie_audio_point5">Dalgalar</string>
+  <string name="movie_audio_point6">Karnaval</string>
   <string name="movie_audio_soft">Havai kitarası</string>
   <string name="movie_audio_sport">Tekno</string>
   <string name="movie_cancel_download">İptal</string>
@@ -1423,6 +1429,12 @@ mevcut"</string>
   <string name="movie_tab_music">Müzik</string>
   <string name="movie_tab_template">Şablon</string>
   <string name="movie_template_baby">Kutu</string>
+  <string name="movie_template_cool">Işıklar</string>
+  <string name="movie_template_cool2">Ritim</string>
+  <string name="movie_template_cool3">Dalgalar</string>
+  <string name="movie_template_dull">Hikaye</string>
+  <string name="movie_template_dull2">Zaman</string>
+  <string name="movie_template_dull3">Güzellik</string>
   <string name="movie_template_food">Gıdalar</string>
   <string name="movie_template_new_year">Yeni Yıl</string>
   <string name="movie_template_normal">Melodi</string>

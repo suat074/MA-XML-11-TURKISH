@@ -231,14 +231,14 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_notif_content_battery_low">Pil çok düşük.</string>
   <string name="micloud_notif_content_depend_wifi">Eşitlemek için WLAN\'a bağlanın.</string>
   <string name="micloud_notif_content_dirty_data">Detaylar</string>
-  <string name="micloud_notif_content_master_depend_wifi">Önce WLAN ağına bağlan.</string>
+  <string name="micloud_notif_content_master_depend_wifi">WLAN\'a bağlanın veya eşitleme ayarlarını değiştirin. Değiştirmek için dokunun.</string>
   <string name="micloud_notif_content_memory_low">Yetersiz depolama alanı.</string>
   <string name="micloud_notif_content_multi_user_error">İlk alan ile aynı hesapla oturum açtınız.</string>
   <string name="micloud_notif_content_privacy_reopen_failed">Detayları göster</string>
   <string name="micloud_notif_content_sync_with_off">Cihazı şimdi eşitlemek için dokunun.</string>
   <string name="micloud_notif_title_battery_low">Xiaomi Bulut ile eşitlenemedi</string>
   <string name="micloud_notif_title_dirty_data">Eşitlenmemiş öğeleriniz var</string>
-  <string name="micloud_notif_title_master_depend_wifi">Xiaomi Bulut ile eşitlenemedi</string>
+  <string name="micloud_notif_title_master_depend_wifi">Mobil veri kullanırken eşitleme duraklatıldı</string>
   <string name="micloud_notif_title_memory_low">Xiaomi Bulut ile eşitlenemedi</string>
   <string name="micloud_notif_title_multi_user_error">Xiaomi Bulut ile eşitlenemedi</string>
   <string name="micloud_notif_title_privacy_reopen_failed">Xiaomi Bulut hizmetlerini açılmadı</string>
