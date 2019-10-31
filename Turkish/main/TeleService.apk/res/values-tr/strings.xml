@@ -869,6 +869,8 @@
   <string name="lable_network_not_supported">Şebeke desteklemiyor</string>
   <string name="lafs_disable">Yerel Havaalanı Uçuş Tarifeleri devre dışı</string>
   <string name="lafs_enable">Yerel Havaalanı Uçuş Tarifeleri etkin</string>
+  <string name="last_sim_callback_summary">Arama geçmişinden bir çağrı yaparken, bu kişiyle önceki çağrı sırasında kullanılan SIM kartı kullanın</string>
+  <string name="last_sim_callback_title">SIM kart tercihlerini hatırla</string>
   <string name="launch_defaults_none">Varsayılan ayarlanmadı</string>
   <string name="launch_defaults_some">Bazı varsayılanlar ayarlandı</string>
   <string name="list_language_dtitle">Diller</string>
