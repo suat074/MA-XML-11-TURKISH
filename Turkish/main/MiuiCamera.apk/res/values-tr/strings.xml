@@ -324,7 +324,6 @@
   <string name="pref_camera_long_pressing_shutter_title">AE/AF/AWB kilitlenmek için deklanşöre basılı tutun</string>
   <string name="pref_camera_magic_mirror_title">Sihirli Ayna</string>
   <string name="pref_camera_manual_mode_title">Elle ayarla</string>
-  <string name="pref_camera_manually_exposure_value">Pozlama</string>
   <string name="pref_camera_mfnr_sat_enable_title">MFNR\'yi aç</string>
   <string name="pref_camera_movie_solid_title">Görüntüyü sabitle</string>
   <string name="pref_camera_multilevel_entry_high">Yüksek</string>
