@@ -63,7 +63,7 @@
   <string name="open_perm_msg">Pusula için konum bilgisi ve kameraya erişim gerekli. Bu koordinatları belirlemek ve canlı önizleme sağlamak için lazım. İzin verilsin mi?</string>
   <string name="open_perm_title">İzin gerekli</string>
   <string name="permission_camera_desc">Su terazisi olarak kullanma</string>
-  <string name="permission_location_desc">Koordinatları ve atmosfer basıncını görüntüleme</string>
+  <string name="permission_location_desc">Koordinatların ve atmosfer basıncının görüntülenmesi için</string>
   <string name="preference_other">Diğer</string>
   <string name="preference_privacy_title">Gizlilik Politikası</string>
   <string name="compass_settings">Ayarlar</string>  

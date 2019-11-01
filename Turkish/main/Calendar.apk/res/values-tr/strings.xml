@@ -467,6 +467,7 @@
   <string name="setting_holiday_display_desc">Tatil kartları, giriş sayfasında gündeminizin altında bulunur</string>
   <string name="setting_holiday_reminder">Tatil hatırlatma</string>
   <string name="setting_others">Ek</string>
+  <string name="setting_show_reject_agenda">Reddedilen etkinlikleri göster</string>
   <string name="setting_sms_import">SMS etkinliğini içe aktar</string>
   <string name="setting_title_about">Hakkında</string>
   <string name="setting_title_debug">Günlüğü Aktar</string>
