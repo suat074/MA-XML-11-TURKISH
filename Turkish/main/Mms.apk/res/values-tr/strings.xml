@@ -108,7 +108,7 @@
   <string name="confirm_add_blacklist_dialog_dspt">Bu numara engelli listenize eklensin mi?</string>
   <string name="confirm_delete_all_conversations">Tüm konuşmalar silinsin mi?</string>
   <string name="confirm_delete_all_SIM_messages">Tüm SIM mesajlarını sil?</string>
-  <string name="confirm_delete_conversation">Bu konuşmayı sil?</string>
+  <string name="confirm_delete_conversation">Bu konuşma silinsin mi?</string>
   <string name="confirm_delete_group_message">Grup mesajları silinsin mi?</string>
   <string name="confirm_delete_locked_message">Bu kilitli mesajı silmek istediğinizden emin misiniz?</string>
   <string name="confirm_delete_message">Bu mesaj silinsin mi?</string>
