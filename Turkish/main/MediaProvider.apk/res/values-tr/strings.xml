@@ -1,12 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="Add_More_Ringtones">Fazla Zil Sesi...</string>
-  <string name="app_label">Medya Depolaması</string>
+  <string name="add_alarm_text">Alarm ekle</string>
+  <string name="add_notification_text">Bildirim ekle</string>
+  <string name="add_ringtone_text">Zil sesi ekle</string>
+  <string name="alarm_sound_default">Varsayılan alarm sesi</string>
+  <string name="app_label">Medya Depolama</string>
   <string name="artist_label">Sanatçı</string>
-  <string name="drm_licensed_message">Zil sesi veya bildirim uyarısı olarak DRM korumalı içeriği ayarlamak için açılamıyor</string>
+  <string name="delete_ringtone_text">Sil</string>
+  <string name="grant_dialog_button_allow">İzin ver</string>
+  <string name="grant_dialog_button_deny">Reddet</string>
+  <string name="notification_sound_default">Varsayılan bildirim sesi</string>
+  <string name="permission_audio">&lt;b>^1&lt;/b> için bu müziği değiştirmesine veya silmesine izin verilsin mi?</string>
+  <string name="permission_images">&lt;b>^1&lt;/b> için bu resmi değiştirmesine veya silmesine izin verilsin mi?</string>
+  <string name="permission_required">Bu öğeyi değiştirmek veya silmek için izin gerekli.</string>
+  <string name="permission_required_action">Devam et</string>
+  <string name="permission_video">&lt;b>^1&lt;/b> için bu videoyu değiştirmesine veya silmesine izin verilsin mi?</string>
+  <string name="ringtone_default">Varsayılan zil sesi</string>
   <string name="root_audio">Ses</string>
   <string name="root_images">Resimler</string>
   <string name="root_videos">Videolar</string>
+  <string name="sound_name_awaken">Uyandırma</string>
+  <string name="sound_name_bounce">Sıçrama</string>
+  <string name="sound_name_drip">Damlama</string>
+  <string name="sound_name_gallop">Dörtnala</string>
+  <string name="sound_name_nudge">Dürtme</string>
+  <string name="sound_name_orbit">Yörünge</string>
+  <string name="sound_name_rise">Yükseliş</string>
+  <string name="sound_name_sway">Sallanma</string>
+  <string name="sound_name_wag">Sallama</string>
+  <string name="storage_description">Yerel depolama</string>
   <string name="uid_label">Medya</string>
-  <string name="upgrade_msg">Medya veritabanı güncelleniyor.</string>
+  <string name="unable_to_add_ringtone">Özel zil sesi eklenemiyor</string>
+  <string name="unable_to_delete_ringtone">Özel zil sesi silinemiyor</string>
 </resources>
