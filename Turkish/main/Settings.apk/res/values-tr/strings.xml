@@ -5321,7 +5321,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="webview_license_title">Sistem WebView Lisansı</string>
   <string name="webview_uninstalled_for_user">(%s için yükleme kaldırıldı)</string>
   <string name="welcome">Hoş geldiniz!</string>
-  
+  <string name="wellbing_title">Dijital Denge &amp; ebeveyn denetimleri</string>
   <string name="wfc_provisioned_switch_string">Kablosuz Ağ Üzerinden Görüşme Temel Hazırlığını Yap</string>
   <string name="wfd_available_devices">Mevcut Cihazlar</string>
   <string name="wfd_disconnect_diag_msg">%1$s bağlantısı kesilsin mi?</string>

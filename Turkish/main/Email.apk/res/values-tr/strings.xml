@@ -616,19 +616,50 @@
     <string name="mark_unread">Okunmadı</string>
     <string name="me_object_pronun">ben</string>
     <string name="me_subject_pronun">ben</string>
-    <string name="meeting_accepted">"\u000d Kabul edildi:
-\u0009\u0009%s
-\u0009"</string>
-    <string name="meeting_allday">"\u000d Ne zaman:\u000d %s\u000d (tüm gün)\u000d "</string>
-    <string name="meeting_allday_recurring">"\u000d Ne zaman:\u000d %s\u000d (tüm gün, yinelenen)\u000d "</string>
-    <string name="meeting_canceled">"\u000d İptal edildi:\u000d %s\u000d "</string>
-    <string name="meeting_declined">"\u000d Reddedildi:\u000d %s\u000d "</string>
-    <string name="meeting_recurring">"\u000d Ne zaman:\u000d %s\u000d (yinelenen)\u000d "</string>
-    <string name="meeting_responded_failed">Cevap yok</string>
-    <string name="meeting_tentative">"\u000d Geçici:\u000d %s\u000d "</string>
-    <string name="meeting_updated">"\u000d Güncellendi:\u000d %s\u000d "</string>
-    <string name="meeting_when">"\u000d Ne zaman:\u000d %s\u000d "</string>
-    <string name="meeting_where">"\u000d Nerede:\u000d %s\u000d "</string>
+    <string name="meeting_accepted">"
+        Kabul edildi:
+        %s
+    "</string>
+    <string name="meeting_allday">"
+        Ne zaman:
+        %s
+        (tüm gün)
+    "</string>
+    <string name="meeting_allday_recurring">"
+        Ne zaman:
+        %s
+        (tüm gün, yinelenen)
+    "</string>
+    <string name="meeting_canceled">"
+        İptal edildi:
+        %s
+    "</string>
+    <string name="meeting_declined">"
+        Reddedildi:
+        %s
+    "</string>
+    <string name="meeting_recurring">"
+        Ne zaman:
+        %s
+        (yinelenen)
+    "</string>
+    <string name="meeting_responded_failed">Yanıt yok</string>
+    <string name="meeting_tentative">"
+        Geçici:
+        %s
+    "</string>
+    <string name="meeting_updated">"
+        Güncellendi:
+        %s
+    "</string>
+    <string name="meeting_when">"
+        Ne zaman:
+        %s
+    "</string>
+    <string name="meeting_where">"
+        Nerede:
+        %s
+    "</string>
     <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Ekler</string>
     <string name="menu_att_mgr_order_default">Önceden görüntülenen</string>
