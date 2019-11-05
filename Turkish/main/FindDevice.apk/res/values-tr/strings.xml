@@ -21,7 +21,7 @@
     <string name="find_device_stop_noise">"Susturmak için Tamam'a dokunun"</string>
     <string name="find_device_noise_title">Cihazı bul alarmı</string>
     <string name="find_device_success_title">Cihazı bul</string>
-    <string name="find_device_notice">Cihazınızın konumunu bulmak, kilitlemek ve geri yüklemek için,&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br /> adresine gidin.</string>
+    <string name="find_device_notice">Cihazınızın konumunu bulmak, kilitlemek ve geri yüklemek için,&lt;br />&lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b>&lt;br /> adresine gidin.</string>
     <string name="find_device_notice_sms_alert">SIM kartları değiştirirseniz, bu servisin yeniden etkinleştirilmesi için yeni bir SMS otomatik olarak gönderilebilir.</string>
     <string name="i_know">Tamam</string>
     <string name="unlock_error_network">Ağa bağlanılamıyor</string>

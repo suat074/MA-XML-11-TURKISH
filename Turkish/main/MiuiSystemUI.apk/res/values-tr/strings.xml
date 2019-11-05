@@ -1424,6 +1424,7 @@
   <string name="quick_settings_screenshot_label">Ekran görüntüsü</string>
   <string name="quick_settings_secondary_label_until">%s\'e kadar</string>
   <string name="quick_settings_settings_label">Ayarlar</string>
+  <string name="quick_settings_sim_disabled">(Devre dışı)</string>
   <string name="quick_settings_sync_label">Eşitleme</string>
   <string name="quick_settings_tethering_label">Tethering</string>
   <string name="quick_settings_time_label">Zaman</string>
@@ -1936,7 +1937,7 @@
   <string name="wifi_is_off">Wi-Fi kapalı</string>
   <string name="wifi_limited_connection">Sınırlı bağlantı</string>
   <string name="wifi_metered_label">Ölçülmüş</string>
-  <string name="wifi_no_internet">İnternet erişimi yok</string>
+  <string name="wifi_no_internet">İnternete bağlanılamıyor</string>
   <string name="wifi_no_internet_no_reconnect">Otomatik olarak bağlanma</string>
   <string name="wifi_not_in_range">Kapsama alanı dışında</string>
   <string name="wifi_remembered">Kaydedildi</string>

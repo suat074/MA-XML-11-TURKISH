@@ -2898,7 +2898,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="need_reboot_now">Güncelleştirmeyi yüklemek için yeniden başlatın.</string>
   <string name="netcheck_title">Ağ Teşhisi</string>
   <string name="network_alarm">İnternet çağrılarını susturma</string>
-  <string name="network_alarm_summary">Not: Bazı uygulamalar bu özellik ile uyumlu değil.%1$s</string>
+  <string name="network_alarm_summary">Not: Bazı uygulamalar bu özellik ile uyumlu değil. %1$s</string>
   <string name="network_alarm_summary_reg">Desteklenen uygulamaları görüntüleyin</string>
   <string name="network_alarm_support_apps">Desteklenen uygulamalar</string>
   <string name="network_assistant">Veri kullanımı</string>
@@ -5536,7 +5536,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wifi_network_prefix_length">Önek uzunluğu</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_domain_warning">Bir alan adı belirtmelisiniz.</string>
-  <string name="wifi_no_internet">İnternete bağlanamıyor</string>
+  <string name="wifi_no_internet">İnternete bağlanılamıyor</string>
   <string name="wifi_no_internet_no_reconnect">İnternete bağlanamıyor</string>
   <string name="wifi_not_in_range">Aralıkta değil</string>
   <string name="wifi_notify_cmcc_connected_summary">CMCC ağa bağlandığında bildirim göster</string>
@@ -5801,6 +5801,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="write_tag">Yaz</string>
   <string name="wrong_pin_code_pukked">Yanlış SIM PIN kodu. Cihazınızın kilidini açmak için operatörünüzle irtibata geçin.</string>
   <string name="xiaomi_account">Mi Hesabı</string>
+  <string name="xiaomi_cloud_find_device">Cihazı bul</string>
   <string name="xiaomi_cloud_service">Xiaomi Bulut</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Bulut fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Bulut fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>

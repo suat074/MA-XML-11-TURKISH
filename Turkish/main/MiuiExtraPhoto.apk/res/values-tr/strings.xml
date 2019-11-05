@@ -2,7 +2,16 @@
 <resources>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_saving">Kaydediliyor...</string>
-  <string name="motion_photo_re_pick_title">En iyi fotoğrafı seç</string>
+  <string name="motion_photo_cancel">İptal</string>
+  <string name="motion_photo_re_pick_title">Canlı fotoğraf</string>
+  <string name="motion_photo_save_fail">Kaydedilemedi</string>
+  <string name="motion_photo_save_gif">GIF olarak kaydet</string>
+  <string name="motion_photo_save_gif_ing">GIF kaydediliyor…</string>
+  <string name="motion_photo_save_image">En iyi resmi kaydet</string>
+  <string name="motion_photo_save_image_ing">En iyi resim kaydediliyor…</string>
+  <string name="motion_photo_save_video">Video olarak kaydet</string>
+  <string name="motion_photo_save_video_ing">Video kaydediliyor…</string>
+  <string name="motion_photo_toast_long_press_play">Oynatmak için fotoğrafa basılı tutun</string>
   <string name="motion_photo_toast_default">Varsayılan</string>
   <string name="motion_photo_toast_suggest">Tavsiye edilen</string>
   <string name="refocus_discard_confirm_message">Değişiklikleri kaydet?</string>
