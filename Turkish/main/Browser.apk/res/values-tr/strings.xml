@@ -1007,6 +1007,8 @@
   <string name="storage_permission_request_toast">İndirme işlemi için cihazınızın depolamasına erişim gereklidir</string>
   <string name="storage_sd_card">SD Kart</string>
   <string name="storage_usb">USB depolama</string>
+  <string name="sug_search_history_delete_text">Kaldır</string>
+  <string name="sug_search_history_empty_text">Temizle</string>
   <string name="suggest_access_btn_install">Yükle</string>
   <string name="suggest_access_btn_open">Aç</string>
   <string name="suggest_access_item_app_mark">UYGULAMA</string>

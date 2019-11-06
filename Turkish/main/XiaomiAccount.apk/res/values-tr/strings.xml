@@ -473,7 +473,7 @@
   <string name="push_notification_title">Bilinmeyen bir cihazda, Mi hesabınızla oturum açtınız.</string>
   <string name="push_notify_dialog_message">Bilinmeyen bir cihazda, Mi Hesabınızla oturum açmak için kullanılır. Bu doğrulama kodunu cihaza girin. Eğer siz o değilseniz, Mi Hesap şifrenizi hemen değiştirin. Doğrulama kodunu başkalarına açıklamayın.</string>
   <string name="push_notify_dialog_title">Hesap Doğrulaması</string>
-  <string name="qq">QQ</string>
+  <string name="pwd_width_phone_number_or_mail_num">Şifre telefon numaranızı, e-posta veya Mi Hesap Kimliğinizi içeremez</string>
   <string name="recycle_phone_notification_msg">Telefon numaranız geçersiz gibi görünüyor. Güncellemek için dokunun.</string>
   <string name="recycle_phone_notification_title">Mi Hesabı güvenlik riski</string>
   <string name="removing_account">Çıkış yapılıyor...</string>
@@ -485,7 +485,8 @@
   <string name="restart_action">Baştan başla</string>
   <string name="restart_phone_bind_message">Bu SMS\'i almak biraz zaman alabilir. Yine de baştan başlansın mı?</string>
   <string name="restart_phone_bind_title">Kurtarma telefonunu değiştir</string>
-  <string name="same_new_and_old_pwd">Geçerli şifre ile aynı olamaz</string>
+  <string name="risky_pwd_not_allow">Yeni şifre güvenli değil. Başka bir tane ayarlayın.</string>
+  <string name="same_new_and_old_pwd">Yeni şifre eskisinden farklı olmalıdır</string>
   <string name="scan_barcode">Oturum açmak için QR kodunu tarayın</string>
   <string name="scan_barcode_title">Mi hesabınıza oturum açmak için QR kodunu taratın</string>
   <string name="search_account_security">Hesap güvenliği</string>

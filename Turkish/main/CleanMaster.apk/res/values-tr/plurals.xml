@@ -125,4 +125,32 @@
     <item quantity="other">%1$d öğe silinsin mi?</item>
     <item quantity="one">%1$d öğe silinsin mi?</item>
   </plurals>
+  <plurals name="dc_group_title_normal">
+    <item quantity="other">%2$s boşaltmak için %1$d adım atın</item>
+    <item quantity="one">%2$s boşaltmak için %1$d adım atın</item>
+  </plurals>
+  <plurals name="dc_item_summary_apk">
+    <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> yükleme paketlerini silebilirsiniz</item>
+    <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> yükleme paketlerini silebilirsiniz</item>
+  </plurals>
+  <plurals name="dc_item_summary_app_data">
+    <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> uygulama için verileri temizleyebilirsiniz</item>
+    <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> uygulama için verileri temizleyebilirsiniz</item>
+  </plurals>
+  <plurals name="dc_item_summary_image">
+    <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> gereksiz fotoğrafı silebilirsiniz</item>
+    <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> gereksiz fotoğrafı silebilirsiniz</item>
+  </plurals>
+  <plurals name="dc_item_summary_large_file">
+    <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> büyük dosyayı silebilirsiniz</item>
+    <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> büyük dosyayı silebilirsiniz</item>
+  </plurals>
+  <plurals name="dc_item_summary_uninstall_app">
+    <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> nadiren kullanılan uygulamayı kaldırabilirsiniz</item>
+    <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> nadiren kullanılan uygulamayı kaldırabilirsiniz</item>
+  </plurals>
+  <plurals name="dc_item_summary_video">
+    <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> videoyu silebilirsiniz</item>
+    <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> videoyu silebilirsiniz</item>
+  </plurals>
 </resources>

@@ -80,7 +80,7 @@
     <string name="account_setup_check_settings_check_incoming_msg">Sunucu ayarları doğrulanıyor...</string>
     <string name="account_setup_check_settings_check_outgoing_msg">SMTP ayarları doğrulanıyor…</string>
     <string name="account_setup_check_settings_retr_info_msg">"    Hesap bilgileri alınıyor..."</string>
-    <string name="account_setup_correct_address_tips">Girdiğiniz e-mail adresi geçersiz.</string>
+    <string name="account_setup_correct_address_tips">Girdiğiniz e-posta adresi geçersiz.</string>
     <string name="account_setup_creating_account_msg">"   Hesabınız oluşturuluyor..."</string>
     <string name="account_setup_deleting_account_msg">"   Hesabınız kaldırılıyor..."</string>
     <string name="account_setup_exchange_certificate_title">İstemci Sertifikası</string>
@@ -1075,8 +1075,8 @@ Tamamen eşitleninceye kadar bekleyin veya mesajı bilgisayarınızda görüntü
     <string name="ser_resp_err_map_max_connections">Çok fazla başarısız oturum açma teşebbüsü</string>
     <string name="ser_resp_err_map_nouser">Kullanıcı yok</string>
     <string name="ser_resp_err_map_or">%1$s veya %2$s</string>
-    <string name="ser_resp_err_map_pserr">Şifre veya kullanıcı adı hatalı.</string>
-    <string name="ser_resp_err_map_serclosed">%s sunucu kapalı</string>
+    <string name="ser_resp_err_map_pserr">Şifre veya kullanıcı adı hatalı</string>
+    <string name="ser_resp_err_map_serclosed">%s sunucu kapalı.</string>
     <string name="ser_resp_err_map_ssl">"Güvenlik Tipinden 'SSL/TLS (Tüm sertifikaları kabul et)  seçeneğini seçin'"</string>
     <string name="service_protocol_discribe">&lt;u>WPS Posta Hizmeti Sözleşmesini okudum ve kabul ediyorum&lt;/u></string>
     <string name="service_protocol_title">Hizmet Sözleşmesi</string>
@@ -1238,6 +1238,6 @@ Postayı bir kez eşitlemek için \"&lt;b>Şimdi Eşitle&lt;/b>ye veya bu hesapt
     <string name="user_privacy_settings">Gizlilik ayarları</string>
     <string name="user_privacy_settings_agreement_authorization">(\"Yetki ver\" öğesine dokunarak WPS Posta için gerekli tüm izinleri vermiş oluyorsunuz)</string>
     <string name="user_privacy_settings_path">İpucu: Kullanıcı gizlilik ayarlarından (ayarlar - kullanıcı gizlilik ayarları) onayınızı geri alabilirsiniz.</string>
-    <string name="user_privacy_settings_summary">Android kimliğinizi (MI Mail kullanarak benzersiz kullanıcı kimliğiniz olarak şifrelenmiş) veya işlem günlüğünü toplayacağız. Kullanıcı gizlilik ayarlarında istediğiniz zaman onayınızı geri çekme hakkınız vardır.</string>
-    <string name="user_privacy_settings_title">MI Mail Gizlilik Hakları Hatırlatma</string>	
+    <string name="user_privacy_settings_summary">Android kimliğinizi (MI Posta kullanarak benzersiz kullanıcı kimliğiniz olarak şifrelenmiş) veya işlem günlüğünü toplayacağız. Kullanıcı gizlilik ayarlarında istediğiniz zaman onayınızı geri çekme hakkınız vardır.</string>
+    <string name="user_privacy_settings_title">MI Posta Gizlilik Hakları Hatırlatma</string>	
 </resources>
