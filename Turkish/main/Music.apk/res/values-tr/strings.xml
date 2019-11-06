@@ -138,6 +138,7 @@
   <string name="current_album">Mevcut albüm kapağı</string>
   <string name="current_lyric">Güncel şarkı sözleri</string>
   <string name="current_version">Geçerli Sürüm</string>
+  <string name="daily_recommendation">Günlük karışım</string>
   <string name="data_usage_warning">Veri kullanımı</string>
   <string name="data_usage_warning_summary">Yüksek kalite ayarlarını kullanmanız daha yüksek veri trafiğine neden olacaktır.</string>
   <string name="data_use_desc">Yasal belgeler</string>
@@ -180,6 +181,10 @@
   <string name="dialog_renew_free_end">Ücretsiz denemeniz bitti. Hungama PRO\'ya abone misiniz?</string>
   <string name="dialog_renew_positive_text">EVET, BİR PROFESYONEL GİBİ ROCK YAPMAK İSTİYORUM</string>
   <string name="dialog_renew_success">Onayınız için teşekkürler</string>
+  <string name="dialog_score_btn_good">Oyla</string>
+  <string name="dialog_score_prompt_bad">Geri bildiriminiz için teşekkürler! Uygulamamızı ve hizmetlerimizi geliştirmek için elimizden gelenin en iyisini yapacağız.</string>
+  <string name="dialog_score_prompt_good">Desteğiniz için teşekkürler! Uygulamamızı Google Play\'da da değerlendirir misiniz?</string>
+  <string name="dialog_score_title">Uygulamamızı oylayın</string>  
   <string name="dialog_song_sort_type">Şarkıya Göre</string>
   <string name="dialog_song_sort_type_name">Adına Göre</string>
   <string name="dialog_song_sort_type_playing_times">Çalma Sayısına Göre</string>
@@ -197,6 +202,7 @@
   <string name="dialog_title_remove_tracks">Kaldır</string>
   <string name="disallow_add_to_fm">FM radyo şarkıları eklenemiyor</string>
   <string name="do_not_remind_this_version">Bu sürüm hakkında hatırlatma yapma</string>
+  <string name="do_not_support_google_voice_search">Google Sesli Arama cihazınızda desteklenmiyor.</string>
   <string name="download">İndir</string>
   <string name="download_added_to_list">İndirme listesine eklendi</string>
   <string name="download_apk_desktop_installing">Yükleniyor</string>
@@ -373,11 +379,13 @@
   <string name="home_tab_yandex">Yandex Müzik</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama_batch_download_alert_summary">Sadece PRO üyeleri birden fazla şarkı indirebilir. Şimdi PRO üye ol?</string>
-  <string name="hungama_category_chart">En iyi</string>
+  <string name="hungama_batch_download_alert_summary_toast">Tüm oynatma listesini indirmek için bir abonelik alın.</string>
+  <string name="hungama_category_chart">Popüler</string>
   <string name="hungama_category_playlist">Oynatma Listesi</string>
   <string name="hungama_category_radio">Radyo</string>
   <string name="hungama_category_video">Video</string>
-  <string name="hungama_free_download_out_summary">Daha fazla bedava şarkı indiremezsiniz. Sınırsız şarkı indirmek için PRO üye ol?</string>
+  <string name="hungama_free_download_out_summary">Daha fazla bedava şarkı indiremezsiniz. Sınırsız şarkı indirmek için PRO üye olunsun mu?</string>
+  <string name="hungama_free_download_out_summary_toast">%d şarkı zaten indirdiniz. Daha fazla indirmek için bir abonelik alın.</string>
   <string name="hungama_playlist_category">Çalma listesi kategorisi</string>
   <string name="hungama_privacy_desc">Hungama Gizlilik Politikası (isteğe bağlı)</string>
   <string name="hungama_privacy_tips_content">Çevrimiçi içeriğe erişmek için &lt;a href="/link/click">Hungama Gizlilik Politikası&lt;/a> kabul etmeniz gerekir.</string>
@@ -462,7 +470,7 @@
   <string name="miuishare_no_network">Ağa bağlı değilsiniz.</string>
   <string name="miuishare_publish">Gönder</string>
   <string name="miuishare_share_editor_title">Paylaş</string>
-  <string name="miuishare_title_more">Fazlası</string>
+  <string name="miuishare_title_more">Daha fazla</string>
   <string name="miuishare_title_share">Paylaş</string>
   <string name="mobile_recommended_title">Mobil Veri Kullanımı</string>
   <string name="modify_lyric">Şarkı sözünü düzenle</string>
@@ -471,11 +479,12 @@
   <string name="modify_progress_helper">Şarkı sözünü düzenleme işlemi için yukarı veya aşağı kaydırın</string>
   <string name="modify_song_info">Şarkı Bilgilerini Düzenle</string>
   <string name="modify_song_info_success">Şarkı bilgisi güncellendi</string>
-  <string name="more">Fazlası</string>
+  <string name="more">Daha fazla</string>
   <string name="more_add_song_list">Çalma listesine ekle</string>
   <string name="more_settings">Gelişmiş Ayarlar</string>
   <string name="more_settings_summary">Uyku zamanlayıcısı, dosyaları filtreleme ve daha fazlası</string>
   <string name="more_share">Paylaş</string>
+  <string name="more_splendid_contents">Daha fazla</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="mulit_choice_management">Birden çok öğeyi yönet</string>
   <string name="music_browser_label">Müzik</string>
@@ -742,6 +751,7 @@
   <string name="tab_album_list">Albümler</string>
   <string name="tab_artist">Sanatçılar</string>
   <string name="tab_artist_list">Sanatçılar</string>
+  <string name="tab_chart">Popüler</string>
   <string name="tab_folder">Klasörler</string>
   <string name="tab_playlist">Çalma listeleri</string>
   <string name="tab_track">Şarkılar</string>
@@ -821,4 +831,6 @@
   <string name="xiaomi_update_sdk_dialog_message_diff">Tanıtım sürümü %1$s\nDelta güncelleme boyutu: %2$s</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s güncelleme!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor, lütfen SD kartı kontrol edin.</string>
+  <string name="you_can_switch_mode_in_settings">Ayarlar\’da modlar arasında geçiş yapabilirsiniz.</string>
+  <string name="you_may_like">Şunlar da hoşunuza gidebilir</string>
 </resources>
