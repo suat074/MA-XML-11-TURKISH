@@ -34,7 +34,7 @@
   <string name="sim_contact_search_error">USIM kart kişileri aranırken hata oluştu</string>
   <string name="sim_contacts">USIM kişileri</string>
   <string name="sim_error_not_ready">USIM kişileri yükleniyor</string>
-  <string name="sim_export_error">USIM hazır değil, daha sonra tekrar deneyin</string>  
+  <string name="sim_export_error">USIM hazır değil, daha sonra tekrar deneyin</string>
   <string name="sim_export_loading">USIM kart okunuyor</string>
   <string name="sim_indexed_contact_not_exist">USIM karttaki %1$d pozisyonu geçersiz. %2$d ile %3$d arasında olması gerekiyor</string>
   <string name="sim_no_contact">USIM kartta kişi yok</string>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_saving">Kaydediliyor...</string>
@@ -11,8 +11,8 @@
   <string name="motion_photo_save_image_ing">En iyi resim kaydediliyor…</string>
   <string name="motion_photo_save_video">Video olarak kaydet</string>
   <string name="motion_photo_save_video_ing">Video kaydediliyor…</string>
-  <string name="motion_photo_toast_long_press_play">Oynatmak için fotoğrafa basılı tutun</string>
   <string name="motion_photo_toast_default">Varsayılan</string>
+  <string name="motion_photo_toast_long_press_play">Oynatmak için fotoğrafa basılı tutun</string>
   <string name="motion_photo_toast_suggest">Tavsiye edilen</string>
   <string name="refocus_discard_confirm_message">Değişiklikleri kaydet?</string>
   <string name="refocus_discard_negative_btn">Gözardı et</string>

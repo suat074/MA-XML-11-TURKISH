@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -35,14 +35,6 @@
   <string name="check_phone_error_title">Eşitleme kapalı</string>
   <string name="check_phone_io_error">Ağa bağlanamıyor</string>
   <string name="chinese_day_1">1.Gün</string>
-  <string name="chinese_day_2">2.Gün</string>
-  <string name="chinese_day_3">3.Gün</string>
-  <string name="chinese_day_4">4.Gün</string>
-  <string name="chinese_day_5">5.Gün</string>
-  <string name="chinese_day_6">6.Gün</string>
-  <string name="chinese_day_7">7.Gün</string>
-  <string name="chinese_day_8">8.Gün</string>
-  <string name="chinese_day_9">9.Gün</string>
   <string name="chinese_day_10">10.Gün</string>
   <string name="chinese_day_11">11.Gün</string>
   <string name="chinese_day_12">12.Gün</string>
@@ -53,6 +45,7 @@
   <string name="chinese_day_17">17.Gün</string>
   <string name="chinese_day_18">18.Gün</string>
   <string name="chinese_day_19">19.Gün</string>
+  <string name="chinese_day_2">2.Gün</string>
   <string name="chinese_day_20">20.Gün</string>
   <string name="chinese_day_21">21.Gün</string>
   <string name="chinese_day_22">22.Gün</string>
@@ -63,7 +56,14 @@
   <string name="chinese_day_27">27.Gün</string>
   <string name="chinese_day_28">28.Gün</string>
   <string name="chinese_day_29">29.Gün</string>
+  <string name="chinese_day_3">3.Gün</string>
   <string name="chinese_day_30">30.Gün</string>
+  <string name="chinese_day_4">4.Gün</string>
+  <string name="chinese_day_5">5.Gün</string>
+  <string name="chinese_day_6">6.Gün</string>
+  <string name="chinese_day_7">7.Gün</string>
+  <string name="chinese_day_8">8.Gün</string>
+  <string name="chinese_day_9">9.Gün</string>
   <string name="chinese_day_elementary">初</string>
   <string name="chinese_digit_eight">八</string>
   <string name="chinese_digit_five">五</string>
@@ -115,6 +115,8 @@
   <string name="close_twice_auth_step_3">3. \"İki Faktörlü Kimlik Doğrulamayı Kapat\" seçeneğine dokunun. Onaylamak için tekrar dokunun.</string>
   <string name="close_twice_auth_steps">Apple kimliği için iki faktörlü kimlik doğrulamayı kapatmak için aşağıdaki adımları izleyin:</string>
   <string name="close_twice_auth_tutor">Apple kimliği iki faktörlü kimlik doğrulamasını kapatın</string>
+  <string name="close_vpn_summary">Cihazınız şuan bir VPN\’e bağlı görünüyor. Diğer cihazlara bağlanabilmek için VPN\'i kapatın.</string>
+  <string name="close_vpn_title">VPN\'i kapat</string>
   <string name="comma_seperator">", "</string>
   <string name="confirm_description">Onayla</string>
   <string name="connect_wifi">WLAN\'a bağlan</string>
@@ -362,6 +364,11 @@
   <string name="dialog_backup_password_cancel">İptal</string>
   <string name="dialog_backup_password_change_machine_tips">Şifre korumalı yedekleri aktaramazsınız. Mi Transfer\'i kullanmadan önce yedekleme şifresini kapatın.</string>
   <string name="dialog_backup_password_verify">doğrula</string>
+  <string name="dialog_forbidden_use_tips">Mi Transfer şu anda tabletlere veya tabletlerden veri aktarımı desteklemiyor,</string>
+  <string name="dialog_rating_desc_ask">Mi Transfer hakkında ne düşünüyorsun?</string>
+  <string name="dialog_rating_desc_less">Uygulamamızı geliştirmek için bize birkaç öneri verebilir misin?</string>
+  <string name="dialog_rating_desc_perfect">Teşekkürler! GetApps\'de Mi Transfer\'i değerlendirir misin?</string>
+  <string name="dialog_rating_title">Mi Transfer\'i değerlendir</string>
   <string name="dialog_request_network_btn_negative">Çıkış</string>
   <string name="dialog_request_network_btn_positive">Kabul</string>
   <string name="dialog_request_network_message">Mi Transfer\'e Hoşgeldiniz! Öğeleri eski cihazınızdan yenisine aktarmak için bu uygulamayı kullanabilirsiniz. Mi Transfer\'in normal çalışması için internete bağlanması gerekiyor.</string>
@@ -487,7 +494,7 @@
   <string name="install_new_app_link_text">Yeni aygıtınıza bağlanabilmek için Mi Transfer\'i yükleyin. Yüklemek için dokunun.</string>
   <string name="instruction">Önemli güvenlik bilgileri</string>
   <string name="label">MIUI SDK</string>
-  <string name="lack_perm_msg">Mi Transfer aşağıdaki izinlere ihtiyaç duyuyor: &lt;b>%s&lt;/b>.</string>
+  <string name="lack_perm_msg">Mi Transfer aşağıdaki izinlere ihtiyaç duyuyor: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Gerekli izinler</string>
   <string name="launcher">Ana ekran düzeni</string>
   <string name="less_than_1_minute">1 dakikadan az</string>
@@ -502,6 +509,10 @@
   <string name="main_chooser_title">Eski cihazı seç</string>
   <string name="message_request_package_stats_perm">Ayarları açmak ve Mi Transfer\'e gerekli izinleri vermek için \"Devam\" seçeneğine dokunun.</string>
   <string name="midnight">GY</string>
+  <string name="miui_need_location_permission_summary">Yakındaki cihazları bulmak için Mi Transfer\'in konumunuza erişmesine izin verin. Bu izni vermediğiniz sürece Mi Transfer\'i kullanamazsınız.</string>
+  <string name="miui_need_location_permission_title">Konuma erişime izin ver</string>
+  <string name="miui_need_open_high_accuracy_summary">Yakındaki cihazları bulmak için Mi Transfer\'in konumunuza Yüksek doğruluk modunda erişmesine izin verin. Bu izni vermediğiniz sürece Mi Transfer\'i kullanamazsınız.</string>
+  <string name="miui_need_open_high_accuracy_title">Doğru konum bilgisine erişime izin ver</string>
   <string name="mms">MMS</string>
   <string name="mms_contacts_calllog">Mesajlar, kişiler ve çağrı geçmişi</string>
   <string name="monday">Pazartesi</string>
@@ -547,6 +558,7 @@
   <string name="morning">ÖÖ</string>
   <string name="name">Adı</string>
   <string name="name_password_not_consistent">Girdiğiniz Apple kimliği ve şifre eşleşmiyor</string>
+  <string name="need_location_permission_summary">Yakındaki cihazları bulabilmek için Mi Transfer\'in konumunuza erişmesine izin verin.</string>
   <string name="need_more_memory_cacel">İptal</string>
   <string name="need_more_memory_confirm">Temizleyici</string>
   <string name="need_more_memory_summary">Üçüncü taraf uygulama verileri aktarılmadan önce sıkıştırılmalıdır. Mi Transfer\'ın sıkıştırılmış paketler oluşturmak için %1$s ek depolama alanına ihtiyacı var.</string>
@@ -767,11 +779,12 @@
   <string name="time_picker_dialog_title">Zamanı ayarla</string>
   <string name="time_picker_label_hour">S</string>
   <string name="time_picker_label_minute">D</string>
-  <string name="time_spent">Zaman: &lt;g id="time">%1$s&lt;/g></string>
+  <string name="time_spent">Zaman: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
   <string name="title_request_package_stats_perm">Gerekli izinler</string>
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
   <string name="trans_detail_item_app_data_skip_data">Uygulama verileri aktarılamıyor</string>
+  <string name="trans_detail_item_app_skip_data">Bu uygulama taşınamıyor</string>
   <string name="trans_detail_qq_data">QQ verileri (sohbet geçmişi dahil)</string>
   <string name="trans_detail_wechat_data">WeChat verileri (sohbet geçmişi dahil)</string>
   <string name="trans_install_guide_new_content_first">Yeni cihazınızı kullanarak bu QR kodunu tarayın.\nMi Transfer\'i indirip yükleyin.</string>
@@ -847,17 +860,4 @@
   <string name="xiaomi_update_sdk_dialog_title">%1$s güncelleştirme!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor, lütfen SD kartı kontrol edin.</string>
   <string name="yesterday">Dün</string>
-  <string name="dialog_forbidden_use_tips">Mi Transfer şu anda tabletlere veya tabletlerden veri aktarımı desteklemiyor,</string>
-  <string name="close_vpn_summary">Cihazınız şuan bir VPN\’e bağlı görünüyor. Diğer cihazlara bağlanabilmek için VPN\'i kapatın.</string>
-  <string name="close_vpn_title">VPN\'i kapat</string>
-  <string name="miui_need_location_permission_summary">Yakındaki cihazları bulmak için Mi Transfer\'in konumunuza erişmesine izin verin. Bu izni vermediğiniz sürece Mi Transfer\'i kullanamazsınız.</string>
-  <string name="miui_need_location_permission_title">Konuma erişime izin ver</string>
-  <string name="miui_need_open_high_accuracy_summary">Yakındaki cihazları bulmak için Mi Transfer\'in konumunuza Yüksek doğruluk modunda erişmesine izin verin. Bu izni vermediğiniz sürece Mi Transfer\'i kullanamazsınız.</string>
-  <string name="miui_need_open_high_accuracy_title">Doğru konum bilgisine erişime izin ver</string>
-  <string name="need_location_permission_summary">Yakındaki cihazları bulabilmek için Mi Transfer\'in konumunuza erişmesine izin verin.</string>
-  <string name="dialog_rating_desc_ask">Mi Transfer hakkında ne düşünüyorsun?</string>
-  <string name="dialog_rating_desc_less">Uygulamamızı geliştirmek için bize birkaç öneri verebilir misin?</string>
-  <string name="dialog_rating_desc_perfect">Teşekkürler! GetApps\'de Mi Transfer\'i değerlendirir misin?</string>
-  <string name="dialog_rating_title">Mi Transfer\'i değerlendir</string>
-  <string name="trans_detail_item_app_skip_data">Bu uygulama taşınamıyor</string>
 </resources>

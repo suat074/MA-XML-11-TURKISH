@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Kulaklık</string>
   <string name="eq_auto">Özel</string>
@@ -42,15 +42,15 @@
   <string name="music_dirac_mode_headset">Mi Kulaklıklar</string>
   <string name="music_dirac_mode_headset_comfort">Mi Konforu</string>
   <string name="music_dirac_mode_in_ear">Mi Kulak İçi</string>
+  <string name="music_dirac_mode_in_ear2">Mi Kulak İçi 2</string>
   <string name="music_dirac_mode_in_ear_2013">Mi Kulak İçi (2013)</string>
   <string name="music_dirac_mode_in_ear_pro">Mi Kulak İçi Profesyonel</string>
-  <string name="music_dirac_mode_in_ear2">Mi Kulak İçi 2</string>
   <string name="music_dirac_mode_india_earphones">Mi Kulaklık</string>
   <string name="music_dirac_mode_india_earphones_basic">Mi Kulaklık Temel</string>
   <string name="music_dirac_mode_off">Dirac Kapalı</string>
   <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
-  <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_100">Mi Piston</string>
+  <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Klasik Sürüm</string>
   <string name="music_dirac_mode_piston_color">Renkli Sürüm</string>
   <string name="music_dirac_mode_piston_standard">Standart Sürüm</string>

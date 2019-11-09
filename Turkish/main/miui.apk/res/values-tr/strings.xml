@@ -14,6 +14,7 @@
   <string name="afternoon">ÖS</string>
   <string name="am">ÖÖ</string>
   <string name="birthday">Doğum Günü</string>
+  <string name="cancel_description">İptal</string>
   <string name="check_phone_error_title">Eşitleme kapalı</string>
   <string name="check_phone_io_error">"Ağa bağlanamıyor"</string>
   <string name="chinese_day_1">1.Gün</string>
@@ -86,7 +87,9 @@
   <string name="chinese_symbol_animals_sheep">Koyun</string>
   <string name="chinese_symbol_animals_snake">Yılan</string>
   <string name="chinese_symbol_animals_tiger">Kaplan</string>
+  <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="close">Kapat</string>
+  <string name="confirm_description">Onayla</string>
   <string name="copyright">Telif Hakkı</string>
   <string name="country_name_ac">AC</string>
   <string name="country_name_ad">AD</string>
@@ -324,7 +327,9 @@
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Tamam</string>
   <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
+  <string name="delete_description">Sil</string>
   <string name="deselect_all">Vazgeç</string>
+  <string name="deselect_all_description">Tümünü seç</string>
   <string name="early_morning">ÖÖ</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
@@ -481,6 +486,7 @@
   <string name="search_input_description">Ara</string>
   <string name="search_mode_button_back_description">Geri</string>
   <string name="select_all">Tümü</string>
+  <string name="select_all_description">Seçimleri kaldır</string>
   <string name="select_item">Öğeleri seç</string>
   <string name="send">Gönder</string>
   <string name="send_sms_for_sync_notice">Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir.</string>
@@ -578,6 +584,7 @@
   <string name="tuesday_short">Salı</string>
   <string name="tuesday_shortest">Salı</string>
   <string name="user_agreement">Hizmet Şartları</string>
+  <string name="user_experience_program">Kullanıcı Deneyim Programı</string>
   <string name="user_manual">Kullanım kılavuzu</string>
   <string name="web_sso_login_fail">Tekrar oturum açmanız gerekiyor.</string>
   <string name="web_sso_login_message">Oturum açılıyor…</string>
@@ -588,11 +595,4 @@
   <string name="wednesday_shortest">Çrş</string>
   <string name="xiaomi_mobile">Mi Mobil</string>
   <string name="yesterday">Dün</string>
-  <string name="cancel_description">İptal</string>
-  <string name="confirm_description">Onayla</string>
-  <string name="delete_description">Sil</string>
-  <string name="deselect_all_description">Tümünü seç</string>
-  <string name="select_all_description">Seçimleri kaldır</string> 
-  <string name="user_experience_program">Kullanıcı Deneyim Programı</string>
-  <string name="clearable_edittext_clear_description">Temizle</string> 
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -22,8 +22,12 @@
   <string name="accessibility_shutter_button">Deklanşör</string>
   <string name="action_search">Ara</string>
   <string name="address">Adres:</string>
+  <string name="agree_app_use">QR kodlarını tarar ve diğer görüntülerde tanıma yapar</string>
   <string name="agree_btn">Kabul</string>
+  <string name="agree_camera_permission">Fotoğraf çekmek ve video kaydetmek için</string>
+  <string name="agree_storage_permission">Cihazınızda depolanan fotoğraflara ve dosyalara erişmek için</string>
   <string name="aliusersdk_api_unauthorized">Yetkisiz API</string>
+  <string name="always">Her zaman</string>
   <string name="amazon_assistant_shopping_title">Amazon\'da ara</string>
   <string name="app_description_content">Tarayıcı, QR kodlarını, belgeleri, kartvizitleri ve daha fazlasını taramanıza izin verir. Uygulamayı kaldırmadan önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="app_description_title">Tarayıcı hakkında</string>
@@ -44,8 +48,10 @@
   <string name="call_anyone">Çağrı</string>
   <string name="camera_error_title">Kamera hatası</string>
   <string name="cancel">İptal</string>
+  <string name="choose_open_code_app">Bir uygulama seçin</string>
   <string name="choose_pay_title">Ödeme yöntemini seçin</string>
   <string name="choose_picture">QR kod resmini seçin</string>
+  <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi\'yi açın.</string>
   <string name="com_taobao_tae_sdk_alert_message">Zaman aşımı, lütfen tekrar çalıştırın</string>
   <string name="com_taobao_tae_sdk_authorize_title">Giriş izni</string>
   <string name="com_taobao_tae_sdk_loading_progress_message">Yükleniyor</string>
@@ -103,7 +109,7 @@
   <string name="gps">Gezinin</string>
   <string name="image_file_name_format">\'scanner\'_yyyyMMdd_HHmmss</string>
   <string name="import_contact">Kişiyi içe aktar</string>
-  <string name="impunity_declaration_content">Tarayıcının kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğraflarını çekmek için Tarayıcı\'yı kullanmayın. \"Kabul Et\" düğmesine dokunduğunuzda, &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">Gizlilik Politikamızı&lt;/a>&lt;/font> kabul etmiş ve Tarayıcının internete bağlanmasına izin vermiş olursunuz.</string>
+  <string name="impunity_declaration_content">Tarayıcının kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğraflarını çekmek için Tarayıcı\'yı kullanmayın. \"Kabul Et\" düğmesine dokunduğunuzda, &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Gizlilik Politikamızı&lt;/a&gt;&lt;/font&gt; kabul etmiş ve Tarayıcının internete bağlanmasına izin vermiş olursunuz.</string>
   <string name="impunity_declaration_negative_text">Çıkış</string>
   <string name="impunity_declaration_title">Gizlilik Politikası</string>
   <string name="keywords_search_code">Tarayıcı; Tarama; QR kodu; QR; Tanıma; Barkod; Barkod; Ürün; Ürünler; Alipay; WeChat; QR kodunu nasıl tarar; Barkod nasıl taranır</string>
@@ -145,6 +151,7 @@
   <string name="not_insert_contact">Kişi eklenemedi</string>
   <string name="not_recommend_access_web_url">Yine de git</string>
   <string name="note">Açıklama:</string>
+  <string name="once">Sadece bir kere</string>
   <string name="open_url">Link aç</string>
   <string name="pay_no_tip">Tekrar gösterme</string>
   <string name="pay_save_this_choose">Seçimimi hatırla</string>
@@ -177,6 +184,7 @@
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Her zaman sor</string>
   <string name="setting_default_function">Varsayılan özellik</string>
+  <string name="setting_function_sort">Özellikleri yeniden düzenle</string>
   <string name="setting_preference_pay">Tercih edilen ödeme yöntemi</string>
   <string name="setting_title">Ayarlar</string>
   <string name="setting_use_last_choose">Önceki seçimi hatırla</string>
@@ -193,7 +201,9 @@
   <string name="switch_open">Aç</string>
   <string name="tel">Telefon</string>
   <string name="title">Başlık:</string>
+  <string name="to_install_title">Bu QR kodu sizi kaldırılmış bir uygulamaya yönlendirir. Şimdi bu uygulamayı indirilsin mi?</string>
   <string name="to_pay">Ödemeyi tamamla</string>
+  <string name="toinstall">İndir</string>
   <string name="translate_auto_lock">Çeviriyi kilitle</string>
   <string name="translate_auto_unlock">Çeviri kilidini aç</string>
   <string name="translate_copy_success">Başarıyla kopyalandı</string>
@@ -234,19 +244,9 @@
   <string name="wifi_details">Wi-Fi:</string>
   <string name="wifi_exist_fail">Bağlantı noktası \"%1$s\" zaten var. Silin ve ardından bağlanmak için kodu tekrar tarayın.</string>
   <string name="wifi_open_fail">Wi-Fi açılmıyor</string>
+  <string name="wifi_psd_toolong">Şifre çok uzun. Şifreyi manuel olarak girin.</string>
   <string name="wifi_pwd">Şifre:</string>
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
-  <string name="wifi_psd_toolong">Şifre çok uzun. Şifreyi manuel olarak girin.</string>
-  <string name="wx_not_installed_toast">Bu özelliğin WeChat kullanması gerekir. Önce WeChat\'i yükleyin.</string> 
-  <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi\'yi açın.</string>
-  <string name="setting_function_sort">Özellikleri yeniden düzenle</string>
-  <string name="agree_app_use">QR kodlarını tarar ve diğer görüntülerde tanıma yapar</string>
-  <string name="agree_camera_permission">Fotoğraf çekmek ve video kaydetmek için</string>
-  <string name="agree_storage_permission">Cihazınızda depolanan fotoğraflara ve dosyalara erişmek için</string>
-  <string name="always">Her zaman</string>
-  <string name="choose_open_code_app">Bir uygulama seçin</string>
-  <string name="once">Sadece bir kere</string>
-  <string name="to_install_title">Bu QR kodu sizi kaldırılmış bir uygulamaya yönlendirir. Şimdi bu uygulamayı indirilsin mi?</string>
-  <string name="toinstall">İndir</string>  
+  <string name="wx_not_installed_toast">Bu özelliğin WeChat kullanması gerekir. Önce WeChat\'i yükleyin.</string>
 </resources>

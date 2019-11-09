@@ -93,10 +93,10 @@
   <string name="theft_protection_disabled_warning">Hırsızlığa karşı koruma özelliklerini kullanmak için, cihazınız için şifre korumalı bir ekran kilidinizin olması gerekir.</string>
   <string name="user_cannot_have_work_profile">Bu kullanıcı bir iş profiline sahip değil</string>
   <string name="user_consent_msg">İzin veriyorum</string>
+  <string name="user_is_not_owner">İş profillerinin cihazın birincil kullanıcısı tarafından ayarlanması gerekir</string>
   <string name="user_setup_incomplete">Kullanıcı Kurulumu Eksik</string>
   <string name="work_profile_setup_continue">Devam</string>
   <string name="work_profile_setup_later_message">İş profilini sonra cihaz yönetiminden ayarlayabilirsiniz.</string>
   <string name="work_profile_setup_later_title">Profil durdurulsun mu?</string>
   <string name="work_profile_setup_stop">Dur</string>
-  <string name="user_is_not_owner">İş profillerinin cihazın birincil kullanıcısı tarafından ayarlanması gerekir</string>
 </resources>

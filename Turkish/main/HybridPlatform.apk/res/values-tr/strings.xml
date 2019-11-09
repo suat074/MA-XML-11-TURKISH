@@ -1,5 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_AudioRecorder">Ses kaydı</string>
+  <string name="HIPS_Perm_AudioRecorder_Desc">ses ve telefon görüşmelerini kaydet</string>
+  <string name="HIPS_Perm_Location">Konum bilgisi al</string>
+  <string name="HIPS_Perm_Location_Desc">kesin konum al (GPS ve ağ tabanlı)</string>
+  <string name="HIPS_Perm_PhoneID">Cihaz bilgilerini al</string>
+  <string name="HIPS_Perm_PhoneID_Desc">Telefon numarası, IMEI ve IMSI erişimi</string>
+  <string name="HIPS_Perm_Read_Calendar">Takvim etkinliklerini oku</string>
+  <string name="HIPS_Perm_Read_Calendar_Desc">takvim etkinliklerinizi okuyun</string>
+  <string name="HIPS_Perm_Read_Call_Log">Çağrı geçmişini oku</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">çağrı geçmişini oku</string>
+  <string name="HIPS_Perm_Read_External_Storage">Dahili depolamadaki dosyaları oku</string>
+  <string name="HIPS_Perm_Read_External_Storage_Desc">aygıtın dahili deposundaki dosyaları oku</string>
+  <string name="HIPS_Perm_SendSMS">SMS mesajları gönder</string>
+  <string name="HIPS_Perm_SendSMS_Desc">doğrudan SMS mesajları gönder</string>
+  <string name="HIPS_Perm_VideoRecorder">Kamera erişimi</string>
+  <string name="HIPS_Perm_VideoRecorder_Desc">görüntü veya video çekimi için kameraya erişim</string>
+  <string name="HIPS_Perm_Write_Calendar">Takvim etkinlikleri yaz</string>
+  <string name="HIPS_Perm_Write_Calendar_Desc">takvim etkinliklerinizi ekleyin veya değiştirin</string>
+  <string name="HIPS_Perm_Write_External_Storage">Dahili depodaki dosyaları yaz</string>
+  <string name="HIPS_Perm_Write_External_Storage_Desc">cihazdaki dahili depolama alanına dosya ekleme ve silme</string>
+  <string name="HIPS_Perm_install_shortcut">Ana ekran kısayolları</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">ana ekrana kısayol ekle</string>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -113,28 +135,6 @@
   <string name="exception_btn_copy">Kopyala</string>
   <string name="feature_barcode_flight">Ön ışık</string>
   <string name="h5_pay_dialog_title">WeChat\'e ödeme talebi gönderiliyor...</string>
-  <string name="HIPS_Perm_AudioRecorder">Ses kaydı</string>
-  <string name="HIPS_Perm_AudioRecorder_Desc">ses ve telefon görüşmelerini kaydet</string>
-  <string name="HIPS_Perm_install_shortcut">Ana ekran kısayolları</string>
-  <string name="HIPS_Perm_install_shortcut_Desc">ana ekrana kısayol ekle</string>
-  <string name="HIPS_Perm_Location">Konum bilgisi al</string>
-  <string name="HIPS_Perm_Location_Desc">kesin konum al (GPS ve ağ tabanlı)</string>
-  <string name="HIPS_Perm_PhoneID">Cihaz bilgilerini al</string>
-  <string name="HIPS_Perm_PhoneID_Desc">Telefon numarası, IMEI ve IMSI erişimi</string>
-  <string name="HIPS_Perm_Read_Calendar">Takvim etkinliklerini oku</string>
-  <string name="HIPS_Perm_Read_Calendar_Desc">takvim etkinliklerinizi okuyun</string>
-  <string name="HIPS_Perm_Read_Call_Log">Çağrı geçmişini oku</string>
-  <string name="HIPS_Perm_Read_Call_Log_Desc">çağrı geçmişini oku</string>
-  <string name="HIPS_Perm_Read_External_Storage">Dahili depolamadaki dosyaları oku</string>
-  <string name="HIPS_Perm_Read_External_Storage_Desc">aygıtın dahili deposundaki dosyaları oku</string>
-  <string name="HIPS_Perm_SendSMS">SMS mesajları gönder</string>
-  <string name="HIPS_Perm_SendSMS_Desc">doğrudan SMS mesajları gönder</string>
-  <string name="HIPS_Perm_VideoRecorder">Kamera erişimi</string>
-  <string name="HIPS_Perm_VideoRecorder_Desc">görüntü veya video çekimi için kameraya erişim</string>
-  <string name="HIPS_Perm_Write_Calendar">Takvim etkinlikleri yaz</string>
-  <string name="HIPS_Perm_Write_Calendar_Desc">takvim etkinliklerinizi ekleyin veya değiştirin</string>
-  <string name="HIPS_Perm_Write_External_Storage">Dahili depodaki dosyaları yaz</string>
-  <string name="HIPS_Perm_Write_External_Storage_Desc">cihazdaki dahili depolama alanına dosya ekleme ve silme</string>
   <string name="hints_no_any_app">Hiç kullandığınız uygulama yok</string>
   <string name="loading_fail_btn_continue">Yüklü uygulamayı kullanmaya devam et</string>
   <string name="loading_fail_btn_reinstall">Güncelleme</string>

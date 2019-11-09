@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_folder_description">Klasörleri görüntüle</string>
   <string name="action_mode_switcher_grid_description">Izgara görünümü</string>
@@ -41,6 +41,7 @@
   <string name="cta_dialog_message">Notlar\'ın normal çalışması için, internete bağlanması, ses kaydetmesi ve kişilerinize erişmesi gerekir. İzin verilsin mi?</string>
   <string name="cta_dialog_title">İzin gerekli</string>
   <string name="cta_reminder">Notlar\'ın normal çalışması için internete bağlanma, ses kaydetme ve kişilerinize erişme izinlerine ihtiyacı var. İzin ver?</string>
+  <string name="date_calculate_today">0 gün</string>
   <string name="date_time_picker_alarm_reminder">Alarm</string>
   <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="date_time_picker_has_not_set_alarm">Alarm ayarlanmadı</string>
@@ -85,6 +86,7 @@
   <string name="error_send_empty_note_to_weibo">Boş not Weibo adresine gönderilemez</string>
   <string name="error_unsupport_content">Bu not desteklenmeyen içerik içeriyor, güncellemek için buraya dokunun</string>
   <string name="error_widget_exist_for_send_to_desktop">Bu not zaten Ana ekranınızda</string>
+  <string name="exceed_todo_text_limitation">Görev açıklaması çok uzun.</string>
   <string name="first_enter_custom_folder_hint">Buradan klasörleri yeniden adlandırabilir veya silebilirsiniz</string>
   <string name="folder_exist">Aynı ada sahip bir klasör zaten var</string>
   <string name="folder_operation_delete">Sil</string>
@@ -99,6 +101,7 @@
   <string name="info_note_enter_desktop">Ana ekrana eklendi</string>
   <string name="loading_text">Sadece bir saniye…</string>
   <string name="login_sync">Oturum aç &amp; eşitle</string>
+  <string name="lunar_day">Kameri %1$s</string>
   <string name="menu_add_audio_description">Sesli not ekle</string>
   <string name="menu_add_description">Not ekle</string>
   <string name="menu_add_folder">Klasöre ekle</string>
@@ -120,6 +123,8 @@
   <string name="menu_source">Gönderen: %1$s</string>
   <string name="menu_stick">Sabitle</string>
   <string name="menu_title_select_folder">Klasörü seç</string>
+  <string name="menu_todo_hide_finished_todo">Tamamlanan görevleri gizle</string>
+  <string name="menu_todo_show_finished_todo">Tamamlanmış görevleri göster</string>
   <string name="menu_unhide">Gizliden çıkar</string>
   <string name="menu_unstick">Sabitten kaldır</string>
   <string name="new_audio_create_cancel_talkback_des">İptal edildi</string>
@@ -139,17 +144,18 @@
   <string name="notealert_ok">Reddet</string>
   <string name="notify_alarm_title">Not hatırlatma</string>
   <string name="permdesc_accessNote">Kötü amaçlı uygulamalar kişisel verilerinize erişmek için bunu kullanabilir.</string>
+  <string name="permission_get_account_desc">Notları bulutla eşitleme</string>
   <string name="permission_intro_contact">Çağrılar sırasında alınan notları işaretlemek için</string>
   <string name="permission_intro_microphone">Sesli notlar kaydetmek için</string>
   <string name="permission_intro_phone">Çağrılar sırasında alınan notları işaretlemek için</string>
   <string name="permission_intro_storage">Notları ve ekleri kaydetmek için</string>
-  <string name="permission_get_account_desc">Notları bulutla eşitleme</string>
   <string name="permission_microphone_desc">Sesli not alma</string>
   <string name="permission_network_for_cloud_desc">Notları bulutla eşitlemek için internete bağlanmanız gerekir. Öğeleri eşitlemek için mobil veri kullanılabilir. Şimdi bağlanılsın mı?</string>
   <string name="permission_read_contact_desc">Çağrılar sırasında oluşturulan notları kişilerle ilişkilendirme</string>
-  <string name="permission_xiaoai_desc"><Data>Mi AI, ses kaydı yapmak ve sesli notlar oluşturmak için ses kayıtlarınızı ve cihaz kimliğinizi toplar. Mi AI &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> ile daha fazla bilgi edinin.</Data></string>
+  <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI, ses kayd&amp;#305; yapmak ve sesli notlar olu&amp;#351;turmak i&amp;#231;in ses kay&amp;#305;tlar&amp;#305;n&amp;#305;z&amp;#305; ve cihaz kimli&amp;#287;inizi toplar. Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Gizlilik Politikas&amp;#305;&amp;lt;/a&amp;gt; ile daha fazla bilgi edinin.&lt;/Data&gt;</string>
   <string name="permlab_accessNote">Notlar\'a erişim</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Onaylamadan notları silmek için 2 parmağınızla yukarı kaydırın</string>
+  <string name="pref_desc_todo_float_mode">Görev araç kutusunu açmak için ekranın kenarından kaydır</string>
   <string name="pref_remind_type_summary">Sessiz modda hatırlatıcı sesini çal</string>
   <string name="pref_remind_type_title">Sessiz modu yoksay</string>
   <string name="pref_title_cloud_trash_bin">Buluttan silinmiş notlar</string>
@@ -158,6 +164,8 @@
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_show_root_folder_in_homepage">Başlangıç ​​sayfasında yalnızca hızlı notları göster</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Hareket kullanarak sil</string>
+  <string name="pref_title_todo_float_mode">Görev araç kutusunu kullan</string>
+  <string name="pref_title_todo_shorcut">Araç kutusu</string>
   <string name="privacy_note_content_empty">Henüz burada öğe yok.</string>
   <string name="recover_notes_hint">Bir hata oluştu, notları geri yüklemek için i.mi.com adresine gidin.</string>
   <string name="redo">Yeniden yap</string>
@@ -221,12 +229,15 @@
   <string name="theme_title_yellow">Sarı</string>
   <string name="theme_white_description">Beyaz</string>
   <string name="theme_yellow_description">Sarı</string>
+  <string name="time_picker_label_hour">S</string>
+  <string name="time_picker_label_minute">D</string>
   <string name="toast_cancel_to_insert_image">Resim eklenemedi.</string>
   <string name="toast_message_add_image_fail">Resim eklenemedi</string>
   <string name="toast_notes_delete_success">Başarıyla silindi</string>
   <string name="toast_notes_hidden_edit">Bu not başarıyla gizlendi. Gizli notları görmek için aşağı çekin.</string>
   <string name="toast_notes_hidden_home">Bu not başarıyla gizlendi. Gizli notları görmek için aşağı çekin.</string>
   <string name="toast_notes_unhidden">Başarıyla gizliden çıkarıldı</string>
+  <string name="toast_pic_is_not_really">Resim kaydediliyor…</string>
   <string name="toast_reach_text_limit_attachment">Not çok uzun olduğu için yeni ekler eklenemiyor</string>
   <string name="toast_reach_text_limit_checkbox">Not çok uzun olduğu için onay kutusu eklenemiyor</string>
   <string name="toast_reach_text_limit_truncate">Bu not çok uzun. Bazı metinler uçtan kesildi.</string>
@@ -236,33 +247,6 @@
   <string name="toast_refuse_to_use_external_storage">Depolama izinleri kısıtlanmış.\nNotlar\'ın SD kartınızın içeriğini okumasına izin verin.</string>
   <string name="toast_refuse_to_use_phone_state">Telefon izinleri kısıtlanmış.\nNotlar\'ın telefon durumunu ve kimliğini okumasına izin verin.</string>
   <string name="toast_refuse_to_use_record_audio">Mikrofon izinleri kısıtlanmış.\nNotlar\'ın ses kaydetmesine izin verin.</string>
-  <string name="toolbar_check_description">Onay kutusu ekle</string>
-  <string name="toolbar_delete_description">Bu notu sil</string>
-  <string name="toolbar_gallery_description">Resim ekle</string>
-  <string name="toolbar_redo_description">Yeniden yap</string>
-  <string name="toolbar_share_description">Bu notu paylaş</string>
-  <string name="toolbar_text_description">Metin stili</string>
-  <string name="toolbar_theme_description">Tema seç</string>
-  <string name="toolbar_undo_description">Geri al</string>
-  <string name="toolbar_voice_description">Ses</string>
-  <string name="trash_folder_name">Çöp</string>
-  <string name="trash_folder_reminder">Sildiğiniz notlar 30 gün içinde kalıcı olarak silinir.</string>
-  <string name="unclassfied_folder_name">Kategorilenmemiş</string>
-  <string name="undo">Geri al</string>
-  <string name="unknown_source">Bilinmeyen kaynak</string>
-  <string name="widget_content_loading">Sadece bir saniye…</string>
-  <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için widgete basılı tutun.</string>
-  <string name="toast_pic_is_not_really">Resim kaydediliyor…</string>
-  <string name="date_calculate_today">0 gün</string>
-  <string name="exceed_todo_text_limitation">Görev açıklaması çok uzun.</string>
-  <string name="lunar_day">Kameri %1$s</string>
-  <string name="menu_todo_hide_finished_todo">Tamamlanan görevleri gizle</string>
-  <string name="menu_todo_show_finished_todo">Tamamlanmış görevleri göster</string>
-  <string name="pref_desc_todo_float_mode">Görev araç kutusunu açmak için ekranın kenarından kaydır</string>
-  <string name="pref_title_todo_float_mode">Görev araç kutusunu kullan</string>
-  <string name="pref_title_todo_shorcut">Araç kutusu</string>
-  <string name="time_picker_label_hour">S</string>
-  <string name="time_picker_label_minute">D</string>
   <string name="todo_alert_title_delete">Tamamlanan görevleri sil</string>
   <string name="todo_audio_default_content">[Sesli görev]</string>
   <string name="todo_custom_remind_tag_pattern_with_md">dd/MM/ HH:mm</string>
@@ -312,5 +296,21 @@
   <string name="todo_user_guide_tip3">Bir metin görevini düzenlemek için, sadece dokunun.</string>
   <string name="todo_user_guide_tip4">Görevler için bir Ana ekran kısayolu oluşturmayı unutmayın.</string>
   <string name="todo_user_guide_tip5">Oyunun içinde kalın ve önemli bir şeyi asla kaçırmayın!</string>
-  <string name="todoalert_done">Tamam</string>  
+  <string name="todoalert_done">Tamam</string>
+  <string name="toolbar_check_description">Onay kutusu ekle</string>
+  <string name="toolbar_delete_description">Bu notu sil</string>
+  <string name="toolbar_gallery_description">Resim ekle</string>
+  <string name="toolbar_redo_description">Yeniden yap</string>
+  <string name="toolbar_share_description">Bu notu paylaş</string>
+  <string name="toolbar_text_description">Metin stili</string>
+  <string name="toolbar_theme_description">Tema seç</string>
+  <string name="toolbar_undo_description">Geri al</string>
+  <string name="toolbar_voice_description">Ses</string>
+  <string name="trash_folder_name">Çöp</string>
+  <string name="trash_folder_reminder">Sildiğiniz notlar 30 gün içinde kalıcı olarak silinir.</string>
+  <string name="unclassfied_folder_name">Kategorilenmemiş</string>
+  <string name="undo">Geri al</string>
+  <string name="unknown_source">Bilinmeyen kaynak</string>
+  <string name="widget_content_loading">Sadece bir saniye…</string>
+  <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için widgete basılı tutun.</string>
 </resources>

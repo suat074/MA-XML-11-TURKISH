@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_change_text" formatted="false">Şu anda seçilen öğe, %d öğesiyle değiştirilen %d öğesidir.</string>
   <string name="access_select">%s seçili</string>
@@ -1124,13 +1124,13 @@
   <string name="train_D">D treni</string>
   <string name="train_G">G treni</string>
   <string name="train_K">K treni</string>
+  <string name="train_T">T treni</string>
+  <string name="train_Z">Z treni</string>
   <string name="train_normal">Düzenli tren</string>
   <string name="train_num">Tren numarası</string>
   <string name="train_num_example">Örneğin. G101</string>
   <string name="train_seat">Oturma yeri</string>
   <string name="train_seat_example">Örneğin. Araba 03, Koltuk 05F</string>
-  <string name="train_T">T treni</string>
-  <string name="train_Z">Z treni</string>
   <string name="trans_card">Taşıma kartı</string>
   <string name="transit_subway">Toplu taşıma</string>
   <string name="trip_assistant_all_btn">Tüm geziler</string>

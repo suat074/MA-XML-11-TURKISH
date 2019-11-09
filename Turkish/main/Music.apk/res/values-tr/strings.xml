@@ -1,5 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="April">Nisan</string>
+  <string name="August">Ağustos</string>
+  <string name="December">Aralık</string>
+  <string name="February">Şubat</string>
+  <string name="January">Ocak</string>
+  <string name="July">Temmuz</string>
+  <string name="June">Haziran</string>
+  <string name="March">Mart</string>
+  <string name="May">Mayıs</string>
+  <string name="November">Kasım</string>
+  <string name="October">Ekim</string>
+  <string name="September">Eylül</string>
+  <string name="Updated_at">"Güncellendi: "</string>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
@@ -70,7 +83,6 @@
   <string name="app_permission_use_group_phone_desc">Google Push hizmetleri için</string>
   <string name="app_permission_use_group_storage">Depolama</string>
   <string name="app_permission_use_group_storage_desc">Cihaza kaydedilmiş şarkıları bulmak ve çalmak için</string>
-  <string name="April">Nisan</string>
   <string name="artist">Sanatçılar</string>
   <string name="artist_area_all">Tümü</string>
   <string name="artist_area_china">Çin</string>
@@ -85,7 +97,6 @@
   <string name="artist_is_empty">Sanatçı adı boş olamaz.</string>
   <string name="artist_name">Sanatçı</string>
   <string name="audio_picker_title">Bir şarkı seçin</string>
-  <string name="August">Ağustos</string>
   <string name="auto_update">Otomatik olarak güncelle</string>
   <string name="auto_update_tip">Mobil veri kullanarak sistem uygulamalarını güncelleyebilirsiniz. Bu ek veri ücretleri oluşturabilir.</string>
   <string name="available_playlist_name_format">Yeni çalma listesi %d</string>
@@ -143,7 +154,6 @@
   <string name="data_usage_warning_summary">Yüksek kalite ayarlarını kullanmanız daha yüksek veri trafiğine neden olacaktır.</string>
   <string name="data_use_desc">Yasal belgeler</string>
   <string name="date_format_str">dd-MM-yyyy</string>
-  <string name="December">Aralık</string>
   <string name="delete">Sil</string>
   <string name="delete_download">Sil</string>
   <string name="delete_file_as_well">Bu şarkıyı kalıcı olarka sil</string>
@@ -184,7 +194,7 @@
   <string name="dialog_score_btn_good">Oyla</string>
   <string name="dialog_score_prompt_bad">Geri bildiriminiz için teşekkürler! Uygulamamızı ve hizmetlerimizi geliştirmek için elimizden gelenin en iyisini yapacağız.</string>
   <string name="dialog_score_prompt_good">Desteğiniz için teşekkürler! Uygulamamızı Google Play\'da da değerlendirir misiniz?</string>
-  <string name="dialog_score_title">Uygulamamızı oylayın</string>  
+  <string name="dialog_score_title">Uygulamamızı oylayın</string>
   <string name="dialog_song_sort_type">Şarkıya Göre</string>
   <string name="dialog_song_sort_type_name">Adına Göre</string>
   <string name="dialog_song_sort_type_playing_times">Çalma Sayısına Göre</string>
@@ -264,7 +274,7 @@
   <string name="download_traffic_dialog_title">Veri Kullanım Uyarısı</string>
   <string name="download_traffic_dialog_title_beyond">Veri kullanımı aşıldı</string>
   <string name="download_traffic_dialog_title_serious">Çok az mobil veri kaldı</string>
-  <string name="download_unknown_title">&lt;İsimsiz></string>
+  <string name="download_unknown_title">&lt;İsimsiz&gt;</string>
   <string name="download_wait_connect">Bağlantıyı bekliyor</string>
   <string name="download_while_playing_no_vip_summary">Otomatik olarak favori şarkılar indirilsin (İçerik ödemeli)</string>
   <string name="download_while_playing_summary">Otomatik olarak çevrimiçi şarkılar indirilsin mi</string>
@@ -340,7 +350,6 @@
   <string name="favorite_tracks">Favoriler</string>
   <string name="favorites">Favoriler</string>
   <string name="fcm_fallback_notification_channel_label">Çeşitli</string>
-  <string name="February">Şubat</string>
   <string name="feed_back">Geri bildirim</string>
   <string name="file_not_found">Dosya yok</string>
   <string name="filter_by_duration">Süreye göre</string>
@@ -388,13 +397,13 @@
   <string name="hungama_free_download_out_summary_toast">%d şarkı zaten indirdiniz. Daha fazla indirmek için bir abonelik alın.</string>
   <string name="hungama_playlist_category">Çalma listesi kategorisi</string>
   <string name="hungama_privacy_desc">Hungama Gizlilik Politikası (isteğe bağlı)</string>
-  <string name="hungama_privacy_tips_content">Çevrimiçi içeriğe erişmek için &lt;a href="/link/click">Hungama Gizlilik Politikası&lt;/a> kabul etmeniz gerekir.</string>
+  <string name="hungama_privacy_tips_content">Çevrimiçi içeriğe erişmek için &lt;a href="/link/click"&gt;Hungama Gizlilik Politikası&lt;/a&gt; kabul etmeniz gerekir.</string>
   <string name="hungama_privacy_tips_title">Hungama Gizlilik Politikası</string>
   <string name="hungama_subscribe_message">Yüksek kalitede müzik indirmek için PRO üyeliği satın alın.</string>
   <string name="hungama_subscribe_positive_button">PRO üyeliğini satın al</string>
   <string name="hungama_subscribe_title">PRO üyelik</string>
   <string name="i_know">Tamam</string>
-  <string name="impunity_declaration_content">Bu ürünü kullanmadan önce &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz.</string>
+  <string name="impunity_declaration_content">Bu ürünü kullanmadan önce &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Gizlilik Politikamızı&lt;/a&gt; okumalı ve kabul etmelisiniz.</string>
   <string name="impunity_declaration_ignore">Tekrar gösterme</string>
   <string name="impunity_declaration_negative_text">Çık</string>
   <string name="impunity_declaration_positive_text">Kabul</string>
@@ -414,9 +423,6 @@
   <string name="is_latest_version">Müzik güncel.</string>
   <string name="is_scanning">Depolama denetleniyor...</string>
   <string name="is_scanning_support_online">Depolama denetleniyor...\n(Bu arada, çevrimiçi müzik yayını yapabilir)</string>
-  <string name="January">Ocak</string>
-  <string name="July">Temmuz</string>
-  <string name="June">Haziran</string>
   <string name="keep_queued_download">Koru</string>
   <string name="ktv_playlist">KTV oynatma listesi</string>
   <string name="language_page_confirm">Onayla</string>
@@ -444,8 +450,6 @@
   <string name="lyric_label">Şarkı sözleri</string>
   <string name="lyric_open_other_connect">Mobil ağ ile şarkı sözlerini indir</string>
   <string name="lyric_setting">Şarkı sözü ayarları</string>
-  <string name="March">Mart</string>
-  <string name="May">Mayıs</string>
   <string name="menu_title_pause_all">Tümünü durdur</string>
   <string name="menu_title_resume_all">Tümünü başlat</string>
   <string name="message_delete_playlist">%s çalma listesi silinsin mi?</string>
@@ -465,7 +469,7 @@
   <string name="metered_serious_alert_msg_with_data">Sadece %s mobil veri kaldı. Şarkıları dinlemek için mobil veri kullanılsın mı?</string>
   <string name="metered_serious_allow">Yine de oynat</string>
   <string name="milink_unavaliable_please_update">Mi bağlantı işlevi kullanılamaz. MIUI sistemini güncellemek gerekir.</string>
-  <string name="missing_title">&lt;Bilinmiyor></string>
+  <string name="missing_title">&lt;Bilinmiyor&gt;</string>
   <string name="miuishare_account_login_ok">Oturum aç</string>
   <string name="miuishare_no_network">Ağa bağlı değilsiniz.</string>
   <string name="miuishare_publish">Gönder</string>
@@ -534,13 +538,11 @@
   <string name="notification_recommend_summary">Yeni müzik trendleri ve uygulama tanıtımları hakkında bilgi edinin.</string>
   <string name="notification_recommend_title">Önemli bildirimler</string>
   <string name="notification_setting">Bildirim Ayarları</string>
-  <string name="November">Kasım</string>
   <string name="nowplaying_circle_style">Oynat düğmesi stili</string>
   <string name="nowplaying_circle_style_rainbow">Gökkuşağı</string>
   <string name="nowplaying_circle_style_wave">Dalga</string>
   <string name="nowplaying_dialog_title_delete_tracks">Listeden kaldırılsın mı?</string>
   <string name="nowplaying_menu_item_delete">Kuyruktan kaldır</string>
-  <string name="October">Ekim</string>
   <string name="ok">Tamam</string>
   <string name="online_apk_acquired">%d%% yüklendi</string>
   <string name="online_apk_acquiring">"%d%% yükleniyor… "</string>
@@ -694,7 +696,6 @@
   <string name="select_three_languages">En fazla 3 dil seçebilirsiniz</string>
   <string name="selected_count">%2$d %1$d seçildi</string>
   <string name="send_to_title">(%1$s) Gönder</string>
-  <string name="September">Eylül</string>
   <string name="service_and_settings">Servis ve Hizmetler</string>
   <string name="set_as_alarm_clock_ringtone">Alarm</string>
   <string name="set_as_ring">Zil sesi yap</string>
@@ -809,7 +810,6 @@
   <string name="unlimited_downloads">Sınırsız indirme</string>
   <string name="unlimited_offline_songs">Sınırsız çevrimdışı şarkı</string>
   <string name="update_now">ŞİMDİ GÜNCELLE</string>
-  <string name="Updated_at">"Güncellendi: "</string>
   <string name="upgrade_music">Müzik Güncelle</string>
   <string name="upgrade_music_message">Paket hazır. Güncellemek için yeniden başlatın.</string>
   <string name="upgrading_in_backstage">Arka planda güncelleniyor…</string>

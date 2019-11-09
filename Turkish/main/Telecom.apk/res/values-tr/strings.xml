@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -300,13 +300,13 @@
   <string name="notification_channel_missed_call">Cevapsız aramalar</string>
   <string name="notification_incoming_call">%2$s ile %1$S çağrısı</string>
   <string name="notification_incoming_video_call">%2$s ile %1$S görüntülü çağrı</string>
+  <string name="notification_missedCallTicker">Cevapsız çağrınız: %s</string>
+  <string name="notification_missedCallTitle">Cevapsız Çağrı</string>
   <string name="notification_missedCall_call_back">Geri Ara</string>
   <string name="notification_missedCall_call_back_miui">Ara</string>
   <string name="notification_missedCall_message">Mesaj</string>
   <string name="notification_missedCallsMsg">%s cevapsız çağrı</string>
   <string name="notification_missedCallsTitle">Cevapsız Çağrılar</string>
-  <string name="notification_missedCallTicker">Cevapsız çağrınız: %s</string>
-  <string name="notification_missedCallTitle">Cevapsız Çağrı</string>
   <string name="notification_missedWorkCallTitle">Cevapsız İş Çağrısı</string>
   <string name="oem_unlock_enable">OEM kilidini aç</string>
   <string name="oem_unlock_enable_summary">Önyükleyicinin kilidinin açılmasına izin ver</string>
@@ -469,8 +469,8 @@
   <string name="usb_audio_disable_routing">USB ses yolunu devre dışı bırak</string>
   <string name="usb_audio_disable_routing_summary">USB ses çevre birimlerine otomatik yönlendirmeyi devre dışı bırak</string>
   <string name="use_system_language_to_select_input_method_subtypes">Sistem dillerini kullan</string>
-  <string name="user_guest">Misafir</string>
   <string name="userCallActivityLabel">Telefon</string>
+  <string name="user_guest">Misafir</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="verify_apps_over_usb_summary">Zararlı davranışlar için ADB/ADT aracılığıyla yüklenmiş uygulamaları kontrol edin.</string>
@@ -532,8 +532,8 @@
   <string name="wifi_security_wapi_psk_hexadecimal">Onaltılık</string>
   <string name="wifi_security_wep">WEP</string>
   <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
+  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_ssid_is_empty">SSID alanı boş bırakılamaz</string>
   <string name="wifi_ssid_length_is_max">SSID uzunluğu 32 karakterden uzun olamaz</string>
   <string name="wifi_status_mac_randomized">MAC rastgele dağıtılır</string>

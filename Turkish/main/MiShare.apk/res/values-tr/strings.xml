@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -30,6 +30,7 @@
   <string name="app_name">Dosya Paylaşımı</string>
   <string name="btn_cancel">İptal</string>
   <string name="btn_sure">Tamam</string>
+  <string name="can_not_transfer_when_screening">Transferl sırasında yansıtma yapılamıyor</string>
   <string name="cancel_current">GEÇERLİYİ IİPTAL ET</string>
   <string name="cancel_receive">İptal</string>
   <string name="cancel_send">Aktarım iptal edildi</string>
@@ -71,6 +72,8 @@
   <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için Dosya Paylaşımı\'nı kullanabilirsiniz.
 Dosya Paylaşımı, Mi ve Redmi telefonlarıyla uyumludur.
 OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu olacak. Uyumlu cihazların listesini web sitemizden kontrol edebilirsiniz."</string>
+  <string name="mishare_state_protection">Mi Paylaşım\'ı otomatik olarak aç</string>
+  <string name="mishare_state_protection_summary">Bluetooth veya Wi-Fi tekrar açıldığında, Mi Paylaşım özelliğini otomatik olarak tekrar açın.</string>
   <string name="no_longer_prompt">Engelle</string>
   <string name="no_longer_receive">Bu cihaz engellensin mi? Ondan dosya alamazsınız.</string>
   <string name="operate_too_fast">Çok hızlı! Devam eden işlemler tamamlanana kadar bekleyin.</string>
@@ -86,6 +89,7 @@ OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu ola
   <string name="refuse_file">Reddet</string>
   <string name="retry_task">Tekrar gönder</string>
   <string name="scanning_device_tips">Yakındaki cihazlar aranıyor... Diğer cihazın keşfedilebilir modda olduğundan emin olun.</string>
+  <string name="scanning_only_xiaomi_device">Bu öğeyi sadece bir Xiaomi cihazına gönderebilirsiniz</string>
   <string name="search_menu_title">Ara</string>
   <string name="send_file">DOSYA GÖNDER</string>
   <string name="send_files_to">Öğeleri gönder</string>
@@ -113,11 +117,7 @@ Uyumlu cihazların listesini web sitemizde bulabilirsiniz. Dizüstü bilgisayar�
   <string name="unkonw_device">Bilinmeyen aygıt</string>
   <string name="unrecognized_manufacture">Bilinmeyen</string>
   <string name="unrecognized_model">Bilinmeyen aygıt</string>
-  <string name="scanning_only_xiaomi_device">Bu öğeyi sadece bir Xiaomi cihazına gönderebilirsiniz</string>
   <string name="wait_receive_file">Almak için bekleniyor…</string>
   <string name="wait_remote_receive_tips">Bekleniyor…</string>
   <string name="wifi_is_not_enabled">Önce Wi-Fi\'yi aç</string>
-  <string name="can_not_transfer_when_screening">Transferl sırasında yansıtma yapılamıyor</string>
-  <string name="mishare_state_protection">Mi Paylaşım\'ı otomatik olarak aç</string>
-  <string name="mishare_state_protection_summary">Bluetooth veya Wi-Fi tekrar açıldığında, Mi Paylaşım özelliğini otomatik olarak tekrar açın.</string>
 </resources>

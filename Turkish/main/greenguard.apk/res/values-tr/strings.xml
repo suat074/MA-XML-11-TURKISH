@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="I_know">Biliyorum</string>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -96,7 +97,6 @@
   <string name="go_to_password">Kimlik Şifresi</string>
   <string name="guarder">%s cihazınızı yönetiyor.</string>
   <string name="how_to_bind">Nasıl bir cihaz ekleyebilirim?</string>
-  <string name="I_know">Biliyorum</string>
   <string name="last_time">%s dakika kaldı</string>
   <string name="loading">Yükleniyor...</string>
   <string name="location_service_notice">*Konum hizmetleri, Amap tarafından sağlanmaktadır.</string>

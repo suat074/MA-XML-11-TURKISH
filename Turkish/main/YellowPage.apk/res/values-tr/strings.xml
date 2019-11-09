@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_privacy">Gizlilik Politikası</string>
   <string name="about_smart_antispam_summary">Bu özellik hakkında</string>
@@ -334,6 +334,8 @@
   <string name="view_orders">Siparişleri görüntüle</string>
   <string name="voicemail">Sesli mesaj</string>
   <string name="web_permission_message">%1$s düzgün çalışması için %2$s görüntülemek gerekiyor.</string>
+  <string name="yellowPageNavigationIconLabel">Sarı sayfalar</string>
+  <string name="yellowPageNavigationLabel">Sarı sayfalar</string>
   <string name="yellow_page_details">Kuruluş ayrıntıları</string>
   <string name="yellow_page_website">Resmi internet sitesi</string>
   <string name="yellowpage_navigation_ad_hint">Reklam</string>
@@ -361,6 +363,4 @@
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana ekrana eklendi</string>
   <string name="yellowpage_search_the_yellowpage">Sarı sayfalarda ara</string>
   <string name="yellowpage_user_profile">Profil</string>
-  <string name="yellowPageNavigationIconLabel">Sarı sayfalar</string>
-  <string name="yellowPageNavigationLabel">Sarı sayfalar</string>
 </resources>

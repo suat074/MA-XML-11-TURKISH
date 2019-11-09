@@ -92,9 +92,11 @@ Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
   <string name="mibi_error_illegal_order_summary">Sipariş hatası. Lütfen daha sonra tekrar deneyiniz</string>
   <string name="mibi_error_invalid_device">Geçersiz cihaz.</string>
   <string name="mibi_error_mili_summary">Yetersiz bakiye.</string>
+  <string name="mibi_error_mipay_no_installed">Mi Cüzdan, cihazınızda yüklü değil.</string>
   <string name="mibi_error_network_summary">"Ağa bağlanamadı."</string>
   <string name="mibi_error_no_available_channels">Maalesef mevcut kanal yok.</string>
   <string name="mibi_error_pay_result_uncertain">Belirsiz sonuç ödemesi.</string>
+  <string name="mibi_error_privacy_summary">Yetkilendirmeyi iptal ettiniz.</string>
   <string name="mibi_error_recharge_process_fail">Recharge process fail.</string>
   <string name="mibi_error_recharge_result_fail">Recharge result fail.</string>
   <string name="mibi_error_recharge_result_uncertain">Recharge result uncertain.</string>
@@ -127,6 +129,7 @@ Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
   <string name="mibi_giftcard_empty">No gift cards.</string>
   <string name="mibi_giftcard_has_expired">Expired on %1$s</string>
   <string name="mibi_giftcard_hint">Mi Kredisi hediye kartıyla otomatik olarak önceden harcanacak.</string>
+  <string name="mibi_giftcard_in_available">Mevcut</string>
   <string name="mibi_giftcard_payment">Gift certificates</string>
   <string name="mibi_giftcard_payment_with_append">Apply gift certificates</string>
   <string name="mibi_giftcard_push_notification_prime_title">"You've received a gift certificate"</string>
@@ -150,6 +153,7 @@ Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
   <string name="mibi_menu_feedback">Geribildirim</string>
   <string name="mibi_menu_lock">Uygulama kilidi ekle</string>
   <string name="mibi_menu_qa">SSS</string>
+  <string name="mibi_menu_qa_feedback">SSS &amp; geri bildirim</string>
   <string name="mibi_menu_shotcut">Ana Ekrana yerleştir</string>
   <string name="mibi_mili_center">Mi Kredi</string>
   <string name="mibi_milicenter_title">Mi Kredi</string>
@@ -207,6 +211,7 @@ Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
   <string name="mibi_paytool_msp_not_installed">You have not installed %1$s mobile security plugin, install it now?</string>
   <string name="mibi_paytool_paypal">Paypal</string>
   <string name="mibi_paytool_tenpay">Tenpay</string>
+  <string name="mibi_paytool_wechat_return_cancel">WeChat giriş iptali</string>
   <string name="mibi_paytool_weixin">WeChat</string>
   <string name="mibi_prepaid_card_order_info">%1$s Kontör Kartı: CNY %2$s</string>
   <string name="mibi_prepaid_carriers_picker_hint">Select carrier</string>
@@ -225,6 +230,8 @@ Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
   <string name="mibi_prepaid_picker_title_default">Select amount</string>
   <string name="mibi_prepaid_picker_title_selected">amount</string>
+  <string name="mibi_privacy_tip_message">Yetkilendirme iptal edildikten sonra Mi Kredilerini kullanamazsınız</string>
+  <string name="mibi_privacy_tip_title">Önce yetkilendirmeyi onayla</string>
   <string name="mibi_process_expired">"Where'd you go? This operation has timed out."</string>
   <string name="mibi_progress_creating">Retrieving order info…</string>
   <string name="mibi_progress_deduct_creating">Activating %1$s automatic payment protocol​…</string>
@@ -463,11 +470,4 @@ To activate your account, follow the
   <string name="passport_wrong_captcha">The code you entered is incorrect</string>
   <string name="passport_wrong_phone_number_format">The format of the phone number you entered is invalid</string>
   <string name="passport_wrong_vcode">The code you entered is incorrect</string>
-  <string name="mibi_error_mipay_no_installed">Mi Cüzdan, cihazınızda yüklü değil.</string>
-  <string name="mibi_error_privacy_summary">Yetkilendirmeyi iptal ettiniz.</string>
-  <string name="mibi_giftcard_in_available">Mevcut</string>
-  <string name="mibi_privacy_tip_message">Yetkilendirme iptal edildikten sonra Mi Kredilerini kullanamazsınız</string>
-  <string name="mibi_privacy_tip_title">Önce yetkilendirmeyi onayla</string>
-  <string name="mibi_menu_qa_feedback">SSS &amp; geri bildirim</string>
-  <string name="mibi_paytool_wechat_return_cancel">WeChat giriş iptali</string>  
 </resources>

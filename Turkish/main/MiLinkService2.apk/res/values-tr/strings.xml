@@ -57,7 +57,7 @@ Hem telefonunuzu hem de harici monitörünüzü (örn. TV\'niz) aynı Wi-Fi ağ�
   <string name="help_page_text_15">Farklı cihazlarda Miracast işlevselliği</string>
   <string name="help_page_text_16">Mi TV/Mi Projektörü</string>
   <string name="help_page_text_17">"Miracast\'i manuel açmadan Bluetooth özelliklerine sahip çoğu Mi TV modeline Mi telefonunuzdaki öğeleri yansıtabilirsiniz.
-Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım > Yansıtma > Miracast\'i seçin."</string>
+Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt; Yansıtma &gt; Miracast\'i seçin."</string>
   <string name="help_page_text_17_1">Xiaomi müşteri desteği: 400-100-5678</string>
   <string name="help_page_text_18">Samsung TV</string>
   <string name="help_page_text_19">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [KAYNAK] düğmesine basabilir ve ardından \"Screen Mirroring\" öğesini seçebilirsiniz. Bu özellik, çeşitli modellerde varsayılan olarak açıktır.</string>
@@ -72,7 +72,7 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım > Y
   <string name="help_page_text_28">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [MENU] düğmesine basabilir ve ardından Ayarlar &gt; Bağlantı &gt; Ağ &gt; Çoklu ekran bölümünden seçebilirsiniz.</string>
   <string name="help_page_text_29">TPV müşteri desteği: 400-887-8007</string>
   <string name="help_page_text_30">Hisense</string>
-  <string name="help_page_text_31">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [AKILLI] düğmesine basabilir ve ardından Yansıt &gt; Kablosuz Ekran öğesini seçebilirsiniz. Bazı modeller ayrıca oyunlar için yansıtmayı da destekliyor: Hi Cast > Oyun yansıt > Android.</string>
+  <string name="help_page_text_31">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [AKILLI] düğmesine basabilir ve ardından Yansıt &gt; Kablosuz Ekran öğesini seçebilirsiniz. Bazı modeller ayrıca oyunlar için yansıtmayı da destekliyor: Hi Cast &gt; Oyun yansıt &gt; Android.</string>
   <string name="help_page_text_32">Hisense müşteri desteği: 400-611-1111</string>
   <string name="help_page_text_33">Skyworth</string>
   <string name="help_page_text_34">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, Uygulamalar &gt; Yansıtma &gt; Android cihazı &gt; Miracast bölümünden seçebilirsiniz.</string>
@@ -103,18 +103,18 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım > Y
   <string name="notification_rc_desc">Cep telefonunuz için XiaoMi Box\'a (veya TV) video, fotoğraf ve uygulama yansıtmak için en iyi TV Yardımcısı, şimdi deneyin!</string>
   <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
   <string name="notification_show_more">Daha fazla özellik görüntülemek için dokunun</string>
-  <string name="private_protect">Özel öğeleri gizle</string>
   <string name="privacy_agree">Kabul et</string>
-  <string name="privacy_text_1">"　　Yansıtma\'ya Hoş Geldiniz! Yansıtma, telefonunuzun ekranındaki öğelerin daha büyük bir harici monitöre yansıtılmasını sağlar. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bazı özellikler üçüncü taraf bir servis sağlayıcı LeEco tarafından sağlanmaktadır. Bu özelliği kullanmadan önce "<a href="http://cdn.hpplay.com.cn/xm/lawer.html">LeEco Yansıtma Yasal Beyanı</a> ve <a href="http://cdn.hpplay.com.cn/xm/privacy.html">LeEco Yansıtma Gizlilik Politikası</a>nı okuyun ve kabul edin.</string>
-  <string name="privacy_text_2">"　　Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu uygulamayı kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar'dan izinleri kısıtlamayı seçebilirsiniz. Bu özelliği kullanmadan önce "<a href="http://www.miui.com/res/doc/eula/en.html">Kullanıcı Sözleşmemizi</a> ve <a href="https://privacy.mi.com/all/en_US/">Gizlilik Politikamızı</a> okuyun ve kabul edin.</string>
+  <string name="privacy_text_1">"　　Yansıtma\'ya Hoş Geldiniz! Yansıtma, telefonunuzun ekranındaki öğelerin daha büyük bir harici monitöre yansıtılmasını sağlar. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bazı özellikler üçüncü taraf bir servis sağlayıcı LeEco tarafından sağlanmaktadır. Bu özelliği kullanmadan önce "&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;LeEco Yans&amp;#305;tma Yasal Beyan&amp;#305;&lt;/a&gt; ve &lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html"&gt;LeEco Yans&amp;#305;tma Gizlilik Politikas&amp;#305;&lt;/a&gt;n&amp;#305; okuyun ve kabul edin.</string>
+  <string name="privacy_text_2">"　　Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu uygulamayı kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar'dan izinleri kısıtlamayı seçebilirsiniz. Bu özelliği kullanmadan önce "&lt;a href="http://www.miui.com/res/doc/eula/en.html"&gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;memizi&lt;/a&gt; ve &lt;a href="https://privacy.mi.com/all/en_US/"&gt;Gizlilik Politikam&amp;#305;z&amp;#305;&lt;/a&gt; okuyun ve kabul edin.</string>
   <string name="privacy_text_pemission">"　　•Bu öğeleri harici monitörlere yansıtmak için cihazınızdaki görüntülere erişir ve bunları kaydeder
 　　•Harici cihazlara ses göndermek için çağrıları ve sesleri kaydeder
 　　•Cihazınızı tanımlamak için telefon numarasına, IMEI ve IMSI\'ye erişir
 　　•Yakındaki cihazları bulmak için konumunuza erişir"</string>
+  <string name="private_protect">Özel öğeleri gizle</string>
   <string name="san_wait_msg_1">Hedef cihazın kablosuz ekran yansıtmayı açması gerekiyor</string>
   <string name="san_wait_msg_2">Cihazları aramak biraz zaman alabilir…</string>
   <string name="san_wait_msg_3">Harici cihazların telefonunuzla aynı ağa bağlı olduklarında bulunması daha kolaydır.</string>
-  <string name="san_wait_msg_4">Aygıtları bulamıyorsanız \"Yardım\" sayfasını görüntüleyin</string>  
+  <string name="san_wait_msg_4">Aygıtları bulamıyorsanız \"Yardım\" sayfasını görüntüleyin</string>
   <string name="service_name">Evrensel Oynatıcı Hizmeti</string>
   <string name="small_window">Pencereyi küçült</string>
   <string name="status_bar_in_casting">Yansıtılıyor…</string>
@@ -124,5 +124,5 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım > Y
   <string name="toast_guide_title">Explore our new features here</string>
   <string name="toast_msg_for_multi_window">Bölünmüş ekranla bu özelliği kullanamazsınız</string>
   <string name="toast_msg_for_small_window">Telefonunuzun diğer özelliklerini yansıtma işlemini durdurmadan kullanabilmek için açılan pencereyi simge durumuna küçültebilirsiniz.</string>
-  <string name="toast_title_for_small_window">Uygulamada \"Pencereyi küçült \" seçeneğini seçin</string>  
+  <string name="toast_title_for_small_window">Uygulamada \"Pencereyi küçült \" seçeneğini seçin</string>
 </resources>

@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_weather_setting">Hava Durumu hakkında</string>
+  <string name="about_weather_setting_feedback">Geri bildirim</string>
+  <string name="abrupt_weather_settings_summary_type">Beklenen yağışlar, hava kalitesi değişiklikleri ve diğer önemli değişiklikler hakkında uyarılar alın</string>
   <string name="abrupt_weather_settings_summary_type_a">Olağandışı Hava Uyarı Değişimi</string>
   <string name="abrupt_weather_settings_summary_type_b">Olağandışı Hava Uyarı Değişimi</string>
   <string name="abrupt_weather_settings_title">Olağandışı Hava Uyarısı</string>
@@ -17,7 +20,7 @@
   <string name="activity_find_city_dialog_cancel">İptal</string>
   <string name="activity_find_city_dialog_message">Doğru konum bilgisi almak için Hava Durumu\'nun konumunuza erişmesine izin verin.</string>
   <string name="activity_find_city_dialog_message_global">Konum servislerini açın ve kablosuz ağları kullanarak cihazınızın konum belirlemesine izin verin.</string>
-  <string name="activity_find_city_dialog_message_location_service">İlgili hava durumu bilgisini almak için, Hava Durumu\'nun konumunuza erişmesine izin verin.</string>  
+  <string name="activity_find_city_dialog_message_location_service">İlgili hava durumu bilgisini almak için, Hava Durumu\'nun konumunuza erişmesine izin verin.</string>
   <string name="activity_find_city_dialog_set">Ayarlar</string>
   <string name="activity_find_city_dialog_title">Konum erişimi</string>
   <string name="activity_main_clickable">&gt;</string>
@@ -30,12 +33,14 @@
   <string name="add_city">Ekle</string>
   <string name="alert_detail_title">Alarm Detayları</string>
   <string name="alert_warning">Hava durumu uyarıları</string>
+  <string name="alert_weather_enable_settings_summary">Resmi hava durumu uyarıları alın</string>
+  <string name="alert_weather_enable_settings_title">Hava durumu uyarıları</string>
   <string name="already_voted_toast">Bugün zaten oy kullandın</string>
   <string name="app_name">Hava Durumu</string>
   <string name="aqi_data_source">Colorful Clouds tarafından güçlendirildi</string>
   <string name="aqi_desc">Hava Kalite İndeksi</string>
-  <string name="aqi_detail_5_days">5 günlük tahmin</string>
   <string name="aqi_detail_24_hours">24 saatlik tahmin</string>
+  <string name="aqi_detail_5_days">5 günlük tahmin</string>
   <string name="aqi_detail_co">CO</string>
   <string name="aqi_detail_co_unit">Birim: mg/m³</string>
   <string name="aqi_detail_no2">NO₂</string>
@@ -51,10 +56,10 @@
   <string name="aqi_publish_time">Güncelleme: %1$s</string>
   <string name="aqi_quality_ambient_air_quality">Yakındaki hava kalitesi</string>
   <string name="aqi_quality_co_desc">Karbonmonoksit</string>
-  <string name="aqi_quality_detail_5_days">5 günlük hava tahmini</string>
   <string name="aqi_quality_detail_15_days">15 günlük hava tahmini</string>
   <string name="aqi_quality_detail_24_hours">24 saatlik hava tahmini</string>
   <string name="aqi_quality_detail_48_hours">48 saatlik hava tahmini</string>
+  <string name="aqi_quality_detail_5_days">5 günlük hava tahmini</string>
   <string name="aqi_quality_major_pollutants">Büyük kirleticiler</string>
   <string name="aqi_quality_map_title">Hava kalitesi haritası</string>
   <string name="aqi_quality_no2_desc">Nitrojen dioksit</string>
@@ -63,7 +68,7 @@
   <string name="aqi_quality_pm25_desc">İnce parçacıklar</string>
   <string name="aqi_quality_so2_desc">Kükürt dioksit</string>
   <string name="aqi_settings_summary">AQI uyarıları</string>
-  <string name="aqi_settings_title">AQI</string>  
+  <string name="aqi_settings_title">AQI</string>
   <string name="aqi_station_best_quality_station">Etrafında en iyisi:</string>
   <string name="aqi_station_min_distance_station">En yakın istasyon:</string>
   <string name="aqi_sub_desc">HKE</string>
@@ -108,6 +113,7 @@
   <string name="empty_view_net_unavailable">Ağa bağlanılamadı</string>
   <string name="empty_view_refresh">Tekrar deneyin</string>
   <string name="eu_region_version_first_start_network_msg">Bu ürünü kullanarak, bu ürünün ağa bağlanacağını, aradığınız şehirlerin koordinatları ve Gizlilik Politikamızda belirtilen diğer veri türleri de dahil olmak üzere kişisel bilgilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul edersiniz. Bilgileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul et\" öğesine dokunarak Xiaomi\'nin %1$s ve %2$s kabul edersiniz.</string>
+  <string name="feedback">Yanlış hava durumu bilgisini bildir</string>
   <string name="feedback_cloudy">Bulutlu</string>
   <string name="feedback_foggy">Sisli</string>
   <string name="feedback_haze">Hafif sisli</string>
@@ -116,6 +122,8 @@
   <string name="feedback_overcast">Bulutlu</string>
   <string name="feedback_report_privacy_msg">Rapor konum bilginizi içerecek</string>
   <string name="feedback_result_fail_no_choice">Lütfen gördüğünüz hava durumunu seçin</string>
+  <string name="feedback_result_fail_no_reason">Geri bildiriminiz için teşekkür ederiz!</string>
+  <string name="feedback_result_fail_same_type">Raporunuz şu anki hava koşullarından farklı görünmüyor. Tekrar deneyin.</string>
   <string name="feedback_result_success">Başarıyla gönderildi, geribildiriminiz için teşekkürler</string>
   <string name="feedback_sandy">Kumlu</string>
   <string name="feedback_sunny">Güneşli</string>
@@ -142,6 +150,7 @@
   <string name="international_details_uv_index_title">UV ENDEKSİ</string>
   <string name="international_details_wind_title">RÜZGAR</string>
   <string name="it_is_going_to_rain">Yağmur yağacak</string>
+  <string name="life_index_title">Hava durumu endeksi</string>
   <string name="locate_fail_detail_err">Cihaz konumunuzu bulunamıyor\nElle eklemek veya  yeniden konumlandırmak için ekrana dokunun</string>
   <string name="location_provider_btn_text">Konum hizmetlerini açın</string>
   <string name="location_tag">Konum</string>
@@ -176,6 +185,14 @@
   <string name="particulate_matter_exceeded">Yüksek</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Çok Yüksek</string>
+  <string name="permission_device_info">Cihaz bilgisi</string>
+  <string name="permission_device_introduce">Cihaz modelini, IMEI\'ye dayalı cihaz kimliğini tanımak ve dil tercihlerine dayalı yerel servisler sağlamak için</string>
+  <string name="permission_exit">Çıkış</string>
+  <string name="permission_privacy">Gizlilik Politikası (zorunlu)</string>
+  <string name="permission_select_all">Tümünü seç</string>
+  <string name="permission_storage">Depolama</string>
+  <string name="permission_storage_introduce">Cihazdaki öğelere erişmek ve dosyaları kaydetmek için</string>
+  <string name="permission_user_protocol">Kullanıcı Sözleşmesi (zorunlu)</string>
   <string name="policy_settings">Şartlar ve Koşullar</string>
   <string name="precipitation_degree_five">Fırtınalı</string>
   <string name="precipitation_degree_four">Şiddetli</string>
@@ -192,6 +209,7 @@
   <string name="privacy_settings">Gizlilik Politikası</string>
   <string name="pull_fresh_updated">Başarıyla güncellendi</string>
   <string name="pull_fresh_updating">Güncelleniyor…</string>
+  <string name="q_version_location_provider_btn_text">Konum erişimini açın ve konum doğruluğunu iyileştirin</string>
   <string name="radar_cloud_image_title">Radar Haritası</string>
   <string name="radar_cloud_update_time">%1$s önce</string>
   <string name="rainfall_settings_summary">Sağanak Alarmı</string>
@@ -202,8 +220,13 @@
   <string name="realtime_humidity_title">Nem</string>
   <string name="realtime_temperature_no_data">Veri yok</string>
   <string name="realtime_wind_default_title">Rüzgar</string>
+  <string name="refresh_empty_data">Veri yüklenemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="refresh_fail">Ağa bağlanamadı</string>
   <string name="reminder_from_xiaomi_weather_app">Mi Hava Durumu Alarmı</string>
+  <string name="request_permission_location_dialog_content">Bulunduğunuz yerle alakalı hava durumu bilgilerini görüntülemek için</string>
+  <string name="request_permission_main_purpose">Hava durumu bilgilerini görüntüleme</string>
+  <string name="request_permission_read_phone_state_dialog_content">Cihazınızı tanımlamak için</string>
+  <string name="request_permission_storage_dialog_content">Hava durumu bilgilerini görüntülü olarak paylaşmak için</string>
   <string name="retry">Tekrar deneyin</string>
   <string name="search_weather">Hava Durumu</string>
   <string name="search_weather_keywords">Sıcaklık;Hava Tahmini;Hava;Hava Kalitesi;Kirlilik Derecesi;Nem</string>
@@ -217,12 +240,14 @@
   <string name="share_weather_desc">\#MIUI Hava Durumu#Bugün %1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Ekran görüntüsü alınamadı</string>
+  <string name="shortcut_short_label_24_hour_forecast">24 saatlik hava tahmini</string>
+  <string name="shortcut_short_label_recent_forecast">Hava durumunu kontrol et</string>
   <string name="some_where_on_earth">Dünyada bir yerde</string>
   <string name="sunrise">Gündoğumu</string>
   <string name="sunset">Günbatımı</string>
   <string name="temperature_unit_C">%1$s°</string>
-  <string name="temperature_unit_default">0</string>
   <string name="temperature_unit_F">%1$s°</string>
+  <string name="temperature_unit_default">0</string>
   <string name="title_share_link">Bağlantıyı Paylaş</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
@@ -235,6 +260,9 @@
   <string name="traffic_control_tomorrow_numbers">Yarın: %1$s</string>
   <string name="traffic_controls">Trafik Denetimleri</string>
   <string name="translate_notification_info">Arka planda çeviriliyor…</string>
+  <string name="tts_best_aqi">En iyi hava kalitesi</string>
+  <string name="tts_hour_weather_date_time">%2$s %1$s itibaren %4$s %3$s saatine kadar</string>
+  <string name="tts_max_wind_power">En yüksek rüzgar hızı</string>
   <string name="unit">Birim</string>
   <string name="unit_temperature">Sıcaklık birimi</string>
   <string name="unit_wind">Rüzgar hızı birimi</string>
@@ -246,9 +274,14 @@
   <string name="updating">Güncelleniyor…</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="view_forecast_item_yesterday">Dün</string>
+  <string name="view_indexes_item_day_after_tommorrow">2 gün içinde</string>
   <string name="view_indexes_item_today">Bugün</string>
   <string name="view_indexes_item_tommorrow">Yarın</string>
+  <string name="warning_weather_day_and_night_settings_summary">Saat 7:00 ve 19:00\'da hava durumu bilgisi içeren günlük özetleri alın</string>
+  <string name="warning_weather_day_and_night_settings_title">Günlük özetler</string>
   <string name="weather_alert_channel_name">Uyarılar</string>
+  <string name="weather_introduce">Ne olursa olsun, her zaman seninle.</string>
+  <string name="weather_permission_agree">Kabul</string>
   <string name="weather_service_channel_name">Arka plan hizmetleri</string>
   <string name="wind_direction_no_data">Rüzgar</string>
   <string name="wind_power_unit_default">0</string>
@@ -257,37 +290,4 @@
   <string name="xiaomi_weather_description_title">Hava Durumu Hakkında</string>
   <string name="yes_vote_ratio">%%%1$s</string>
   <string name="your_location">Konumunuz</string>
-  <string name="permission_device_info">Cihaz bilgisi</string>
-  <string name="permission_device_introduce">Cihaz modelini, IMEI\'ye dayalı cihaz kimliğini tanımak ve dil tercihlerine dayalı yerel servisler sağlamak için</string>
-  <string name="permission_exit">Çıkış</string>
-  <string name="permission_privacy">Gizlilik Politikası (zorunlu)</string>
-  <string name="permission_select_all">Tümünü seç</string>
-  <string name="permission_storage">Depolama</string>
-  <string name="permission_storage_introduce">Cihazdaki öğelere erişmek ve dosyaları kaydetmek için</string>
-  <string name="permission_user_protocol">Kullanıcı Sözleşmesi (zorunlu)</string>
-  <string name="weather_introduce">Ne olursa olsun, her zaman seninle.</string>
-  <string name="weather_permission_agree">Kabul</string>
-  <string name="tts_best_aqi">En iyi hava kalitesi</string>
-  <string name="tts_hour_weather_date_time">%2$s %1$s itibaren %4$s %3$s saatine kadar</string>
-  <string name="tts_max_wind_power">En yüksek rüzgar hızı</string>
-  <string name="shortcut_short_label_24_hour_forecast">24 saatlik hava tahmini</string>
-  <string name="shortcut_short_label_recent_forecast">Hava durumunu kontrol et</string>
-  <string name="feedback_result_fail_no_reason">Geri bildiriminiz için teşekkür ederiz!</string>
-  <string name="feedback_result_fail_same_type">Raporunuz şu anki hava koşullarından farklı görünmüyor. Tekrar deneyin.</string>
-  <string name="about_weather_setting">Hava Durumu hakkında</string>
-  <string name="about_weather_setting_feedback">Geri bildirim</string>
-  <string name="abrupt_weather_settings_summary_type">Beklenen yağışlar, hava kalitesi değişiklikleri ve diğer önemli değişiklikler hakkında uyarılar alın</string>
-  <string name="alert_weather_enable_settings_summary">Resmi hava durumu uyarıları alın</string>
-  <string name="alert_weather_enable_settings_title">Hava durumu uyarıları</string>
-  <string name="feedback">Yanlış hava durumu bilgisini bildir</string>
-  <string name="warning_weather_day_and_night_settings_summary">Saat 7:00 ve 19:00\'da hava durumu bilgisi içeren günlük özetleri alın</string>
-  <string name="warning_weather_day_and_night_settings_title">Günlük özetler</string>
-  <string name="request_permission_location_dialog_content">Bulunduğunuz yerle alakalı hava durumu bilgilerini görüntülemek için</string>
-  <string name="request_permission_main_purpose">Hava durumu bilgilerini görüntüleme</string>
-  <string name="request_permission_read_phone_state_dialog_content">Cihazınızı tanımlamak için</string>
-  <string name="request_permission_storage_dialog_content">Hava durumu bilgilerini görüntülü olarak paylaşmak için</string>
-  <string name="life_index_title">Hava durumu endeksi</string>
-  <string name="q_version_location_provider_btn_text">Konum erişimini açın ve konum doğruluğunu iyileştirin</string>
-  <string name="refresh_empty_data">Veri yüklenemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
-  <string name="view_indexes_item_day_after_tommorrow">2 gün içinde</string>  
 </resources>

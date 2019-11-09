@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="a_week_share_rank">Haftalık sıralamalar</string>
   <string name="action_mode_deselect_all">Vazgeç</string>
@@ -76,7 +76,9 @@
   <string name="category_photo">Fotoğraflar</string>
   <string name="category_picture">Resimler</string>
   <string name="category_recent">Sık Kullanılan</string>
+  <string name="category_source">Kaynak</string>
   <string name="category_theme">Temalar</string>
+  <string name="category_time">Zaman</string>
   <string name="category_type_document">Dökümanlar</string>
   <string name="category_type_meida">Medya</string>
   <string name="category_type_other">Diğer</string>
@@ -119,6 +121,7 @@
   <string name="copy_text">Metni kopyala</string>
   <string name="copy_to">Kopyala</string>
   <string name="count_down">Geriye Sayım: %1$s</string>
+  <string name="create_folder">Oluştur</string>
   <string name="create_shortcut_success">Kısayol başarıyla oluşturuldu</string>
   <string name="daily_clockin">Giriş</string>
   <string name="data_consumption_cancel">Kabul etmiyorum</string>
@@ -168,6 +171,7 @@
   <string name="disk_total">"Toplam: "</string>
   <string name="dislike_toast">Böyle videolar tavsiye edilmiyor.</string>
   <string name="dislike_video">İlgilenmiyor</string>
+  <string name="doc_all">Tümü</string>
   <string name="download">İndir</string>
   <string name="download_fail">İndirilemedi</string>
   <string name="downloaded_sticker_str">İndirildi</string>
@@ -202,6 +206,8 @@
   <string name="extended_storage_file_can_not_open">Dosya açılamadı. Önce dosyayı dahili depolamaya kopyalayın.</string>
   <string name="extract">Ayrıştır</string>
   <string name="fail_to_create_folder_unknown">Klasör oluşturulamadı</string>
+  <string name="failed_not_access_sd_card">Önce SD karta erişime izin verin</string>
+  <string name="failed_obtain_permissions">İzin alınamadı</string>
   <string name="favorite_photo">Fotoğraflar</string>
   <string name="favorite_ringtone">Zil Sesleri</string>
   <string name="favorite_screen_cap">Ekran Görüntüleri</string>
@@ -228,6 +234,8 @@
   <string name="found_usb">USB depolama bağlandı</string>
   <string name="ftp_account_req_notice">" 4-16 karakter, harf ve rakamlar, büyük-küçük harfe duyarlı"</string>
   <string name="ftp_anonymous_login">Anonim oturum aç</string>
+  <string name="ftp_anonymous_warning_msg">Anonimleştirme özellikleri güvenlik riskleri oluşturabilir. Yine de özelliği kullan?</string>
+  <string name="ftp_anonymous_warning_title">Dikkat</string>
   <string name="ftp_invalid_username_or_password">Girdiğiniz kullanıcı adı veya şifre geçersiz.</string>
   <string name="ftp_open_port_error">Port açılamadı. Ağ bağlantınızı kontrol edin veya port numarasını sıfırlayın.</string>
   <string name="ftp_password_hint">Şifre</string>
@@ -235,10 +243,10 @@
   <string name="ftp_transfer_secure">Güvenlik</string>
   <string name="ftp_username_and_passworld">Giriş Yap</string>
   <string name="ftp_username_hint">Kullanıcı Adı</string>
+  <string name="full_gems">Mücevherlerinizi değiştirin</string>
   <string name="function_file_operation">"Dosyalara erişmek ve açmak için; "</string>
   <string name="function_set_private">"Dosyaları görüntülemek ve şifrelemek için; "</string>
   <string name="function_use_imei">"IMEI\'ye erişmek ve dosyaları şifrelemek için; "</string>
-  <string name="full_gems">Mücevherlerinizi değiştirin</string>
   <string name="gbk_summary">Basitleştirilmiş Çince için Windows kodlaması</string>
   <string name="gbk_title">GBK</string>
   <string name="gender_choose_sub_tile">Kişiselleştirilmiş içerik edin</string>
@@ -254,7 +262,9 @@
   <string name="handsome_boy">Erkek</string>
   <string name="has_installed">Yüklendi</string>
   <string name="hint_switch_to_grid_mode">Izgara görünümüne geçildi</string>
-  <string name="hint_switch_to_list_mode">Liste görünümüne geçildi</string>  
+  <string name="hint_switch_to_list_mode">Liste görünümüne geçildi</string>
+  <string name="home_action_up">Geri</string>
+  <string name="home_title">Dosyalar</string>
   <string name="homepage_tab_category">Kategoriler</string>
   <string name="homepage_tab_file_view_phone">Depolama</string>
   <string name="homepage_tab_recent">Geçmiş</string>
@@ -316,7 +326,7 @@
   <string name="menu_item_sort_name">Ad</string>
   <string name="menu_item_sort_type">Tipi</string>
   <string name="menu_item_usb">USB</string>
-  <string name="menu_set_wallpaper">Duvar kağıdı olarak ayarla</string>  
+  <string name="menu_set_wallpaper">Duvar kağıdı olarak ayarla</string>
   <string name="message_comment_prefix">"Yorum: "</string>
   <string name="message_my_received_notification">Yeni Mesaj</string>
   <string name="message_my_received_praise">Sevdiklerim</string>
@@ -371,6 +381,7 @@
   <string name="no_wifi">Bağlantı bulunmadı.</string>
   <string name="no_wifi_hint">Bağlantı yok.</string>
   <string name="not_installed_documentsui">DocumentsUI yüklenmedi</string>
+  <string name="not_support_documentui">Belge arayüzü bu aygıtta desteklenmiyor</string>
   <string name="notif_server_starting">FTP Sunucusu başlıyor...</string>
   <string name="notif_title">FTP sunucusu çalışıyor</string>
   <string name="notification_dialog_confirm">Tamam</string>
@@ -413,6 +424,7 @@
   <string name="operation_reply">Yorum</string>
   <string name="operation_send">Gönder</string>
   <string name="operation_share">Paylaş</string>
+  <string name="operation_show_privacy_policy">Gizlilik Politikasını göster</string>
   <string name="operation_show_sys">Gizli dosyaları göster</string>
   <string name="operation_unfavorite">Favoriden Çıkart</string>
   <string name="original_user_desc">İçerik Oluşturucu statüsünü elde etmek için orijinal videoları düzenli olarak yükleyin</string>
@@ -421,6 +433,9 @@
   <string name="original_user_signal">Yetenek ekibi</string>
   <string name="original_user_title">Yetenek ekibinin bir üyesi oldunuz. Tebrikler!</string>
   <string name="original_user_verify">• Teşekkürler</string>
+  <string name="otg_file_security_confirm">telefona kopyala</string>
+  <string name="otg_file_security_details">Lütfen telefona kopyalayın</string>
+  <string name="otg_file_security_note">OTG Güvenliği</string>
   <string name="other_user_follow_tab">Takip ettiklerim</string>
   <string name="other_user_liked_topic_tip">Konu yok</string>
   <string name="other_user_no_follow_tip">Hiçkimseyi henüz takip etmiyorsunuz.</string>
@@ -475,6 +490,7 @@
   <string name="popup_msg_wx">Bu videoyu WeChat arkadaşlarınızla paylaşın.</string>
   <string name="port_range">Port numarası 1024–65535 arasında olmalıdır</string>
   <string name="pretty_girl">Kadın</string>
+  <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="private_files">Gizli</string>
   <string name="private_folder">Gizli Klasörler</string>
   <string name="private_folder_no_file_hints">Gizli dizin yok.</string>
@@ -497,6 +513,7 @@
   <string name="rename_alert">Bu dosyanın uzantısını değiştirirseniz, bunu açmak mümkün olmayabilir.</string>
   <string name="rename_alert2">Dosya gizli olacak.</string>
   <string name="rename_failed">" %1$s adlandırılamadı"</string>
+  <string name="rename_input_null">Yeni dosya adı girin</string>
   <string name="repair_done">Geri yüklendi</string>
   <string name="repair_error">Geri yüklenemedi</string>
   <string name="repair_file">Şifrelenmiş dosyaları geri yükle</string>
@@ -507,6 +524,8 @@
   <string name="report_politics">Politikal Yalanlar</string>
   <string name="report_porn">Pornografik</string>
   <string name="report_violence">Şiddet</string>
+  <string name="request_document_permission">SD kartınızdaki dosyaları yönetmek için Dosya Yöneticisi\'ne gerekli izinleri verin.</string>
+  <string name="request_document_permission_title">İzin gerekli</string>
   <string name="request_timeout">Ağ isteği zaman aşımına uğradı</string>
   <string name="reset_password">Şifreyi değiştir</string>
   <string name="restoring">Geri yükleniyor…</string>
@@ -582,7 +601,6 @@
   <string name="share_tip_1">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
   <string name="share_tip_2">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
   <string name="share_title_01">%1$s Harika bir video! %2$s</string>
-  <string name="share_title_1">Güzel etiket paketi bulundu!</string>
   <string name="share_title_02">%1$s Harika bir video!</string>
   <string name="share_title_03">%1$s Harika bir video! %2$s</string>
   <string name="share_title_04">%1$s Bir video paylaştım, bakın! %2$s</string>
@@ -591,6 +609,7 @@
   <string name="share_title_07">%s Bir video paylaştım, bakın!</string>
   <string name="share_title_08">%s Bir video paylaştım, bakın!</string>
   <string name="share_title_09">%s Bir video paylaştım, bakın!</string>
+  <string name="share_title_1">Güzel etiket paketi bulundu!</string>
   <string name="share_to">Paylaş…</string>
   <string name="share_topic_desc">Ödüller almak için videolar yükle</string>
   <string name="share_topic_title">#%1$s# izledim, sende izle!</string>
@@ -608,6 +627,8 @@
   <string name="smb_loading">Biraz bekleyin...</string>
   <string name="sort_size_asc">Küçükten büyüğe</string>
   <string name="sort_size_desc">Büyükten küçüğe</string>
+  <string name="start_doc">Dosyalar</string>
+  <string name="start_phone">Depolama</string>
   <string name="start_server">Sunucuyu başlat</string>
   <string name="stay_awake_summary">FTP kullanırken ekran uyku moduna geçmesin</string>
   <string name="stay_awake_title">Ekran Açık Kalsın</string>
@@ -622,6 +643,7 @@
   <string name="swap_tip_1">Sola veya sağa kaydırın</string>
   <string name="swap_tip_2">Diğer videoları izlemek için...</string>
   <string name="sys_size_enable">" mevcut"</string>
+  <string name="tab_app">Daha fazla</string>
   <string name="tab_category">Kategoriler</string>
   <string name="tab_common_app">Uygulamalar &amp; klasörler</string>
   <string name="tab_discover">Keşfet</string>
@@ -637,6 +659,8 @@
   <string name="tab_ranking_list">Rütbeler</string>
   <string name="tab_source">Uygulamalar</string>
   <string name="terabyteShort">TB</string>
+  <string name="text_select_all">Tümünü seç</string>
+  <string name="text_select_nothing">Hiçbirini seçme</string>
   <string name="tip">Dikkat</string>
   <string name="title_album">Albümler</string>
   <string name="title_app_tags">Uygulamalar</string>
@@ -818,28 +842,4 @@
   <string name="you_liao_xunlei_desc">Ev sahibi statüsünü kazanmak için bizimle sözleşme imzalayın</string>
   <string name="you_liao_xunlei_str">Xunlei Ev Sahibi</string>
   <string name="youliao_master_rank">Youliao En İyi</string>
-  <string name="operation_show_privacy_policy">Gizlilik Politikasını göster</string>
-  <string name="rename_input_null">Yeni dosya adı girin</string>
-  <string name="failed_not_access_sd_card">Önce SD karta erişime izin verin</string>
-  <string name="failed_obtain_permissions">İzin alınamadı</string>
-  <string name="not_support_documentui">Belge arayüzü bu aygıtta desteklenmiyor</string>
-  <string name="request_document_permission">SD kartınızdaki dosyaları yönetmek için Dosya Yöneticisi\'ne gerekli izinleri verin.</string>
-  <string name="request_document_permission_title">İzin gerekli</string>
-  <string name="ftp_anonymous_warning_msg">Anonimleştirme özellikleri güvenlik riskleri oluşturabilir. Yine de özelliği kullan?</string>
-  <string name="ftp_anonymous_warning_title">Dikkat</string>
-  <string name="home_action_up">Geri</string>
-  <string name="category_source">Kaynak</string>
-  <string name="category_time">Zaman</string>
-  <string name="create_folder">Oluştur</string>
-  <string name="doc_all">Tümü</string>
-  <string name="home_title">Dosyalar</string>
-  <string name="otg_file_security_confirm">telefona kopyala</string>
-  <string name="otg_file_security_details">Lütfen telefona kopyalayın</string>
-  <string name="otg_file_security_note">OTG Güvenliği</string>
-  <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="start_doc">Dosyalar</string>
-  <string name="start_phone">Depolama</string>
-  <string name="tab_app">Daha fazla</string>
-  <string name="text_select_all">Tümünü seç</string>
-  <string name="text_select_nothing">Hiçbirini seçme</string>  
 </resources>

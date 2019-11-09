@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Sertifika Yükleyici</string>
   <string name="cert_is_added">%s yüklendi.</string>
@@ -34,6 +34,7 @@
   <string name="pkcs12_file_password_dialog_title">%s dosyasından ayıkla</string>
   <string name="pkcs12_password_dialog_title">Sertifikayı Ayıkla</string>
   <string name="sdcard_not_present">SD kart mevcut değil.</string>
+  <string name="storage_error">Sertifika kaydedilemedi. Yeniden denemek için Tamam\'a dokunun.</string>
   <string name="unable_to_save_cert">Sertifika kaydedilemedi. Tekrar denemek için Tamam\'a dokunun.</string>
   <string name="wifi_cancel_label">İptal</string>
   <string name="wifi_config_text">"Adı: %1$s
@@ -66,5 +67,4 @@ Anahtar: %2$
 "</string>
   <string name="wifi_ttls_config_text">"Kullanıcı adı: %s
 "</string>
-  <string name="storage_error">Sertifika kaydedilemedi. Yeniden denemek için Tamam\'a dokunun.</string> 
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">Yedekleme bitmedi. Yine de durdurulsun mu?</string>
   <string name="abort_restore_confirm">Geri yükleme bitmedi. Yine de durdurulsun mu?</string>
@@ -119,6 +119,13 @@
   <string name="delete_backup_title">Yedeklemeyi sil</string>
   <string name="delete_failed_backup_confirm">Bu yedekleme hatalar içeriyor.</string>
   <string name="deselect_all">Hiçbiri</string>
+  <string name="dialog_backup_password_auto_backup_tips">Yedekleme şifresi açıkken öğeler otomatik olarak yedeklenemiyor. Önce yedekleme şifresini kapatın.</string>
+  <string name="dialog_backup_password_backup_tips">Yedekleme şifresi açıkken öğeler yedeklenemiyor. Yedekleme şifresini kapatın.</string>
+  <string name="dialog_backup_password_cancel">İptal</string>
+  <string name="dialog_backup_password_change_device_restore_tips">Yedekleme şifresi açıkken Mi Mover kullanılamaz. Önce yedekleme şifresini kapatın.</string>
+  <string name="dialog_backup_password_change_machine_tips">Şifre korumalı yedekleri aktaramazsınız. Mi Mover\'ı kullanmadan önce yedekleme şifresini kapatın.</string>
+  <string name="dialog_backup_password_restore_tips">Yedekleme şifresi açıkken öğeler geri yüklenemez. Önce yedekleme şifresini kapatın.</string>
+  <string name="dialog_backup_password_to_settings">Ayarlar</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_description">Şifreli değil</string>
   <string name="disable_encrypt_title">Şifrelemeyi kapat</string>
@@ -168,6 +175,7 @@
   <string name="flash_drive_connection_failed">USB sürücü bağlantısı kesildi</string>
   <string name="flash_drive_restore_btn">USB sürücüsünden geri yükle</string>
   <string name="flash_drive_search_backup_files">USB yedekleme aranıyor…\nYedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın.</string>
+  <string name="gallery_summary">Galeri ayarları (fotoğraflar dahil değil)</string>
   <string name="guarded_mode_dialog_backup_message">Misafir modunda yedeklemeye izin verilmez.</string>
   <string name="guarded_mode_dialog_title">Misafir modundasınız</string>
   <string name="guarded_mode_dialog_transfer_message">Misafir modunda Mi Mover kullanılamaz.</string>
@@ -189,6 +197,7 @@
   <string name="hsa_verify_failed_message">İki faktörlü kimlik doğrulama başarısız oldu. İki faktörlü kimlik doğrulamayı yeniden deneyebilir veya kapatabilirsiniz.</string>
   <string name="hsa_verify_retry">Tekrar dene</string>
   <string name="hsa_verify_shutdown">Kapat</string>
+  <string name="iCloud_ID_verification_tip">Doğrulama kodunun görünmesi için Apple cihazınızda \"İzin ver\" seçeneğine dokunun. Doğrulama kodunu buraya girin.</string>
   <string name="icloud_backup_tip">Eski iOS cihazınızın iCloud hesabına giriş yapın</string>
   <string name="icloud_how_to_backup_tip_steps">1. IOS cihazınızda Ayarlar\'ı açın ve iCloud\'u seçin.\n2. Kişiler ve diğer öğeler için düğmeleri değiştirin.\n3. Fotoğraflar\'ı seçin ve iCloud Fotoğraf Kütüphanesi düğmesini değiştirin.</string>
   <string name="icloud_how_to_backup_tip_summary">IOS\'tan veri aktarmak için bir iCloud yedeklemesi oluşturmanız gerekir.</string>
@@ -199,11 +208,11 @@
   <string name="icloud_need_wifi_title">WLAN\'a bağlan</string>
   <string name="import_again">Tekrar içeri aktar</string>
   <string name="import_data_from_icloud">ICloud\'dan verileri içe aktarma</string>
-  <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
   <string name="import_from_xiaomi_account_hint1">1.\u0009Mi Talk uygulamasını indirin ve oturum açın.\n\u0009http://www.miliao.com\n\n2.\u0009Mi Talk Ayarlarına gidin ve “Kişileri Mi Hesabına yedekle” yi seçin</string>
   <string name="import_from_xiaomi_account_hint2"> Mevcut bir yedeğiniz varsa, Sonraki tuşuna dokunun.</string>
+  <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
   <string name="import_tip_summary">Uyumluluk sorunlarından dolayı, yalnızca kişileri ve fotoğrafları iOS cihazlarından aktarabilirsiniz. Aktarmaya başlamadan önce bir iCloud yedeklemesi oluşturduğunuzdan emin olun.</string>
-  <string name="lack_perm_msg">Mi Mover aşağıdaki izinlere ihtiyaç duyuyor: &lt;b>%s&lt;/b>.</string>
+  <string name="lack_perm_msg">Mi Mover aşağıdaki izinlere ihtiyaç duyuyor: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Gerekli izinler</string>
   <string name="list_footer_tip_title">İpuçları:</string>
   <string name="loading_data">Veri yükleniyor</string>
@@ -407,6 +416,7 @@
   <string name="trans_cancel_selection_message">Mi Mover\'dan çıkarsanız, devam eden aktarım kesintiye uğrayacaktır. Aktarım tamamlanana kadar bekleyin.</string>
   <string name="trans_cancel_selection_title">Mi Mover\'da kalın</string>
   <string name="trans_cancelling">İptal ediliyor</string>
+  <string name="trans_complete_restoring">Başarıyla transfer edildi. Uygulama verileri geri yükleniyor...</string>
   <string name="trans_connect_failed_device_incompatible">Cihaz uyumlu değil. Aktarımı iptal et ve tekrar dene.</string>
   <string name="trans_connect_failed_message">Bağlanamadı, cihazı yeniden bağlayın veya yeniden başlatın. Yeniden başlattıktan sonra Mi Transfer\'i başlatın veya Ayarlar &gt; Ek Ayarlar &gt; Mi Transfer bölümüne gidip [Göndericiyim] seçeneğini seçin.</string>
   <string name="trans_connect_failed_title">Bağlanamadı</string>
@@ -456,6 +466,7 @@
   <string name="trans_install_guide_step2_content">Yükleme tamamlandıktan sonra aşağıdaki \"Başlat\" seçeneğine dokunun.</string>
   <string name="trans_install_guide_step2_title">Adım 2</string>
   <string name="trans_intro_desc_1">Mi telefonunda, WLAN\'a bağlanın ve \"Ben alıcıyım\" dokunun. IOS cihazınızı seçin, iCloud\'da oturum açın ve verileri içe aktarın.</string>
+  <string name="trans_intro_desc_10">Yeni cihazda \"QR kodu ile bağlan\" düğmesine dokunun ve bağlantı kurmak için QR kodunu tarayın.</string>
   <string name="trans_intro_desc_3">Aktarımı iptal edin, Mi Mover\'dan çıkın ve yeniden başlayın. Yeni aktarım sırasında çoğaltılmış dosyaların üzerine yazılır.</string>
   <string name="trans_intro_desc_4">Mi Mover, dosyaları aktarmak için WLAN kullanıyor. Bu nedenle, aktarım sırasında her iki cihazda da WLAN kullanarak internete bağlanamazsınız.Yine de, mobil veri kullanabilirsiniz. Bununla birlikte, bazı yeni aygıtlar (örneğin, Mi 6), aktarım sırasında WLAN\'ı kullanarak internete bağlanmaya devam edebilecektir.</string>
   <string name="trans_intro_desc_4_market">Mi Mover dosyaları aktarmak için WİFİ kullanır. Bu nedenle, aktarım sırasında iki cihazdada WLAN\'ı kullanarak internete bağlanamazsınız. Ancak mobil veriyi kullanabilirsiniz.</string>
@@ -469,7 +480,6 @@
   <string name="trans_intro_desc_9_method_2_title">2. Bize email gönderin</string>
   <string name="trans_intro_desc_9_method_3_dec">Mi Mover\'ın QQ Grubu: 687338378</string>
   <string name="trans_intro_desc_9_method_3_title">3. QQ ile sorunları bildirin</string>
-  <string name="trans_intro_desc_10">Yeni cihazda \"QR kodu ile bağlan\" düğmesine dokunun ve bağlantı kurmak için QR kodunu tarayın.</string>
   <string name="trans_intro_desc_account">Güvenlik nedenleriyle yeni cihazınızın hesaplarında (ör. Mi Hesabı, Exchange, Google vb.) Tekrar oturum açmanız gerekir.</string>
   <string name="trans_intro_desc_gms">Uyumluluk sorunlarından kaynaklanan başarısız aktarım olasılıklarının yüksek olması nedeniyle, Mi Taşıyıcı Google uygulamaları tarafından oluşturulan verilerin aktarılmasını desteklememektedir.</string>
   <string name="trans_intro_desc_multiapp">Mi Mover, dosyalar arasındaki çakışmaları önlemek için Klonlu uygulama verilerini aktarmaz.</string>
@@ -479,6 +489,7 @@
   <string name="trans_intro_desc_old_market">\"Başlat\"a dokunun. Yeni telefondaki QR kodunu tarayın, Mi Mover, hangi dosyaların gönderileceğini gösterene kadar bekleyin ve \"Gönder\"e dokunun.</string>
   <string name="trans_intro_desc_private">Mi Mover gizli albümdeki fotoğraflara şifreli olduğu için erişemiyor. Bu fotoğrafları Xiaomi Bulut üzerinden yeni bir aygıta geri yükleyebilirsiniz.</string>
   <string name="trans_intro_question_1">%d. Mi Moverı bir iOS cihazından veri taşımak için nasıl kullanabilirim?</string>
+  <string name="trans_intro_question_10">%d. Bağlantı noktasını eski cihazda bulamıyor musunuz?</string>
   <string name="trans_intro_question_2">%d. Mi Moverı bir Android cihazından veri taşımak için nasıl kullanabilirim?</string>
   <string name="trans_intro_question_3">%d. Mi Mover belirli bir adımla sıkışırsa ne yapmam gerekir?</string>
   <string name="trans_intro_question_4">%d. Transferler sırasında WLAN\'ı neden kullanamıyorum?</string>
@@ -488,7 +499,6 @@
   <string name="trans_intro_question_8">%d. Neden WeChat geçmişi tam olarak aktarılamadı?</string>
   <string name="trans_intro_question_9">%d. Hangi öğeler aktarılamıyor?</string>
   <string name="trans_intro_question_9_market">%d. Geri bildirim.</string>
-  <string name="trans_intro_question_10">%d. Bağlantı noktasını eski cihazda bulamıyor musunuz?</string>
   <string name="trans_intro_title">SSS</string>
   <string name="trans_intro_title_account">Hesaplar ve şifreler:</string>
   <string name="trans_intro_title_gms">Google uygulamaları tarafından oluşturulan veriler:</string>
@@ -503,7 +513,7 @@
   <string name="trans_old_phone_low_space_msg">Mi Taşıyıcı aktarılan verileri paketlemek için depolama alanına ihtiyaç duyuyor, ancak eski cihazda yeterli alan yok gibi görünüyor. \"Güvenlik\" içinde yer açın veya sadece önemli öğeleri aktarın.</string>
   <string name="trans_old_phone_low_space_title">Yeterli depolama alanı yok</string>
   <string name="trans_one_key_migrate">Mi Transfer</string>
-  <string name="trans_open_camera_failed_message">Cihazınızı yeniden başlatın veya Mi Mover\'ın &lt;b>Kamera&lt;/b> kullanma izni olup olmadığını kontrol edin.</string>
+  <string name="trans_open_camera_failed_message">Cihazınızı yeniden başlatın veya Mi Mover\'ın &lt;b&gt;Kamera&lt;/b&gt; kullanma izni olup olmadığını kontrol edin.</string>
   <string name="trans_open_camera_failed_title">Kameraya bağlanılamadı</string>
   <string name="trans_open_location_button">Aç</string>
   <string name="trans_open_location_message">Kullanılabilir WLAN ağlarının listesini almak için konum servislerini açın.</string>
@@ -580,6 +590,7 @@
   <string name="usb_trans_old_phone_low_space_msg">Yedeklerinizi paketlemek için ek depolama alanı gerekir. Aktarıma devam etmek için yeterli depolama alanı yok. Güvenlik üzerinden yer açabilir ve gereksiz dosyaları silebilir veya yalnızca önemli öğeleri aktarma yapmayı deneyebilirsiniz.</string>
   <string name="usb_trans_old_phone_low_space_title">Yeterli depolama alanı yok</string>
   <string name="usb_trans_select_data_no_space">USB sürücünüzde sadece %s kullanılabilir.\nBoş yer açın veya sadece önemli öğeleri aktarın.</string>
+  <string name="user_feedback">Geri bildirim</string>
   <string name="user_name">Apple ID veya eposta</string>
   <string name="user_name_null">Kullanıcı adı boş olamaz</string>
   <string name="user_notice_declaration_ignore">Tekrar gösterme</string>
@@ -598,15 +609,4 @@ Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="xiaomi_update_dialog_message">Tanıtım sürümü: %1$s\nBoyut: %2$s</string>
   <string name="xiaomi_update_dialog_message_diff">Tanıtım sürümü: %1$s\nDelta güncelleme boyutu: %2$s</string>
   <string name="xiaomi_update_dialog_title">Güncelleme mevcut!</string>
-  <string name="dialog_backup_password_change_machine_tips">Şifre korumalı yedekleri aktaramazsınız. Mi Mover\'ı kullanmadan önce yedekleme şifresini kapatın.</string>
-  <string name="dialog_backup_password_backup_tips">Yedekleme şifresi açıkken öğeler yedeklenemiyor. Yedekleme şifresini kapatın.</string>
-  <string name="dialog_backup_password_cancel">İptal</string>
-  <string name="dialog_backup_password_to_settings">Ayarlar</string>
-  <string name="gallery_summary">Galeri ayarları (fotoğraflar dahil değil)</string>
-  <string name="user_feedback">Geri bildirim</string>
-  <string name="trans_complete_restoring">Başarıyla transfer edildi. Uygulama verileri geri yükleniyor...</string>
-  <string name="dialog_backup_password_auto_backup_tips">Yedekleme şifresi açıkken öğeler otomatik olarak yedeklenemiyor. Önce yedekleme şifresini kapatın.</string>
-  <string name="dialog_backup_password_change_device_restore_tips">Yedekleme şifresi açıkken Mi Mover kullanılamaz. Önce yedekleme şifresini kapatın.</string>
-  <string name="dialog_backup_password_restore_tips">Yedekleme şifresi açıkken öğeler geri yüklenemez. Önce yedekleme şifresini kapatın.</string>
-  <string name="iCloud_ID_verification_tip">Doğrulama kodunun görünmesi için Apple cihazınızda \"İzin ver\" seçeneğine dokunun. Doğrulama kodunu buraya girin.</string>  
 </resources>

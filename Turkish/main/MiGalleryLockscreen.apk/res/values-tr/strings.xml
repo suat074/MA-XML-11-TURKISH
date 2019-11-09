@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -65,11 +65,11 @@
   <string name="cancel_lockscreen">İptal</string>
   <string name="cancel_network">Çıkış</string>
   <string name="carousel_declaration_btn_text">Duvar Kağıdı Döngüsünü açın</string>
-  <string name="carousel_declaration_cta">Duvar Kağıdı Döngüsü\'nün normal çalışması için internet bağlantısı gerekir. Çevrimiçi içeriğe erişebilmek için &lt;a href='%s'>Gizlilik Politikamızı&lt;/a> kabul etmeniz gerekiyor. Kabul?</string>
+  <string name="carousel_declaration_cta">Duvar Kağıdı Döngüsü\'nün normal çalışması için internet bağlantısı gerekir. Çevrimiçi içeriğe erişebilmek için &lt;a href='%s'&gt;Gizlilik Politikamızı&lt;/a&gt; kabul etmeniz gerekiyor. Kabul?</string>
   <string name="carousel_declaration_cta_btn_text">Kabul et ve aç</string>
   <string name="carousel_declaration_des">Duvar Kağıdı Döngüsü ile güzel yerleri görün ve heyecan verici sürprizler elde edin</string>
-  <string name="carousel_declaration_des_new">Kişiselleştirilmiş öneriler alın ve her gün Kilit ekranınıza gönderilen yeni resimleir ve hikayeleri seçin.</string>
   <string name="carousel_declaration_des2">Duvar Kağıdı Döngüsü\'ne özel resimlerinizi ekleyin</string>
+  <string name="carousel_declaration_des_new">Kişiselleştirilmiş öneriler alın ve her gün Kilit ekranınıza gönderilen yeni resimleir ve hikayeleri seçin.</string>
   <string name="carousel_declaration_title">Muhteşem duvar kağıtlarına abone ol</string>
   <string name="carousel_declaration_title_new">Günlük taze duvar kağıtları</string>
   <string name="carousel_suggest">Dikkat</string>
@@ -98,13 +98,13 @@
   <string name="current_permission_network_denied">Duvar Kağıdı Döngüsünün ağa erişmesine izin ver</string>
   <string name="custom_wallpaper_des">Duvar Kağıdı Döndüsü\'nü açın, fotoğraflarınızı ve çevrimiçi resimlerinizi slayt gösterisinde otomatik olarak görünmesini sağlamak için karışıma ekleyin.</string>
   <string name="cw_add">Ekle</string>
+  <string name="cw_add2">Ekle (%1$d)</string>
   <string name="cw_add_fail">Slayt gösterisine eklenemedi</string>
   <string name="cw_add_num_tip">Slayt gösterisine daha fazla öğe ekleyemezsiniz</string>
   <string name="cw_add_success">Slayt gösterisine başarıyla eklendi</string>
   <string name="cw_add_tip_fail">Eklenemedi</string>
   <string name="cw_add_wallpaper">Duvar kağıdı ekle</string>
   <string name="cw_add_wallpaper_more_recomm">Daha fazla öneri</string>
-  <string name="cw_add2">Ekle (%1$d)</string>
   <string name="cw_added">Eklendi</string>
   <string name="cw_added_fav_fail">Veri yüklenemedi</string>
   <string name="cw_added_fav_no_pic">Burada öğe yok.</string>
@@ -222,7 +222,7 @@
   <string name="llks_try_it">Deneyin</string>
   <string name="llks_whole_cate">Tüm Kategoriler</string>
   <string name="load_hdpicture_complete">" Orijinal görüntü yüklendi"</string>
-  <string name="loading"><CDATA>Sadece bir saniye...</CDATA></string>
+  <string name="loading">&lt;CDATA&gt;Sadece bir saniye...&lt;/CDATA&gt;</string>
   <string name="lock_screen_date">d MMMM, EEEE</string>
   <string name="lock_screen_date_12">d MMMM, EEEE</string>
   <string name="lock_show_permission_exception">Bir hata oluştu. Duvar Kağıdı Döngüsü\'ne Güvenlik üzerinden Kilit ekranında gösterilmesine izin verin.</string>
@@ -315,9 +315,9 @@
   <string name="platform_unavailable_wechatmoment">WeChat\'i yükle</string>
   <string name="platform_unavailable_weibo">Weibo\'yu yükle</string>
   <string name="privacy_setting">Gizlilik ayarları</string>
-  <string name="prv_end"><CDATA>Şimdilik bu kadar</CDATA></string>
-  <string name="prv_loading"><CDATA>Sadece bir saniye...</CDATA></string>
-  <string name="prv_nodata"><CDATA>Veri yok</CDATA></string>
+  <string name="prv_end">&lt;CDATA&gt;&amp;#350;imdilik bu kadar&lt;/CDATA&gt;</string>
+  <string name="prv_loading">&lt;CDATA&gt;Sadece bir saniye...&lt;/CDATA&gt;</string>
+  <string name="prv_nodata">&lt;CDATA&gt;Veri yok&lt;/CDATA&gt;</string>
   <string name="psw_hint">Şifre</string>
   <string name="psw_sign_in">Şifre kullanarak giriş yapın</string>
   <string name="pull_to_refresh_pull_down_label">Yenilemek için aşağıya çekin</string>
@@ -336,7 +336,7 @@
   <string name="resource_apply">Uygula</string>
   <string name="resource_no_network_text">Ağ bağlantınızı kontrol edin ve tekrar deneyin</string>
   <string name="rv_with_footer_empty">Henüz burada bir şey yok</string>
-  <string name="rv_with_footer_loading"><CDATA>Sadece bir saniye...</CDATA></string>
+  <string name="rv_with_footer_loading">&lt;CDATA&gt;Sadece bir saniye...&lt;/CDATA&gt;</string>
   <string name="rv_with_footer_pull_load_more">Daha fazlasını görmek için aşağı çekin</string>
   <string name="save_hdpicture_in_favor">HD görüntüleri \"Favoriler\" üzerinde görüntüleyin</string>
   <string name="save_picture_success">Başarıyla kaydedildi</string>
@@ -451,9 +451,9 @@
   <string name="subscribe_success_content_per_three_hour">Her 3 saatte bir duvar kağıdını değiştir</string>
   <string name="subscribe_success_content_per_unlock">Cihaz her kilitlendiğinde duvar kağıdını değiştir</string>
   <string name="subscribe_update_time_setting">Farklı bir aralık ayarla</string>
-  <string name="summary">"Çevrimiçi içeriği görüntülemek için &lt;a href='%s'>Gizlilik Politikamızı&lt;/a> kabul edin. Kabul etmezseniz, yerel duvar kâğıtları hala mevcut olacaktır."</string>
-  <string name="summary_international">"Bu özelliği kullanarak, &lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
-  <string name="summary2">"Bu özelliği kullanarak, &lt;font color='#37A5FF'>&lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;font color='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
+  <string name="summary">"Çevrimiçi içeriği görüntülemek için &lt;a href='%s'&gt;Gizlilik Politikamızı&lt;/a&gt; kabul edin. Kabul etmezseniz, yerel duvar kâğıtları hala mevcut olacaktır."</string>
+  <string name="summary2">"Bu özelliği kullanarak, &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Politikamızı&lt;/a&gt; kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
+  <string name="summary_international">"Bu özelliği kullanarak, &lt;a href ='%1$s'&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href='%2$s'&gt;Gizlilik Politikamızı&lt;/a&gt; kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
   <string name="sure_close_gallery">Duvar Kağıdı Döngüsü kapatılsın mı?</string>
   <string name="sure_close_gallery_des">Duvar Kağıdı Döngüsü\'nü kapatırsanız Ana ekranınıza ve Kilit ekranınıza taze görüntüler gönderemezsiniz. Yine de kapatılsın mı?</string>
   <string name="tab_user_title_bar_text">Ayarlar</string>

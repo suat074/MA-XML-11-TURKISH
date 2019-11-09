@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="a_negative">A, negatif</string>
   <string name="a_positive">Bir pozitif</string>
@@ -406,12 +406,12 @@
   <string name="wifi_security_short_eap">802.1x</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
+  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
   <string name="wifi_security_wep">WEP</string>
   <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
+  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_verbose_logging">WLAN Ayrıntılı Günlüğünü Etkinleştir</string>
   <string name="wifi_verbose_logging_summary">WLAN Giriş Düzeyi&amp;#39;ni artırın, WLAN Seçici&amp;#39;nde RSSID&amp;#39;ye göre SSID RSSI&amp;#39;yı gösterin</string>
   <string name="window_animation_scale_title">Pencere animasyon ölçeği</string>

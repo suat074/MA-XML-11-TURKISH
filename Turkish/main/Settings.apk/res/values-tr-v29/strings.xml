@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_captioning_title">Altyazı tercihleri</string>
   <string name="accessibility_control_timeout_preference_summary">Harekete geçmenizi isteyen, ancak geçici olarak görüntülenen mesajların ne kadar süre gösterileceğini seçin.\n\nBu ayar tüm uygulamalar tarafından desteklenmez.</string>
@@ -9,7 +9,7 @@
   <string name="accessibility_dialog_button_stop">Durdur</string>
   <string name="accessibility_hearingaid_instruction_continue_button">Devam</string>
   <string name="accessibility_ring_vibration_title">Zili sesi titreşimi</string>
-  <string name="accessibility_screen_magnification_navbar_summary">Büyütme açıkken, ekranınızı yakınlaştırabilirsiniz.\n\n\"&lt;b>Yakınlaştırmak için&lt;/b>\", büyütme işlevini başlatın, ardından ekranda istediğiniz yere dokunun.\n"&lt;ul>&lt;li>• Kaydırmak için 2 veya daha fazla parmağınızla sürükleme hareketi yapın&lt;/li>"\n"&lt;li>• Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkıştırma hareketi yapın&lt;/li>&lt;/ul>"\n\n"&lt;b>Geçici olarak yakınlaştırmak için&lt;/b>", Büyütme işlevini başlatın, ardından ekranda herhangi bir yere dokunup basılı tutun.\n"&lt;ul>&lt;li>• Ekranda gezinmek için sürükleyin&lt;/li>"\n"&lt;li>• Uzaklaştırmak için parmağınızı kaldırın&lt;/li>&lt;/ul>"\n\nKlavyede veya gezinme çubuğunda yakınlaştıramazsınız.</string>
+  <string name="accessibility_screen_magnification_navbar_summary">Büyütme açıkken, ekranınızı yakınlaştırabilirsiniz.\n\n\"&lt;b&gt;Yakınlaştırmak için&lt;/b&gt;\", büyütme işlevini başlatın, ardından ekranda istediğiniz yere dokunun.\n"&lt;ul&gt;&lt;li&gt;• Kaydırmak için 2 veya daha fazla parmağınızla sürükleme hareketi yapın&lt;/li&gt;"\n"&lt;li&gt;• Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkıştırma hareketi yapın&lt;/li&gt;&lt;/ul&gt;"\n\n"&lt;b&gt;Geçici olarak yakınlaştırmak için&lt;/b&gt;", Büyütme işlevini başlatın, ardından ekranda herhangi bir yere dokunup basılı tutun.\n"&lt;ul&gt;&lt;li&gt;• Ekranda gezinmek için sürükleyin&lt;/li&gt;"\n"&lt;li&gt;• Uzaklaştırmak için parmağınızı kaldırın&lt;/li&gt;&lt;/ul&gt;"\n\nKlavyede veya gezinme çubuğunda yakınlaştıramazsınız.</string>
   <string name="accessibility_screen_magnification_navbar_title">Kısayol ile büyüt</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Kısayol &amp; üç kez dokunarak büyüt</string>
   <string name="accessibility_service_action_perform_description">Bir uygulama veya donanım sensörüyle etkileşimlerinizi takip edebilir ve sizin adınıza uygulamalarla etkileşimde bulunabilir.</string>
@@ -19,9 +19,9 @@
   <string name="accessibility_service_warning">%1$s, bu cihazın tam kontrolünü istiyor. Hizmet, ekranı okuyabilir ve erişilebilirlik gereksinimleri olan kullanıcıların adına hareket edebilir. Bu kontrol düzeyi, çoğu uygulama için uygun değildir.</string>
   <string name="accessibility_service_warning_description">Erişebilirlik ihtiyaçlarınıza yardımcı olan uygulamalara tam kontrol verilmesi uygundur ancak diğer pek çok uygulama için uygun değildir.</string>
   <string name="accessibility_setting_item_control_timeout_title">İşlem yapma süresi (Erişilebilirlik zaman aşımı)</string>
+  <string name="accessibility_timeout_10secs">10 saniye</string>
   <string name="accessibility_timeout_1min">1 dakika</string>
   <string name="accessibility_timeout_2mins">2 dakika</string>
-  <string name="accessibility_timeout_10secs">10 saniye</string>
   <string name="accessibility_timeout_30secs">30 saniye</string>
   <string name="accessibility_timeout_default">Varsayılan</string>
   <string name="accessibility_toggle_master_balance_left_label">Sol</string>
@@ -479,7 +479,7 @@
   <string name="preferred_network_mode_wcdma_only_summary">Tercih edilen ağ modu: Yalnızca WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Tercih edilen ağ modu: WCDMA tercih edilir</string>
   <string name="previous_connected_see_all">Tümünü gör</string>
-  <string name="privacy_authorize_dialog_message"><Data>"Bu hizmetin temel özelliklerini kullanmak için, Xiaomi\'nin kişisel verilerinizi toplayacağı, işleyeceği ve kullanacağını kabul etmeniz gerekir. Kişisel verileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul Et\" seçeneğini seçmek &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Kullanıcı Sözleşmemizi&lt;/a> okuduğunuz ve kabul ettiğiniz anlamına gelir."</Data></string>
+  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Bu hizmetin temel &amp;#246;zelliklerini kullanmak i&amp;#231;in, Xiaomi\'nin ki&amp;#351;isel verilerinizi toplayaca&amp;#287;&amp;#305;, i&amp;#351;leyece&amp;#287;i ve kullanaca&amp;#287;&amp;#305;n&amp;#305; kabul etmeniz gerekir. Ki&amp;#351;isel verileri nas&amp;#305;l toplad&amp;#305;&amp;#287;&amp;#305;m&amp;#305;z&amp;#305; ve i&amp;#351;ledi&amp;#287;imizi &amp;#246;&amp;#287;renmek i&amp;#231;in Gizlilik Politikam&amp;#305;za bak&amp;#305;n. \"Kabul Et\" se&amp;#231;ene&amp;#287;ini se&amp;#231;mek &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Gizlilik Politikam&amp;#305;z&amp;#305;&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;memizi&amp;lt;/a&amp;gt; okudu&amp;#287;unuz ve kabul etti&amp;#287;iniz anlam&amp;#305;na gelir."&lt;/Data&gt;</string>
   <string name="privacy_dashboard_summary">İzinler, hesap etkinliği, kişisel veriler</string>
   <string name="privacy_dashboard_title">Gizlilik</string>
   <string name="profile_owner_add_title_simplified">Denetime izin verilsin mi?</string>
@@ -691,7 +691,7 @@
   <string name="zen_mode_schedule_delete">Sil</string>
   <string name="zen_mode_schedule_title">Program</string>
   <string name="zen_mode_settings_dnd_custom_settings_footer">Rahatsız Etme özelliği, %s için özel ayarlarla açık.</string>
-  <string name="zen_mode_settings_dnd_custom_settings_footer_link"><annotation id="link"> Özel ayarları göster</annotation></string>
+  <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id="link"&gt; &amp;#214;zel ayarlar&amp;#305; g&amp;#246;ster&lt;/annotation&gt;</string>
   <string name="zen_mode_slice_subtitle">Kesintileri sınırla</string>
   <string name="zen_mode_system_list">dokunma sesleri</string>
   <string name="zone_auto_title">Ağın sağladığı saat dilimini kullan</string>

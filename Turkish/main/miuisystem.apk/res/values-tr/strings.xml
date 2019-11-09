@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="acousticguitar">Akustik gitar</string>
   <string name="add_frequent_phrases">Sık kullanılan ifadeler ekle</string>
@@ -9,7 +9,9 @@
   <string name="anniversary_of_lifting_martial_law">Sıkı Yönetim günü</string>
   <string name="anti_aggression_day">Anti-Saldırganlık günü</string>
   <string name="arbor_day">Ağaç Dikim günü</string>
+  <string name="asend">Bir Gönder</string>
   <string name="beep">Bip</string>
+  <string name="bells">Çanlar</string>
   <string name="birdcicada_preview">Doğa - Kuşlar &amp; ateşböcekleri</string>
   <string name="blues">Hüzün</string>
   <string name="bottle">Şişe</string>
@@ -28,12 +30,14 @@
   <string name="chirp">Cıvıltı</string>
   <string name="chord">Akort</string>
   <string name="christmas_day">Yılbaşı</string>
+  <string name="citylight">Şehir ışıkları</string>
   <string name="clank">Şıkırtı</string>
   <string name="cloud_state_disabled">Bulut ile eşitleme kapalı</string>
   <string name="cloud_state_finished">Bulut ile eşitlendi</string>
   <string name="cloud_state_syncing">Bulut ile eşitlendi</string>
   <string name="cold_dews">Soğuk Günler</string>
   <string name="country">Ülke</string>
+  <string name="countryside">Kırsal</string>
   <string name="cowboy">Kovboy</string>
   <string name="crystal">Kristal</string>
   <string name="cta_button_continue">Kabul</string>
@@ -44,6 +48,7 @@
   <string name="cta_permission_and"> ve </string>
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Kullanım Şartları</string>
+  <string name="dance">Dans</string>
   <string name="day_following_good_friday">İyi cumalar</string>
   <string name="daydream">Hayal</string>
   <string name="def_alarm_alert">/system/media/audio/alarms/Fireflies.ogg</string>
@@ -62,11 +67,12 @@
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Mi Telefon</string>
-  <string name="dewdrops">Çiy damlaları</string>  
+  <string name="dewdrops">Çiy damlaları</string>
   <string name="double_seventh_day">Tanabata</string>
   <string name="easter">Paskalya</string>
   <string name="echo">Eko</string>
   <string name="edit_frequent_phrases">Sık kullanılan ifadeleri düzenle</string>
+  <string name="expect">Heyecan</string>
   <string name="fadein">Fade in</string>
   <string name="fadeout">Fade out</string>
   <string name="fairyland">Periler ülkesi</string>
@@ -75,24 +81,30 @@
   <string name="fireflies">Ateşböcekleri</string>
   <string name="flute">Flüt</string>
   <string name="fools_day">nisan şakası günü</string>
+  <string name="frenchchic">Şık</string>
   <string name="frequent_phrases_des">Birkaç dokunuşla sık kullanılan ifadeleri düzenleyip, girin</string>
   <string name="frequent_phrases_size_exceeded">%1$d sık kulllanılan ifadelere ekle. Fazlasını eklemek için gereksizleri silin.</string>
   <string name="fresh">Taze</string>
   <string name="frog">Kurbağa</string>
+  <string name="game">Oyun</string>
   <string name="glee">Neşe</string>
   <string name="glockenspiel">Orkestra Çanı</string>
+  <string name="glorious">Zafer</string>
   <string name="good_friday">Hayırlı Cumalar</string>
   <string name="grain_buds">Küçük Bereket</string>
   <string name="grain_in_ear">Komşu</string>
   <string name="grain_rain">Ekin Yağmuru</string>
   <string name="great_cold">harika soğuk</string>
   <string name="great_heat">Büyük Sıcaklık</string>
+  <string name="greenandblue">Gökkuşağı</string>
   <string name="group_name_contacts">Kişiler</string>
   <string name="group_name_coworkers">Meslektaşlar</string>
   <string name="group_name_family">Aile</string>
   <string name="group_name_friends">Arkadaşlar</string>
   <string name="guitar">Gitar</string>
+  <string name="hallofmemories">Anılar</string>
   <string name="harp">Harp</string>
+  <string name="hawaii">Hawaii</string>
   <string name="heavy_snow">Ağır Kar</string>
   <string name="hksar_establishment_day">Hong Kong Kurtuluş Günü</string>
   <string name="hoar_frost_falls">don damlası</string>
@@ -129,13 +141,18 @@
   <string name="lunar_yi">一</string>
   <string name="lunar_yue">月</string>
   <string name="lunar_zheng">正</string>
+  <string name="makewishes">Doğum günü dileği</string>
+  <string name="martix">Matris</string>
   <string name="menu_add_frequent_phrases">Ekle</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_edit">Düzenle</string>
   <string name="messagesent">Mesaj gönderildi</string>
+  <string name="mihouse">Mi Elektronik</string>
+  <string name="mijazz">Mi Caz</string>
   <string name="miremix">Mi (Remix)</string>
   <string name="miui_device_name">Android</string>
   <string name="moment">An</string>
+  <string name="monet">Zambak gölet</string>
   <string name="morning">Sabah</string>
   <string name="mountainspring">Dağ bahar</string>
   <string name="national_day">Ulusal Gün</string>
@@ -146,6 +163,7 @@
   <string name="notificationxylophone">Bildirim (Ksilofon)</string>
   <string name="orange">Portakal</string>
   <string name="partys_day">Parti\'nin Günü</string>
+  <string name="passionflower">Tutku</string>
   <string name="peace_day">Barış Günü</string>
   <string name="potion">İksir</string>
   <string name="presentation_payphone">Ödemeli Telefon</string>
@@ -154,6 +172,8 @@
   <string name="radar">Radar</string>
   <string name="raindrops">Yağmur damlaları</string>
   <string name="retrocession_day">İade Günü</string>
+  <string name="robot">Robot</string>
+  <string name="secretgarden">Gizli Bahçe</string>
   <string name="slight_cold">小寒</string>
   <string name="slight_heat">小暑</string>
   <string name="solar_calendar">Gregoryen Takvimi</string>
@@ -164,6 +184,7 @@
   <string name="summer_begins">Yaz Başlıyor</string>
   <string name="summer_solstice">Günötesi</string>
   <string name="sunrise">Gündoğumu</string>
+  <string name="surprise">Sürpriz</string>
   <string name="swoosh">Swoosh</string>
   <string name="teachers_day">Öğretmenler Günü</string>
   <string name="the_armys_day">Ordunun Günü</string>
@@ -188,6 +209,7 @@
   <string name="vip_sign">İmza:</string>
   <string name="waterdrop_preview">Doğa - Damlacıklar</string>
   <string name="white_dews">Beyaz Çiğ</string>
+  <string name="windchime">Rüzgar çanları</string>
   <string name="winter_begins">Kış Başlıyor</string>
   <string name="winter_solstice">Kış Gündönümü</string>
   <string name="yellow_page_module_sms_sent">SMS gönder</string>
@@ -195,26 +217,4 @@
   <string name="yellow_page_sms_send_failed">SMS gönderilemedi</string>
   <string name="yellow_page_sms_sending">Gönderiliyor…</string>
   <string name="yellow_page_unable_send_sms">SMS gönderilemedi</string>
-  <string name="citylight">Şehir ışıkları</string>
-  <string name="countryside">Kırsal</string>
-  <string name="frenchchic">Şık</string>
-  <string name="glorious">Zafer</string>
-  <string name="greenandblue">Gökkuşağı</string>
-  <string name="hallofmemories">Anılar</string>
-  <string name="hawaii">Hawaii</string>
-  <string name="martix">Matris</string>
-  <string name="monet">Zambak gölet</string>
-  <string name="passionflower">Tutku</string>
-  <string name="secretgarden">Gizli Bahçe</string>
-  <string name="asend">Bir Gönder</string>
-  <string name="bells">Çanlar</string>
-  <string name="dance">Dans</string>
-  <string name="expect">Heyecan</string>
-  <string name="game">Oyun</string>
-  <string name="makewishes">Doğum günü dileği</string>
-  <string name="robot">Robot</string>
-  <string name="surprise">Sürpriz</string>
-  <string name="windchime">Rüzgar çanları</string>
-  <string name="mihouse">Mi Elektronik</string>
-  <string name="mijazz">Mi Caz</string>  
 </resources>

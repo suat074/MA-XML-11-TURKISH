@@ -1,5 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="FpTest">FpTest Çalıştır</string>
+  <string name="FpTest_result">FpTest sonucu:</string>
+  <string name="SDCard">SD Kart</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Dahili SD Kartı Algıla</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Dahili SD Kart kullanılamıyor</string>
+  <string name="SD_SDCard_available_szie">Mevcut boyut</string>
+  <string name="SD_SDCard_mounted">SD Kartı algıla</string>
+  <string name="SD_SDCard_total_size">Toplam boyut</string>
+  <string name="SD_SDCard_unmounted">SD Kart kullanılamıyor</string>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -31,6 +40,7 @@
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="action_example">Örnek eylem</string>
   <string name="action_nothing">test için bekle</string>
+  <string name="allow_gpu_maxfreq_summary">GPU aşırı frekans deney modu güç sorunları veya daha ciddi problemler ortaya çıkarabilir. Ancak, bu modu kapatdıktan sonra geri yüklenecektir.. GPU maksimum frekans modu açılsın mı?</string>
   <string name="audio_rule">Ses xml ayrıştırıcı</string>
   <string name="audio_spk_cal_wait">Kalibrasyon, lütfen...</string>
   <string name="audio_spk_def">Hoparlörleri kalibre edin, lütfen</string>
@@ -47,14 +57,25 @@
   <string name="camera_capture">Yakalama</string>
   <string name="camera_done">Bitti</string>
   <string name="camera_error">Bu cihaz Camera2 API desteklemiyor.</string>
+  <string name="camera_flood">- Flood -</string>
   <string name="camera_not_support_raw10">Kamera raw10 fotoğraf formatını desteklemiyor!</string>
   <string name="camera_preview">ön izleme</string>
+  <string name="camera_projector">- Projektör -</string>
   <string name="camera_zoom">Yakınlaştırma</string>
   <string name="camerainfo">Kamera bilgileri</string>
   <string name="cancel">İptal</string>
   <string name="cancel_test">TEST İPTAL EDİLDİ</string>
   <string name="capacitance_test">KAPASİTE TESTİ</string>
   <string name="charger_test_end">\n\nŞarj cihazı testi bitti, lütfen şarj cihazını çıkarın</string>
+  <string name="cit_OTG_plug_check_summary">Test sırasında, lütfen USB_OTG cihazına takın ve fişi ters çevirin.</string>
+  <string name="cit_OTG_plugin_check_summary">Bir OTG cihazı bağlandığında USB OTG cihazı algılandı metni aşağıda görüntüleniyor olmalıdır</string>
+  <string name="cit_OTG_plugin_check_title">OTG (Algılama)</string>
+  <string name="cit_OTG_plugout_check_summary">Bir OTG cihazı kaldırıldığında USB OTG cihazı kaldırıldı metni aşağıda görüntüleniyor olmalıdır</string>
+  <string name="cit_OTG_plugout_check_title">OTG (Kaldırma)</string>
+  <string name="cit_OTG_waiting_in">Lütfen USB_OTG aygıtı takın</string>
+  <string name="cit_OTG_waiting_in_charge">Şimdi USB OTG aygıtını bağlayın</string>
+  <string name="cit_OTG_waiting_out">USB OTG cihaz bağlantısını kesin</string>
+  <string name="cit_Reserse_charge_check_title">Ters şarj testi</string>
   <string name="cit_abnormal_reboot_summary">Lütfen bekleyin ... Bu cihazdaki stabilite verileri okunuyor.</string>
   <string name="cit_abnormal_reboot_title">Cihaz İstikrarı Verileri</string>
   <string name="cit_ac_charger_in">AC üzerinden şarj ediliyor</string>
@@ -71,6 +92,7 @@
   <string name="cit_aud_test_result">Test sonucu:</string>
   <string name="cit_audio_cali_done">Kalibrasyon tamamlandı</string>
   <string name="cit_audio_cali_failed">Kalibrasyon başarısız oldu. Lütfen yeniden deneyin</string>
+  <string name="cit_audio_cali_fast_test_title">Hoparlör amplifikatör kalibrasyonu hızlı test</string>
   <string name="cit_audio_cali_file_existed">Müzik dosyası yok. Kalibrasyon yapılamıyor</string>
   <string name="cit_audio_cali_playing">Kalibrasyon için tuşa basın</string>
   <string name="cit_audio_cali_summary">Hoparlörü kalibre et</string>
@@ -136,28 +158,49 @@
   <string name="cit_calibration_fail">Kalibrasyon başarısız oldu</string>
   <string name="cit_calibration_pass">Kalibrasyon başarılı</string>
   <string name="cit_camera_calibration_summary">Test yönergeleri:\n\n1. Kamera arayüzüne girmek için aşağıdaki kalibrasyon düğmesine basın\n2. Kamera arayüzünden çıkmak için geri düğmesine basın\n3. Kalibrasyon tamamlandığında optik imaj dengeleyicinin kalibre edildiğini belirten bir etiket görüntülenecektir</string>
+  <string name="cit_camera_fast_check_title">Kamera hızlı test</string>
   <string name="cit_camera_sdcard_error">Fotoğraf çekilemiyor. SD kart dolu</string>
   <string name="cit_charger_check_title">Şarj testi</string>
+  <string name="cit_charger_in">Şarj bağlı</string>
   <string name="cit_charger_in_check_title">Şarj cihazı yerleştirme testi</string>
   <string name="cit_charger_plugin_check_summary">Bir USB şarj cihazı bağlandığında aşağıda USB/AC üzerinden şarj oluyor metni görüntülenmelidir</string>
   <string name="cit_charger_plugin_check_title">Şarj aleti (Bağlantı)</string>
   <string name="cit_charger_plugout_check_summary">USB şarj cihazı çıkartıldığında USB/AC şarj cihazı bağlantısı kesildi metni görüntülenmelidir</string>
   <string name="cit_charger_plugout_check_title">Şarj aleti (Bağlantıyı kesme)</string>
   <string name="cit_charger_test_summary">Şarj cihazı testi sırasında lütfen şarj cihazını fişe takın\nve şarj cihazındaki fişi ters çevirin</string>
+  <string name="cit_charger_test_tips_electric">Mevcut projenin 1A\'den büyük şarj akımı değerini test etmesi gerekir</string>
+  <string name="cit_charger_test_tips_hvdcp">Mevcut projenin USB_HVDCP\'yi test etmesi gerekiyor</string>
   <string name="cit_charger_waiting_in">Şarj cihazını bağlayın</string>
   <string name="cit_charger_waiting_out">Şarj cihazını çıkartın</string>
   <string name="cit_def_torch_on_one">İlk flaşı aç</string>
   <string name="cit_def_torch_on_three">Üçüncü flaşı aç</string>
   <string name="cit_def_torch_on_two">İkinci flaşı aç</string>
+  <string name="cit_diag_chaging_summary">Şarj günlük kayıt dosyalarını sd kart\'a kopyalayın</string>
+  <string name="cit_diag_chaging_title">Şarj günlük kaydını okuyun</string>
+  <string name="cit_diag_chaging_wait">Lütfen bekleyin... Dosyalar kopyalanıyor</string>
   <string name="cit_dial_emergencycall">112 yi çevirin</string>
   <string name="cit_display_check_summary">Gerekli BMP dosyasının SD kartta kayıtlı olduğundan emin olun. Renklerin ekranın tamamında tutarlı ve düzgün bir şekilde görüntülendiğini doğrulayın. Ekranda düzensiz aydınlık ve karanlık noktaların olmadığından emin olun</string>
   <string name="cit_display_check_title">Ekran</string>
   <string name="cit_display_continue">Testi başlatmak için ekrana dokunun</string>
+  <string name="cit_display_test_end">Testi bitir</string>
+  <string name="cit_display_test_next">Sonraki</string>
   <string name="cit_emergencycall_check_summary">Lütfen 112\'nin yerleştirilip yerleştirilemeyeceğini kontrol etmek için çeviricide 112 tuşlayın.</string>
   <string name="cit_emergencycall_check_title">Acil çağrı</string>
   <string name="cit_exit_test_summary">Çıkış yaptığınızda ilgili tüm test verileri silinecektir</string>
   <string name="cit_exit_test_title">Testten çık</string>
+  <string name="cit_f2_cali">Kalibrasyon</string>
+  <string name="cit_f2_cali_done">Kalibrasyon Bitti!</string>
+  <string name="cit_f2_cali_failed">Kalibrasyon Başarısız, lütfen Yeniden deneyin!</string>
+  <string name="cit_f2_cali_title">Kamera kalibrasyonu</string>
+  <string name="cit_f2_calibrating">Kalibrasyon devam ediyor...</string>
+  <string name="cit_f2_camera_check_summary">"Test talimatları:
+
+1.Kalibrasyon düğmesine dokunun.
+2.Kameranın kalibre edildiğini gösteren bir kalibrasyon geçişi etiketi olacaktır."</string>
+  <string name="cit_f2_capture_fail">Yakalama Başarısız, lütfen Yeniden Dene!</string>
+  <string name="cit_f2_capture_success">Kalibrasyon düğmesine tıklayın!</string>
   <string name="cit_fail">Başarısız</string>
+  <string name="cit_fast_screen_touch_check_title">Dokunmatik ekran kontrolü hızlı test</string>
   <string name="cit_finger_check_title">Parmak izi testi</string>
   <string name="cit_flash_life_check_summary">Cihaz flaş ömrü tahmini</string>
   <string name="cit_flash_life_check_title">Flaş ömrü</string>
@@ -229,6 +272,7 @@
   <string name="cit_headset_pull_detect_summary">Kulaklıklar çıkartıldığında kulaklık çıkartıldı metni aşağıda görüntüleniyor olmalıdır</string>
   <string name="cit_headset_pull_detect_title">Kulaklık (Bağlantıyı kesme)</string>
   <string name="cit_headset_pull_finish">Kulaklık çıkartıldı</string>
+  <string name="cit_headset_pull_finish_test">Kulaklık bağlantısı kesilmiş, test bitti</string>
   <string name="cit_headset_pull_hint">Kulaklıkları şimdi çıkartın</string>
   <string name="cit_hide_menu">Menüyü gizle</string>
   <string name="cit_kayboard_home_down">Tuş: EV</string>
@@ -266,20 +310,14 @@
   <string name="cit_name">Donanım testleri</string>
   <string name="cit_nfc_check_summary">Lütfen kartı telefonun arkasına koyun</string>
   <string name="cit_nfc_check_title">Nfc test</string>
+  <string name="cit_no_sim_check_summary">Telefonun sim kartı olmadığını onaylayın!</string>
+  <string name="cit_no_sim_check_title">Sim Kart yok</string>
   <string name="cit_not_available">Bu test Miui\'nin bu sürümünde kullanılabilir durumda değildir</string>
   <string name="cit_notificationlight">Bildirim ışığı</string>
   <string name="cit_notificationlight_off">Bildirim ışığını kapat</string>
   <string name="cit_notificationlight_on">Bildirim ışığını aç</string>
   <string name="cit_offline_log_title">Çevrimdışı Günlük durumu</string>
   <string name="cit_otg_not_supported">Bu cihaz OTG testini desteklemiyor</string>
-  <string name="cit_OTG_plug_check_summary">Test sırasında, lütfen USB_OTG cihazına takın ve fişi ters çevirin.</string>
-  <string name="cit_OTG_plugin_check_summary">Bir OTG cihazı bağlandığında USB OTG cihazı algılandı metni aşağıda görüntüleniyor olmalıdır</string>
-  <string name="cit_OTG_plugin_check_title">OTG (Algılama)</string>
-  <string name="cit_OTG_plugout_check_summary">Bir OTG cihazı kaldırıldığında USB OTG cihazı kaldırıldı metni aşağıda görüntüleniyor olmalıdır</string>
-  <string name="cit_OTG_plugout_check_title">OTG (Kaldırma)</string>
-  <string name="cit_OTG_waiting_in">Lütfen USB_OTG aygıtı takın</string>
-  <string name="cit_OTG_waiting_in_charge">Şimdi USB OTG aygıtını bağlayın</string>
-  <string name="cit_OTG_waiting_out">USB OTG cihaz bağlantısını kesin</string>
   <string name="cit_pass">Başarılı</string>
   <string name="cit_play_sd_mp3_hifi_summary">SD kartta music.mp3 adıyla kayıtlı bir müzik dosyası olduğundan emin olun. Test başlatıldığında music.mp3 dosyası cihazın Hifi yolundan oynatılıyor olmalıdır</string>
   <string name="cit_play_sd_mp3_hifi_title">SD kartta depolanan MP3(HIFI) dosyasını çal</string>
@@ -307,7 +345,6 @@
   <string name="cit_rear_sub_camera_check_title">Arka alt kamera</string>
   <string name="cit_recovery_signature_failed">kurtarma imzası BAŞARISIZ</string>
   <string name="cit_recovery_signature_passed">kurtarma imzası GEÇTİ</string>
-  <string name="cit_Reserse_charge_check_title">Ters şarj testi</string>
   <string name="cit_reset_check_summary">Bu test cihazınızı yeniden başlatacaktır. Geçmiş tüm test verileri silinecektir</string>
   <string name="cit_reset_check_title">Yeniden başlatma</string>
   <string name="cit_reset_ese_summary">eSE sıfırla, tüm NFC banka kartları ve transkartlar silinir.</string>
@@ -349,11 +386,14 @@
   <string name="cit_sim_state_ready">Sim kart hazır</string>
   <string name="cit_sim_state_unkown">Bilinmiyor</string>
   <string name="cit_soft_torch_off">Yumuşak flaş ışığını kapat</string>
+  <string name="cit_splash_check_summary">Siyah ekran fenomeni için daha 5s olduğundan emin olun.</string>
   <string name="cit_start_calibration">Kalibre et</string>
   <string name="cit_stop_calibration">Kalibrasyonu durdur</string>
   <string name="cit_tfcard_support_summary">Bu cihazda TF Kartın desteklenip desteklenmediğini kontrol edin</string>
   <string name="cit_tfcard_support_title">TF Kart Desteği</string>
+  <string name="cit_tof_sensor_check_summary">TOF değerleri aşağıda görünmelidir</string>
   <string name="cit_tool">Ek araçlar</string>
+  <string name="cit_tool_active_mbn">aktif</string>
   <string name="cit_tool_bluetooth">Bluetooth test aracı</string>
   <string name="cit_tool_bluetooth_dut">Bluetooth test moduna gir</string>
   <string name="cit_tool_bluetooth_enhanced">Geliştirilmiş Bluetooth Testine Gir</string>
@@ -362,20 +402,30 @@
   <string name="cit_tool_bluetooth_le_rx_4x_channel">kanal:</string>
   <string name="cit_tool_bluetooth_le_rx_50_channel">kanal:</string>
   <string name="cit_tool_bluetooth_le_tx_4x_channel">kanal:</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_payload">yük:</string>
   <string name="cit_tool_bluetooth_le_tx_50_channel">kanal:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_payload">yük:</string>
   <string name="cit_tool_bluetooth_le_tx_ch19">Bluetooth LE 2.440GHz frekans test moduna gir</string>
   <string name="cit_tool_bluetooth_not_on">Bluetooth etkin değil</string>
   <string name="cit_tool_bluetooth_off">Bluetooth\'u kapat</string>
   <string name="cit_tool_bluetooth_on">Bluetooth\'u aç</string>
   <string name="cit_tool_bluetooth_tx_h">Bluetooth BR/EDR 2.480GHz frekans test moduna gir</string>
   <string name="cit_tool_bluetooth_tx_l">Bluetooth BR/EDR 2.402GHz frekans test moduna gir</string>
+  <string name="cit_tool_bluetooth_tx_m">Bluetooth BR / EDR 2.441GHz Frekans Test Moduna girin</string>
   <string name="cit_tool_cal_accelerometer">Acc kalibrasyon aracı</string>
   <string name="cit_tool_cal_camera">Kamera kalibrasyon aracı</string>
   <string name="cit_tool_cal_gyroscope">Gyro kalibrasyon aracı</string>
+  <string name="cit_tool_check_opt">emin misin?</string>
+  <string name="cit_tool_check_opt_with_reboot">yeniden başlatılacak, emin misin?</string>
+  <string name="cit_tool_current_modem_test_mode">Mevcut Test Modu:</string>
+  <string name="cit_tool_dc_backlight_toast_off">DC Arka ışık Kapalı</string>
+  <string name="cit_tool_dc_backlight_toast_on">DC Arka ışık Açık</string>
   <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">3A Kayıt anahtarını etkinleştir</string>
   <string name="cit_tool_enable_display_3A_log">Ekran 3A günlüğünü etkinleştir</string>
   <string name="cit_tool_exit_modem_mbn">Otomatik MBN\'ye geri yükle</string>
+  <string name="cit_tool_getting_expired">Süresi dolmuş!</string>
+  <string name="cit_tool_getting_wait">Başlarken! Lütfen bekle</string>
   <string name="cit_tool_log">Kayıtları al</string>
   <string name="cit_tool_log_bugreport">Hata raporu</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
@@ -388,16 +438,36 @@
   <string name="cit_tool_log_ril">RIL Kayıt</string>
   <string name="cit_tool_log_toast">Günlük %s konumuna kaydedildi</string>
   <string name="cit_tool_log_toast_generate_bugreport">Hata raporu oluşturuluyor (Yaklaşık 1 dakika)</string>
+  <string name="cit_tool_mbn_default_notfiy">varsayılan MBN</string>
+  <string name="cit_tool_mbn_no_default_notfiy">Varsayılan MBN yok</string>
+  <string name="cit_tool_mbn_path_select_hit">mbn\'nin tam yolunu seçin:</string>
+  <string name="cit_tool_mbn_path_select_notice">yukarıda bulamadınız mı? burada ara? Mcfg gelince, ct, eps ... vb</string>
+  <string name="cit_tool_mbn_recovery_default">Kurtarma varsayılan MBN</string>
   <string name="cit_tool_modem">Modem test araçları</string>
   <string name="cit_tool_modem_bugreport">Modemi Coredump işlemine zorla</string>
+  <string name="cit_tool_modem_clear_empty">temiz</string>
   <string name="cit_tool_modem_exit_ftm">FTM modundan çık</string>
   <string name="cit_tool_modem_mbn">Modem ayarlarını değiştir</string>
+  <string name="cit_tool_modem_mbn_config_load_and_active">MBN yapılandırma yükleme ve etkinleştirme aracı</string>
   <string name="cit_tool_modem_offline_log">Çevrimdışı kayıtları aç veya kapat</string>
+  <string name="cit_tool_modem_rf_ant_test">Modem rf ant Test Ayarı</string>
+  <string name="cit_tool_modem_test_clr">GPI testini kapatın</string>
+  <string name="cit_tool_modem_test_get">güncelleştirme</string>
+  <string name="cit_tool_modem_test_mode">Modem Test Modu Ayarı</string>
+  <string name="cit_tool_modem_test_mode_closed">test modu kapalı</string>
+  <string name="cit_tool_modem_test_mode_mismatch">test modu uyuşmuyor</string>
+  <string name="cit_tool_modem_test_mode_opened">test modu açıldı</string>
+  <string name="cit_tool_modem_test_mode_select">Test Modunu Seçin:</string>
+  <string name="cit_tool_modem_test_mode_set">Ayarı Doğrula</string>
+  <string name="cit_tool_modem_test_set">doğrula</string>
   <string name="cit_tool_nfc">Nfc test araçları</string>
   <string name="cit_tool_nfc_st">Nfc ST: </string>
   <string name="cit_tool_nfc_st_confreq">Frekans:</string>
   <string name="cit_tool_nfc_st_run">Çalıştır</string>
   <string name="cit_tool_nfc_st_stop">Durdur</string>
+  <string name="cit_tool_no_repeat">Tekrarlama yok!</string>
+  <string name="cit_tool_not_support">Desteklenmiyor</string>
+  <string name="cit_tool_opt_fail_info_notify">Opt başarısız oldu, Lütfen tekrar denemek için telefonu yeniden başlatın.</string>
   <string name="cit_tool_prx_drx">PRx+DRx</string>
   <string name="cit_tool_prx_drx_select_mode">Mod seç:</string>
   <string name="cit_tool_prx_drx_select_rat">RAT seç:</string>
@@ -405,7 +475,14 @@
   <string name="cit_tool_prx_drx_stop_test">Testi durdur</string>
   <string name="cit_tool_prx_only">PRX</string>
   <string name="cit_tool_rf_ant">Anten araçları</string>
+  <string name="cit_tool_select_all">Hepsini Seç</string>
+  <string name="cit_tool_select_none">Hiçbiri seçilmedi</string>
+  <string name="cit_tool_select_opposite">Tersine Seç</string>
+  <string name="cit_tool_setting_expired">Ayar Süresi doldu, lütfen tekrar deneyin!</string>
+  <string name="cit_tool_setting_wait">Ayar! Lütfen bekleyin</string>
+  <string name="cit_tool_splash_test_title">Sıçrama Testi</string>
   <string name="cit_tool_switch_autosms">\"Otomatik mesaj Reg\'ini etkinleştir veya devre dışı bırak</string>
+  <string name="cit_tool_to_fetching">getirmek için</string>
   <string name="cit_tool_wifi">Wifi test aracı</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
@@ -449,10 +526,10 @@
   <string name="cit_touch_calib_summary">Bir sonraki adımda kalibrasyon işlemi yapılacaktır. Onay butonuna dokunun ve ekrana dokunmadan kalibrasyon mesajını bekleyin</string>
   <string name="cit_touch_calib_title">Dokunma kalibrasyonu</string>
   <string name="cit_touch_panel_test_title">Touch sensor</string>
-  <string name="cit_usb_charger_in">USB ile şarj ediliyor</string>
-  <string name="cit_usb_charger_out">USB şarj cihazı çıkartıldı</string>
   <string name="cit_usb_OTG_in">USB OTG cihazı algılandı</string>
   <string name="cit_usb_OTG_out">USB OTG cihazı kaldırıldı</string>
+  <string name="cit_usb_charger_in">USB ile şarj ediliyor</string>
+  <string name="cit_usb_charger_out">USB şarj cihazı çıkartıldı</string>
   <string name="cit_version_check_summary">Cihaz bilgileri aşağıdadır. Yeşil renk ile vurgulanan bilgilerin doğru olduğunu onaylayın</string>
   <string name="cit_version_check_title">Sürüm bilgisini kontrol et</string>
   <string name="cit_vga_camera_capture">Kamera</string>
@@ -479,7 +556,10 @@
   <string name="cit_wifi_fail_to_scan">Ağlar için tarama yapılamadı</string>
   <string name="cit_wifi_state_refresh">Yenile</string>
   <string name="cit_yellow_torch_on">Sarı flaş ışığını aç</string>
+  <string name="close_third_color_led">üç renkli led kapalı</string>
   <string name="copyright">Copyright © 2015 Goodix Tüm Hakları Saklıdır.</string>
+  <string name="dc_backlight_title">Düşük Işık için DC Arka Işık Modu</string>
+  <string name="dsi_sar_on_off_tips">DSİ Sar Açma/Kapama Anahtarı</string>
   <string name="error">Hata</string>
   <string name="error_app_internal">Dahili uygulama hatası</string>
   <string name="error_app_unsupported">Desteklenmeyen format</string>
@@ -493,10 +573,10 @@
   <string name="far">FAR (Yanlış Kabul Oranı):</string>
   <string name="far_count">FAC (Yanlış Kabul Sayısı):</string>
   <string name="far_total_count">FATC (Yanlış Toplam Kabul Sayısı):</string>
+  <string name="fod_pressure_sensor_test_fail">Test başarısız oldu, lütfen Arıza düğmesine tıklayın</string>
+  <string name="fp_fod_calibration">fod parmak izi kalibrasyonu</string>
   <string name="fpc_app_name">Sensör Test Aracı</string>
   <string name="fpc_pn_calibration">PN resmi yakala ve kaydet</string>
-  <string name="FpTest">FpTest Çalıştır</string>
-  <string name="FpTest_result">FpTest sonucu:</string>
   <string name="frr">FRR (Yanlış Reddetme Oranı):</string>
   <string name="frr_count">FRC (Yanlış Reddetme Sayısı):</string>
   <string name="get_base_finger">Görüntüyü Çıkar: taban parmağını al</string>
@@ -504,6 +584,7 @@
   <string name="get_sample_finger">Görüntüyü Çıkar: örnek parmağı al</string>
   <string name="get_sensor_info">SENSÖR BİLGİSİ AL</string>
   <string name="get_template_finger">Görüntüyü Çıkar: şablon parmağını al</string>
+  <string name="gpu_maxfreq_title">Deneysel GPU Aşırı Frekans Modu</string>
   <string name="hint">çok uzun zaman alabilir, lütfen sabırla bekleyin.</string>
   <string name="image_quality_test">GÖRÜNTÜ KALİTESİ TESTİ</string>
   <string name="info">Bilgi</string>
@@ -513,7 +594,7 @@
 1.Ir Kamera arayüzüne girmek için aşağıdaki Kamera düğmesine dokunun
 2.Deklanşöre dokunun
 3.Sistem fotoğraf çekildikten sonra otomatik olarak kaydeder.
-4.Çektiğiniz fotoğrafın ekranda görünmesi gerekiyor, testi tamamlamak için Geç\'e dokunun."</string>  
+4.Çektiğiniz fotoğrafın ekranda görünmesi gerekiyor, testi tamamlamak için Geç\'e dokunun."</string>
   <string name="last_time_test_result">ENSON TEST SONUCU</string>
   <string name="lcminfo">LCM bilgisi</string>
   <string name="magnetic_info_hint">Lütfen cihazı 8 şeklinde döndürün</string>
@@ -525,6 +606,13 @@
   <string name="noise">gürültü:</string>
   <string name="none">N/A</string>
   <string name="ok">Tamam</string>
+  <string name="open_dc_backlight_summary">Bazı ekran ayarları DC arka aydınlatma modu ile uyumlu değil. Ancak, bu modu kapattığınızda tekrar eski haline gelir. DC arka ışık modunu aç?</string>
+  <string name="open_third_color_led">üç renkli led açık</string>
+  <string name="pop_camera">Pop Kamera</string>
+  <string name="pop_push_camera_test_summary">"Kameranın çıkıp çıkmadığını görmek için Pop kamera düğmesini tıklayın
+Kameranın gelip gelmediğini görmek için Push Kamera Düğmesi\'ne tıklayın"</string>
+  <string name="pop_push_camera_test_title">Pop ve Push Kamera Testi</string>
+  <string name="push_camera">Push Kamera</string>
   <string name="radio_info_asdiv_switch_label">ASDiv Durumu:</string>
   <string name="radio_info_call_status_label">Sesli Çağrı Durumu:</string>
   <string name="radio_info_cellinfo_label">Tüm Hücre Ölçüm Bilgileri:</string>
@@ -555,19 +643,30 @@
   <string name="radio_info_sim_status">SIM Durumu:</string>
   <string name="radio_info_unknown">Bilinmeyen</string>
   <string name="radio_info_voice_network_type_label">Ses Ağı Türü:</string>
+  <string name="receiver_off">Alıcı kapalı</string>
+  <string name="receiver_on">Alıcı açık</string>
+  <string name="receiver_on_off_tips">Alıcı Açma/Kapama Anahtarı</string>
   <string name="remove_headset_and_starttest">Lütfen kulaklığı çıkarın ve test etmek için başlat tuşuna basın</string>
   <string name="resetpixel_test">PİKSEL TESTİNİ SIFIRLA</string>
   <string name="run">Çalıştır</string>
   <string name="sample_data">örnek veri</string>
   <string name="sample_hint">bir parmak için %1$s numune alın</string>
   <string name="sample_progress_hint">örnek verileri çıkarmak için bekleyin</string>
-  <string name="SD_INTERNAL_SDCard_mounted">Dahili SD Kartı Algıla</string>
-  <string name="SD_INTERNAL_SDCard_unmounted">Dahili SD Kart kullanılamıyor</string>
-  <string name="SD_SDCard_available_szie">Mevcut boyut</string>
-  <string name="SD_SDCard_mounted">SD Kartı algıla</string>
-  <string name="SD_SDCard_total_size">Toplam boyut</string>
-  <string name="SD_SDCard_unmounted">SD Kart kullanılamıyor</string>
-  <string name="SDCard">SD Kart</string>
+  <string name="sar_authentation_test_title">Sar onay testi</string>
+  <string name="sar_off">Sar Kapalı</string>
+  <string name="sar_on">Sar Açık</string>
+  <string name="sar_sensor_collect_data">Veri Toplamayı Başlat</string>
+  <string name="sar_sensor_collect_data_test_summary">"Gerçek zamanlı açının 130 ila 140 derece arasında olduğundan emin olmak için telefonu çevirin
+Diğer elinizi cep telefonundan uzak tutun. Veri toplamayı başlat düğmesine tıklayın
+Başarılı bir kalibrasyondan sonra, CS0i ve CS1'in mutlak değerinin 200'den küçük ve CS1'in değerinin 300'den büyük olduğunu gözlemleyin. Diğer el cep telefonunun altına yakın üst üste beş kez geçtikten sonra, CS0 değeri düğmeye arka arkaya 3 kez basıldıktan sonra 3000 ile 30000 arasında geçiş düğmesi ile vurgulanır."</string>
+  <string name="sar_sensor_collect_test_summary">"Telefonu döndürün, fikstürü takın
+Veri toplama işlemini başlat düğmesini tıklayın
+Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
+  <string name="sar_sensor_data_check_description">Sar Sensörü Veri Toplama</string>
+  <string name="sar_sensor_data_check_summary">"Telefonu döndürün, bağlantı kutusuna takın
+Fikstürü telefonun yakınından uzaklaştırın."</string>
+  <string name="screen_cancel">Kapat</string>
+  <string name="screen_confirm">Aç</string>
   <string name="search_menu_title">Ara</string>
   <string name="select">Seç</string>
   <string name="select_all">Hepsini seç</string>
@@ -576,6 +675,7 @@
   <string name="select_none">Hiçbir şey seçilmedi</string>
   <string name="selftest">KENDİ KENDİNE TEST</string>
   <string name="sensor_information">Sensör Bilgileri</string>
+  <string name="set_dsi_tips">DSI\'yi ayarla</string>
   <string name="show_log">Günlüğü Göster</string>
   <string name="speak_from_mic">Mikrofona konuşun, hoparlör çalar. Ses olup olmadığını denetle.</string>
   <string name="start">başla</string>
@@ -627,104 +727,4 @@
   <string name="wait_test">test için bekliyor</string>
   <string name="waiting">4s bekliyor.</string>
   <string name="yes">Evet</string>
-  <string name="cit_camera_fast_check_title">Kamera hızlı test</string>
-  <string name="cit_tool_bluetooth_tx_m">Bluetooth BR / EDR 2.441GHz Frekans Test Moduna girin</string>
-  <string name="cit_tool_bluetooth_le_tx_4x_payload">yük:</string>
-  <string name="cit_tool_bluetooth_le_tx_50_payload">yük:</string> 
-  <string name="cit_headset_pull_finish_test">Kulaklık bağlantısı kesilmiş, test bitti</string> 
-  <string name="cit_audio_cali_fast_test_title">Hoparlör amplifikatör kalibrasyonu hızlı test</string>
-  <string name="cit_fast_screen_touch_check_title">Dokunmatik ekran kontrolü hızlı test</string>
-  <string name="cit_diag_chaging_summary">Şarj günlük kayıt dosyalarını sd kart\'a kopyalayın</string>
-  <string name="cit_diag_chaging_title">Şarj günlük kaydını okuyun</string>
-  <string name="cit_diag_chaging_wait">Lütfen bekleyin... Dosyalar kopyalanıyor</string>
-  <string name="sar_sensor_data_check_description">Sar Sensörü Veri Toplama</string>
-  <string name="sar_sensor_data_check_summary">"Telefonu döndürün, bağlantı kutusuna takın
-Fikstürü telefonun yakınından uzaklaştırın."</string>
-  <string name="camera_flood">- Flood -</string>
-  <string name="camera_projector">- Projektör -</string>
-  <string name="fod_pressure_sensor_test_fail">Test başarısız oldu, lütfen Arıza düğmesine tıklayın</string>
-  <string name="cit_display_test_end">Testi bitir</string>
-  <string name="cit_display_test_next">Sonraki</string>
-  <string name="cit_charger_in">Şarj bağlı</string>
-  <string name="cit_charger_test_tips_electric">Mevcut projenin 1A\'den büyük şarj akımı değerini test etmesi gerekir</string>
-  <string name="cit_charger_test_tips_hvdcp">Mevcut projenin USB_HVDCP\'yi test etmesi gerekiyor</string>
-  <string name="sar_sensor_collect_data">Veri Toplamayı Başlat</string>
-  <string name="sar_sensor_collect_data_test_summary">"Gerçek zamanlı açının 130 ila 140 derece arasında olduğundan emin olmak için telefonu çevirin
-Diğer elinizi cep telefonundan uzak tutun. Veri toplamayı başlat düğmesine tıklayın
-Başarılı bir kalibrasyondan sonra, CS0i ve CS1'in mutlak değerinin 200'den küçük ve CS1'in değerinin 300'den büyük olduğunu gözlemleyin. Diğer el cep telefonunun altına yakın üst üste beş kez geçtikten sonra, CS0 değeri düğmeye arka arkaya 3 kez basıldıktan sonra 3000 ile 30000 arasında geçiş düğmesi ile vurgulanır."</string>
-  <string name="cit_no_sim_check_summary">Telefonun sim kartı olmadığını onaylayın!</string>
-  <string name="cit_no_sim_check_title">Sim Kart yok</string>
-  <string name="fp_fod_calibration">fod parmak izi kalibrasyonu</string>
-  <string name="pop_camera">Pop Kamera</string>
-  <string name="pop_push_camera_test_summary">"Kameranın çıkıp çıkmadığını görmek için Pop kamera düğmesini tıklayın
-Kameranın gelip gelmediğini görmek için Push Kamera Düğmesi\'ne tıklayın"</string>
-  <string name="pop_push_camera_test_title">Pop ve Push Kamera Testi</string>
-  <string name="push_camera">Push Kamera</string>
-  <string name="sar_sensor_collect_test_summary">"Telefonu döndürün, fikstürü takın
-Veri toplama işlemini başlat düğmesini tıklayın
-Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
-  <string name="dsi_sar_on_off_tips">DSİ Sar Açma/Kapama Anahtarı</string>
-  <string name="receiver_off">Alıcı kapalı</string>
-  <string name="receiver_on">Alıcı açık</string>
-  <string name="receiver_on_off_tips">Alıcı Açma/Kapama Anahtarı</string>
-  <string name="sar_authentation_test_title">Sar onay testi</string>
-  <string name="sar_off">Sar Kapalı</string>
-  <string name="sar_on">Sar Açık</string>
-  <string name="set_dsi_tips">DSI\'yi ayarla</string>
-  <string name="cit_tof_sensor_check_summary">TOF değerleri aşağıda görünmelidir</string>
-  <string name="cit_tool_check_opt">emin misin?</string>
-  <string name="cit_tool_check_opt_with_reboot">yeniden başlatılacak, emin misin?</string>
-  <string name="cit_tool_current_modem_test_mode">Mevcut Test Modu:</string>
-  <string name="cit_tool_modem_rf_ant_test">Modem rf ant Test Ayarı</string>
-  <string name="cit_tool_modem_test_clr">GPI testini kapatın</string>
-  <string name="cit_tool_modem_test_get">güncelleştirme</string>
-  <string name="cit_tool_modem_test_mode">Modem Test Modu Ayarı</string>
-  <string name="cit_tool_modem_test_mode_closed">test modu kapalı</string>
-  <string name="cit_tool_modem_test_mode_mismatch">test modu uyuşmuyor</string>
-  <string name="cit_tool_modem_test_mode_opened">test modu açıldı</string>
-  <string name="cit_tool_modem_test_mode_select">Test Modunu Seçin:</string>
-  <string name="cit_tool_modem_test_mode_set">Ayarı Doğrula</string>
-  <string name="cit_tool_modem_test_set">doğrula</string>
-  <string name="cit_tool_no_repeat">Tekrarlama yok!</string>
-  <string name="cit_tool_not_support">Desteklenmiyor</string>
-  <string name="cit_tool_select_all">Hepsini Seç</string>
-  <string name="cit_tool_select_none">Hiçbiri seçilmedi</string>
-  <string name="cit_tool_select_opposite">Tersine Seç</string>
-  <string name="cit_tool_setting_expired">Ayar Süresi doldu, lütfen tekrar deneyin!</string>
-  <string name="cit_tool_setting_wait">Ayar! Lütfen bekleyin</string>
-  <string name="cit_tool_to_fetching">getirmek için</string>
-  <string name="cit_tool_active_mbn">aktif</string>
-  <string name="cit_tool_getting_expired">Süresi dolmuş!</string>
-  <string name="cit_tool_getting_wait">Başlarken! Lütfen bekle</string>
-  <string name="cit_tool_mbn_default_notfiy">varsayılan MBN</string>
-  <string name="cit_tool_mbn_no_default_notfiy">Varsayılan MBN yok</string>
-  <string name="cit_tool_mbn_path_select_hit">mbn\'nin tam yolunu seçin:</string>
-  <string name="cit_tool_mbn_path_select_notice">yukarıda bulamadınız mı? burada ara? Mcfg gelince, ct, eps ... vb</string>
-  <string name="cit_tool_mbn_recovery_default">Kurtarma varsayılan MBN</string>
-  <string name="cit_tool_modem_clear_empty">temiz</string>
-  <string name="cit_tool_modem_mbn_config_load_and_active">MBN yapılandırma yükleme ve etkinleştirme aracı</string>
-  <string name="cit_tool_opt_fail_info_notify">Opt başarısız oldu, Lütfen tekrar denemek için telefonu yeniden başlatın.</string>
-  <string name="cit_splash_check_summary">Siyah ekran fenomeni için daha 5s olduğundan emin olun.</string>
-  <string name="cit_tool_splash_test_title">Sıçrama Testi</string>
-  <string name="cit_tool_dc_backlight_toast_off">DC Arka ışık Kapalı</string>
-  <string name="cit_tool_dc_backlight_toast_on">DC Arka ışık Açık</string>
-  <string name="dc_backlight_title">Düşük Işık için DC Arka Işık Modu</string>
-  <string name="open_dc_backlight_summary">Bazı ekran ayarları DC arka aydınlatma modu ile uyumlu değil. Ancak, bu modu kapattığınızda tekrar eski haline gelir. DC arka ışık modunu aç?</string>
-  <string name="screen_cancel">Kapat</string>
-  <string name="screen_confirm">Aç</string>
-  <string name="cit_f2_cali">Kalibrasyon</string>
-  <string name="cit_f2_cali_done">Kalibrasyon Bitti!</string>
-  <string name="cit_f2_cali_failed">Kalibrasyon Başarısız, lütfen Yeniden deneyin!</string>
-  <string name="cit_f2_cali_title">Kamera kalibrasyonu</string>
-  <string name="cit_f2_calibrating">Kalibrasyon devam ediyor...</string>
-  <string name="cit_f2_camera_check_summary">"Test talimatları:
-
-1.Kalibrasyon düğmesine dokunun.
-2.Kameranın kalibre edildiğini gösteren bir kalibrasyon geçişi etiketi olacaktır."</string>
-  <string name="cit_f2_capture_fail">Yakalama Başarısız, lütfen Yeniden Dene!</string>
-  <string name="cit_f2_capture_success">Kalibrasyon düğmesine tıklayın!</string>
-  <string name="allow_gpu_maxfreq_summary">GPU aşırı frekans deney modu güç sorunları veya daha ciddi problemler ortaya çıkarabilir. Ancak, bu modu kapatdıktan sonra geri yüklenecektir.. GPU maksimum frekans modu açılsın mı?</string>
-  <string name="gpu_maxfreq_title">Deneysel GPU Aşırı Frekans Modu</string>
-  <string name="close_third_color_led">üç renkli led kapalı</string>
-  <string name="open_third_color_led">üç renkli led açık</string>  
 </resources>

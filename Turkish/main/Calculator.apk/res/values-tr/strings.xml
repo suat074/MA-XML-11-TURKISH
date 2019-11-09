@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -17,9 +17,14 @@
   <string name="angle">deg</string>
   <string name="app_name">Hesap Makinesi</string>
   <string name="app_name_danfa">Mi Hesap Makinesi</string>
+  <string name="app_notification_info">Hesap makinesi arka planda çalışıyor</string>
   <string name="arccos">arccos</string>
   <string name="base_rate">Baz faiz oranı</string>
   <string name="birthday">Doğum günü</string>
+  <string name="btn_float_window_alpha">Opaklığı ayarla</string>
+  <string name="btn_float_window_back_to_app">Hesap Makinesini büyüt</string>
+  <string name="btn_float_window_close">Küçültülmüş hesap makinesini kapat</string>
+  <string name="btn_float_window_resize">Küçültülmüş hesap makinesini yeniden boyutlandır</string>
   <string name="cal_convert_to_word_figure">Finansal Karakterlere Dönüştür</string>
   <string name="cal_copy">Kopyala</string>
   <string name="cal_edit_mode">Düzenleme Modu</string>
@@ -43,12 +48,13 @@
   <string name="chinese_character_younger_brother">弟</string>
   <string name="chinese_character_younger_sister">妹</string>
   <string name="choose_currency">Dövizi Seç</string>
+  <string name="choose_radix">Sayısal sistemi seçin</string>
   <string name="choose_unit">Birimi Seç</string>
   <string name="city">Şehir</string>
   <string name="clear">C</string>
+  <string name="clearDesc">temizle</string>
   <string name="clear_history">Geçmişi temizle</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
-  <string name="clearDesc">temizle</string>
   <string name="close">Kapat</string>
   <string name="combine_loan">Birleşik Kredi</string>
   <string name="commercial_loan">Ticari Kredi</string>
@@ -57,6 +63,7 @@
   <string name="convertion_unit">Birim Çeviricisi</string>
   <string name="convertion_unit_area">Alan Çeviricisi</string>
   <string name="convertion_unit_length">Uzunluk Çeviricisi</string>
+  <string name="convertion_unit_radix">Sayısal sistem</string>
   <string name="convertion_unit_temperature">Sıcaklık Çeviricisi</string>
   <string name="convertion_unit_time">Zaman Çeviricisi</string>
   <string name="convertion_unit_velocity">Hız Çeviricisi</string>
@@ -78,8 +85,8 @@
   <string name="default_text">我</string>
   <string name="degDesc">Açı</string>
   <string name="del">SİL</string>
-  <string name="delete_description">Sil</string>
   <string name="deleteDesc">sil</string>
+  <string name="delete_description">Sil</string>
   <string name="description_content">Temel özelliklerinin yanı sıra, Hesap Makinesi aynı zamanda çok fonksiyonlu bir dönüştürücü, ipotek ve vergi hesaplayıcısı olarak da çalışır. Uygulamayı kaldırmadan önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="description_title">Hesap Makinesi hakkında</string>
   <string name="deselect_all">Seçimi kaldır</string>
@@ -106,8 +113,8 @@
   <string name="dot">.</string>
   <string name="dotDesc">nokta</string>
   <string name="e">e</string>
-  <string name="early_morning">ÖÖ</string>
   <string name="eDesc">Euler Sayısı</string>
+  <string name="early_morning">ÖÖ</string>
   <string name="elder_brother">哥哥</string>
   <string name="elder_sister">姐姐</string>
   <string name="enter">↓</string>
@@ -128,6 +135,7 @@
   <string name="factorialDesc">faktöriyel</string>
   <string name="far_relationship_result">关系有点远，年长就叫老祖宗，同龄人就叫美女帅哥吧~</string>
   <string name="father">爸爸</string>
+  <string name="float_window_guide_text">Hesap makinesini küçültmek için buraya dokunun</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">d-M</string>
@@ -159,6 +167,7 @@
   <string name="golbal_search_calculator_setting">Hesap Makinesi; Hesaplama Ayarları; Ayarlar</string>
   <string name="golbal_search_path_calculator_setting">Sistem Uygulamaları/Hesap Makinesi/Ayarlar</string>
   <string name="help_content_desc">Yardım</string>
+  <string name="hint_floatwindow_alpha_guide_text">Opaklığı ayarlamak için dokunun</string>
   <string name="home_loan">İpotek faizi</string>
   <string name="home_title_calculator">Hesap Makinesi</string>
   <string name="house_rent">Kira</string>
@@ -175,6 +184,7 @@
   <string name="item_title_dress_size">Giysi Boyu</string>
   <string name="item_title_length_conversion">Uzunluk</string>
   <string name="item_title_mortgage">Ev borcu</string>
+  <string name="item_title_radix">Sayısal sistem</string>
   <string name="item_title_relationship">Akrabalık şartları</string>
   <string name="item_title_scientific_calculator">Bilimsel</string>
   <string name="item_title_tax">Vergi</string>
@@ -309,8 +319,8 @@
   <string name="note">Not</string>
   <string name="ok">Tamam</string>
   <string name="organization">Organizasyon</string>
-  <string name="percentage">%</string>
   <string name="percentDesc">yüzde</string>
+  <string name="percentage">%</string>
   <string name="perm_payment_dspt">Uygulamanın Mi Pay Hizmetini kullanarak ödeme yapmasına izin ver</string>
   <string name="perm_payment_lab">Mi Pay</string>
   <string name="permdesc_sendSmsNoConfirmation">Uygulama izninizi istemeden SMS mesajı gönderebilir. Operatörünüz bu mesajlar için sizden ücret alabilir</string>
@@ -345,6 +355,9 @@
   <string name="preference_settings">Ayarlar</string>
   <string name="preference_use_degress_summary">Trigonometrik fonksiyonlarda açılar yerine radyan</string>
   <string name="preference_use_degress_title">Açıları kullan</string>
+  <string name="preference_use_voice_summary">Hesaplamalar sırasında konuşma çıktısını kullanmak için açın</string>
+  <string name="preference_use_voice_title">Konuşma çıktısı</string>
+  <string name="preference_user_feedback_title">Geri bildirim</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="radDesc">Radyan</string>
   <string name="rate_data_provider">Faiz aralıkları hexun.com sitesinden alınmaktadır</string>
@@ -358,8 +371,8 @@
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cmt</string>
   <string name="saturday_shortest">C</string>
-  <string name="scanner_had_been_uninstalled">Tarayıcı kaldırıldı</string>
   <string name="scannerDesc">Tarayıcı</string>
+  <string name="scanner_had_been_uninstalled">Tarayıcı kaldırıldı</string>
   <string name="search_input_description">Arama</string>
   <string name="search_mode_button_back_description">Geri</string>
   <string name="secondFunction">2.</string>
@@ -461,6 +474,7 @@
   <string name="tax_param_error">Doğru sigorta oranlarını girin</string>
   <string name="tax_payment_period">Ödeme sayısı</string>
   <string name="tax_rate_provider">Yeni vergi düzenlemelerine göre hesaplandı. Veriler hexun.com ve East Money tarafından sağlanmaktadır.</string>
+  <string name="tax_rate_provider_east_money">Yeni vergi düzenlemelerine göre hesaplandı. Veriler East Money tarafından sağlanmaktadır.</string>
   <string name="tax_result_real_get">Vergi sonrası</string>
   <string name="tax_social_insurance">Sosyal sigorta</string>
   <string name="tax_thershold_foreign">%s (Dış Ülkeler)</string>
@@ -525,6 +539,7 @@
   <string name="tuesday">Salı</string>
   <string name="tuesday_short">Sal</string>
   <string name="tuesday_shortest">S</string>
+  <string name="unKnow_error">Bilinmeyen hata</string>
   <string name="unit_data_default_area_0">sq.m</string>
   <string name="unit_data_default_area_1">sq.cm</string>
   <string name="unit_data_default_currency_0">CNY</string>
@@ -564,6 +579,7 @@
   <string name="unit_data_display_currency_aed">BAE dirhemi</string>
   <string name="unit_data_display_currency_ars">Arjantin pezosu</string>
   <string name="unit_data_display_currency_aud">Avustralya doları</string>
+  <string name="unit_data_display_currency_bdt">Bangladeş takası</string>
   <string name="unit_data_display_currency_bgn">Bulgar levi</string>
   <string name="unit_data_display_currency_bhd">Bahreyn dinarı</string>
   <string name="unit_data_display_currency_bnd">Brunei doları</string>
@@ -654,6 +670,10 @@
   <string name="unit_data_display_length_um">Mikrometre</string>
   <string name="unit_data_display_length_yd">Yard</string>
   <string name="unit_data_display_length_zhang">Zhang</string>
+  <string name="unit_data_display_radix_10">Ondalık</string>
+  <string name="unit_data_display_radix_16">Onaltılık</string>
+  <string name="unit_data_display_radix_2">İkilik</string>
+  <string name="unit_data_display_radix_8">Sekizlik</string>
   <string name="unit_data_display_temperature_c">Derece</string>
   <string name="unit_data_display_temperature_f">Fahrenhayt</string>
   <string name="unit_data_display_temperature_k">Kelvin</string>
@@ -781,12 +801,13 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Yıl: %s</string>
   <string name="unit_yuan">CNY</string>
-  <string name="unKnow_error">Bilinmeyen hata</string>
   <string name="updating">Hesap makinesi güncelleniyor…</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="user_experience_program">Kullanıcı Deneyimi Programı</string>
   <string name="user_manual">Kullanici rehberi</string>
+  <string name="view_float_window_move">Küçültülmüş Hesap makinesini taşı</string>
   <string name="voiceDesc">Ses kontrolleri</string>
+  <string name="voice_guide_text">Konuşma çıktısını buradan açabilirsiniz.</string>
   <string name="web_sso_login_fail">Tekrar giriş yapmanız gerekiyor.</string>
   <string name="web_sso_login_message">Giriş yapılıyor…</string>
   <string name="website">Web sitesi</string>
@@ -826,25 +847,4 @@
   <string name="yesterday">Dün</string>
   <string name="younger_brother">弟弟</string>
   <string name="younger_sister">妹妹</string>
-  <string name="app_notification_info">Hesap makinesi arka planda çalışıyor</string>
-  <string name="btn_float_window_alpha">Opaklığı ayarla</string>
-  <string name="btn_float_window_back_to_app">Hesap Makinesini büyüt</string>
-  <string name="btn_float_window_close">Küçültülmüş hesap makinesini kapat</string>
-  <string name="btn_float_window_resize">Küçültülmüş hesap makinesini yeniden boyutlandır</string>
-  <string name="float_window_guide_text">Hesap makinesini küçültmek için buraya dokunun</string>
-  <string name="hint_floatwindow_alpha_guide_text">Opaklığı ayarlamak için dokunun</string>
-  <string name="view_float_window_move">Küçültülmüş Hesap makinesini taşı</string>
-  <string name="tax_rate_provider_east_money">Yeni vergi düzenlemelerine göre hesaplandı. Veriler East Money tarafından sağlanmaktadır.</string>
-  <string name="choose_radix">Sayısal sistemi seçin</string>
-  <string name="convertion_unit_radix">Sayısal sistem</string>
-  <string name="item_title_radix">Sayısal sistem</string>
-  <string name="unit_data_display_currency_bdt">Bangladeş takası</string>
-  <string name="unit_data_display_radix_10">Ondalık</string>
-  <string name="unit_data_display_radix_16">Onaltılık</string>
-  <string name="unit_data_display_radix_2">İkilik</string>
-  <string name="unit_data_display_radix_8">Sekizlik</string>
-  <string name="preference_use_voice_summary">Hesaplamalar sırasında konuşma çıktısını kullanmak için açın</string>
-  <string name="preference_use_voice_title">Konuşma çıktısı</string>
-  <string name="preference_user_feedback_title">Geri bildirim</string>
-  <string name="voice_guide_text">Konuşma çıktısını buradan açabilirsiniz.</string>  
 </resources>

@@ -1,5 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="BaMmi">Çağrı engelleme</string>
+  <string name="CLIRDefaultOffNextCallOff">Arayan kimliğinın varsayılanları kısıtlanmamıştır. Sonraki Çağrı: Kısıtlanmamış</string>
+  <string name="CLIRDefaultOffNextCallOn">Arayan kimliği varsayılanları kısıtlanmamıştır. Sonraki Çağrı: Kısıtlanmış</string>
+  <string name="CLIRDefaultOnNextCallOff">Arayan kimliği varsayılanları kısıtlanmıştır. Sonraki Çağrı: Kısıtlanmamış</string>
+  <string name="CLIRDefaultOnNextCallOn">Arayan kimliği varsayılanları kısıtlanmıştır. Sonraki Çağrı: Kısıtlanmış</string>
+  <string name="CLIRPermanent">Arayanın kimliği ayarını değiştiremezsiniz.</string>
+  <string name="CfMmi">Çağrı yönlendiriliyor</string>
+  <string name="ClipMmi">Gelen Çağrı Kimliği</string>
+  <string name="ClirMmi">Giden Çağrı Kimliği</string>
+  <string name="CndMmi">Çağrı Numarasının İletimi</string>
+  <string name="CnipMmi">Çağrı numarası var</string>
+  <string name="CnirMmi">Arayan numara engellendi</string>
+  <string name="ColpMmi">Bağlanılan Hat Kimliği</string>
+  <string name="ColrMmi">Bağlanılan Hat Kimliğini Kısıtla</string>
+  <string name="CwMmi">Çağrı bekliyor</string>
+  <string name="DndMmi">Rahatsız etme</string>
+  <string name="EmergencyCallWarningSummary">Acil durum çağrıları için mobil ağ gereklidir.</string>
+  <string name="EmergencyCallWarningTitle">WLAN çağrısı aktif</string>
+  <string name="Midnight">Gece Yarısı</string>
+  <string name="NetworkPreferenceSwitchSummary">Tercih edilen ağı değiştirmeyi deneyin. Değiştirmek için dokunun.</string>
+  <string name="NetworkPreferenceSwitchTitle">Mobil ağa erişemiyorum</string>
+  <string name="Noon">Öğle</string>
+  <string name="PinMmi">PIN kodunu değiştir</string>
+  <string name="PwdMmi">Şifreyi değiştir</string>
+  <string name="RestrictedOnAllVoiceTitle">Ses servisi veya acil arama yok</string>
+  <string name="RestrictedOnDataTitle">Mobil veri servisi yok</string>
+  <string name="RestrictedOnEmergencyTitle">Acil arama yapılamıyor</string>
+  <string name="RestrictedOnNormalTitle">Ses servisi yok</string>
+  <string name="RestrictedStateContent">Geçici olarak operatörünüz tarafından kapatıldı</string>
+  <string name="RestrictedStateContentMsimTemplate">SIM %d operatörünüz tarafından geçici olarak kapatıldı</string>
+  <string name="RuacMmi">İstenmeyen rahatsız edici aramaları reddet</string>
+  <string name="SetupCallDefault">Çağrı kabul edilsin mi?</string>
+  <string name="ThreeWCMmi">Üç yönlü arama</string>
+  <string name="VideoView_error_button">Tamam</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">Bu video bu cihazda oynatmak için uygun değil.</string>
+  <string name="VideoView_error_text_unknown">Bu video oynatılamıyor.</string>
+  <string name="VideoView_error_title">Video Problemi</string>
   <string name="accept">Kabul et</string>
   <string name="accessibility_binding_label">Erişebilirlik</string>
   <string name="accessibility_button_instructional_text">Özellikleri değiştirmek için Erişilebilirlik düğmesine dokunun ve basılı tutun.</string>
@@ -26,13 +63,13 @@
   <string name="adb_active_notification_message">USB hata ayıklama özelliğini devre dışı bırakmak için dokunun.</string>
   <string name="adb_active_notification_title">USB Hata Ayıklaması bağlandı</string>
   <string name="adb_debugging_notification_channel_tv">USB hata ayıklama</string>
+  <string name="addToDictionary">Sözlüğe ekle</string>
   <string name="add_account_button_label">Hesap ekle</string>
   <string name="add_account_label">Hesap ekleyin</string>
   <string name="add_calendar_event">Zamanlama</string>
   <string name="add_calendar_event_desc">Seçilen zaman için etkinlik planla</string>
   <string name="add_contact">Ekle</string>
   <string name="add_contact_desc">Kişilere ekle</string>
-  <string name="addToDictionary">Sözlüğe ekle</string>
   <string name="aerr_application">%1$s durduruldu</string>
   <string name="aerr_application_repeated">%1$s durmaya devam ediyor</string>
   <string name="aerr_close">Kapat</string>
@@ -99,10 +136,10 @@
   <string name="autofill_province">Vilayet</string>
   <string name="autofill_save_accessibility_title">Otomatik doldurma için kaydet</string>
   <string name="autofill_save_no">Hayır teşekkürler</string>
-  <string name="autofill_save_title">Kaydet &lt;b>%1$s&lt;/b>?</string>
-  <string name="autofill_save_title_with_2types">%1$s ve %2$s için &lt;b>%3$s&lt;/b> kaydet?</string>
-  <string name="autofill_save_title_with_3types">%1$s, %2$s, ve %3$s için &lt;b>%4$s&lt;/b> kaydet?</string>
-  <string name="autofill_save_title_with_type">%1$s için &lt;b>%2$s&lt;/b> kaydet?</string>
+  <string name="autofill_save_title">Kaydet &lt;b&gt;%1$s&lt;/b&gt;?</string>
+  <string name="autofill_save_title_with_2types">%1$s ve %2$s için &lt;b&gt;%3$s&lt;/b&gt; kaydet?</string>
+  <string name="autofill_save_title_with_3types">%1$s, %2$s, ve %3$s için &lt;b&gt;%4$s&lt;/b&gt; kaydet?</string>
+  <string name="autofill_save_title_with_type">%1$s için &lt;b&gt;%2$s&lt;/b&gt; kaydet?</string>
   <string name="autofill_save_type_address">adres</string>
   <string name="autofill_save_type_credit_card">kredi kartı</string>
   <string name="autofill_save_type_email_address">e-posta adresi</string>
@@ -117,9 +154,8 @@
   <string name="back_button_label">Geri</string>
   <string name="badPin">Yazdığınız eski PIN doğru değil.</string>
   <string name="badPuk">Yazdığınız PUK doğru değil.</string>
-  <string name="BaMmi">Çağrı engelleme</string>
   <string name="battery_saver_description">Pil tasarrufu özelliği, pil ömrünü iyileştirmeye yardımcı olmak için cihazın performansını düşürür, titreşimi, konum hizmetlerini ve arkaplan verilerinin çoğunu sınırlar. Eşitlemeye dayalı olarak çalışan E-Posta, mesajlaşma uygulamaları ve diğer uygulamalar; bunları açmadığınız sürece güncellenmeyebilir.\n\nCihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır.</string>
-  <string name="battery_saver_description_with_learn_more">Pil ömrünü uzatmak için, Pil Tasarrufu bazı cihaz özelliklerini kapatır ve uygulamaları kısıtlar. <annotation id="url">Daha fazla bilgi edin</annotation></string>
+  <string name="battery_saver_description_with_learn_more">Pil ömrünü uzatmak için, Pil Tasarrufu bazı cihaz özelliklerini kapatır ve uygulamaları kısıtlar. &lt;annotation id="url"&gt;Daha fazla bilgi edin&lt;/annotation&gt;</string>
   <string name="beforeOneMonthDurationPast">1 ay önce</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth ses</string>
   <string name="browse">Aç</string>
@@ -132,7 +168,7 @@
   <string name="bugreport_title">Hata raporu al</string>
   <string name="byteShort">B</string>
   <string name="cancel">İptal</string>
-  <string name="candidates_style"><u>aday</u></string>
+  <string name="candidates_style">&lt;u&gt;aday&lt;/u&gt;</string>
   <string name="capability_desc_canCaptureFingerprintGestures">Cihazda gerçekleştirilen hareketleri yakalayabilir</string>
   <string name="capability_desc_canControlMagnification">Ekranın yakınlaştırma seviyesini ve konumunu kontrol edin.</string>
   <string name="capability_desc_canPerformGestures">Dokunabilir, kaydırabilir, çimdikleyebilir ve diğer hareketleri gerçekleştirebilir.</string>
@@ -152,45 +188,31 @@
   <string name="car_mode_disable_notification_title">Araç Modu etkin</string>
   <string name="carrier_app_notification_text">Ayarlamak için dokunun</string>
   <string name="carrier_app_notification_title">Yeni SIM takıldı</string>
-  <string name="CfMmi">Çağrı yönlendiriliyor</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
   <string name="cfTemplateForwardedTime">{0}: {2} saniye sonra {1}</string>
   <string name="cfTemplateNotForwarded">{0}: Yönlendirilmedi</string>
   <string name="cfTemplateRegistered">{0}: Yönlendirilmedi</string>
   <string name="cfTemplateRegisteredTime">{0}: Yönlendirilmedi</string>
-  <string name="choose_account_label">Bir hesap seçin</string>
   <string name="chooseActivity">Eylemi seçin</string>
-  <string name="chooser_wallpaper">Duvar kağıdını değiştir</string>
   <string name="chooseUsbActivity">USB cihazı için bir uygulama seçin</string>
+  <string name="choose_account_label">Bir hesap seçin</string>
+  <string name="chooser_wallpaper">Duvar kağıdını değiştir</string>
   <string name="clearDefaultHintMsg">Sistem Ayarları &gt; Uygulamalar &gt; İndirilen bölümünden varsayılanı temizleyin.</string>
-  <string name="CLIRDefaultOffNextCallOff">Arayan kimliğinın varsayılanları kısıtlanmamıştır. Sonraki Çağrı: Kısıtlanmamış</string>
-  <string name="CLIRDefaultOffNextCallOn">Arayan kimliği varsayılanları kısıtlanmamıştır. Sonraki Çağrı: Kısıtlanmış</string>
-  <string name="CLIRDefaultOnNextCallOff">Arayan kimliği varsayılanları kısıtlanmıştır. Sonraki Çağrı: Kısıtlanmamış</string>
-  <string name="CLIRDefaultOnNextCallOn">Arayan kimliği varsayılanları kısıtlanmıştır. Sonraki Çağrı: Kısıtlanmış</string>
-  <string name="CLIRPermanent">Arayanın kimliği ayarını değiştiremezsiniz.</string>
-  <string name="ClipMmi">Gelen Çağrı Kimliği</string>
-  <string name="ClirMmi">Giden Çağrı Kimliği</string>
   <string name="close_button_text">Kapat</string>
-  <string name="CndMmi">Çağrı Numarasının İletimi</string>
-  <string name="CnipMmi">Çağrı numarası var</string>
-  <string name="CnirMmi">Arayan numara engellendi</string>
   <string name="color_correction_feature_name">Renk düzeltmesi</string>
   <string name="color_inversion_feature_name">Renk değişimi</string>
-  <string name="ColpMmi">Bağlanılan Hat Kimliği</string>
-  <string name="ColrMmi">Bağlanılan Hat Kimliğini Kısıtla</string>
   <string name="common_name">Ortak Ad:</string>
   <string name="condition_provider_service_binding_label">Durum sağlayıcı</string>
   <string name="conference_call">Konferans çağrısı</string>
-  <string name="content_description_sliding_handle">Kaydırma bölgesi. Dokunun ve basılı tutun.</string>
   <string name="contentServiceSync">Eşitle</string>
   <string name="contentServiceSyncNotificationTitle">Eşitle</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Çok fazla %s silindi.</string>
+  <string name="content_description_sliding_handle">Kaydırma bölgesi. Dokunun ve basılı tutun.</string>
   <string name="copy">Kopyala</string>
   <string name="copyUrl">Bağlantıyı kopyala</string>
   <string name="country_selection_title">Bölge Tercihi</string>
   <string name="create_contact_using">%s\n kullanarak kişi oluştur</string>
   <string name="cut">Kes</string>
-  <string name="CwMmi">Çağrı bekliyor</string>
   <string name="data_saver_description">Veri kullanımını azaltmaya yardımcı olmak için, Veri Tasarrufu, bazı uygulamaların arkaplanda veri göndermesine veya almasına engel olur. Halihazırda kullandığınız bir uygulama veriye erişebilir, ancak bunu daha az sıklıkta yapabilir. Mesela; görüntülerin siz dokunmadan görünmemesi gibi.</string>
   <string name="data_saver_enable_button">Aç</string>
   <string name="data_saver_enable_title">Veri Tasarrufu açılsın mı?</string>
@@ -224,16 +246,16 @@
   <string name="days">gün</string>
   <string name="decline">Reddet</string>
   <string name="decline_remote_bugreport_action">Reddet</string>
+  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
+  <string name="defaultVoiceMailAlphaTag">Voicemail</string>
   <string name="default_audio_route_category_name">Sistem</string>
   <string name="default_audio_route_name">Telefon</string>
   <string name="default_audio_route_name_dock_speakers">Hoparlör</string>
   <string name="default_audio_route_name_headphones">Kulaklık</string>
   <string name="default_notification_channel_label">Kategorisiz</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Voicemail</string>
   <string name="delete">Sil</string>
-  <string name="deleted_key">%1$s silindi</string>
   <string name="deleteText">Sil</string>
+  <string name="deleted_key">%1$s silindi</string>
   <string name="demo_restarting_message">Cihaz sıfırlanıyor…</string>
   <string name="demo_starting_message">Demo başlatılıyor…</string>
   <string name="deny">Reddet</string>
@@ -254,7 +276,6 @@
   <string name="display_manager_overlay_display_secure_suffix">, güvenli</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
   <string name="dlg_ok">Tamam</string>
-  <string name="DndMmi">Rahatsız etme</string>
   <string name="done_label">Tamam</string>
   <string name="double_tap_toast">İpucu: Yakınlaştırmak ve uzaklaştırmak için iki kez dokunun.</string>
   <string name="dump_heap_notification">%1$s bellek sınırını aştı</string>
@@ -266,20 +287,18 @@
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="ellipsis">…</string>
   <string name="email">E-posta</string>
-  <string name="email_desc">E-posta adresi seçildi</string>
   <string name="emailTypeCustom">Özel</string>
   <string name="emailTypeHome">Ev</string>
   <string name="emailTypeMobile">Mobil</string>
   <string name="emailTypeOther">Diğer</string>
   <string name="emailTypeWork">İş</string>
+  <string name="email_desc">E-posta adresi seçildi</string>
   <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
   <string name="emergency_calls_only">Sadece acil çağrılar için</string>
-  <string name="EmergencyCallWarningSummary">Acil durum çağrıları için mobil ağ gereklidir.</string>
-  <string name="EmergencyCallWarningTitle">WLAN çağrısı aktif</string>
   <string name="emptyPhoneNumber">(Telefon numarası yok)</string>
+  <string name="enablePin">Başarısız, SIM/RUIM kilidini etkinleştirin.</string>
   <string name="enable_explore_by_touch_warning_message">%1$s, Dokunarak Keşfet özelliğini etkinleştirmek istiyor. Dokunarak Keşfet açık olduğunda parmağınızın altındaki öğelere ait açıklamaları duyabilir veya görebilir veya telefonla etkileşimde bulunmak için birtakım hareketler yapabilirsiniz.</string>
   <string name="enable_explore_by_touch_warning_title">Dokunarak Keşfet etkinleştirilsin mi?</string>
-  <string name="enablePin">Başarısız, SIM/RUIM kilidini etkinleştirin.</string>
   <string name="error_message_change_not_allowed">Yöneticiniz bu değişikliğe izin vermiyor</string>
   <string name="error_message_title">Hata</string>
   <string name="etws_primary_default_message_earthquake">Sakin ol ve yakınlarda barınak ara.</string>
@@ -438,19 +457,6 @@
   <string name="httpErrorUnsupportedAuthScheme">Site kimlik doğrulama şeması desteklenmiyor.</string>
   <string name="httpErrorUnsupportedScheme">Protokol desteklenmiyor.</string>
   <string name="icu_abbrev_wday_month_day_no_year">dMMMMeee</string>
-  <string name="ime_action_default">Gerçekleştir</string>
-  <string name="ime_action_done">Tamam</string>
-  <string name="ime_action_go">Git</string>
-  <string name="ime_action_next">Sonraki</string>
-  <string name="ime_action_previous">Önceki</string>
-  <string name="ime_action_search">Ara</string>
-  <string name="ime_action_send">Gönder</string>
-  <string name="imei">IMEI</string>
-  <string name="immersive_cling_description">Tam ekrandan çıkmak için yukarıdan aşağıya doğru kaydırın.</string>
-  <string name="immersive_cling_positive">Anladım</string>
-  <string name="immersive_cling_title">Tam Ekran Görünüm</string>
-  <string name="importance_from_person">Bu, katılan insanlar yüzünden önemlidir.</string>
-  <string name="importance_from_user">Bu bildirimlerin önemini siz belirlersiniz.</string>
   <string name="imProtocolAim">AIM</string>
   <string name="imProtocolCustom">Özel</string>
   <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -465,8 +471,21 @@
   <string name="imTypeHome">Ev</string>
   <string name="imTypeOther">Diğer</string>
   <string name="imTypeWork">İş</string>
-  <string name="input_method_binding_label">Giriş Usulu</string>
+  <string name="ime_action_default">Gerçekleştir</string>
+  <string name="ime_action_done">Tamam</string>
+  <string name="ime_action_go">Git</string>
+  <string name="ime_action_next">Sonraki</string>
+  <string name="ime_action_previous">Önceki</string>
+  <string name="ime_action_search">Ara</string>
+  <string name="ime_action_send">Gönder</string>
+  <string name="imei">IMEI</string>
+  <string name="immersive_cling_description">Tam ekrandan çıkmak için yukarıdan aşağıya doğru kaydırın.</string>
+  <string name="immersive_cling_positive">Anladım</string>
+  <string name="immersive_cling_title">Tam Ekran Görünüm</string>
+  <string name="importance_from_person">Bu, katılan insanlar yüzünden önemlidir.</string>
+  <string name="importance_from_user">Bu bildirimlerin önemini siz belirlersiniz.</string>
   <string name="inputMethod">Giriş Usulu</string>
+  <string name="input_method_binding_label">Giriş Usulu</string>
   <string name="install_carrier_app_notification_text">Yeni SIM\'inizi etkinleştirmek için operatör uygulamasını indirin</string>
   <string name="install_carrier_app_notification_text_app_name">Yeni SIM\'inizi etkinleştirmek için %1$s indirin</string>
   <string name="install_carrier_app_notification_title">Mobil servisi etkinleştir</string>
@@ -517,7 +536,7 @@
   <string name="keyguard_password_enter_pin_prompt">Yeni PIN kodu</string>
   <string name="keyguard_password_enter_puk_code">PUK ve yeni PIN kodunu yazın</string>
   <string name="keyguard_password_enter_puk_prompt">PUK kodu</string>
-  <string name="keyguard_password_entry_touch_hint"><font size="17">Şifre yazmak için dokunun</font></string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;&amp;#350;ifre yazmak i&amp;#231;in dokunun&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Yanlış PIN kodu</string>
   <string name="kg_enter_confirm_pin_hint">İstenen PIN kodunu onaylayın</string>
   <string name="kg_failed_attempts_almost_at_login">Kilit açma deseninizi %1$d kez yanlış çizdiniz. %2$d başarısız denemeden sonra telefonunuzu bir E-Posta hesabı kullanarak açmanız istenir.\n\n %3$d saniye içinde tekrar deneyin.</string>
@@ -529,7 +548,7 @@
   <string name="kg_invalid_sim_pin_hint">4-8 rakamdan oluşan bir PIN girin.</string>
   <string name="kg_invalid_sim_puk_hint">PUK kodu 8 basamaklı bir sayı olmalıdır.</string>
   <string name="kg_login_account_recovery_hint">"Kullanıcı adı veya şifrenizi mi unuttunuz?
-"<b>google.com/accounts/recovery</b> adresini ziyaret edin.</string>
+"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt; adresini ziyaret edin.</string>
   <string name="kg_login_checking_password">Hesap denetleniyor…</string>
   <string name="kg_login_instructions">Kilidi açmak için Google hesabınızla oturum açın.</string>
   <string name="kg_login_invalid_input">Geçersiz kullanıcı adı veya şifre.</string>
@@ -549,10 +568,10 @@
   <string name="kg_too_many_failed_password_attempts_dialog_message">"%1$d kez şifrenizi yanlış girdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"%1$d kez kilit açma desenini yanlış çizdiniz. 
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"%1$d kez kilit açma desenini yanlış çizdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"%1$d kez PIN kodunuzu yanlış girdiniz. 
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">"%1$d kez PIN kodunuzu yanlış girdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
   <string name="kg_wrong_password">Yanlış Şifre</string>
@@ -563,10 +582,10 @@
   <string name="language_picker_section_suggested">Tavsiyeli</string>
   <string name="language_selection_title">Dil ekleyin</string>
   <string name="last_month">Son ay</string>
+  <string name="launchBrowserDefault">Tarayıcı başlatılsın mı?</string>
   <string name="launch_warning_original">%1$s başlangıçta başlatıldı.</string>
   <string name="launch_warning_replace">%1$s şimdi çalışıyor.</string>
   <string name="launch_warning_title">Uygulama yönlendirildi</string>
-  <string name="launchBrowserDefault">Tarayıcı başlatılsın mı?</string>
   <string name="leave_accessibility_shortcut_on">Kısayolu kullan</string>
   <string name="loading">Yükleniyor…</string>
   <string name="locale_search_menu">Ara</string>
@@ -627,10 +646,10 @@
   <string name="lockscreen_too_many_failed_attempts_dialog_message">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Şifrenizi %1$d kez yanlış yazdınız. 
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Şifrenizi %1$d kez yanlış yazdınız. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"PIN kodunuzu %1$d kez yanlış girdiniz. 
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"PIN kodunuzu %1$d kez yanlış girdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
   <string name="lockscreen_transport_ffw_description">İleri Sar</string>
@@ -668,6 +687,8 @@
   <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
   <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
   <string name="mediasize_chinese_prc_1">PRC 1</string>
+  <string name="mediasize_chinese_prc_10">PRC 10</string>
+  <string name="mediasize_chinese_prc_16k">PRC 16K</string>
   <string name="mediasize_chinese_prc_2">PRC 2</string>
   <string name="mediasize_chinese_prc_3">PRC 3</string>
   <string name="mediasize_chinese_prc_4">PRC 4</string>
@@ -676,12 +697,11 @@
   <string name="mediasize_chinese_prc_7">PRC 7</string>
   <string name="mediasize_chinese_prc_8">PRC 8</string>
   <string name="mediasize_chinese_prc_9">PRC 9</string>
-  <string name="mediasize_chinese_prc_10">PRC 10</string>
-  <string name="mediasize_chinese_prc_16k">PRC 16K</string>
-  <string name="mediasize_chinese_roc_8k">ROC 8K</string>
   <string name="mediasize_chinese_roc_16k">ROC 16K</string>
+  <string name="mediasize_chinese_roc_8k">ROC 8K</string>
   <string name="mediasize_iso_a0">ISO A0</string>
   <string name="mediasize_iso_a1">ISO A1</string>
+  <string name="mediasize_iso_a10">ISO A10</string>
   <string name="mediasize_iso_a2">ISO A2</string>
   <string name="mediasize_iso_a3">ISO A3</string>
   <string name="mediasize_iso_a4">ISO A4</string>
@@ -690,9 +710,9 @@
   <string name="mediasize_iso_a7">ISO A7</string>
   <string name="mediasize_iso_a8">ISO A8</string>
   <string name="mediasize_iso_a9">ISO A9</string>
-  <string name="mediasize_iso_a10">ISO A10</string>
   <string name="mediasize_iso_b0">ISO B0</string>
   <string name="mediasize_iso_b1">ISO B1</string>
+  <string name="mediasize_iso_b10">ISO B10</string>
   <string name="mediasize_iso_b2">ISO B2</string>
   <string name="mediasize_iso_b3">ISO B3</string>
   <string name="mediasize_iso_b4">ISO B4</string>
@@ -701,9 +721,9 @@
   <string name="mediasize_iso_b7">ISO B7</string>
   <string name="mediasize_iso_b8">ISO B8</string>
   <string name="mediasize_iso_b9">ISO B9</string>
-  <string name="mediasize_iso_b10">ISO B10</string>
   <string name="mediasize_iso_c0">ISO C0</string>
   <string name="mediasize_iso_c1">ISO C1</string>
+  <string name="mediasize_iso_c10">ISO C10</string>
   <string name="mediasize_iso_c2">ISO C2</string>
   <string name="mediasize_iso_c3">ISO C3</string>
   <string name="mediasize_iso_c4">ISO C4</string>
@@ -712,13 +732,13 @@
   <string name="mediasize_iso_c7">ISO C7</string>
   <string name="mediasize_iso_c8">ISO C8</string>
   <string name="mediasize_iso_c9">ISO C9</string>
-  <string name="mediasize_iso_c10">ISO C10</string>
   <string name="mediasize_japanese_chou2">Chou2</string>
   <string name="mediasize_japanese_chou3">Chou3</string>
   <string name="mediasize_japanese_chou4">Chou4</string>
   <string name="mediasize_japanese_hagaki">Hagaki</string>
   <string name="mediasize_japanese_jis_b0">JIS B0</string>
   <string name="mediasize_japanese_jis_b1">JIS B1</string>
+  <string name="mediasize_japanese_jis_b10">JIS B10</string>
   <string name="mediasize_japanese_jis_b2">JIS B2</string>
   <string name="mediasize_japanese_jis_b3">JIS B3</string>
   <string name="mediasize_japanese_jis_b4">JIS B4</string>
@@ -727,7 +747,6 @@
   <string name="mediasize_japanese_jis_b7">JIS B7</string>
   <string name="mediasize_japanese_jis_b8">JIS B8</string>
   <string name="mediasize_japanese_jis_b9">JIS B9</string>
-  <string name="mediasize_japanese_jis_b10">JIS B10</string>
   <string name="mediasize_japanese_jis_exec">JIS Exec</string>
   <string name="mediasize_japanese_kahu">Kahu</string>
   <string name="mediasize_japanese_kaku2">Kaku2</string>
@@ -752,7 +771,6 @@
   <string name="menu_delete_shortcut_label">sil</string>
   <string name="menu_enter_shortcut_label">gir</string>
   <string name="menu_space_shortcut_label">boşluk</string>
-  <string name="Midnight">Gece Yarısı</string>
   <string name="midnight">geceyarısı</string>
   <string name="minute">dak</string>
   <string name="minute_picker_description">Dakika kaydırma çemberi</string>
@@ -783,20 +801,17 @@
   <string name="network_switch_metered_detail">%2$s internet erişimi olmadığında cihaz %1$s kullanır. Ücret uygulanabilir.</string>
   <string name="network_switch_metered_toast">%1$s\'den %2$s\'ye geçti</string>
   <string name="network_switch_type_name_unknown">bilinmeyen bir ağ türü</string>
-  <string name="NetworkPreferenceSwitchSummary">Tercih edilen ağı değiştirmeyi deneyin. Değiştirmek için dokunun.</string>
-  <string name="NetworkPreferenceSwitchTitle">Mobil ağa erişemiyorum</string>
   <string name="new_app_action">%1$s uygulamasını başlat</string>
   <string name="new_app_description">%1$s kaydetmeden kapanacak</string>
   <string name="new_sms_notification_content">Görüntülenecek SMS uygulamasını açın</string>
   <string name="new_sms_notification_title">Yeni mesajlarınız var</string>
   <string name="next_button_label">Sonraki</string>
   <string name="no">İptal</string>
+  <string name="noApplications">Bu eylemi hiçbir uygulama gerçekleştiremez.</string>
   <string name="no_file_chosen">Seçili dosya yok</string>
   <string name="no_matches">Eşleşme yok</string>
   <string name="no_permissions">İzin gerektirmez</string>
   <string name="no_recent_tasks">Açık uygulama yok</string>
-  <string name="noApplications">Bu eylemi hiçbir uygulama gerçekleştiremez.</string>
-  <string name="Noon">Öğle</string>
   <string name="noon">öğle</string>
   <string name="notification_app_name_settings">Ayarlar</string>
   <string name="notification_app_name_system">Sistem</string>
@@ -849,19 +864,19 @@
   <string name="older">Daha eski</string>
   <string name="oneMonthDurationPast">1 ay önce</string>
   <string name="open_permission_deny">Bu sayfayı açma izniniz yok.</string>
-  <string name="org_name">Kuruluş:</string>
-  <string name="org_unit">Kuruluş Birimi:</string>
   <string name="orgTypeCustom">Özel</string>
   <string name="orgTypeOther">Diğer</string>
   <string name="orgTypeWork">İş</string>
+  <string name="org_name">Kuruluş:</string>
+  <string name="org_unit">Kuruluş Birimi:</string>
   <string name="owner_name">Sahibi</string>
   <string name="package_deleted_device_owner">Yöneticiniz tarafından silindi</string>
   <string name="package_installed_device_owner">Yöneticiniz tarafından yüklendi</string>
   <string name="package_updated_device_owner">Yöneticiniz tarafından güncellendi</string>
+  <string name="passwordIncorrect">Yanlış şifre.</string>
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
-  <string name="passwordIncorrect">Yanlış şifre.</string>
   <string name="paste">Yapıştır</string>
   <string name="paste_as_plain_text">Düz metin olarak yapıştır</string>
   <string name="peerTtyModeFull">Karşı taraf TTY Modunu TAM yaptı</string>
@@ -870,7 +885,6 @@
   <string name="peerTtyModeVco">Karşı taraf TTY Modunu VCO yaptı</string>
   <string name="perm_costs_money">bunun için sizden ücret alınabilir</string>
   <string name="permdesc_acceptHandovers">Uygulamaya, başka bir uygulamada başlatılmış bir çağrıya devam etme izni verir.</string>
-  <string name="permdesc_access_notification_policy">Uygulamaya, Rahatsız Etme yapılandırmasını okuma ve yazma izni verir.</string>
   <string name="permdesc_accessCoarseLocation">Uygulamaya, yaklaşık konumunuzu belirleme izni verir. Bu konum bilgisi, baz istasyonları ve Kablosuz bağlantı gibi ağ konum kaynaklarını kullanan konum hizmetlerinden elde edilir. Uygulamaların bu konum hizmetlerini kullanabilmesi için bunların cihazınızda açık ve kullanılabilir olması gerekir. Uygulamalar bulunduğunuz yeri yaklaşık olarak belirlemek için bu izni kullanabilirler.</string>
   <string name="permdesc_accessDrmCertificates">Bir uygulamanın DRM sertifikaları için temel hazırlık yapmasına ve bunları kullanmasına izin verir. Normal uygulamalar için hiçbir zaman gerekmez.</string>
   <string name="permdesc_accessFineLocation">Uygulamaya, Küresel Konumlandırma Sistemi (GPS) veya baz istasyonları ve Kablosuz bağlantı gibi ağ konum kaynaklarını kullanarak konumunuzu hassas bir şekilde belirleme izni verir. Uygulamaların bu konum hizmetlerini kullanabilmesi için bunların cihazınızda açık ve kullanılabilir olması gerekir. Uygulamalar bulunduğunuz yeri belirlemek için bu izni kullanabilirler ve bu kullanım fazladan pil tüketimine neden olabilir.</string>
@@ -881,15 +895,16 @@
   <string name="permdesc_accessNotifications">Uygulamanın bildirimler almasına, bildirimleri incelemesine ve temizlemesine izin verir. Buna diğer uygulamalar tarafından yayınlanan bildirimler de dahildir.</string>
   <string name="permdesc_accessWifiState">Uygulamaya, Kablosuz bağlantının etkin olup olmadığı ve bağlanan Kablosuz cihazların adları gibi Kablosuz ağ kullanımıyla ilgili bilgileri görüntüleme izni verir.</string>
   <string name="permdesc_accessWimaxState">Uygulamaya, WiMAX\'in etkin olup olmadığını belirleme ve bağlı tüm WiMAX ağlarıyla ilgili bilgilere erişme izni verir.</string>
+  <string name="permdesc_access_notification_policy">Uygulamaya, Rahatsız Etme yapılandırmasını okuma ve yazma izni verir.</string>
   <string name="permdesc_addVoicemail">Uygulamaya, sesli mesaj gelen kutunuza mesaj ekleme izni verir.</string>
   <string name="permdesc_answerPhoneCalls">Uygulamaya, gelen bir aramayı cevaplama izni verir.</string>
-  <string name="permdesc_bind_connection_service">Uygulamanın çağrı yapmak/almak için telefon hizmetleriyle etkileşimde bulunmasına izin verir.</string>
-  <string name="permdesc_bind_incall_service">Uygulamaya, kullanıcının çağrı ekranını ne zaman ve nasıl göreceğini denetleme izni verir.</string>
   <string name="permdesc_bindCarrierMessagingService">İzin sahibinin, operatör mesajlaşma hizmetinin üst düzey arayüzüne bağlanmasına olanak verir. Normal uygulamalarda hiçbir zaman gerekmez.</string>
   <string name="permdesc_bindCarrierServices">İzin sahibinin, operatör hizmetlerine bağlanmasına olanak tanır. Normal uygulamalarda hiçbir zaman gerekmez.</string>
   <string name="permdesc_bindConditionProviderService">İzin sahibinin, bir durum sağlayıcı hizmete ait üst düzey arayüze bağlanmasına izin verir. Normal uygulamalar için hiçbir zaman gerekli değildir.</string>
   <string name="permdesc_bindDreamService">İzin sahibine bir dream hizmetinin üst seviye arayüzüne bağlanma olanağı sunar. Normal uygulamalarda hiçbir zaman ihtiyaç duyulmamalıdır.</string>
   <string name="permdesc_bindNotificationListenerService">İzin sahibine bir bildirim dinleyici hizmetinin en üst düzey arayüzüne bağlanma izni verir. Normal uygulamalarda hiçbir zaman gerek duyulmaz.</string>
+  <string name="permdesc_bind_connection_service">Uygulamanın çağrı yapmak/almak için telefon hizmetleriyle etkileşimde bulunmasına izin verir.</string>
+  <string name="permdesc_bind_incall_service">Uygulamaya, kullanıcının çağrı ekranını ne zaman ve nasıl göreceğini denetleme izni verir.</string>
   <string name="permdesc_bluetooth">Uygulamaya, telefondaki Bluetooth yapılandırmasını görüntüleme, eşlenmiş cihazlarla bağlantı yapma ve bu tür bağlantıları kabul etme izni verir.</string>
   <string name="permdesc_bluetoothAdmin">Uygulamaya, yerel Bluetooth telefonunu yapılandırma ve uzak cihazları keşfedip bunlarla eşleşme izni verir.</string>
   <string name="permdesc_bodySensors">Uygulamanın, nabzınız gibi fiziksel durumunuzu izleyen sensörlerin gönderdiği verilere erişmesine izin verir.</string>
@@ -965,10 +980,10 @@
   <string name="permdesc_systemAlertWindow">Uygulamaya, diğer uygulamaların veya kullanıcı arayüzüne ait bölümlerin üstüne çizim yapma izni verir. Bu izne sahip uygulamalar herhangi bir uygulamada kullanıcı arayüzünü kullanımınızı etkileyebilir veya diğer uygulamalarda gördüğünüzü düşündüğünüz arayüz öğelerini değiştirmiş olabilir.</string>
   <string name="permdesc_transmitIr">Uygulamaya, telefonunun kızılötesi vericisini kullanma izni verir.</string>
   <string name="permdesc_uninstall_shortcut">Uygulamaya, kullanıcının müdahalesi olmadan kısayolları Ana Ekrandan kaldırma izni verir.</string>
-  <string name="permdesc_use_sip">Uygulamanın SIP çağrıları yapmasına ve almasına izin verir.</string>
   <string name="permdesc_useBiometric">Uygulamaya, kimlik doğrulama için biyometrik donanım kullanma izni verir</string>
   <string name="permdesc_useDataInBackground">Bu uygulama arka planda veri kullanabilir. Bu veri kullanımını artırabilir.</string>
   <string name="permdesc_useFingerprint">Uygulamanın kimlik doğrulama için parmakizi donanımını kullanmasına izin verir.</string>
+  <string name="permdesc_use_sip">Uygulamanın SIP çağrıları yapmasına ve almasına izin verir.</string>
   <string name="permdesc_vibrate">Uygulamaya, titreşimi denetleme izni verir.</string>
   <string name="permdesc_wakeLock">Uygulamaya, telefonun uykuya geçmesini önleme izni verir.</string>
   <string name="permdesc_writeCalendar">Uygulamaya, arkadaşlarınızın veya iş arkadaşlarınızın etkinlikleri de dahil olmak üzere telefonunuzda değiştirebileceğiniz etkinlikleri ekleme, kaldırma ve değiştirme izni verir. Bu izin, uygulamanın takvim sahiplerinden geliyormuş gibi görünen iletiler göndermesine veya etkinlikleri sahibinden habersiz olarak değiştirmesine olanak sağlar.</string>
@@ -998,25 +1013,24 @@
   <string name="permgrouplab_sensors">Vücut Sensörleri</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Depolama</string>
-  <string name="permgrouprequest_activityRecognition">&lt;b>%1$s&lt;/b> için fiziksel etkinliğinize erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_calendar">&lt;b>%1$s&lt;/b> için takviminize erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_calllog">&lt;b>%1$s&lt;/b> için telefon arama kayıtlarına erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_camera">&lt;b>%1$s&lt;/b> için fotoğraf çekme ve video kaydetme izni verilsin mi?</string>
-  <string name="permgrouprequest_contacts">&lt;b>%1$s&lt;/b> için kişilerinize erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_location">&lt;b>%1$s&lt;/b> için bu cihazın konumuna erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_microphone">&lt;b>%1$s&lt;/b> için ses kaydı izni verilsin mi?</string>
-  <string name="permgrouprequest_phone">&lt;b>%1$s&lt;/b> için telefon görüşmeleri yapma ve yönetme izni verilsin mi?</string>
-  <string name="permgrouprequest_sensors">&lt;b>%1$s&lt;/b> için sensör verilerinize erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_sms">&lt;b>%1$s&lt;/b> için SMS mesajları gönderme ve görüntüleme izni verilsin mi?</string>
-  <string name="permgrouprequest_storage">&lt;b>%1$s&lt;/b> için cihazınızdaki fotoğraflara, medyaya ve dosyalara erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_activityRecognition">&lt;b&gt;%1$s&lt;/b&gt; için fiziksel etkinliğinize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_calendar">&lt;b&gt;%1$s&lt;/b&gt; için takviminize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_calllog">&lt;b&gt;%1$s&lt;/b&gt; için telefon arama kayıtlarına erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_camera">&lt;b&gt;%1$s&lt;/b&gt; için fotoğraf çekme ve video kaydetme izni verilsin mi?</string>
+  <string name="permgrouprequest_contacts">&lt;b&gt;%1$s&lt;/b&gt; için kişilerinize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_location">&lt;b&gt;%1$s&lt;/b&gt; için bu cihazın konumuna erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_microphone">&lt;b&gt;%1$s&lt;/b&gt; için ses kaydı izni verilsin mi?</string>
+  <string name="permgrouprequest_phone">&lt;b&gt;%1$s&lt;/b&gt; için telefon görüşmeleri yapma ve yönetme izni verilsin mi?</string>
+  <string name="permgrouprequest_sensors">&lt;b&gt;%1$s&lt;/b&gt; için sensör verilerinize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_sms">&lt;b&gt;%1$s&lt;/b&gt; için SMS mesajları gönderme ve görüntüleme izni verilsin mi?</string>
+  <string name="permgrouprequest_storage">&lt;b&gt;%1$s&lt;/b&gt; için cihazınızdaki fotoğraflara, medyaya ve dosyalara erişme izni verilsin mi?</string>
   <string name="permgrouprequestdetail_location">Uygulama yalnızca siz uygulamayı kullanırken konuma erişebilir</string>
   <string name="permission">İzin</string>
-  <string name="permission_remember_choice">Hatırla</string>  
+  <string name="permission_remember_choice">Hatırla</string>
   <string name="permission_request_notification_title">İzin isteği</string>
   <string name="permission_request_notification_with_subtitle">"%s hesabı için
 izin istendi."</string>
   <string name="permlab_acceptHandover">başka bir uygulamadan gelen çağrıya devam eder</string>
-  <string name="permlab_access_notification_policy">Rahatsız Etme özelliğine erişir</string>
   <string name="permlab_accessCoarseLocation">yaklaşık konuma erişir (ağ tabanlı)</string>
   <string name="permlab_accessDrmCertificates">DRM sertifikalarına erişir</string>
   <string name="permlab_accessFineLocation">hassas konuma erişir (GPS ve ağ tabanlı)</string>
@@ -1027,15 +1041,16 @@ izin istendi."</string>
   <string name="permlab_accessNotifications">bildirimlere erişir</string>
   <string name="permlab_accessWifiState">Kablosuz bağlantıları görüntüler</string>
   <string name="permlab_accessWimaxState">WiMAX\'e bağlanır veya WiMAX bağlantısını keser</string>
+  <string name="permlab_access_notification_policy">Rahatsız Etme özelliğine erişir</string>
   <string name="permlab_addVoicemail">sesli mesaj ekler</string>
   <string name="permlab_answerPhoneCalls">telefon aramalarını yanıtlar</string>
-  <string name="permlab_bind_connection_service">telefon hizmetleriyle etkileşimde bağlanır</string>
-  <string name="permlab_bind_incall_service">çağrı ekranıyla etkileşimde bağlanır</string>
   <string name="permlab_bindCarrierMessagingService">operatör mesajlaşma hizmetine bağlanır</string>
   <string name="permlab_bindCarrierServices">operatör hizmetlerine bağlanır</string>
   <string name="permlab_bindConditionProviderService">bir durum sağlayıcı hizmetine bağlanır</string>
   <string name="permlab_bindDreamService">bir dream hizmetine bağlanır</string>
   <string name="permlab_bindNotificationListenerService">bildirim dinleyici hizmetine bağlanır</string>
+  <string name="permlab_bind_connection_service">telefon hizmetleriyle etkileşimde bağlanır</string>
+  <string name="permlab_bind_incall_service">çağrı ekranıyla etkileşimde bağlanır</string>
   <string name="permlab_bluetooth">Bluetooth cihazlarla eşlenir</string>
   <string name="permlab_bluetoothAdmin">bluetooth ayarlarına erişir</string>
   <string name="permlab_bodySensors">Vücut sensörlerine erişir (kalp atış hızı takip cihazları gibi)</string>
@@ -1111,10 +1126,10 @@ izin istendi."</string>
   <string name="permlab_systemAlertWindow">Bu uygulama diğer uygulamaların üstünde görünebilir</string>
   <string name="permlab_transmitIr">kızıötesi iletimi yapar</string>
   <string name="permlab_uninstall_shortcut">kısayolların yüklemesini kaldırır</string>
-  <string name="permlab_use_sip">SIP çağrıları yapar/alır</string>
   <string name="permlab_useBiometric">biyometrik donanımı kullanır</string>
   <string name="permlab_useDataInBackground">arka planda veri kullanır</string>
   <string name="permlab_useFingerprint">parmak izi donanımını kullanır</string>
+  <string name="permlab_use_sip">SIP çağrıları yapar/alır</string>
   <string name="permlab_vibrate">titreşimi denetleme</string>
   <string name="permlab_wakeLock">telefonun uykuya geçmesini önleme</string>
   <string name="permlab_writeCalendar">takvim etkinlikleri ekler veya değiştirir ve sahibin bilgisi olmadan konuklara e-posta gönderir</string>
@@ -1125,7 +1140,7 @@ izin istendi."</string>
   <string name="permlab_writeSettings">sistem ayarlarını değiştirir</string>
   <string name="permlab_writeSyncSettings">eşitleme düğmesini açar ve kapatır</string>
   <string name="perms_description_app">%1$s tarafından sunuldu.</string>
-  <string name="perms_new_perm_prefix">&lt;font fgcolor=\"#ff33b5e5\" size=\"12\">YENİ:&lt;/font></string>
+  <string name="perms_new_perm_prefix">&lt;font fgcolor=\"#ff33b5e5\" size=\"12\"&gt;YENİ:&lt;/font&gt;</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Yardımcı</string>
   <string name="phoneTypeCallback">Geri Arama</string>
@@ -1149,7 +1164,6 @@ izin istendi."</string>
   <string name="phoneTypeWorkMobile">İş Cep Telefonu</string>
   <string name="phoneTypeWorkPager">İş Çağrı Cihazı</string>
   <string name="pin_target">PIN</string>
-  <string name="PinMmi">PIN kodunu değiştir</string>
   <string name="policydesc_disableCamera">Tüm cihaz kameralarının kullanımını engelleme.</string>
   <string name="policydesc_disableKeyguardFeatures">Ekran kilidinin bazı özelliklerinin kullanılmasını önleyin.</string>
   <string name="policydesc_encryptedStorage">Depolanan uygulama verilerinin şifrelenmiş olmasını zorunlu kılma.</string>
@@ -1190,7 +1204,6 @@ izin istendi."</string>
   <string name="profile_encrypted_detail">İş profili kilitlendi</string>
   <string name="profile_encrypted_message">İş profilinin kilidini açmak için dokunun</string>
   <string name="progress_erasing">USB bellek siliniyor…</string>
-  <string name="PwdMmi">Şifreyi değiştir</string>
   <string name="quick_contacts_not_available">Bu kişiyi görüntüleyecek uygulama bulunamadı.</string>
   <string name="reason_service_unavailable">Yazdırma hizmeti etkin değil</string>
   <string name="reason_unknown">Bilinmiyor</string>
@@ -1234,12 +1247,6 @@ izin istendi."</string>
   <string name="restr_pin_error_too_short">PIN çok kısa. En az 4 basamaklı olmalı.</string>
   <string name="restr_pin_incorrect">Yanlış</string>
   <string name="restr_pin_try_later">Daha sonra tekrar deneyin</string>
-  <string name="RestrictedOnAllVoiceTitle">Ses servisi veya acil arama yok</string>
-  <string name="RestrictedOnDataTitle">Mobil veri servisi yok</string>
-  <string name="RestrictedOnEmergencyTitle">Acil arama yapılamıyor</string>
-  <string name="RestrictedOnNormalTitle">Ses servisi yok</string>
-  <string name="RestrictedStateContent">Geçici olarak operatörünüz tarafından kapatıldı</string>
-  <string name="RestrictedStateContentMsimTemplate">SIM %d operatörünüz tarafından geçici olarak kapatıldı</string>
   <string name="revoke">İptal et</string>
   <string name="ringtone_default">Varsayılan zil sesi</string>
   <string name="ringtone_default_with_actual">Varsayılan zil sesi (%1$s)</string>
@@ -1250,6 +1257,9 @@ izin istendi."</string>
   <string name="ringtone_unknown">Bilinmeyen</string>
   <string name="roamingText0">Dolaşım Göstergesi Açık</string>
   <string name="roamingText1">Dolaşım Göstergesi Kapalı</string>
+  <string name="roamingText10">Dolaşım - Kısmi Hizmet İşlevselliği</string>
+  <string name="roamingText11">Dolaşım Başlığı Açık</string>
+  <string name="roamingText12">Dolaşım Başlığı Kapalı</string>
   <string name="roamingText2">Dolaşım Göstergesi Yanıp Sönüyor</string>
   <string name="roamingText3">Semt Dışında</string>
   <string name="roamingText4">Bina Dışında</string>
@@ -1258,13 +1268,9 @@ izin istendi."</string>
   <string name="roamingText7">Dolaşım - İş Ortağı</string>
   <string name="roamingText8">Dolaşım - Özel Ortak</string>
   <string name="roamingText9">Dolaşım - Tam Hizmet İşlevselliği</string>
-  <string name="roamingText10">Dolaşım - Kısmi Hizmet İşlevselliği</string>
-  <string name="roamingText11">Dolaşım Başlığı Açık</string>
-  <string name="roamingText12">Dolaşım Başlığı Kapalı</string>
   <string name="roamingTextSearching">Hizmet Aranıyor</string>
-  <string name="RuacMmi">İstenmeyen rahatsız edici aramaları reddet</string>
-  <string name="safe_media_volume_warning">Ses seviyesi önerilen düzeyin üzerine yükseltilsin mi?\n\nUzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir.</string>
   <string name="safeMode">Güvenli Mod</string>
+  <string name="safe_media_volume_warning">Ses seviyesi önerilen düzeyin üzerine yükseltilsin mi?\n\nUzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir.</string>
   <string name="save_password_label">Onayla</string>
   <string name="save_password_message">Tarayıcının bu şifreyi anımsamasını istiyor musunuz?</string>
   <string name="save_password_never">Hiçbir zaman</string>
@@ -1285,6 +1291,8 @@ izin istendi."</string>
   <string name="searchview_description_voice">Sesli arama</string>
   <string name="second">san</string>
   <string name="seconds">saniye</string>
+  <string name="selectAll">Tümünü seç</string>
+  <string name="selectTextMode">Metin seç</string>
   <string name="select_character">Karakter ekle</string>
   <string name="select_day">Ay ve gün seçin</string>
   <string name="select_hours">Saati seçin</string>
@@ -1293,17 +1301,15 @@ izin istendi."</string>
   <string name="select_keyboard_layout_notification_title">Fiziksel klavyeyi yapılandır</string>
   <string name="select_minutes">Dakikayı seçin</string>
   <string name="select_year">Yılı seçin</string>
-  <string name="selectAll">Tümünü seç</string>
-  <string name="selectTextMode">Metin seç</string>
-  <string name="sending">Gönderiliyor…</string>
   <string name="sendText">Kısa mesaj için bir işlem seçin</string>
+  <string name="sending">Gönderiliyor…</string>
   <string name="serial_number">Seri numara:</string>
   <string name="serviceClassData">Veri</string>
   <string name="serviceClassDataAsync">Eşzamanla</string>
   <string name="serviceClassDataSync">Eşitle</string>
   <string name="serviceClassFAX">FAKS</string>
-  <string name="serviceClassPacket">Paket</string>
   <string name="serviceClassPAD">PAD</string>
+  <string name="serviceClassPacket">Paket</string>
   <string name="serviceClassSMS">SMS</string>
   <string name="serviceClassVoice">Ses</string>
   <string name="serviceDisabled">Hizmet devre dışı bırakıldı.</string>
@@ -1313,7 +1319,6 @@ izin istendi."</string>
   <string name="serviceNotProvisioned">Hizmet sağlanamadı.</string>
   <string name="serviceRegistered">Kayıt işlemi başarılı oldu.</string>
   <string name="setup_autofill">Otomatik doldurma ayarla</string>
-  <string name="SetupCallDefault">Çağrı kabul edilsin mi?</string>
   <string name="sha1_fingerprint">SHA-1 parmakizi:</string>
   <string name="sha256_fingerprint">SHA-256 parmakizi:</string>
   <string name="share">Paylaş</string>
@@ -1355,7 +1360,7 @@ izin istendi."</string>
   <string name="sms_control_title">SMS mesajları gönderiliyor</string>
   <string name="sms_control_yes">İzin ver</string>
   <string name="sms_desc">Mesaj telefon numarası seçildi</string>
-  <string name="sms_premium_short_code_details"><b>Bu, mobil hesabınızdan ücret alınmasına neden olur.</b></string>
+  <string name="sms_premium_short_code_details">&lt;b&gt;Bu, mobil hesab&amp;#305;n&amp;#305;zdan &amp;#252;cret al&amp;#305;nmas&amp;#305;na neden olur.&lt;/b&gt;</string>
   <string name="sms_short_code_confirm_allow">Gönder</string>
   <string name="sms_short_code_confirm_always_allow">Daima izin ver</string>
   <string name="sms_short_code_confirm_deny">İptal</string>
@@ -1404,9 +1409,8 @@ izin istendi."</string>
   <string name="tethered_notification_no_device_message">Bağlı cihaz yok</string>
   <string name="tethered_notification_one_device_message">%1$s cihaz bağlı</string>
   <string name="tethered_notification_title">İnternet paylaşımı etkin</string>
-  <string name="text_copied">Metin panoya kopyalandı.</string>
   <string name="textSelectionCABTitle">Metin seçimi</string>
-  <string name="ThreeWCMmi">Üç yönlü arama</string>
+  <string name="text_copied">Metin panoya kopyalandı.</string>
   <string name="time_picker_decrement_hour_button">Saati azalt</string>
   <string name="time_picker_decrement_minute_button">Dakikayı azalt</string>
   <string name="time_picker_decrement_set_am_button">ÖÖ zamanını ayarla</string>
@@ -1435,7 +1439,7 @@ izin istendi."</string>
   <string name="unsupported_compile_sdk_show">Her zaman göster</string>
   <string name="unsupported_display_size_message">%1$s geçerli ekran boyutu ayarını desteklemez ve beklenmedik şekilde davranabilir.</string>
   <string name="unsupported_display_size_show">Daima göster</string>
-  <string name="untitled">&lt;Başlıksız></string>
+  <string name="untitled">&lt;Başlıksız&gt;</string>
   <string name="upload_file">Dosya seç</string>
   <string name="usb_accessory_notification_title">USB aksesuarı bağlandı</string>
   <string name="usb_cd_installer_notification_title">Kurulum programına bağlandı</string>
@@ -1478,10 +1482,6 @@ izin istendi."</string>
   <string name="user_switched">Geçerli Kullanıcı: %1$s.</string>
   <string name="user_switching_message">%1$s kullanıcısına geçiliyor…</string>
   <string name="validity_period">Geçerlilik:</string>
-  <string name="VideoView_error_button">Tamam</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">Bu video bu cihazda oynatmak için uygun değil.</string>
-  <string name="VideoView_error_text_unknown">Bu video oynatılamıyor.</string>
-  <string name="VideoView_error_title">Video Problemi</string>
   <string name="view_calendar">Görünüm</string>
   <string name="view_calendar_desc">Takvimde seçilen zamanı görüntüle</string>
   <string name="view_flight">İzle</string>
@@ -1518,10 +1518,10 @@ izin istendi."</string>
   <string name="websearch">Google Web Araması</string>
   <string name="week">Hafta</string>
   <string name="weeks">Hafta</string>
+  <string name="wfcRegErrorTitle">Kablosuz Çağrı</string>
   <string name="wfc_mode_cellular_preferred_summary">Hücresel ağ tercih edildi</string>
   <string name="wfc_mode_wifi_only_summary">Sadece Wi-Fi</string>
   <string name="wfc_mode_wifi_preferred_summary">Wi-Fi bağlantısı tercih edildi</string>
-  <string name="wfcRegErrorTitle">Kablosuz Çağrı</string>
   <string name="whichApplication">İşlemi şunu kullanarak tamamla</string>
   <string name="whichApplicationLabel">Eylemi tamamla</string>
   <string name="whichApplicationNamed">%1$s kullanarak işlemi tamamla</string>

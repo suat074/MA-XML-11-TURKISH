@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ErrorTooManyRequests">Çok fazla talep işleniyor. Daha sonra tekrar deneyin.</string>
+  <string name="a2dp_sink_mbs_label">Bluetooth Ses</string>
   <string name="ack_record">Onay kaydı</string>
   <string name="airplane_error_msg">"Uçak Modunda Bluetooth kullanılamaz!"</string>
   <string name="airplane_error_title">Uçak Modu</string>
@@ -141,12 +142,14 @@
   <string name="notify_need_on_BT_before_retry">"Bluetooth kapalı. Lütfen Bluetooth'u açıp, yeniden deneyin."</string>
   <string name="notify_server">TCP sunucusunu bildir</string>
   <string name="ok_button">Tamam</string>
+  <string name="opp_notification_group">Bluetooth Paylaşımı</string>
   <string name="outbound_history_title">Giden Transferler</string>
   <string name="outbound_noti_title">Bluetooth Paylaşımı: Gönderilen dosyalar</string>
   <string name="panu_disconnect_while_wifi_connected">Bluetooth paylaşımının bağlantısı kesildi</string>
   <string name="panu_no_need_connect">WLAN bağlıyken Bluetooth paylaşımını kullanmak mümkün olmaz</string>
   <string name="pbap_acceptance_timeout_message">%1$s ile bağlantı zaman aşımına uğradı</string>
   <string name="pbap_authentication_timeout_message">%1$s ile oturum girişi zaman aşımına uğradı</string>
+  <string name="pbap_notification_group">Bluetooth Kişi paylaşımı</string>
   <string name="pbap_session_key_dialog_header">Bluetooth oturum anahtarı gerekli</string>
   <string name="pbap_session_key_dialog_title">%1$s için oturum anahtarını girin</string>
   <string name="permdesc_bluetoothMap">Bluetooth Mesaj Erişim Profili içerik sağlayıcısına erişmek ve müşterilerine IMAP mesajları göndermek için izni verir.</string>
@@ -223,7 +226,4 @@
   <string name="upload_succ_line5">Dosya gönderildi</string>
   <string name="upload_succ_ok">Tamam</string>
   <string name="upload_success">%1$s gönderimi tamamlandı.</string>
-  <string name="a2dp_sink_mbs_label">Bluetooth Ses</string>
-  <string name="opp_notification_group">Bluetooth Paylaşımı</string>
-  <string name="pbap_notification_group">Bluetooth Kişi paylaşımı</string>  
 </resources>

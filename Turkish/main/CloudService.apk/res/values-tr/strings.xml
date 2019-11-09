@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Erişim engellendi</string>
   <string name="account_related">Cihazınız varolan Mi Hesabı ile ilişkilidir (%s). Cihazı doğrulamak için ağa bağlanın</string>
@@ -18,34 +18,43 @@
   <string name="cloud_find_device">Cihazı bul</string>
   <string name="cloud_find_device_off">Kapalı</string>
   <string name="cloud_find_device_on">Açık</string>
+  <string name="cloud_lab_title">Laboratuvar</string>
   <string name="cloud_storage_already_full">Bulut depolama alanı dolu: %1$s/%2$s</string>
+  <string name="cloud_storage_already_used">Doluluk: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Bulut depolama</string>
+  <string name="cloud_storage_info_type_drive">Mi Drive</string>
+  <string name="cloud_storage_info_type_others">Diğer</string>
+  <string name="cloud_storage_info_type_pdc">Sistem ayarları</string>
   <string name="cloud_storage_loading_data">Sadece bir saniye…</string>
+  <string name="cloud_storage_manage_title">Depolamayı yönet</string>
+  <string name="cloud_storage_no_data">Henüz bulutta öğe yok</string>
   <string name="cloudservice_new_sync">%s Xiaomi Bulut ile eşitle</string>
   <string name="confirm_delete">Sil</string>
   <string name="confirm_save">Tut</string>
   <string name="connect_network">WLAN ağına bağlanın veya bir SIM kartı takın</string>
   <string name="connect_wlan">WLAN ağına bağlan</string>
+  <string name="data_protection_title">Verileri koru</string>
   <string name="detect_sim_card">SIM kart ara</string>
   <string name="disable_find_device_error">Cihazı bul kapatılamıyor. %1$s</string>
   <string name="enable_find_device_error">Cihazı bul açılamıyor. %1$s</string>
   <string name="enable_find_device_success">Cihaz bul açık.</string>
   <string name="enable_micloud">Xiaomi Bulut\'u kullanabilmek için giriş yapın</string>
+  <string name="enable_sync_setting_title">Bulut hizmetleri yapılandırılıyor…</string>
   <string name="error_data_in_transfer">Eşitleme %s saat içinde bitecek.</string>
   <string name="error_data_in_transfer_title">Xiaomi Bulut mevcut değil</string>
   <string name="error_network">Ağa bağlanılamıyor</string>
   <string name="error_server">Sunucu hatası</string>
   <string name="error_unknown">Oturum açılamıyor</string>
   <string name="find_device">Cihazı bul</string>
-  <string name="find_device_dspt_provision">Cihazınızı kaybederseniz, yerini belirlemek, kilitlemek veya sıfırlamak için &lt;font color=#0097FF>%s&lt;/font> adresine gidebilirsiniz. Ayarlar\'dan bu özelliği istediğiniz zaman açıp kapatabilirsiniz.</string>
+  <string name="find_device_dspt_provision">Cihazınızı kaybederseniz, yerini belirlemek, kilitlemek veya sıfırlamak için &lt;font color=#0097FF&gt;%s&lt;/font&gt; adresine gidebilirsiniz. Ayarlar\'dan bu özelliği istediğiniz zaman açıp kapatabilirsiniz.</string>
   <string name="find_device_error_network">Veri bağlantınızı kontrol edin ve tekrar deneyin.</string>
   <string name="find_device_error_server">Sunucu hatası</string>
-  <string name="find_device_gdpr_prompt">Cihazı bul özelliğini açarak <u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Politikamızı</a></u> kabul etmiş olursunuz. Yetkilendirmeyi iptal etmeniz gerekirse, bu özelliği kapatın.</string>
+  <string name="find_device_gdpr_prompt">Cihazı bul özelliğini açarak &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Gizlilik Politikam&amp;#305;z&amp;#305;&lt;/a&gt;&lt;/u&gt; kabul etmi&amp;#351; olursunuz. Yetkilendirmeyi iptal etmeniz gerekirse, bu &amp;#246;zelli&amp;#287;i kapat&amp;#305;n.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">Gizlilik Politikası</string>
   <string name="find_device_operation_failure_rpc">RPC hatası nedeniyle işlem gerçekleştirilemedi.</string>
   <string name="find_device_send_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS daha gönderilebilir.</string>
   <string name="find_device_service_title">Cihazı bul</string>
-  <string name="forget_password"><u>Şifremi unuttum</u></string>
+  <string name="forget_password">&lt;u&gt;&amp;#350;ifremi unuttum&lt;/u&gt;</string>
   <string name="i_know">Tamam</string>
   <string name="input_password_hint">Şifre Gir</string>
   <string name="internet_access_dspt">Bu uygulamanın normal bir şekilde çalışması için internete bağlanması gerekiyor.</string>
@@ -165,7 +174,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat, Cihazı bul özelliğini açmanızı önerir</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay, Cihazı bul özelliğini açmanızı önerir</string>
   <string name="micloud_find_device_guide_progress">Cihazı bul açılıyor…</string>
-  <string name="micloud_find_device_guide_title">Cihazınızı bulmak, kilitlemek veya silmek için &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresinde oturum açın. Bu, kaybolmuş olan cihazınızı bulmanıza yardımcı olabilir.</string>
+  <string name="micloud_find_device_guide_title">Cihazınızı bulmak, kilitlemek veya silmek için &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; adresinde oturum açın. Bu, kaybolmuş olan cihazınızı bulmanıza yardımcı olabilir.</string>
   <string name="micloud_find_device_open_fail">Cihazı bul açılamadı</string>
   <string name="micloud_find_device_opened">Cihazı bul açık</string>
   <string name="micloud_find_device_opened_content">%s cihazınızı bulun</string>
@@ -177,6 +186,8 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_last_sync_canceled">Eşitleme iptal edildi. Tekrar deneyin.</string>
   <string name="micloud_main_button_set_internet">Ayar</string>
   <string name="micloud_main_head_menu_cloud_backup">Ana ekran yedekleme</string>
+  <string name="micloud_main_head_menu_cloud_backup_summary">Ana ekran düzeni, uygulamalar ve sistem ayarları</string>
+  <string name="micloud_main_head_menu_finddevice_summary">Cihazınız kaybolursa bulun ve kilitleyin</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Cihazı bul ikinci alanda kullanılamaz, ilk alanda kullanabilirsiniz.</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Silinen öğeleri geri yükle</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Silinmiş öğeler</string>
@@ -188,8 +199,8 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_main_network_error">Ağa bağlanılamıyor</string>
   <string name="micloud_main_simple_last_sync_time">Son eşitleme： %s</string>
   <string name="micloud_main_simple_off">Eşitleme Kapalı</string>
-  <string name="micloud_main_sync_mode_title">Hızlı eşitleme</string>
   <string name="micloud_main_sync_mode_summary">Uygulama verilerini gerçek zamanlı olarak eşitleyin. Bu özellik açıkken güç tüketimi artacaktır.</string>
+  <string name="micloud_main_sync_mode_title">Hızlı eşitleme</string>
   <string name="micloud_main_wait_charge">Eşitlemeye devam etmek için cihazınızı tamamen şarj edin.</string>
   <string name="micloud_main_wait_charge_sleep">Ekranı kapatın ve eşitlemeye devam etmek için cihazınızı tamamen şarj edin.</string>
   <string name="micloud_main_wait_wlan">WLAN bekleniyor</string>
@@ -197,23 +208,23 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_main_wait_wlan_charge_sleep">WLAN\'a bağlan, ekranı kapat ve eşitlemeye devam etmek için cihazını tamamen şarj et.</string>
   <string name="micloud_manage_space_data">Bulut verilerini yönet</string>
   <string name="micloud_manaul_sync_success_button_text">Detayları göster</string>
-  <string name="micloud_manaul_sync_success_title">Eşitlendi</string>
   <string name="micloud_manaul_sync_success_time_prefix">Son eşitleme: %s</string>
+  <string name="micloud_manaul_sync_success_title">Eşitlendi</string>
   <string name="micloud_manual_activating">Etkinleştiriliyor…</string>
   <string name="micloud_manual_all_sync_off_button_text">Eşitlemeyi aç</string>
   <string name="micloud_manual_all_sync_off_summary">Xiaomi Bulut kullanarak eşitlenmiş verileri yeni cihazlarda geri yükleyin</string>
   <string name="micloud_manual_all_sync_off_title">Eşitleme kapalı</string>
   <string name="micloud_manual_buy_vip">Daha fazla depolama alanı al</string>
-  <string name="micloud_manual_cloud_storage_low_title">Eşitlendi</string>
-  <string name="micloud_manual_cloud_storage_low_summary">Bulut depolama alanı tükeniyor</string>
-  <string name="micloud_manual_cloud_storage_low_button_text">Daha fazla depolama alanı al</string>
-  <string name="micloud_manual_cloud_storage_full_title">Eşitlenemiyor. Xiaomi Bulut üzerinde yeterli depolama alanı yok.</string>
-  <string name="micloud_manual_cloud_storage_full_summary">Fotoğraflar, kişiler ve diğer öğeler eşitlenemiyor. Planınızı yükseltin veya depolama alanını boşaltın.</string>
   <string name="micloud_manual_cloud_storage_full_button_text">Daha fazla depolama alanı al</string>
+  <string name="micloud_manual_cloud_storage_full_summary">Fotoğraflar, kişiler ve diğer öğeler eşitlenemiyor. Planınızı yükseltin veya depolama alanını boşaltın.</string>
+  <string name="micloud_manual_cloud_storage_full_title">Eşitlenemiyor. Xiaomi Bulut üzerinde yeterli depolama alanı yok.</string>
+  <string name="micloud_manual_cloud_storage_low_button_text">Daha fazla depolama alanı al</string>
+  <string name="micloud_manual_cloud_storage_low_summary">Bulut depolama alanı tükeniyor</string>
+  <string name="micloud_manual_cloud_storage_low_title">Eşitlendi</string>
   <string name="micloud_manual_grant_permission">İzin ver</string>
   <string name="micloud_manual_local_storage_low_button_text">Temizle</string>
-  <string name="micloud_manual_local_storage_low_title">Eşitlenemiyor. Cihazınızda yeterli depolama alanı yok.</string>
   <string name="micloud_manual_local_storage_low_summary">Depolama alanını boşaltın ve tekrar deneyin.</string>
+  <string name="micloud_manual_local_storage_low_title">Eşitlenemiyor. Cihazınızda yeterli depolama alanı yok.</string>
   <string name="micloud_manual_network_disconnet_button_text">Ağ ayarlarını kontrol edin</string>
   <string name="micloud_manual_network_disconnet_title">Bir ağ hatası nedeniyle eşitlenemiyor</string>
   <string name="micloud_manual_paused">Duraklatıldı</string>
@@ -222,6 +233,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_manual_reactivate">Yeniden etkinleştir</string>
   <string name="micloud_manual_sync_all">Tüm öğeleri eşitle</string>
   <string name="micloud_manual_sync_now">Eşitleme</string>
+  <string name="micloud_manual_sync_now_retry">Tekrar deneyin</string>
   <string name="micloud_manual_sync_pause">Eşitlemeyi duraklat</string>
   <string name="micloud_manual_sync_resume">Eşitlemeye devam et</string>
   <string name="micloud_manual_syncing">Eşitleniyor…</string>
@@ -250,7 +262,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_privacy_cloud_off">Eşitleme kapalı</string>
   <string name="micloud_privacy_cloud_sync">Xiaomi Bulut hizmetlerini aç</string>
   <string name="micloud_privacy_explanation">Xiaomi Bulut hizmetlerini açmak için yetki verin</string>
-  <string name="micloud_privacy_licence_agreed">Xiaomi Bulut &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Gizlilik Politikasını&lt;/u>&lt;/a> kabul edin.</string>
+  <string name="micloud_privacy_licence_agreed">Xiaomi Bulut &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Gizlilik Politikasını&lt;/u&gt;&lt;/a&gt; kabul edin.</string>
   <string name="micloud_privacy_licence_privacy_policy">Gizlilik Politikası</string>
   <string name="micloud_privacy_progress_content">Yetki veriliyor…</string>
   <string name="micloud_privacy_warning_button">Geri</string>
@@ -260,11 +272,18 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_request_permission_confirm">Anladım</string>
   <string name="micloud_request_permission_content">Xiaomi Bulut\'un verileri eşitlemesi için izinlere ihtiyacı var. Xiaomi Bulut\'un Takvim, Rehber, Mi Hesabı, SIM kart durumu, arama geçmişi ve mesajlara erişmesine izin verin.</string>
   <string name="micloud_request_permission_title">Xiaomi Bulut izinlere ihtiyaç duyuyor</string>
+  <string name="micloud_request_sync_too_frequent">Çok fazla istek var. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="micloud_setting_antispam_summary">İstisnalar ve engellenen telefon numaraları</string>
   <string name="micloud_setting_browser_summary">Yer imleri, geçmiş ve sekmeler</string>
+  <string name="micloud_setting_calendar_summary">Etkinlikler</string>
+  <string name="micloud_setting_calllog_summary">Çağrı geçmişi</string>
   <string name="micloud_setting_contact_summary">Kişilerin bilgileri ve profil fotoğrafları</string>
   <string name="micloud_setting_gallery_summary">Fotoğraflar ve videolar</string>
   <string name="micloud_setting_music_summary">Çalma listeleri ve favoriler</string>
+  <string name="micloud_setting_notes_summary">Notlar</string>
+  <string name="micloud_setting_personal_assistant_summary">Uygulama kasa kartları ve özellikleri</string>
+  <string name="micloud_setting_phrase_summary">Sık kullanılan ifadeler</string>
+  <string name="micloud_setting_recorder_summary">Ses ve çağrı kayıtları</string>
   <string name="micloud_setting_sms_summary">SMS ve MMS mesajları</string>
   <string name="micloud_setting_wifi_summary">WLAN ayarları</string>
   <string name="micloud_space_applist_detail">Ana ekranınızdaki uygulamaları yönetin</string>
@@ -283,13 +302,13 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_sync_alert_dialog_positive">Tamam</string>
   <string name="micloud_sync_alert_dialog_title">Xiaomi Bulut kullan</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">Yalnızca kişiler, takvim etkinlikleri ve notlar eşitlenir. Daha fazla öğe eşitlemek için Xiaomi Bulut ayarlarına gidin.</string>
-  <string name="micloud_manual_sync_now_retry">Tekrar deneyin</string>
   <string name="micloud_sync_result_already_in_progress">Önceki eşitleme işleniyor…</string>
   <string name="micloud_sync_result_auth_exception">Hesap hatası</string>
   <string name="micloud_sync_result_cancel">Eşitleme kesintiye uğradı</string>
   <string name="micloud_sync_result_cloud_storage_full">Eşitlenemiyor. Xiaomi Bulut üzerinde yeterli depolama alanı yok.</string>
   <string name="micloud_sync_result_common_message">Eşitleme kesintiye uğradı. Tekrar deneyin.</string>
   <string name="micloud_sync_result_cta_permission_error">Eşitlemek için ağa bağlanmaya izin verin</string>
+  <string name="micloud_sync_result_get_sim_info_error">SIM kart bilgisi alınamadı. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="micloud_sync_result_internal_error">İç hata</string>
   <string name="micloud_sync_result_io_exception">I/O hatası</string>
   <string name="micloud_sync_result_parse_exception">Veriler ayrıştırılamadı</string>
@@ -297,7 +316,6 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_sync_result_request_error">Eşitleme isteği hatası</string>
   <string name="micloud_sync_result_secure_space_limit">İkinci alandan gelen öğeler eşitlenmesin</string>
   <string name="micloud_sync_result_sim_activated_error">SIM kart etkinleştirilemedi</string>
-  <string name="micloud_sync_result_get_sim_info_error">SIM kart bilgisi alınamadı. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="micloud_sync_result_wifi_only">Bu öğe çok büyük. WLAN bağlandığında eşitleyin.</string>
   <string name="micloud_upgrade_member">Depolama al</string>
   <string name="micloud_user_space_title">Depolama alanı</string>
@@ -321,7 +339,12 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="mx_sub_dspt_provision_with_voip">İnternet çağrısı</string>
   <string name="mx_voip_dspt">Mi Voice</string>
   <string name="no_sim">SIM kart bulunamadı</string>
+  <string name="pay_info_dialog_confirm_to_pay">%s öde</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Kalan Mi Kredilerini kullan: %s</string>
+  <string name="pay_info_dialog_title">Ödeme türünü seçin</string>
   <string name="phone_number_required_dspt_provision">Bu servis için telefon numaranız gerekiyor.</string>
+  <string name="pre_privacy_policy">Gizlilik Politikası</string>
+  <string name="pre_user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">WLAN ağına bağlıyken, yalnızca kişilerin profil resimlerini eşitle</string>
   <string name="pref_title_sync_contacts_title">Kişileri Eşitle</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları sadece WLAN kullanarak eşitle</string>
@@ -399,7 +422,9 @@ Cihazınızı bulma ve kayıp moduna geçiş için
 Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu hizmetleri kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.
 Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt;&lt;u&gt; Kullanıcı Sözleşmemizi &lt;/u&gt;&lt;/a&gt;ve&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;&lt;u&gt; Gizlilik Politikamızı &lt;/u&gt;&lt;/a&gt;"okuyup kabul edin.
 "</string>
+  <string name="privacy_and_agreement">Şartlar ve koşullar</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="provision_sync_items_loading">Öğeler eşitlemeye hazırlanıyor</string>
   <string name="reading_status">Durum yükleniyor…</string>
   <string name="reading_status_failure">Durum yüklenemedi.</string>
   <string name="search_cloudbackup_pref">Bulut Yedekleme</string>
@@ -426,13 +451,18 @@ Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_ag
   <string name="soundrecorder_sync_only_in_wifi">Eşitlemek için için sadece WLAN kullan</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Kaydedici, kayıtları indirmek veya yüklemek için mobil veri kullanmayacak</string>
   <string name="soundrecorder_sync_records">Xiaomi Bulut ile eşitle</string>
+  <string name="storage_manage_expansion">Daha fazlasını alın</string>
+  <string name="storage_manage_list_title">Bulut verileri</string>
+  <string name="storage_manage_list_title_action">Daha fazla göster</string>
+  <string name="storage_manage_renewal">Yenile</string>
+  <string name="storage_manage_title">Bulut depolama planını değiştirin</string>
+  <string name="storage_manage_upgrade">Yükselt</string>
   <string name="sub_alert_notif_content">Xiaomi Bulut\'u açın</string>
   <string name="sub_alert_notif_title">Xiaomi Bulut ile eşitle</string>
   <string name="sub_sync_item_sms_summary">Fotoğraf, ses veya diğer medya içeren mesajları sadece WLAN ağına bağlıyken eşitle</string>
   <string name="sub_sync_item_sms_title_wifi_only">MMS eşitlemesi için sadece WLAN kullan</string>
-  <string name="storage_manage_title">Bulut depolama planını değiştirin</string>
-  <string name="sync_detail_summary_off">Eşitleme kapalı</string>
   <string name="sync_detail_summary_master_sync_off">Eşitleme kapalı</string>
+  <string name="sync_detail_summary_off">Eşitleme kapalı</string>
   <string name="sync_detail_text">Eşitleme ayrıntıları</string>
   <string name="sync_dspt">Eşitle</string>
   <string name="sync_dspt_entrance_provision">Fotoğraflarınızı, notlarınızı ve diğer öğelerinizi tüm cihazlarınızda eşitleyin. Eşitlediğiniz öğelere herhangi bir tarayıcıdan %s adresinden erişin.</string>
@@ -450,13 +480,17 @@ Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_ag
   <string name="sync_item_sms_summary">Bu telefona gönderilen ve alınan SMS\'leri eşitleyin.</string>
   <string name="sync_item_sms_title">Mesajları eşitle</string>
   <string name="sync_item_title">Uygulama verilerini eşitle</string>
+  <string name="sync_normal_summary">Aşağıdaki listedeki bazı öğeler eşitlenemedi</string>
+  <string name="sync_normal_title">Eşitleme tamamlanamadı</string>
   <string name="sync_off">Kapalı</string>
   <string name="sync_on">Açık</string>
+  <string name="sync_setting_title">Eşitleme ayarları</string>
   <string name="sync_sub_1_intl_sms">Bu servisi etkinleştirmek için uluslararası bir SMS mesajı gelmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
   <string name="sync_sub_1_sms">Bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
   <string name="sync_sub_1_sms_1_intl_sms">Bu hizmeti etkinleştirmek için 1 yurtiçi ve 1 uluslararası SMS mesajı gerekebilir. Operatörünüz bu mesajlar için sizden ücret alabilir.</string>
   <string name="sync_sub_2_intl_sms">Bu hizmeti etkinleştirmek için 2 giden uluslararası SMS mesajı gerekebilir. Operatörünüz bu mesajlar için sizden ücret alabilir.</string>
   <string name="sync_sub_2_sms">Bu servisi etkinleştirmek için 2 gönderim mesajı gerekebilir. Operatörünüz bu mesajlar için sizden ücret alabilir.</string>
+  <string name="system_busy_or_network_error">Bir hata oluştu. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="tip_short_cut_added_success">Başarıyla oluşturuldu</string>
   <string name="tip_short_cut_already_added">Oluşturuldu</string>
   <string name="title_back">Geri</string>
@@ -466,6 +500,7 @@ Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_ag
   <string name="user_agreement_link">Xiaomi Bulut Hizmet Şartları</string>
   <string name="user_agreement_title">Xiaomi Bulut Hizmet Şartları</string>
   <string name="user_storage_info_available_text_prefix">%s mevcut</string>
+  <string name="waiting_for_sync">Bekliyor…</string>
   <string name="warning_bar_action_add_short_cut">Ekle</string>
   <string name="warning_bar_action_close">Kapat</string>
   <string name="warning_bar_action_turn_on_master_sync">Aç</string>
@@ -486,39 +521,4 @@ Cihazı Bul\'u kullanmadan önce"&lt;a href="app://com.miui.cloudservice.user_ag
   <string name="wipe_secret_photo_dialog_title">Gizli fotoğraflar eşitlenemiyor</string>
   <string name="xiaomi_cloud_service">Bulut</string>
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>
-  <string name="enable_sync_setting_title">Bulut hizmetleri yapılandırılıyor…</string>
-  <string name="provision_sync_items_loading">Öğeler eşitlemeye hazırlanıyor</string>
-  <string name="pre_privacy_policy">Gizlilik Politikası</string>
-  <string name="pre_user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="privacy_and_agreement">Şartlar ve koşullar</string>
-  <string name="sync_normal_summary">Aşağıdaki listedeki bazı öğeler eşitlenemedi</string>
-  <string name="sync_normal_title">Eşitleme tamamlanamadı</string>
-  <string name="micloud_request_sync_too_frequent">Çok fazla istek var. Bir iki dakika bekleyin ve tekrar deneyin.</string>
-  <string name="waiting_for_sync">Bekliyor…</string>
-  <string name="system_busy_or_network_error">Bir hata oluştu. Bir iki dakika bekleyin ve tekrar deneyin.</string>
-  <string name="sync_setting_title">Eşitleme ayarları</string>
-  <string name="cloud_lab_title">Laboratuvar</string>
-  <string name="cloud_storage_already_used">Doluluk: %1$s/%2$s</string>
-  <string name="cloud_storage_info_type_others">Diğer</string>
-  <string name="cloud_storage_manage_title">Depolamayı yönet</string>
-  <string name="data_protection_title">Verileri koru</string>
-  <string name="cloud_storage_no_data">Henüz bulutta öğe yok</string>
-  <string name="pay_info_dialog_mibi_balance_prefix">Kalan Mi Kredilerini kullan: %s</string>
-  <string name="pay_info_dialog_confirm_to_pay">%s öde</string>
-  <string name="pay_info_dialog_title">Ödeme türünü seçin</string>
-  <string name="micloud_setting_calllog_summary">Çağrı geçmişi</string>
-  <string name="micloud_setting_recorder_summary">Ses ve çağrı kayıtları</string> 
-  <string name="micloud_setting_notes_summary">Notlar</string>
-  <string name="micloud_setting_calendar_summary">Etkinlikler</string>
-  <string name="micloud_setting_personal_assistant_summary">Uygulama kasa kartları ve özellikleri</string>
-  <string name="micloud_setting_phrase_summary">Sık kullanılan ifadeler</string>
-  <string name="micloud_main_head_menu_cloud_backup_summary">Ana ekran düzeni, uygulamalar ve sistem ayarları</string>
-  <string name="micloud_main_head_menu_finddevice_summary">Cihazınız kaybolursa bulun ve kilitleyin</string>
-  <string name="storage_manage_upgrade">Yükselt</string>
-  <string name="storage_manage_expansion">Daha fazlasını alın</string>
-  <string name="storage_manage_renewal">Yenile</string>
-  <string name="storage_manage_list_title">Bulut verileri</string>
-  <string name="storage_manage_list_title_action">Daha fazla göster</string>
-  <string name="cloud_storage_info_type_drive">Mi Drive</string>
-  <string name="cloud_storage_info_type_pdc">Sistem ayarları</string>  
 </resources>

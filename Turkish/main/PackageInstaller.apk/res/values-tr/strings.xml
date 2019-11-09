@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir hata oluştu!</string>
   <string name="abc_action_bar_home_description">Ana Ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Diğer Seçenekler</string>
@@ -30,10 +31,10 @@
   <string name="adb_warning_message">USB Hata Ayıklama yalnızca geliştirme amacıyla kullanılır. Verileri bilgisayarınızla cihazınız arasında kopyalamak, bildirimde bulunmaksızın cihazınıza uygulamaları yüklemek ve günlük verilerini okumak için kullanın.</string>
   <string name="adb_warning_title">USB Hata Ayıklamaya izin verisin mi?</string>
   <string name="additional_permissions">Ek İzinler</string>
+  <string name="allPerms">Tümü</string>
   <string name="all_permissions">Tüm İzinler</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
-  <string name="allPerms">Tümü</string>
   <string name="animator_duration_scale_title">Animatör süresi ölçeği</string>
   <string name="anonymous_source_continue">Devam et</string>
   <string name="anonymous_source_warning">Telefonunuz ve kişisel verileriniz bilinmeyen uygulamaların saldırısına karşı daha savunmasızdır. Bu uygulamayı yükleyerek, telefonunuzun zarar görmesinden veya kullanımından kaynaklanabilecek veri kayıplarından sorumlu olduğunuzu kabul edersiniz.</string>
@@ -288,8 +289,8 @@
   <string name="mock_location_app_not_set">Sahte konum uygulama ayarı yok</string>
   <string name="mock_location_app_set">Sahte konum uygulaması: %1$s</string>
   <string name="never_ask_again">Bir daha sorma</string>
-  <string name="new_permissions_category">Yeni izinler</string>
   <string name="newPerms">Yeni</string>
+  <string name="new_permissions_category">Yeni izinler</string>
   <string name="next">Sonraki</string>
   <string name="no_application">Yok</string>
   <string name="no_apps">Uygulama yok</string>
@@ -304,7 +305,6 @@
   <string name="out_of_space_dlg_text">%1$s yüklenemedi. Biraz boş yer açın ve tekrar deneyin.</string>
   <string name="out_of_space_dlg_title">Yetersiz alan</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
-  <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir hata oluştu!</string>
   <string name="permdesc_togglePermissions">Uygulamanın izinlerini değiştirmesi için sahibinin kullanıcı arayüzünü başlatmasına izin verir. Normal uygulamalar için asla gerekli olmaz.</string>
   <string name="permission_request_title">İzin İsteği</string>
   <string name="permission_review_title_template_install">&lt;b&gt;%1$s&lt;/b&gt; için erişebileceği izinleri seçin</string>

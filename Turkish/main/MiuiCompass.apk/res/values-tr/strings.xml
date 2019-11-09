@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="allow">İzin ver</string>
   <string name="altitude">%.1f</string>
   <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Rakım</string>
@@ -19,6 +20,8 @@
   <string name="calibrate_success">Kalibrasyon yapıldı</string>
   <string name="calibrate_tip">Cihazınızı eğin ve dairenin etrafında topu döndürün</string>
   <string name="calibrate_title">Pusulayı Kalibre Et</string>
+  <string name="cancel">İptal</string>
+  <string name="compass_settings">Ayarlar</string>
   <string name="cta_v2_app_purpose">Yönleri, koordinatları, atmosferik basıncı ve mevcut irtifayı gösterir</string>
   <string name="dialog_body_no_network">Wi-Fi\'ye bağlanın veya mobil veriyi açın.</string>
   <string name="dialog_calibrat_altitude">Kalibre ediliyor...</string>
@@ -51,20 +54,17 @@
   <string name="longitude">BOYLAM</string>
   <string name="mobiledata_alert_dialog_message">Rakım kalibrasyonu için internete bağlanılsın mı?</string>
   <string name="mobiledata_alert_dialog_title">Veri kullanım uyarısı</string>
-  <string name="pressure">%.1f</string>
-  <string name="pressure_title">Basınç</string>
-  <string name="pressure_unit">hPa</string>
-  <string name="shake_enter_tip">Kalibrasyon için telefonu ∞ şeklinde birkaç kez sallayın</string>
-  <string name="using_camera_confirm_cancel">Çık</string>
-  <string name="using_camera_confirm_ok">Katılıyorum</string>
-  <string name="unit_degree">Derece</string>
-  <string name="allow">İzin ver</string>
-  <string name="cancel">İptal</string>
   <string name="open_perm_msg">Pusula için konum bilgisi ve kameraya erişim gerekli. Bu koordinatları belirlemek ve canlı önizleme sağlamak için lazım. İzin verilsin mi?</string>
   <string name="open_perm_title">İzin gerekli</string>
   <string name="permission_camera_desc">Su terazisi olarak kullanma</string>
   <string name="permission_location_desc">Koordinatların ve atmosfer basıncının görüntülenmesi için</string>
   <string name="preference_other">Diğer</string>
   <string name="preference_privacy_title">Gizlilik Politikası</string>
-  <string name="compass_settings">Ayarlar</string>  
+  <string name="pressure">%.1f</string>
+  <string name="pressure_title">Basınç</string>
+  <string name="pressure_unit">hPa</string>
+  <string name="shake_enter_tip">Kalibrasyon için telefonu ∞ şeklinde birkaç kez sallayın</string>
+  <string name="unit_degree">Derece</string>
+  <string name="using_camera_confirm_cancel">Çık</string>
+  <string name="using_camera_confirm_ok">Katılıyorum</string>
 </resources>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_frequency_duplicate">Bu frekans zaten var</string>
   <string name="alert_invalid_frequency">Geçersiz frekans</string>
@@ -23,6 +23,7 @@
   <string name="menu_headset">Kulaklığa geç</string>
   <string name="menu_label">Menü</string>
   <string name="menu_new_station">Ekle</string>
+  <string name="menu_privacy">Gizlilik Politikası</string>
   <string name="menu_record_list">Kayıt Listesi</string>
   <string name="menu_record_start">Kaydı Başlat</string>
   <string name="menu_record_stop">Kaydı Durdur</string>
@@ -38,6 +39,9 @@
   <string name="msg_try_plug_headset">Kulaklıkları takın ve tekrar deneyin.</string>
   <string name="new_frequency">Yeni Frekans</string>
   <string name="next_station">Sonraki istasyon</string>
+  <string name="noheadset_dialog_info">FM sinyalleri zayıf olabilir, çevrimiçi içerik öner</string>
+  <string name="noheadset_dialog_insert">Kulaklık takın</string>
+  <string name="noheadset_dialog_more">Daha fazla radyo dinle</string>
   <string name="notification_rec_title">Kaydı görüntülemek için dokunun</string>
   <string name="pre_station">Önceki istasyon</string>
   <string name="record_completed">Kayıt tamamlandı</string>
@@ -67,8 +71,4 @@
   <string name="using_recorder_dialog_message">FM, cihazın Kaydedici hizmetini kulanır.</string>
   <string name="using_recorder_dialog_title">İzin Erişimi</string>
   <string name="view_stations_list">İstasyon listesini görüntüle</string>
-  <string name="menu_privacy">Gizlilik Politikası</string>
-  <string name="noheadset_dialog_info">FM sinyalleri zayıf olabilir, çevrimiçi içerik öner</string>
-  <string name="noheadset_dialog_insert">Kulaklık takın</string>
-  <string name="noheadset_dialog_more">Daha fazla radyo dinle</string>  
 </resources>

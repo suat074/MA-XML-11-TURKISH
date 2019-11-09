@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_title_ad">Reklamlar</string>
   <string name="activity_title_apk">Paketler</string>
@@ -449,9 +449,9 @@
   <string name="recommend_news">Tavsiyeleri al</string>
   <string name="recommend_the_following">Cihazınızdan en iyi şekilde yararlanmak için aşağıdaki işlemleri yapın</string>
   <string name="recommended">Öne çıkan</string>
-  <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> daha fazla dosya temizlenebilir. Daha fazla alan boşaltın.</Data>" "</string>
-  <string name="resutl_function_qq_clean_summary">" "<Data>QQ tarafından oluşturulan &lt;font color=#ff0000 >%1$s&lt;/font> önbelleği temizleyebilirsiniz.</Data>" "</string>
-  <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat önbelleği. Daha fazla alan boşaltın.</Data>" "</string>
+  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; daha fazla dosya temizlenebilir. Daha fazla alan bo&amp;#351;alt&amp;#305;n.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;QQ taraf&amp;#305;ndan olu&amp;#351;turulan &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; &amp;#246;nbelle&amp;#287;i temizleyebilirsiniz.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; WeChat &amp;#246;nbelle&amp;#287;i. Daha fazla alan bo&amp;#351;alt&amp;#305;n.&lt;/Data&gt;" "</string>
   <string name="sc_allow_network_dialog_button">İzin ver</string>
   <string name="sc_allow_network_dialog_message">Güncellemeleri almak için bu uygulamanın internete bağlanmasına izin verilsin mi?</string>
   <string name="scanning">Taranıyor…</string>

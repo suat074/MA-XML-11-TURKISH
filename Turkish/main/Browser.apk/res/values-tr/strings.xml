@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ana sayfaya git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
@@ -184,13 +184,13 @@
   <string name="cancle_sync_cloud_tabs">Eşitlemeyi iptal et</string>
   <string name="cannot_download">Sadece \"http\" veya \"https\" adreslerinden indirilebilir</string>
   <string name="cast_video">Video yayınla</string>
-  <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
   <string name="channel_complete">Tamamlandı</string>
   <string name="channel_edit">Düzenle</string>
   <string name="channel_header_description">Tıklayın, uzun basın düzenlemesi</string>
   <string name="channel_header_title">Benim kanalım</string>
   <string name="channel_more_description">Kanal eklemek için tıklayın</string>
   <string name="channel_more_title">Daha fazla kanal</string>
+  <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
   <string name="check_security_tip_privacy_policy">Gizlilik Politikası</string>
   <string name="check_security_tip_user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="checking_now">Kontrol ediliyor...</string>
@@ -436,11 +436,11 @@
   <string name="ignore_add_pwa_dialog_today">Bugün gösterme</string>
   <string name="in_secureaccess">Tarayıcı Güvenli moda geçti</string>
   <string name="info_flow_description">Bilgi kanalı</string>
+  <string name="isReplacePage">Dosya zaten var, değiştirilsin mi?</string>
   <string name="is_first_tab">Bu ilk sekme</string>
   <string name="is_last_tab">Bu son sekme</string>
   <string name="is_page_bottom">Sayfanın altına ulaştınız</string>
   <string name="is_page_top">Sayfanın en üstündesiniz</string>
-  <string name="isReplacePage">Dosya zaten var, değiştirilsin mi?</string>
   <string name="js_disable_confirm_title">JavaScript devredışı bırakılsın mı?</string>
   <string name="keep_queued_download">Koru</string>
   <string name="load_error_tip">Yükleme hatası, tekrar deneye tıklayın</string>
@@ -686,6 +686,7 @@
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi ağı kullanılabilir</string>
   <string name="next_button_label">Sonraki</string>
   <string name="no_app_open_document">Bu eylemi çalıştıracak uygulama yok</string>
+  <string name="no_memory_space">hafıza alanı yok</string>
   <string name="no_space_alert_cancel">Sonra</string>
   <string name="no_space_alert_clean">Boş alan</string>
   <string name="no_space_alert_text">Yeterli depolama alanı yok</string>
@@ -1045,9 +1046,9 @@
   <string name="suggestion_sliding_item_more_text">DAHA FAZLA GÖR</string>
   <string name="suggestion_topic_subtitle_hyphen">Odak</string>
   <string name="suggestion_translation_more">DAHA FAZLA GÖSTER</string>
+  <string name="switchText">EVET</string>
   <string name="switch_proxy_dialog_msg">"Ağı ele geçirme algılandı. MIUI\'nin yerleşik Güvenlik uygulamasını kullanın veya bunu operatörünüze raporlayın. "</string>
   <string name="switch_proxy_dialog_title">Ağı Ele Geçirme!</string>
-  <string name="switchText">EVET</string>
   <string name="sync_and_backup_bookmark">Yer işaretlerini senkronize etme ve yedekleme</string>
   <string name="sync_and_backup_history">Senkronize etme ve yedekleme geçmişi</string>
   <string name="sync_cloud_tabs">Eşitle</string>
@@ -1074,10 +1075,10 @@
   <string name="translation_query_error">Çeviri yapılamadı</string>
   <string name="translation_query_error_network">Bilgi alınamadı. Ağa bağlanın ve tekrar deneyin.</string>
   <string name="translation_result_copy">Panoya kopyalandı</string>
+  <string name="unSwitchText">HAYIR</string>
   <string name="undo">Geri al</string>
   <string name="unknown_title">Bilinmiyor</string>
   <string name="unsecurity_url_toast">Bu web sitesi güvenli değil</string>
-  <string name="unSwitchText">HAYIR</string>
   <string name="up_to_loading_tips">Yenilemek için bırakın</string>
   <string name="update_no_network_toast">Ağa bağlanamıyor</string>
   <string name="uploads_disabled">Dosya yüklemeleri devre dışı</string>
@@ -1177,7 +1178,6 @@
   <string name="voice_title_please">Konuşmaya başlayın...</string>
   <string name="voice_title_speech_again">Seni anlayamadım</string>
   <string name="webpage_title">Yer işaretleri &amp; Geçmiş</string>
-  <string name="window_manager_hybrid_application_list_title_text">Son Kullanılanlar</string>
-  <string name="no_memory_space">hafıza alanı yok</string>
   <string name="wechat_not_installed">Wechat yüklü değil</string>
+  <string name="window_manager_hybrid_application_list_title_text">Son Kullanılanlar</string>
 </resources>

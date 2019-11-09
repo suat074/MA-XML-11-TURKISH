@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_face_dialog_face_icon">Yüz simgesi</string>
   <string name="ask_me_later_bubbles">Daha sonra sor</string>
@@ -65,9 +65,9 @@
   <string name="tap_to_sign_up">Kaydolmak için dokunun</string>
   <string name="wifi_disconnected">Bağlı değil</string>
   <string name="wifi_limited_connection">Sınırlı bağlantı</string>
-  <string name="wifi_security_eap">WPA/WPA2-Kurumsal</string>
   <string name="wifi_scan_throttling">WLAN tarama azaltma</string>
   <string name="wifi_scan_throttling_summary">Pil tüketimini azaltır &amp; ağ performansını iyileştirir</string>
+  <string name="wifi_security_eap">WPA/WPA2-Kurumsal</string>
   <string name="yes_bubbles">İzin ver</string>
   <string name="zen_mode_forever">Siz kapatana kadar</string>
 </resources>
