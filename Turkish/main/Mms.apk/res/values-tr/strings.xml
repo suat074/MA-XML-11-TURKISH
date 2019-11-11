@@ -97,6 +97,7 @@
   <string name="click_to_update">Güncellemeleri kontrol etmek için dokunun</string>
   <string name="click_to_view">Görüntülemek için dokunun</string>
   <string name="close">Kapat</string>
+  <string name="cloud_recommend_view_tip">Önemli mesajları istediğiniz zaman geri yüklemek için bulutla eşitlemeyi açın</string>
   <string name="cloud_state_disabled">Mesajları eşitlemek için bulutla eşitlemeyi aç</string>
   <string name="cloud_state_sync_finished">Xiaomi Bulut ile eşitlendi</string>
   <string name="cloud_state_syncing">Xiaomi Bulut ile eşitleniyor…</string>
@@ -141,6 +142,7 @@
   <string name="confirm_restore_title">Mesajları geri yükle</string>
   <string name="confirm_send_mms">Alıcılarınızdan biri bir e-posta adresi içeriyor. Bu mesaj bir MMS olarak gönderilir ve bu durum operatörünüzden ekstra ücretlendirme ile sonuçlanabilir.</string>
   <string name="confirm_upload_sms">Engelleme listesi işlevselliğini geliştirmek için mesajlar yükleyin</string>
+  <string name="contact_card_unknown_contact">Bilinmeyen kişi</string>
   <string name="contact_not_exists">Bu kişi sizin kişi listenizde yok.</string>
   <string name="context_menu_add_calendar">Takvime ekle</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>

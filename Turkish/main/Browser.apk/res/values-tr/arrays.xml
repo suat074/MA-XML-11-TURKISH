@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="quick_link_tabs">
+    <item>Yer imleri</item>
+    <item>Geçmiş</item>
+  </string-array>
   <string-array name="pref_fling_gesture_entries">
     <item>Sayfa geri ileri</item>
     <item>Sekmeleri değiştir</item>

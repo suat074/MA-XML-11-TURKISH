@@ -12,6 +12,7 @@
   <string name="call_record_list_group_all">Tümü</string>
   <string name="call_record_list_group_connected">Bağlı</string>
   <string name="call_record_list_group_unconnected">Bağlı değil</string>
+  <string name="cancel_rename">İptal</string>
   <string name="clear_records">Eşitlenmiş kayıtları sil</string>
   <string name="cloud_record">%d eşitlendi</string>
   <string name="cloud_record_open">Kayıtları eşitle</string>
@@ -75,6 +76,7 @@
   <string name="korea_permission_record_resc">Ses kaydı için</string>
   <string name="korea_permission_storage">Depolama</string>
   <string name="korea_permission_storage_desc">Kayıtları kaydetmek için</string>
+  <string name="loading_more">Sadece bir saniye…</string>
   <string name="loading_order_list">Siparişler yükleniyor</string>
   <string name="loading_order_list_empty">boş</string>
   <string name="loading_recording">Kayıtlar yükleniyor</string>
