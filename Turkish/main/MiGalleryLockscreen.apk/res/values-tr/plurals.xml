@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="article_num">
+    <item quantity="other">%d makale</item>
+    <item quantity="one">%d makale</item>
+  </plurals>
   <plurals name="feed_article_entrance_title">
     <item quantity="other">Size önerilen %s makaleyi görüntüleyin</item>
     <item quantity="one">Size önerilen %s makaleyi görüntüleyin</item>
