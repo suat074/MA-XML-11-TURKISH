@@ -197,4 +197,5 @@
   <string name="volume_boost_text">Ses seviyesi başarıyla artırıldı</string>
   <string name="wait_prompt_str">Aşağıdaki sesleri gönder\n</string>
   <string name="waiting_close_airplane_mode">Sadece bir saniye…</string>
+  <string name="wifi_call">VoWifi çağrısı</string>
 </resources>

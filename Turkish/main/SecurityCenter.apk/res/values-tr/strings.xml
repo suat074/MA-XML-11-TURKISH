@@ -13,7 +13,7 @@
   <string name="ac_enter_applock">Uygulama kilidini girin</string>
   <string name="ac_firstUseApplock_subTitle">Sistem düzeyinde en iyi güvenlik araçlarını kullanın</string>
   <string name="ac_firstUseApplock_title">Uygulamalarınızı korumak için bir şifre belirleyin</string>
-  <string name="ac_mask_all_apps">Tüm uygulamalar için gizle</string>
+  <string name="ac_mask_all_apps">Herkes için gizle</string>
   <string name="ac_notification_contentText">Açmak için dokunun</string>
   <string name="ac_notification_contentTitle">Uygulama kilidi ile uygulamaları koruyun</string>
   <string name="ac_post_notification_contentText">Sistem düzeyinde koruma sağlayın</string>
@@ -22,7 +22,7 @@
   <string name="ac_pre_notification_contentTitle">Uygulama kilidini deneyin</string>
   <string name="ac_summaryOff">Kapatıldı, uygulamaları açmak için şifre gerekmez</string>
   <string name="ac_summaryOn">Korumalı uygulamaları açmak için şifreyi girin</string>
-  <string name="ac_unmask_all_apps">Tüm uygulamalar için göster</string>
+  <string name="ac_unmask_all_apps">Herkes için göster</string>
   <string name="access_control_app_is_launching">Uygulama başlatılıyor</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Yeni bir parmak izi ile kilidi açmadan önce şifreyi girin</string>
   <string name="access_control_fingerprint_not_identified_msg">Parmak izi okunamadı.</string>
@@ -1449,8 +1449,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="notification_exit_power_save_mode_subtitle">Pil %s şarj edildi.</string>
   <string name="notification_mask_summary">Korunan uygulamalar için bildirim içeriğini görüntüleme</string>
   <string name="notification_mask_title">Bildirim içeriğini gizle</string>
-  <string name="notification_masked_item">Bildirimleri gizle</string>
-  <string name="notification_masked_subtitle">Uygulama kilidi ile korunan uygulamaların bildirimlerini gizle</string>
+  <string name="notification_masked_item">Bildirim içeriği nasıl gizlenir?</string>
+  <string name="notification_masked_subtitle">Seçilen uygulamalarda bildirim içeriğini gizlemek için Uygulama kilidini kullanın</string>
   <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun.</string>
   <string name="notify_channel_mipush">Güvenlik push mesajları</string>
   <string name="notify_channel_name_security">Sistem güvenliği</string>
@@ -1675,6 +1675,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="power_center_power_save_summary_text">Kalan süreyi %1$ds %2$dd kadar artırabilirsiniz</string>
   <string name="power_center_power_save_title_text">Pil tasarrufu</string>
   <string name="power_center_repeat">Tekrarla</string>
+  <string name="power_center_scan_item_title_5g">5G bağlantısı</string>
   <string name="power_center_scan_item_title_GPS">GPS doğruluğunu ayarla</string>
   <string name="power_center_scan_item_title_abnormal">Pil sorunları</string>
   <string name="power_center_scan_item_title_abnormal_apps">Pili boşaltan uygulamalar</string>
@@ -1705,6 +1706,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="power_dialog_cancel">İptal</string>
   <string name="power_dialog_ok">Tamam</string>
   <string name="power_dialog_super_save_msg">Ultra pil tasarrufu, güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin (örneğin, çağrılar, SMS ve ağa bağlanma) mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını azaltır. Ultra pil tasarrufu açılsın mı?</string>
+  <string name="power_dialog_super_save_msg_5g">Ultra pil tasarrufu, cihazınızın performansını düşürerek çoğu güç tüketen özelliği (örneğin 5G bağlantısı) kısıtlar. Yalnızca çağrılarlar, mesajlar ve ağ bağlantısı bundan etkilenmez. Ultra pil tasarrufu açılsın mı?</string>
   <string name="power_dialog_super_save_title">Ultra pil tasarrufu</string>
   <string name="power_idle">Telefon boşta</string>
   <string name="power_main_battery_last_day_hour">%1$sg %2$ss kaldı</string>
@@ -1716,6 +1718,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="power_optimize_btn_text_fixed">Optimize edildi</string>
   <string name="power_optimize_catagory_fixed_title">Optimize edildi</string>
   <string name="power_optimize_close_app">Aşırı güç tüketen uygulamaları kapatın</string>
+  <string name="power_optimize_disable_5g">5G bağlantısını kısıtla</string>
   <string name="power_optimize_disable_app_autostart">Uygulamaların otomatik olarak açılmasını önle</string>
   <string name="power_optimize_disable_gps">GPS\'i kapat</string>
   <string name="power_optimize_disable_start_other_app">Uygulamaların diğer uygulamaları açmasını önleyin</string>
@@ -1738,6 +1741,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="power_save_on_time_start_time_summary_na">Bitiş</string>
   <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
   <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapat</string>
+  <string name="power_save_ps_close_setting_5g">Güç tüketen özellikleri sınırlayın (eşitleme, 5G bağlantısı, GPS)</string>
   <string name="power_save_ps_freeze">Arka planda uygulamaları dondur</string>
   <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>
   <string name="power_save_settings">Pil ayarları</string>
@@ -1843,6 +1847,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="preferred_app_entries_launcher">Başlatıcı</string>
   <string name="preferred_app_entries_messaging">Mesajlaşma</string>
   <string name="preferred_app_entries_music">Müzik</string>
+  <string name="privacyapp_number_masked_text">Bildirim içeriği gizli</string>
+  <string name="privacyapp_number_unmasked_text">Bildirim içeriği gizlenebilir</string>
   <string name="privacy_apps">Gizli uygulamalar</string>
   <string name="privacy_apps_begin_use">Başla</string>
   <string name="privacy_apps_button_know">Anladım</string>
@@ -2202,7 +2208,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="still_retain_btn">Tut</string>
   <string name="stop_milink_connect">Yansıtma durduruldu</string>
   <string name="suggest_app_tolock">Öneriler</string>
-  <string name="suggest_app_tolock_masked">Gizli</string>
+  <string name="suggest_app_tolock_masked">İçerik gizlendi</string>
   <string name="suggest_app_tolock_unmasked">Görünür bildirimler</string>
   <string name="suggest_scan_again">Güvenlik risklerini önlemek için taramayı tamamlayın.</string>
   <string name="summary_app_lock_disable">Verilerinizi Uygulama kilidiyle koruyun</string>
