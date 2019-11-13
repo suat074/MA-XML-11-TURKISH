@@ -292,6 +292,8 @@
   <string name="available_via_carrier">%1$s üzerinden kullanılabilir</string>
   <string name="available_via_passpoint">%1$s üzerinden kullanılabilir</string>
   <string name="back">Geri</string>
+  <string name="band_24G">" (2.4 GHz bant)"</string>
+  <string name="band_5G">" (5 GHz bant)"</string>
   <string name="battery">Pil</string>
   <string name="battery_can_use_time">Yaklaşık %s kaldı</string>
   <string name="battery_detail_charging_summary">Şarj sırasında pil tasarrufu yok</string>

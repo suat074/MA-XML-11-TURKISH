@@ -109,10 +109,9 @@ OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu ola
   <string name="throwing_screen">Yansıt</string>
   <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
   <string name="transfer_intercept_to_remote">Gönderilemedi: %1$s</string>
-  <string name="transfer_to_pc_summary">"Telefonunuzdaki öğeleri Mi Notebook\'lara veya bir dizüstü bilgisayardan diğerine göndermek için Dosya Paylaşımı\'nı kullanabilirsiniz.
-Uyumlu cihazların listesini web sitemizde bulabilirsiniz. Dizüstü bilgisayarınız listede bulunuyorsa, ancak Dosya Paylaşımı yüklü değilse, dizüstü bilgisayarınızın BIOS ve ağ bağdaştırıcısı sürücüsünü güncelleyin ve Dosya Paylaşımı\'nı indirin."</string>
+  <string name="transfer_to_pc_summary">Mi Dizüstü bilgisayarlarda yüklü olan AIoT yazılımının en son sürümü Dosya Paylaşımı ile uyumludur. Desteklenen dizüstü bilgisayar modellerinin listesini MIUI web sitesinde kontrol edebilirsiniz. Dizüstü bilgisayarınız listede bulunuyorsa, ancak AIoT yüklü değilse, dizüstü bilgisayarınızın BIOS ve ağ bağdaştırıcısı sürücüsünü güncelleyin ve AIoT yazılımını indirin.</string>
   <string name="transfer_to_pc_title">Dosyaları bilgisayarlara gönder</string>
-  <string name="transfer_to_phone_summary">Dosya Paylaşımı, görüntüleri ve dosyaları yakındaki Mi Telefonlara ve diğer uyumlu cihazlara göndermenize olanak sağlar.</string>
+  <string name="transfer_to_phone_summary">Bildirim alanındaki anahtarı kullanarak Dosya Paylaşımı\'nı açın. Bundan sonra, bir fotoğrafı veya dosyayı paylaşmaya başladığınızda yakındaki cihazları görebileceksiniz. Paylaşmakta olduğunuz öğeyi göndermek için alıcı cihaza dokunun.</string>
   <string name="transfer_to_phone_title">Telefonlara dosya gönder</string>
   <string name="unkonw_device">Bilinmeyen aygıt</string>
   <string name="unrecognized_manufacture">Bilinmeyen</string>
