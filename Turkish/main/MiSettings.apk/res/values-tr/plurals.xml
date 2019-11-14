@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="last_several_days">
+    <item quantity="other">%d gün</item>
+    <item quantity="one">%d gün</item>
+  </plurals>
+  <plurals name="trend_from_last_several_day_equal">
+    <item quantity="other">Bugünkü ekran süresi %d günlük ortalamanıza eşittir</item>
+    <item quantity="one">Bugünkü ekran süresi %d günlük ortalamanıza eşittir</item>
+  </plurals>
+  <plurals name="trend_from_last_several_day_less">
+    <item quantity="other">Bugün %d günlük ortalamanızdan %2$s daha az ekran süresi</item>
+    <item quantity="one">Bugün %d günlük ortalamanızdan %2$s daha az ekran süresi</item>
+  </plurals>
+  <plurals name="trend_from_last_several_day_more">
+    <item quantity="other">Bugün %d günlük ortalamanızdan %2$s daha fazla ekran süresi</item>
+    <item quantity="one">Bugün %d günlük ortalamanızdan %2$s daha fazla ekran süresi</item>
+  </plurals>
   <plurals name="usage_state_device_explain_today">
     <item quantity="other">%d kez kilit açıldı</item>
     <item quantity="one">%d kez kilit açıldı</item>
