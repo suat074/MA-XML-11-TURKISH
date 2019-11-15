@@ -56,7 +56,7 @@
   <string name="gamebox_no_network_btn">Tekrar yükle</string>
   <string name="gb_alipays_can_not_complete">Ödeme tamamlanamıyor. Devam etmek için yükleyin.</string>
   <string name="gb_weixinpay_can_not_complete">Ödeme tamamlanamıyor. Devam etmek için yükleyin.</string>
-  <string name="gdpr_msg">&lt;Data&gt;"G&amp;#252;venlik temel &amp;#246;zelliklerini kullanmak i&amp;#231;in, G&amp;#252;venlik &amp;#246;zelliklerini (&amp;#246;rne&amp;#287;in, mobil veri kullan&amp;#305;m istatistikleri, k&amp;#246;t&amp;#252; ama&amp;#231;l&amp;#305; yaz&amp;#305;l&amp;#305;mlarla ilgili bilgiler ve ayr&amp;#305;ca cihaz&amp;#305;n&amp;#305;zla ilgili temel bilgiler) ve &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Gizlilik Politikas&amp;#305;&amp;lt;/a&amp;gt;nda belirtilen di&amp;#287;er bilgi t&amp;#252;rlerini i&amp;#231;eren bilgiler de dahil olmak &amp;#252;zere Xiaomi'nin ki&amp;#351;isel verilerinizi toplayaca&amp;#287;&amp;#305;n&amp;#305;, i&amp;#351;leyece&amp;#287;ini ve kullanaca&amp;#287;&amp;#305;n&amp;#305; kabul etmelisiniz."&lt;/Data&gt;</string>
+  <string name="gdpr_msg"><Data>"Güvenlik temel özelliklerini kullanmak için, Güvenlik özelliklerini (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılımlarla ilgili bilgiler ve ayrıca cihazınızla ilgili temel bilgiler) ve &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikası&lt;/a>nda belirtilen diğer bilgi türlerini içeren bilgiler de dahil olmak üzere Xiaomi'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmelisiniz."</Data></string>
   <string name="lucky_result_title">Kırmızı zarflar</string>
   <string name="main_toolbar_purchase">Kontör</string>
   <string name="miuishare_title_more">Fazlası</string>

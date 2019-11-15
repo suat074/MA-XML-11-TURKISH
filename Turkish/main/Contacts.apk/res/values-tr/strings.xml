@@ -709,7 +709,7 @@
   <string name="missing_name">(İsimsiz)</string>
   <string name="missing_required_permission">Gerekli bir izni devre dışı bıraktınız.</string>
   <string name="mobile_equipment_identification">Mobil Ekipman Tanımlama</string>
-  <string name="more_call_logs">&lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt; sitesinden detaylı çağrı geçmişini görüntüle</string>
+  <string name="more_call_logs">&lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a> sitesinden detaylı çağrı geçmişini görüntüle</string>
   <string name="move_and_resize">Taşı ve yeniden boyutlandır</string>
   <string name="multi_number_menu_call">Ara</string>
   <string name="multi_number_menu_delete">Sil</string>
@@ -752,12 +752,12 @@
 
 Favoriler listenize bir kişi eklemek için:
 
-"&lt;li&gt;&lt;b&gt;Ki&amp;#351;iler&lt;/b&gt;" sekmesine dokunun
-"&lt;/li&gt;" 
-"&lt;li&gt;"Favorilerinize eklemek istedi&amp;#287;iniz ki&amp;#351;iye dokunun
-"&lt;/li&gt;" 
-"&lt;li&gt;"Ki&amp;#351;inin ad&amp;#305;n&amp;#305;n yan&amp;#305;ndaki y&amp;#305;ld&amp;#305;za dokunun
-"&lt;/li&gt;"
+"<li>&lt;b>Kişiler&lt;/b>" sekmesine dokunun
+"</li>" 
+"<li>"Favorilerinize eklemek istediğiniz kişiye dokunun
+"</li>" 
+"<li>"Kişinin adının yanındaki yıldıza dokunun
+"</li>"
 "</string>
   <string name="noGroups">Grup yok</string>
   <string name="noMatchingContacts">Eşleşen kişi bulunamadı.</string>
@@ -1113,9 +1113,9 @@ Favoriler listenize bir kişi eklemek için:
   <string name="t9_search_empty_send_sms">Mesaj gönder</string>
   <string name="t9_search_empty_video_call">Görüntülü çağrı</string>
   <string name="t9_search_guide_pinyin_title1">Kişileri bulmak için numaraları girin</string>
-  <string name="t9_search_guide_pinyin_title2">&lt;font fgcolor=""&gt;Z&lt;/font&gt;ehra &lt;font fgcolor=""&gt;H&lt;/font&gt;an&amp;#305;m ki&amp;#351;isini aramak i&amp;#231;in 9 ve 4 girin</string>
+  <string name="t9_search_guide_pinyin_title2">&lt;font fgcolor="">Z&lt;/font>ehra &lt;font fgcolor="">H&lt;/font>anım kişisini aramak için 9 ve 4 girin</string>
   <string name="t9_search_guide_zhuyin_title1">Kişileri bulmak için numaraları girin</string>
-  <string name="t9_search_guide_zhuyin_title2">&lt;font fgcolor=""&gt;J&lt;/font&gt;ale &lt;font fgcolor=""&gt;M&lt;/font&gt;erve ki&amp;#351;isini aramak i&amp;#231;in 5 ve 6 girin</string>
+  <string name="t9_search_guide_zhuyin_title2">&lt;font fgcolor="">J&lt;/font>ale &lt;font fgcolor="">M&lt;/font>erve kişisini aramak için 5 ve 6 girin</string>
   <string name="take_new_photo">Yeni fotoğraf çek</string>
   <string name="take_photo">Fotoğraf çek</string>
   <string name="title_other_devices">Diğer mevcut cihazlar</string>

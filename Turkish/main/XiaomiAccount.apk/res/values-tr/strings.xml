@@ -93,7 +93,7 @@
   <string name="change_phone_number">Telefon numarasını değiştir</string>
   <string name="cloud_service">Xiaomi Bulut</string>
   <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
-  <string name="com_facebook_device_auth_instructions">&lt;b&gt;facebook.com/device&lt;/b&gt; adresini ziyaret edin ve yukarıda gösterilen kodu girin.</string>
+  <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> adresini ziyaret edin ve yukarıda gösterilen kodu girin.</string>
   <string name="com_facebook_image_download_unknown_error">Resim indirilirken beklenmeyen bir hata oluştu.</string>
   <string name="com_facebook_internet_permission_error_message">WebView girişi, İNTERNET izni gerektirir</string>
   <string name="com_facebook_internet_permission_error_title">AndroidManifest Hatası</string>
@@ -240,7 +240,7 @@
   <string name="notify_network_restricted_title">Mi Hesabı ağa bağlanamadı</string>
   <string name="oauth_get_scopes_failed">Hesap bilgisi alınamadı</string>
   <string name="oauth_getting_scopes">Hesap doğrulanıyor…</string>
-  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; şu izinleri istiyor:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> şu izinleri istiyor:&lt;br> &lt;br> %3$s</string>
   <string name="oauth_title">Mi Hesabıyla oturum aç</string>
   <string name="ok">Tamam</string>
   <string name="optional_permissions">İsteğe bağlı izinler</string>
@@ -273,7 +273,7 @@
   <string name="passport_completed">Tamam</string>
   <string name="passport_confirm_login">Devam et</string>
   <string name="passport_confirm_recycle_account">Evet</string>
-  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red&gt;Görünüşe göre&lt;/font&gt; %s numarası operatörünüz tarafından iptal edildi, ve onunla ilişkili bir Mi Hesabı var. Bu hesap senin mi?</string>
+  <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Görünüşe göre&lt;/font> %s numarası operatörünüz tarafından iptal edildi, ve onunla ilişkili bir Mi Hesabı var. Bu hesap senin mi?</string>
   <string name="passport_continue">Devam et</string>
   <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
   <string name="passport_copy_message_vcode">Kodu kopyala</string>
@@ -311,12 +311,12 @@
   <string name="passport_failed_to_send_activate_email">Etkinleştirme E-Postası gönderilemedi</string>
   <string name="passport_find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com adresini ziyaret edin.</string>
   <string name="passport_first_login_prompt">İlk kez oturum açtığınızda, Mi Hesabı otomatik olarak oluşturulacaktır.</string>
-  <string name="passport_forget_password">&lt;u&gt;&amp;#350;ifremi unuttum&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>Şifremi unuttum</u></string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
   <string name="passport_get_innetdate_agree">Kontrol</string>
   <string name="passport_get_innetdate_disagree">Hayır</string>
-  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Görünüşe göre&lt;/font&gt; %s numarası operatörünüz tarafından iptal edilmiş. Numaranın ne zaman çevrimiçi olduğunu kontrol et?</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red>Görünüşe göre&lt;/font> %s numarası operatörünüz tarafından iptal edilmiş. Numaranın ne zaman çevrimiçi olduğunu kontrol et?</string>
   <string name="passport_get_innetdate_title">Numaranın ne zaman çevrimiçi olduğuna bak</string>
   <string name="passport_get_verify_code">Kodu al</string>
   <string name="passport_getting_activator_phone">SIM bilgileri alınıyor…</string>
@@ -369,7 +369,7 @@
   <string name="passport_quick_login_step2_title">2 adımlı doğrulama</string>
   <string name="passport_quick_login_title">Şifrenizi girin</string>
   <string name="passport_quick_register">Kaydol</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;\"Mi hesab&amp;#305;n&amp;#305;z yok mu? Bir tane olu&amp;#351;tur.\"&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">&lt;u>\"Mi hesabınız yok mu? Bir tane oluştur.\"&lt;/u></string>
   <string name="passport_re_get_verify_code">Kodu tekrar al</string>
   <string name="passport_re_register">Tekrar oturum açın</string>
   <string name="passport_recycle_account_prompt">Bu sizin Mi Hesabınız mı?</string>
@@ -383,7 +383,7 @@
   <string name="passport_reg_success">Hesabınız oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s hesabınıza bağlı. Oturum açmak veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
   <string name="passport_reg_type_email">E-posta adresi</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Alternatif telefon numaras&amp;#305; kullan&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone">&lt;u>Alternatif telefon numarası kullan&lt;/u></string>
   <string name="passport_reg_using_other_phone_number_prompt">Yeni bir hesap kullanarak oluşturun</string>
   <string name="passport_reg_using_phone_number_prompt">Telefon numarasını kullanarak hesap oluşturun</string>
   <string name="passport_reg_via_sms_alert">Bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
@@ -391,7 +391,7 @@
   <string name="passport_register">Hesap oluştur</string>
   <string name="passport_register_account_goto_email">Gelen kutusuna git</string>
   <string name="passport_register_account_verified_confirm">Hesap doğrulandı</string>
-  <string name="passport_register_by_email">&lt;u&gt;E-posta adresini kullanarak bir hesap olu&amp;#351;turun&lt;/u&gt;</string>
+  <string name="passport_register_by_email">&lt;u>E-posta adresini kullanarak bir hesap oluşturun&lt;/u></string>
   <string name="passport_register_restricted">Bu numarayla ilişkilendirilmiş çok fazla hesap var, farklı bir hesap deneyin</string>
   <string name="passport_register_restricted_title">Bu telefon numarası kullanılamıyor</string>
   <string name="passport_register_using_other_ways">Hesap oluşturmak için diğer yollar</string>
@@ -445,7 +445,7 @@
   <string name="passport_use_generated_pwd_message">Unutmayacağınız bir şifre kullanın. Diğer Mi Hizmetleri içinde aynı şifreyi kullanabilirsiniz.</string>
   <string name="passport_use_generated_pwd_title">Şifrenizi unutmayın!</string>
   <string name="passport_user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="passport_user_agreement_link">&lt;Data&gt;"Xiaomi &amp;lt;a href=%1$s&amp;gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;mesi&amp;lt;/a&amp;gt; ve &amp;lt;a href=%2$s&amp;gt;Gizlilik Politikas&amp;#305;&amp;lt;/a&amp;gt; okudum ve kabul ediyorum."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_link"><Data>"Xiaomi &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikası&lt;/a> okudum ve kabul ediyorum."</Data></string>
   <string name="passport_user_agreement_p1">Kabul ediyorum</string>
   <string name="passport_user_agreement_p2">Kullanıcı Sözleşmesi</string>
   <string name="passport_user_agreement_p3">" ve"</string>

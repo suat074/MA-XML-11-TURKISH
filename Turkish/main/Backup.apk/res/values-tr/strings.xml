@@ -212,7 +212,7 @@
   <string name="import_from_xiaomi_account_hint2"> Mevcut bir yedeğiniz varsa, Sonraki tuşuna dokunun.</string>
   <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
   <string name="import_tip_summary">Uyumluluk sorunlarından dolayı, yalnızca kişileri ve fotoğrafları iOS cihazlarından aktarabilirsiniz. Aktarmaya başlamadan önce bir iCloud yedeklemesi oluşturduğunuzdan emin olun.</string>
-  <string name="lack_perm_msg">Mi Mover aşağıdaki izinlere ihtiyaç duyuyor: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_msg">Mi Mover aşağıdaki izinlere ihtiyaç duyuyor: &lt;b>%s&lt;/b>.</string>
   <string name="lack_perm_title">Gerekli izinler</string>
   <string name="list_footer_tip_title">İpuçları:</string>
   <string name="loading_data">Veri yükleniyor</string>
@@ -513,7 +513,7 @@
   <string name="trans_old_phone_low_space_msg">Mi Taşıyıcı aktarılan verileri paketlemek için depolama alanına ihtiyaç duyuyor, ancak eski cihazda yeterli alan yok gibi görünüyor. \"Güvenlik\" içinde yer açın veya sadece önemli öğeleri aktarın.</string>
   <string name="trans_old_phone_low_space_title">Yeterli depolama alanı yok</string>
   <string name="trans_one_key_migrate">Mi Transfer</string>
-  <string name="trans_open_camera_failed_message">Cihazınızı yeniden başlatın veya Mi Mover\'ın &lt;b&gt;Kamera&lt;/b&gt; kullanma izni olup olmadığını kontrol edin.</string>
+  <string name="trans_open_camera_failed_message">Cihazınızı yeniden başlatın veya Mi Mover\'ın &lt;b>Kamera&lt;/b> kullanma izni olup olmadığını kontrol edin.</string>
   <string name="trans_open_camera_failed_title">Kameraya bağlanılamadı</string>
   <string name="trans_open_location_button">Aç</string>
   <string name="trans_open_location_message">Kullanılabilir WLAN ağlarının listesini almak için konum servislerini açın.</string>

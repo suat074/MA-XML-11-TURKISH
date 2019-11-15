@@ -136,10 +136,10 @@
   <string name="autofill_province">Vilayet</string>
   <string name="autofill_save_accessibility_title">Otomatik doldurma için kaydet</string>
   <string name="autofill_save_no">Hayır teşekkürler</string>
-  <string name="autofill_save_title">Kaydet &lt;b&gt;%1$s&lt;/b&gt;?</string>
-  <string name="autofill_save_title_with_2types">%1$s ve %2$s için &lt;b&gt;%3$s&lt;/b&gt; kaydet?</string>
-  <string name="autofill_save_title_with_3types">%1$s, %2$s, ve %3$s için &lt;b&gt;%4$s&lt;/b&gt; kaydet?</string>
-  <string name="autofill_save_title_with_type">%1$s için &lt;b&gt;%2$s&lt;/b&gt; kaydet?</string>
+  <string name="autofill_save_title">Kaydet &lt;b>%1$s&lt;/b>?</string>
+  <string name="autofill_save_title_with_2types">%1$s ve %2$s için &lt;b>%3$s&lt;/b> kaydet?</string>
+  <string name="autofill_save_title_with_3types">%1$s, %2$s, ve %3$s için &lt;b>%4$s&lt;/b> kaydet?</string>
+  <string name="autofill_save_title_with_type">%1$s için &lt;b>%2$s&lt;/b> kaydet?</string>
   <string name="autofill_save_type_address">adres</string>
   <string name="autofill_save_type_credit_card">kredi kartı</string>
   <string name="autofill_save_type_email_address">e-posta adresi</string>
@@ -155,7 +155,7 @@
   <string name="badPin">Yazdığınız eski PIN doğru değil.</string>
   <string name="badPuk">Yazdığınız PUK doğru değil.</string>
   <string name="battery_saver_description">Pil tasarrufu özelliği, pil ömrünü iyileştirmeye yardımcı olmak için cihazın performansını düşürür, titreşimi, konum hizmetlerini ve arkaplan verilerinin çoğunu sınırlar. Eşitlemeye dayalı olarak çalışan E-Posta, mesajlaşma uygulamaları ve diğer uygulamalar; bunları açmadığınız sürece güncellenmeyebilir.\n\nCihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır.</string>
-  <string name="battery_saver_description_with_learn_more">Pil ömrünü uzatmak için, Pil Tasarrufu bazı cihaz özelliklerini kapatır ve uygulamaları kısıtlar. &lt;annotation id="url"&gt;Daha fazla bilgi edin&lt;/annotation&gt;</string>
+  <string name="battery_saver_description_with_learn_more">Pil ömrünü uzatmak için, Pil Tasarrufu bazı cihaz özelliklerini kapatır ve uygulamaları kısıtlar. <annotation id="url">Daha fazla bilgi edin</annotation></string>
   <string name="beforeOneMonthDurationPast">1 ay önce</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth ses</string>
   <string name="browse">Aç</string>
@@ -168,7 +168,7 @@
   <string name="bugreport_title">Hata raporu al</string>
   <string name="byteShort">B</string>
   <string name="cancel">İptal</string>
-  <string name="candidates_style">&lt;u&gt;aday&lt;/u&gt;</string>
+  <string name="candidates_style">&lt;u>aday&lt;/u></string>
   <string name="capability_desc_canCaptureFingerprintGestures">Cihazda gerçekleştirilen hareketleri yakalayabilir</string>
   <string name="capability_desc_canControlMagnification">Ekranın yakınlaştırma seviyesini ve konumunu kontrol edin.</string>
   <string name="capability_desc_canPerformGestures">Dokunabilir, kaydırabilir, çimdikleyebilir ve diğer hareketleri gerçekleştirebilir.</string>
@@ -536,7 +536,7 @@
   <string name="keyguard_password_enter_pin_prompt">Yeni PIN kodu</string>
   <string name="keyguard_password_enter_puk_code">PUK ve yeni PIN kodunu yazın</string>
   <string name="keyguard_password_enter_puk_prompt">PUK kodu</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;&amp;#350;ifre yazmak i&amp;#231;in dokunun&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint"><font size="17">Şifre yazmak için dokunun</font></string>
   <string name="keyguard_password_wrong_pin_code">Yanlış PIN kodu</string>
   <string name="kg_enter_confirm_pin_hint">İstenen PIN kodunu onaylayın</string>
   <string name="kg_failed_attempts_almost_at_login">Kilit açma deseninizi %1$d kez yanlış çizdiniz. %2$d başarısız denemeden sonra telefonunuzu bir E-Posta hesabı kullanarak açmanız istenir.\n\n %3$d saniye içinde tekrar deneyin.</string>
@@ -548,7 +548,7 @@
   <string name="kg_invalid_sim_pin_hint">4-8 rakamdan oluşan bir PIN girin.</string>
   <string name="kg_invalid_sim_puk_hint">PUK kodu 8 basamaklı bir sayı olmalıdır.</string>
   <string name="kg_login_account_recovery_hint">"Kullanıcı adı veya şifrenizi mi unuttunuz?
-"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt; adresini ziyaret edin.</string>
+"<b>google.com/accounts/recovery</b> adresini ziyaret edin.</string>
   <string name="kg_login_checking_password">Hesap denetleniyor…</string>
   <string name="kg_login_instructions">Kilidi açmak için Google hesabınızla oturum açın.</string>
   <string name="kg_login_invalid_input">Geçersiz kullanıcı adı veya şifre.</string>
@@ -1013,17 +1013,17 @@
   <string name="permgrouplab_sensors">Vücut Sensörleri</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Depolama</string>
-  <string name="permgrouprequest_activityRecognition">&lt;b&gt;%1$s&lt;/b&gt; için fiziksel etkinliğinize erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_calendar">&lt;b&gt;%1$s&lt;/b&gt; için takviminize erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_calllog">&lt;b&gt;%1$s&lt;/b&gt; için telefon arama kayıtlarına erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_camera">&lt;b&gt;%1$s&lt;/b&gt; için fotoğraf çekme ve video kaydetme izni verilsin mi?</string>
-  <string name="permgrouprequest_contacts">&lt;b&gt;%1$s&lt;/b&gt; için kişilerinize erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_location">&lt;b&gt;%1$s&lt;/b&gt; için bu cihazın konumuna erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_microphone">&lt;b&gt;%1$s&lt;/b&gt; için ses kaydı izni verilsin mi?</string>
-  <string name="permgrouprequest_phone">&lt;b&gt;%1$s&lt;/b&gt; için telefon görüşmeleri yapma ve yönetme izni verilsin mi?</string>
-  <string name="permgrouprequest_sensors">&lt;b&gt;%1$s&lt;/b&gt; için sensör verilerinize erişme izni verilsin mi?</string>
-  <string name="permgrouprequest_sms">&lt;b&gt;%1$s&lt;/b&gt; için SMS mesajları gönderme ve görüntüleme izni verilsin mi?</string>
-  <string name="permgrouprequest_storage">&lt;b&gt;%1$s&lt;/b&gt; için cihazınızdaki fotoğraflara, medyaya ve dosyalara erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_activityRecognition">&lt;b>%1$s&lt;/b> için fiziksel etkinliğinize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_calendar">&lt;b>%1$s&lt;/b> için takviminize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_calllog">&lt;b>%1$s&lt;/b> için telefon arama kayıtlarına erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_camera">&lt;b>%1$s&lt;/b> için fotoğraf çekme ve video kaydetme izni verilsin mi?</string>
+  <string name="permgrouprequest_contacts">&lt;b>%1$s&lt;/b> için kişilerinize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_location">&lt;b>%1$s&lt;/b> için bu cihazın konumuna erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_microphone">&lt;b>%1$s&lt;/b> için ses kaydı izni verilsin mi?</string>
+  <string name="permgrouprequest_phone">&lt;b>%1$s&lt;/b> için telefon görüşmeleri yapma ve yönetme izni verilsin mi?</string>
+  <string name="permgrouprequest_sensors">&lt;b>%1$s&lt;/b> için sensör verilerinize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_sms">&lt;b>%1$s&lt;/b> için SMS mesajları gönderme ve görüntüleme izni verilsin mi?</string>
+  <string name="permgrouprequest_storage">&lt;b>%1$s&lt;/b> için cihazınızdaki fotoğraflara, medyaya ve dosyalara erişme izni verilsin mi?</string>
   <string name="permgrouprequestdetail_location">Uygulama yalnızca siz uygulamayı kullanırken konuma erişebilir</string>
   <string name="permission">İzin</string>
   <string name="permission_remember_choice">Hatırla</string>
@@ -1140,7 +1140,7 @@ izin istendi."</string>
   <string name="permlab_writeSettings">sistem ayarlarını değiştirir</string>
   <string name="permlab_writeSyncSettings">eşitleme düğmesini açar ve kapatır</string>
   <string name="perms_description_app">%1$s tarafından sunuldu.</string>
-  <string name="perms_new_perm_prefix">&lt;font fgcolor=\"#ff33b5e5\" size=\"12\"&gt;YENİ:&lt;/font&gt;</string>
+  <string name="perms_new_perm_prefix">&lt;font fgcolor=\"#ff33b5e5\" size=\"12\">YENİ:&lt;/font></string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Yardımcı</string>
   <string name="phoneTypeCallback">Geri Arama</string>
@@ -1360,7 +1360,7 @@ izin istendi."</string>
   <string name="sms_control_title">SMS mesajları gönderiliyor</string>
   <string name="sms_control_yes">İzin ver</string>
   <string name="sms_desc">Mesaj telefon numarası seçildi</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;Bu, mobil hesab&amp;#305;n&amp;#305;zdan &amp;#252;cret al&amp;#305;nmas&amp;#305;na neden olur.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details">&lt;b>Bu, mobil hesabınızdan ücret alınmasına neden olur.&lt;/b></string>
   <string name="sms_short_code_confirm_allow">Gönder</string>
   <string name="sms_short_code_confirm_always_allow">Daima izin ver</string>
   <string name="sms_short_code_confirm_deny">İptal</string>
@@ -1439,7 +1439,7 @@ izin istendi."</string>
   <string name="unsupported_compile_sdk_show">Her zaman göster</string>
   <string name="unsupported_display_size_message">%1$s geçerli ekran boyutu ayarını desteklemez ve beklenmedik şekilde davranabilir.</string>
   <string name="unsupported_display_size_show">Daima göster</string>
-  <string name="untitled">&lt;Başlıksız&gt;</string>
+  <string name="untitled">&lt;Başlıksız></string>
   <string name="upload_file">Dosya seç</string>
   <string name="usb_accessory_notification_title">USB aksesuarı bağlandı</string>
   <string name="usb_cd_installer_notification_title">Kurulum programına bağlandı</string>
@@ -1572,7 +1572,7 @@ izin istendi."</string>
   <string name="wifi_p2p_to_message">Şuraya:</string>
   <string name="wifi_p2p_turnon_message">Direkt WLAN\'i başlat. Bu WLAN; iNet Paylaşımını kapatır.</string>
   <string name="wifi_wakeup_enabled_content">Kayıtlı bir ağa yakınsınız: %1$s</string>
-  <string name="wifi_wakeup_enabled_title">Wi ‑ Fi otomatik olarak açıldı</string>
+  <string name="wifi_wakeup_enabled_title">Wi-Fi otomatik olarak açıldı</string>
   <string name="wifi_wakeup_onboarding_action_disable">Bir daha geri dönme</string>
   <string name="wifi_wakeup_onboarding_subtext">Yüksek kalitede kaydedilmiş bir şebekeye yaklaştığınızda</string>
   <string name="wifi_wakeup_onboarding_title">Wi-Fi otomatik olarak açılacaktır</string>

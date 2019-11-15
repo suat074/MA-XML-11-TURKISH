@@ -176,7 +176,7 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="service_name_screen_recording">Ekran Kaydedici</string>
   <string name="service_name_security">Güvenlik</string>
   <string name="service_name_service_framework">Mi Hizmetler Çerçevesi</string>
-  <string name="service_policy">&lt;Data&gt;&amp;lt;a href=%1$s&amp;gt;Gizlilik Politikam&amp;#305;z&amp;#305;&amp;lt;/a&amp;gt; okuyun ve kabul edin.&lt;/Data&gt;</string>
+  <string name="service_policy"><Data>&lt;a href=%1$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="service_privacy_index">Gizlilik Politikası</string>
   <string name="servicestate_title">Temel hizmetler hakkında açıklama</string>
   <string name="setting_locale">Bölge ayarlanıyor…</string>

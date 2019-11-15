@@ -494,7 +494,7 @@
   <string name="install_new_app_link_text">Yeni aygıtınıza bağlanabilmek için Mi Transfer\'i yükleyin. Yüklemek için dokunun.</string>
   <string name="instruction">Önemli güvenlik bilgileri</string>
   <string name="label">MIUI SDK</string>
-  <string name="lack_perm_msg">Mi Transfer aşağıdaki izinlere ihtiyaç duyuyor: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_msg">Mi Transfer aşağıdaki izinlere ihtiyaç duyuyor: &lt;b>%s&lt;/b>.</string>
   <string name="lack_perm_title">Gerekli izinler</string>
   <string name="launcher">Ana ekran düzeni</string>
   <string name="less_than_1_minute">1 dakikadan az</string>

@@ -394,7 +394,7 @@ Makro modunu kullanın"</string>
   <string name="mimoji_check_normal">Çekim düğmesine dokunun</string>
   <string name="mimoji_confirm">Tamam</string>
   <string name="mimoji_create_tips">Mimoji\'nizi oluşturmak için doğrudan kameraya bakın</string>
-  <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Sil&lt;/font&gt;</string>
+  <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Sil&lt;/font></string>
   <string name="mimoji_delete_dialog_title">Mimoji\'yi sil?</string>
   <string name="mimoji_delete_mimoji">Mimoji\'yi sil?</string>
   <string name="mimoji_delete_success">Başarıyla silindi</string>
@@ -456,9 +456,9 @@ Makro modunu kullanın"</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">Kamera, Bölünmüş ekranda çalışmaz</string>
   <string name="network_access_user_notice_agree">Kabul</string>
-  <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Kamera\'n&amp;#305;n, k&amp;#305;sa videolar i&amp;#231;in efekt, m&amp;#252;zik ve di&amp;#287;er &amp;#246;zellikleri sa&amp;#287;lamas&amp;#305; i&amp;#231;in internete ba&amp;#287;lanmas&amp;#305; gerekir. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A&amp;#351;a&amp;#287;&amp;#305;daki \"Kabul \" se&amp;#231;ene&amp;#287;ine dokunarak, &amp;lt;a href =%1$s&amp;gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;memizi&amp;lt;/a&amp;gt; ve &amp;lt;a href =%2$s&amp;gt;Gizlilik Politikam&amp;#305;z&amp;#305;&amp;lt;/a&amp;gt; kabul etmi&amp;#351; ve Kamera\'n&amp;#305;n internete ba&amp;#287;lanmas&amp;#305;na izin vermi&amp;#351; olursunuz."&lt;/Data&gt;</string>
-  <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Bu &amp;#246;zelli&amp;#287;e &amp;#231;&amp;#305;kartmalar sa&amp;#287;lamas&amp;#305; i&amp;#231;in Kamera\'n&amp;#305;n internete ba&amp;#287;lanmas&amp;#305; gerekir. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A&amp;#351;a&amp;#287;&amp;#305;daki \"Kabul \" se&amp;#231;ene&amp;#287;ine dokunarak, &amp;lt;a href =%1$s&amp;gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;memizi&amp;lt;/a&amp;gt; ve &amp;lt;a href =%2$s&amp;gt;Gizlilik Politikam&amp;#305;z&amp;#305;&amp;lt;/a&amp;gt; kabul etmi&amp;#351; ve Kamera\'n&amp;#305;n internete ba&amp;#287;lanmas&amp;#305;na izin vermi&amp;#351; olursunuz."&lt;/Data&gt;</string>
-  <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;"Kamera\'n&amp;#305;n konu&amp;#351;ma-metin &amp;#231;&amp;#305;kt&amp;#305;s&amp;#305; i&amp;#351;levselli&amp;#287;i sa&amp;#287;lamas&amp;#305; i&amp;#231;in internete ba&amp;#287;lanmas&amp;#305; gerekir. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;A&amp;#351;a&amp;#287;&amp;#305;daki \"Kabul \" se&amp;#231;ene&amp;#287;ine dokunarak, &amp;lt;a href =%1$s&amp;gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;memizi&amp;lt;/a&amp;gt; ve &amp;lt;a href =%2$s&amp;gt;Gizlilik Politikam&amp;#305;z&amp;#305;&amp;lt;/a&amp;gt; kabul etmi&amp;#351; ve Kamera\'n&amp;#305;n internete ba&amp;#287;lanmas&amp;#305;na izin vermi&amp;#351; olursunuz."&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_live_video"><Data>"Kamera\'nın, kısa videolar için efekt, müzik ve diğer özellikleri sağlaması için internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
+  <string name="network_access_user_notice_message_sticker"><Data>"Bu özelliğe çıkartmalar sağlaması için Kamera\'nın internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
+  <string name="network_access_user_notice_message_voice_caption"><Data>"Kamera\'nın konuşma-metin çıktısı işlevselliği sağlaması için internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
   <string name="network_exception">Ağ istisnası</string>
   <string name="no_storage">Kamerayı kullanmadan önce SD kart takın</string>
@@ -924,7 +924,7 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="user_agreement4">Gizlilik Politikası</string>
   <string name="user_define_watermark_cancel">İptal</string>
   <string name="user_define_watermark_save">Kaydet</string>
-  <string name="user_notice_identify_summary_format">"Kamera\'yı kullanmadan önce &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;memizi&lt;/a&gt; ve &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Gizlilik Politikam&amp;#305;z&amp;#305;&lt;/a&gt; kabul etmelisiniz. Ayr&amp;#305;ca Kamera\'n&amp;#305;n normal &amp;#231;al&amp;#305;&amp;#351;mas&amp;#305; i&amp;#231;in internete ba&amp;#287;lanmas&amp;#305; gerekir. Kabul?"</string>
+  <string name="user_notice_identify_summary_format">"Kamera\'yı kullanmadan önce &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı&lt;/a> kabul etmelisiniz. Ayrıca Kamera\'nın normal çalışması için internete bağlanması gerekir. Kabul?"</string>
   <string name="user_notice_title">Şartlar ve Koşullar</string>
   <string name="video_beauty_tip">Videolar için güzelleştirme</string>
   <string name="video_camera_label">Video kamera</string>

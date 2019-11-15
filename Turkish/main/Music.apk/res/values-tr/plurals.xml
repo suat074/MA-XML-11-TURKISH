@@ -25,16 +25,16 @@
     <item quantity="one">%d şarkı kaldırılsın mı?</item>
   </plurals>
   <plurals name="download_finished">
-    <item quantity="other">&lt;font color=\"red\"&gt;%d şarkı&lt;/font&gt; indirildi</item>
-    <item quantity="one">&lt;font color==\"red\"&gt;%d şarkı&lt;/font&gt; indirildi</item>
+    <item quantity="other">&lt;font color=\"red\">%d şarkı&lt;/font> indirildi</item>
+    <item quantity="one">&lt;font color==\"red\">%d şarkı&lt;/font> indirildi</item>
   </plurals>
   <plurals name="download_info_count_deleted_tasks">
     <item quantity="other">%d indirme kaldırıldı</item>
     <item quantity="one">%d indirme kaldırıldı</item>
   </plurals>
   <plurals name="download_running">
-    <item quantity="other">&lt;font color=\"red\"&gt;%d şarkı&lt;/font&gt; indiriliyor</item>
-    <item quantity="one">&lt;font color==\"red\"&gt;%d şarkı&lt;/font&gt; indiriliyor</item>
+    <item quantity="other">&lt;font color=\"red\">%d şarkı&lt;/font> indiriliyor</item>
+    <item quantity="one">&lt;font color==\"red\">%d şarkı&lt;/font> indiriliyor</item>
   </plurals>
   <plurals name="free_downloads_num_hint">
     <item quantity="other">%d ücretsiz indirme kaldı</item>

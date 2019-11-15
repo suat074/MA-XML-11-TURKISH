@@ -24,7 +24,7 @@
   <string name="button_uninstall_old_app">Kaldır</string>
   <string name="cancel">İptal</string>
   <string name="change_security_lock">Daha fazla ekran kilidi</string>
-  <string name="check_code">%1$s için doğru anahtar değerine sahip olduğunuzu kontrol etmek için, buradaki değerin, sunucu tarafından sağlanan bütünlük denetimi değeriyle eşleştiğini doğrulayın:&lt;br/&gt;</string>
+  <string name="check_code">%1$s için doğru anahtar değerine sahip olduğunuzu kontrol etmek için, buradaki değerin, sunucu tarafından sağlanan bütünlük denetimi değeriyle eşleştiğini doğrulayın:&lt;br/></string>
   <string name="check_code_menu_item">Anahtar değerini kontrol et</string>
   <string name="check_code_title">Bütünlük onay değeri</string>
   <string name="continue_btn">Devam</string>
@@ -74,7 +74,7 @@ account.xiaomi.com adresinde oturum açın ve Yeniden Etkinleştir\'i tıklayın
   <string name="lockpattern_need_to_confirm">Onaylamak için deseni tekrar çizin:</string>
   <string name="lockpattern_need_to_confirm_wrong">Bir önceki girişi ile tutarsız, tekrar girin:</string>
   <string name="lockpattern_need_to_unlock_footer"/>
-  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Şifre yanlış, %d kez daha girebilirsiniz&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Şifre yanlış, %d kez daha girebilirsiniz&lt;/font></string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Yeni kilit açma deseniniz:</string>
   <string name="lockpattern_pattern_entered_header">Desen kaydedildi.</string>
@@ -85,7 +85,7 @@ account.xiaomi.com adresinde oturum açın ve Yeniden Etkinleştir\'i tıklayın
   <string name="lockpattern_retry_text">Desen şifresini sıfırla</string>
   <string name="lockpattern_settings_help_how_to_record">Kilit açma deseni nasıl çizilir?</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d saniye sonra tekrar deneyin.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Çok sayıda yanlış deneme yapıldı!&lt;/font&gt;</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Çok sayıda yanlış deneme yapıldı!&lt;/font></string>
   <string name="lockpattern_tutorial_cancel_label">İptal</string>
   <string name="lockpattern_tutorial_close_label">Kapat</string>
   <string name="lockpattern_tutorial_continue_label">Sonraki</string>
@@ -169,7 +169,7 @@ Yapılabilecekler："</string>
   <string name="type_prompt">Anahtar Türü</string>
   <string name="update_pattern_jump">Şifreyi kaldır</string>
   <string name="version_preference_title">Sürüm</string>
-  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Eğer Mi Güvenlik Simgesini silerseniz, hesabınıza oturum açmanız mümkün olmayacak."</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font>Eğer Mi Güvenlik Simgesini silerseniz, hesabınıza oturum açmanız mümkün olmayacak."</string>
   <string name="welcome_page_details">"— Hesabınızı güvenli tutun.
 —  Hesabınıza oturum açmak için cihazınızı kullanabilecek yabancıları önleyin."</string>
   <string name="welcome_page_title">Güvenli Girişi Kullan</string>

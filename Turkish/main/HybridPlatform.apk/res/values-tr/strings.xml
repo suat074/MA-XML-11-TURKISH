@@ -85,7 +85,7 @@
   <string name="audio_paused_label">Duraklatıldı</string>
   <string name="audio_playing_label">Oynatılıyor</string>
   <string name="button_ok">Tamam</string>
-  <string name="com_facebook_device_auth_instructions">&lt;b&gt;facebook.com/device&lt;/b&gt; adresine git ve yukarıda gösterilen kodu gir.</string>
+  <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> adresine git ve yukarıda gösterilen kodu gir.</string>
   <string name="com_facebook_image_download_unknown_error">Görüntü indirilirken beklenmedik bir hata oluştu.</string>
   <string name="com_facebook_internet_permission_error_message">WebView girişi için İNTERNET izni gerekiyor</string>
   <string name="com_facebook_internet_permission_error_title">AndroidManifest Hatası</string>

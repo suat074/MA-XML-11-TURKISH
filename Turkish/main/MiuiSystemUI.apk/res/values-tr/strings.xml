@@ -933,7 +933,7 @@
   <string name="keyguard_password_enter_pin_prompt">Yeni SIM PIN kodu</string>
   <string name="keyguard_password_enter_puk_code">SIM PUK ve yeni PIN kodunu girin</string>
   <string name="keyguard_password_enter_puk_prompt">SIM PUK kodu</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Şifre girmek için dokunun&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17">Şifre girmek için dokunun&lt;/font></string>
   <string name="keyguard_password_wrong_pin_code">PIN kodu yanlış</string>
   <string name="keyguard_permanent_disabled_sim_instructions">SIM kartınız kalıcı olarak devre dışı bırakıldı.\n Başka bir SIM kart için kablosuz servis sağlayıcınıza başvurun.</string>
   <string name="keyguard_permanent_disabled_sim_message_short">SIM kart kullanılamıyor.</string>
@@ -1239,11 +1239,11 @@
   <string name="phone_locked_foget_password">Şifremi unuttum</string>
   <string name="phone_locked_foget_password_mehod_back">Geri</string>
   <string name="phone_locked_foget_password_method">Parolanızı mı unuttunuz?</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Foto&amp;#287;raflar ve ki&amp;#351;iler de dahil olmak &amp;#252;zere cihaz&amp;#305;n&amp;#305;zdaki &amp;lt;font color=#a5220e&amp;gt;t&amp;#252;m verileri silmeniz &amp;lt;/font&amp;gt;ve ard&amp;#305;ndan yeni bir Kilit ekran&amp;#305; &amp;#351;ifresi belirlemeniz gerekir.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_content"><Data>Fotoğraflar ve kişiler de dahil olmak üzere cihazınızdaki &lt;font color=#a5220e>tüm verileri silmeniz &lt;/font>ve ardından yeni bir Kilit ekranı şifresi belirlemeniz gerekir.</Data></string>
   <string name="phone_locked_foget_password_method_next">Sonraki</string>
   <string name="phone_locked_foget_password_ok">Anladım</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Cihaz&amp;#305;n&amp;#305;z&amp;#305; kapat&amp;#305;n, Mi logosunu g&amp;#246;rene kadar  &amp;lt;font color=#a5220e&amp;gt;G&amp;#252;&amp;#231; tu&amp;#351;u&amp;lt;/font&amp;gt; ve &amp;lt;font color=#a5220e&amp;gt;Ses a&amp;#231;ma tu&amp;#351;u&amp;lt;/font&amp;gt;na ayn&amp;#305; anda bas&amp;#305;l&amp;#305; tutun.&lt;/Data&gt;</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;&amp;lt;font color=#a5220e&amp;gt;\"Sil &amp;amp;amp;amp; S&amp;#305;f&amp;#305;rla\"&amp;lt;/font&amp;gt; se&amp;#231;in ve cihaz yeniden ba&amp;#351;lat&amp;#305;l&amp;#305;ncaya kadar bekleyin.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Cihazınızı kapatın, Mi logosunu görene kadar  &lt;font color=#a5220e>Güç tuşu&lt;/font> ve &lt;font color=#a5220e>Ses açma tuşu&lt;/font>na aynı anda basılı tutun.</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#a5220e>\"Sil &amp;amp;amp;amp; Sıfırla\"&lt;/font> seçin ve cihaz yeniden başlatılıncaya kadar bekleyin.</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl silinir?</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
   <string name="picture_color_mode">Resim renk modu</string>
@@ -1276,32 +1276,32 @@
   <string name="power_discharging_duration_enhanced">Kullanımınıza göre yaklaşık %1$s kaldı (%2$s)</string>
   <string name="power_notification_controls_description">"Güç bildirim kontrolleriyle bir uygulamanın bildirimleri için 0 ila 5 arasında bir önem seviyesi belirleyebilirsiniz.
 
-"&lt;b&gt;Seviye 5&lt;/b&gt;" 
+"&lt;b>Seviye 5&lt;/b>" 
 - Bildirim listesinin başında göster 
 - Tam ekran kesintisine izin ver 
 - Her zaman gözetle 
 
-"&lt;b&gt;Seviye 4&lt;/b&gt;" 
+"&lt;b>Seviye 4&lt;/b>" 
 - Tam ekran kesintisini önle 
 - Her zaman gözetle 
 
-"&lt;b&gt;Seviye 3&lt;/b&gt;" 
+"&lt;b>Seviye 3&lt;/b>" 
 - Tam ekran kesintisini önle
 - Asla gözetleme 
 
-"&lt;b&gt;Seviye 2&lt;/b&gt;" 
+"&lt;b>Seviye 2&lt;/b>" 
 - Tam ekran kesintisini önle 
 - Asla gözetleme 
 - Asla ses ve titreşim yapma 
 
-"&lt;b&gt;Seviye 1&lt;/b&gt;" 
+"&lt;b>Seviye 1&lt;/b>" 
 - Tam ekran kesintisini önle
 - Asla gözetleme 
 - Asla ses ve titreşim yapma 
 - Kilit ekranından ve durum çubuğundan gizle 
 - Bildirim listesinin altında göster 
 
-"&lt;b&gt;Seviye 0&lt;/b&gt;" 
+"&lt;b>Seviye 0&lt;/b>" 
 - Uygulamadaki tüm bildirimleri engelle "</string>
   <string name="power_remaining_charging_duration_only">Tam olarak şarj olmasına %1$s kaldı</string>
   <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
@@ -1613,7 +1613,7 @@
   <string name="status_bar_input_method_settings_configure_input_methods">Giriş yöntemini ayarla</string>
   <string name="status_bar_latest_events_title">Bildirimler</string>
   <string name="status_bar_network_flow_content">Bugün: %1$s   Kalan: %2$s</string>
-  <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Aşılan: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Aşılan: &lt;font color=%2$s>%3$s&lt;/font></string>
   <string name="status_bar_network_flow_limit">"   Aylık limit: %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   Satın al &gt;"</string>
   <string name="status_bar_network_flow_today">Bugün: %1$s</string>

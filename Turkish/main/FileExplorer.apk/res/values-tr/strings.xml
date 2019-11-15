@@ -429,7 +429,7 @@
   <string name="operation_unfavorite">Favoriden Çıkart</string>
   <string name="original_user_desc">İçerik Oluşturucu statüsünü elde etmek için orijinal videoları düzenli olarak yükleyin</string>
   <string name="original_user_qq_group">Yetenek ekibi QQ grubuna katılın</string>
-  <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; topluluğa katıldı</string>
+  <string name="original_user_register">• &lt;font color=#fc7050>%1$s&lt;/font> topluluğa katıldı</string>
   <string name="original_user_signal">Yetenek ekibi</string>
   <string name="original_user_title">Yetenek ekibinin bir üyesi oldunuz. Tebrikler!</string>
   <string name="original_user_verify">• Teşekkürler</string>

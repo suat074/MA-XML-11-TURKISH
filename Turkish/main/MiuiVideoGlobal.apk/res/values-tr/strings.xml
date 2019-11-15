@@ -144,7 +144,7 @@
   <string name="click_to_reload_more">Daha fazla yüklemek için dokunun</string>
   <string name="click_to_retry">Tekrar dene</string>
   <string name="collect_diagnosis_log">Günlükleri topla</string>
-  <string name="com_facebook_device_auth_instructions">&lt;b&gt;facebook.com/device&lt;/b&gt; adresine git ve yukarıda gösterilen kodu gir.</string>
+  <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> adresine git ve yukarıda gösterilen kodu gir.</string>
   <string name="com_facebook_image_download_unknown_error">Görüntü indirilirken beklenmedik bir hata oluştu.</string>
   <string name="com_facebook_internet_permission_error_message">WebView girişi için İNTERNET izni gerekiyor</string>
   <string name="com_facebook_internet_permission_error_title">AndroidManifest Hatası</string>
@@ -203,7 +203,7 @@
   <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi.
 Kimlik:%s
 Bu kodu yöneticiye gönderin."</string>
-  <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. \"Kabul et\" seçeneğine dokunduğunuzda, &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt; okuyup kabul etmiş sayılırsınız.</string>
+  <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. \"Kabul et\" seçeneğine dokunduğunuzda, &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> okuyup kabul etmiş sayılırsınız.</string>
   <string name="dialog_privacy_title">Yetkilendirme</string>
   <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra, uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem, uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
   <string name="dialog_revoke_privacy_title">Yetki geri alınıyor</string>
@@ -458,7 +458,7 @@ seçin"</string>
   <string name="lv_subtitle_onlinesub_loading">Altyazı yükleniyor…</string>
   <string name="lv_subtitle_onlinesub_loading_wait">Altyazı yükleniyor…</string>
   <string name="lv_subtitle_onlinesub_right_declare">Yasal uyarı</string>
-  <string name="lv_subtitle_onlinesub_right_declare_content">Altyazıları &lt;br/&gt;&lt;br/&gt; &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; adresinden alın. &lt;br/&gt;&lt;br/&gt;Tüm çevrimiçi altyazılar &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; adresinden alınmıştır.</string>
+  <string name="lv_subtitle_onlinesub_right_declare_content">Altyazıları &lt;br/>&lt;br/> &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> adresinden alın. &lt;br/>&lt;br/>Tüm çevrimiçi altyazılar &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> adresinden alınmıştır.</string>
   <string name="lv_subtitle_onlinesub_save_failed">Altyazı eklenemedi</string>
   <string name="lv_subtitle_onlinesub_save_success">Altyazı başarıyla eklendi</string>
   <string name="lv_subtitle_onlinesub_search_keyword">Arama yapmak için anahtar kelime girin</string>
@@ -649,7 +649,7 @@ seçin"</string>
   <string name="passport_error_unknown">Bilinmeyen hata</string>
   <string name="passport_error_user_agreement_error">Öncelikle şartlar ve koşulları kabul edin</string>
   <string name="passport_error_user_name">Girmiş olduğunuz kullanıcı adı geçersiz</string>
-  <string name="passport_forget_password">&lt;u&gt;&amp;#350;ifremi unuttum&lt;/u&gt;</string>
+  <string name="passport_forget_password"><u>Şifremi unuttum</u></string>
   <string name="passport_get_verify_code">Kodu al</string>
   <string name="passport_getting_verify_code">Yalnızca bir sn…</string>
   <string name="passport_identification_expired">Doğrulama kodunun süresi doldu. Baştan başlayın.</string>
@@ -693,8 +693,8 @@ seçin"</string>
   <string name="passport_unknow_error">Tanımlanamayan bir hata oluştu</string>
   <string name="passport_unknow_host_network_error">Ağ ayarlarınızı kontrol edin ve yeniden deneyin</string>
   <string name="passport_unknow_network_error">Ağ bağlantısı yok</string>
-  <string name="passport_user_agreement_link">&lt;Data&gt;Xiaomi &lt;a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikasını&lt;/a&gt; okudum ve kabul ettim.&lt;Data&gt;</string>
-  <string name="passport_user_agreement_link_more">"&lt;Data&gt;Şu anlaşmaları okudum ve kabul ettim: Xiaomi'nin &lt;/a href=%1$s&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=%4$s&gt;Gizlilik Politikası&lt;/a&gt;,&lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+  <string name="passport_user_agreement_link"><Data>Xiaomi &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> okudum ve kabul ettim.<Data></string>
+  <string name="passport_user_agreement_link_more">"<Data>Şu anlaşmaları okudum ve kabul ettim: Xiaomi'nin &lt;/a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a>,&lt;a href=%2$s&gt;%3$s&lt;/a>.</Data>"</string>
   <string name="passport_user_id_intro">%1$s için şifre girin</string>
   <string name="passport_v_code_error">Doğrulama kodu yanlış</string>
   <string name="passport_vcode_notification_title">Oturum açma onayınız tamamlanmadı</string>
@@ -787,7 +787,7 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="plus_player_subtitle_local_add_success">Altyazı başarıyla eklendi</string>
   <string name="plus_player_subtitle_no_file">Burada altyazı yok.</string>
   <string name="plus_player_subtitle_online">Çevrimiçi altyazı</string>
-  <string name="plus_player_subtitle_online_declare_content">&lt;br/&gt;Altyazıları &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; veri tabanında aramak üzeresiniz. &lt;br/&gt;Tüm altyazılar &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; tarafından sağlanmıştır.</string>
+  <string name="plus_player_subtitle_online_declare_content">&lt;br/>Altyazıları &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> veri tabanında aramak üzeresiniz. &lt;br/>Tüm altyazılar &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> tarafından sağlanmıştır.</string>
   <string name="plus_player_subtitle_online_declare_title">Yasal uyarı</string>
   <string name="plus_player_subtitle_online_download_fail">Altyazı indirilemedi</string>
   <string name="plus_player_subtitle_online_download_start">Altyazı indiriliyor…</string>

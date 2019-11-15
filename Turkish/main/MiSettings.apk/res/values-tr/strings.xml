@@ -213,5 +213,5 @@
   <string name="usagestats_device_timeout_negative">1 saat içinde hatırlat</string>
   <string name="usagestats_device_timeout_positive">Anladım</string>
   <string name="usagestats_device_timeout_title">Ekran süresi uyarısı</string>
-  <string name="wait_tip">Sadece bir saniye&amp;#8230;</string>
+  <string name="wait_tip">Sadece bir saniye…</string>
 </resources>

@@ -707,7 +707,7 @@
   <string name="mibill_privacy_policy_button1">Sonra</string>
   <string name="mibill_privacy_policy_button2">Kabul et</string>
   <string name="mibill_privacy_policy_description">Mi Cüzdan analiz etme ve otomatik faturalarınızı yönetmenize izin verir. Bu özellik iş ile ilgili E-Posta adresleri için varsayılan olarak kapalıdır.</string>
-  <string name="mibill_privacy_policy_link">Bu özelliği kullanarak &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\"&gt;Hizmet Şartlarımızı&lt;/a&gt; kabul etmiş olursunuz.</string>
+  <string name="mibill_privacy_policy_link">Bu özelliği kullanarak &lt;a href=\"https://www.mipay.com/res/doc/eula/email.html\">Hizmet Şartlarımızı&lt;/a> kabul etmiş olursunuz.</string>
   <string name="mibill_privacy_policy_title">Faturaları otomatik yönet</string>
   <string name="min_payment_text">Asgari Geri Ödeme</string>
   <string name="more_context">Fazlası</string>
@@ -1092,7 +1092,7 @@ Tamamen eşitleninceye kadar bekleyin veya mesajı bilgisayarınızda görüntü
   <string name="ser_resp_err_map_pserr">Şifre veya kullanıcı adı hatalı</string>
   <string name="ser_resp_err_map_serclosed">%s sunucu kapalı.</string>
   <string name="ser_resp_err_map_ssl">"Güvenlik Tipinden 'SSL/TLS (Tüm sertifikaları kabul et)  seçeneğini seçin'"</string>
-  <string name="service_protocol_discribe">&lt;u&gt;WPS Posta Hizmeti Sözleşmesini okudum ve kabul ediyorum&lt;/u&gt;</string>
+  <string name="service_protocol_discribe">&lt;u>WPS Posta Hizmeti Sözleşmesini okudum ve kabul ediyorum&lt;/u></string>
   <string name="service_protocol_title">Hizmet Sözleşmesi</string>
   <string name="set_network">Ağı ayarla</string>
   <string name="setting_kids_subtitle">Kullanıcının yaşını onayla</string>
@@ -1218,7 +1218,7 @@ Tamamen eşitleninceye kadar bekleyin veya mesajı bilgisayarınızda görüntü
   <string name="via_domain">%1$s yoluyla</string>
   <string name="view_more_conversations">Daha fazla sohbet görüntüle</string>
   <string name="wait_for_manual_sync_body">"\"Bu hesap otomatik olarak eşitleme üzere ayarlanmadı.
-Postayı bir kez eşitlemek için \"&lt;b&gt;Şimdi Eşitle&lt;/b&gt;ye veya bu hesaptaki postaları otomatik eşitlenecek şekilde ayrlamak için &lt;b&gt;Eşitleme Ayarlarını Değiştir&lt;/b&gt;e dokunun."</string>
+Postayı bir kez eşitlemek için \"&lt;b>Şimdi Eşitle&lt;/b>ye veya bu hesaptaki postaları otomatik eşitlenecek şekilde ayrlamak için &lt;b>Eşitleme Ayarlarını Değiştir&lt;/b>e dokunun."</string>
   <string name="wait_for_sync_title">Eşitlemek için bekleniyor</string>
   <string name="wait_help_context">bekle</string>
   <string name="wait_while_update_db">Veritabanı yükseltme sırasında lütfen bekleyin!</string>

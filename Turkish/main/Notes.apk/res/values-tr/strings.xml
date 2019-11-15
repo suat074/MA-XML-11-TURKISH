@@ -152,7 +152,7 @@
   <string name="permission_microphone_desc">Sesli not alma</string>
   <string name="permission_network_for_cloud_desc">Notları bulutla eşitlemek için internete bağlanmanız gerekir. Öğeleri eşitlemek için mobil veri kullanılabilir. Şimdi bağlanılsın mı?</string>
   <string name="permission_read_contact_desc">Çağrılar sırasında oluşturulan notları kişilerle ilişkilendirme</string>
-  <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI, ses kayd&amp;#305; yapmak ve sesli notlar olu&amp;#351;turmak i&amp;#231;in ses kay&amp;#305;tlar&amp;#305;n&amp;#305;z&amp;#305; ve cihaz kimli&amp;#287;inizi toplar. Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Gizlilik Politikas&amp;#305;&amp;lt;/a&amp;gt; ile daha fazla bilgi edinin.&lt;/Data&gt;</string>
+  <string name="permission_xiaoai_desc"><Data>Mi AI, ses kaydı yapmak ve sesli notlar oluşturmak için ses kayıtlarınızı ve cihaz kimliğinizi toplar. Mi AI &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> ile daha fazla bilgi edinin.</Data></string>
   <string name="permlab_accessNote">Notlar\'a erişim</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Onaylamadan notları silmek için 2 parmağınızla yukarı kaydırın</string>
   <string name="pref_desc_todo_float_mode">Görev araç kutusunu açmak için ekranın kenarından kaydır</string>

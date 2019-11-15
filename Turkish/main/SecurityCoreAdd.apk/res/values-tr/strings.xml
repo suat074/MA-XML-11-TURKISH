@@ -67,7 +67,7 @@
   <string name="create_work_space">Çalışma alanı oluştur</string>
   <string name="creating_app_icon">Simge oluşturuluyor…</string>
   <string name="cta_declaration_agree_and_continue">Kabul</string>
-  <string name="cta_declaration_message_format" formatted="false">Kurumsal modu kullanmadan önce &lt;font color=%s&gt;&lt;a href=%s&gt;%s &lt;/a&gt;&lt;/font&gt; okumalı ve kabul etmelisiniz. Kurumsal modu etkinleştirmek için cihazınızın internete bağlanması gerekiyor. Kabul?</string>
+  <string name="cta_declaration_message_format" formatted="false">Kurumsal modu kullanmadan önce &lt;font color=%s>&lt;a href=%s>%s &lt;/a>&lt;/font> okumalı ve kabul etmelisiniz. Kurumsal modu etkinleştirmek için cihazınızın internete bağlanması gerekiyor. Kabul?</string>
   <string name="cta_declaration_title">Şartlar ve koşullar</string>
   <string name="current_space">Geçerli alan</string>
   <string name="dataSafe">İkinci alanı kullanmak iki cihaza sahip olmak gibidir.</string>
@@ -295,7 +295,7 @@ yüklü uygulamaları kontrol edin ve kullanımı kısıtlayın"</string>
   <string name="sdcradfs_dialog_in_owner_title">İkinci alan</string>
   <string name="sdcradfs_dialog_in_sec_message">Güncellemek için, İkinci alanınızı silmeli ve sonra tekrar oluşturmalısınız. Verileri İkinci alandan İlk alana taşıyın ve güncellemeyi tamamlamak için cihazınızı yeniden başlatın.\nGüncelleme yapmazsanız, klonlu uygulamalar düzgün çalışmayabilir.</string>
   <string name="sdcradfs_dialog_in_sec_title">Önemli güncelleme</string>
-  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
   <string name="search_result_text">Hiçbir uygulama bulunamadı</string>
   <string name="secondSpace">İkinci alan</string>
   <string name="second_owner_finger_print">İkinci alan parmak izi</string>

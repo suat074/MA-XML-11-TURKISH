@@ -281,7 +281,7 @@
   <string name="guild_add_attachments">İfadeler ve diğer öğeleri eklemek için dokunun</string>
   <string name="guild_add_recipients">Kişilerden alıcı eklemek için dokunun</string>
   <string name="guild_msim_switcher">SIM kartları değiştirmek için dokunun</string>
-  <string name="has_invalid_recipient">Geçersiz alıcılar: &lt;%1$s&gt;</string>
+  <string name="has_invalid_recipient">Geçersiz alıcılar: &lt;%1$s></string>
   <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">Gizli gönderen adresi</string>
   <string name="hold_to_talk">Konuşmak için basılı tutun</string>
@@ -740,8 +740,8 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="second_mms_introduction">İkinci Alana git</string>
   <string name="second_mms_switch">Geçiş</string>
   <string name="secs">saniye</string>
-  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"G&amp;#246;nderen ki&amp;#351;i listenizde de&amp;#287;il.
- "&lt;/font&gt;</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000">"Gönderen kişi listenizde değil.
+ "&lt;/font></string>
   <string name="security_alert_desc_highlight">Bu numarayı raporla</string>
   <string name="security_alert_dialog_desc">Bu numarayı (%s) raporlayın ve mesajı incelenmesi için Xiaomi\'ye gönderin.</string>
   <string name="security_alert_dialog_title">Raporla</string>
@@ -926,7 +926,7 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="url_fraud_risky_alert">Ziyaret etmeye çalıştığınız %s web sitesi tehlikeli olabilir. Yine de ziyaret edilsin mi?
 "</string>
   <string name="url_fraud_title">Web sitesi sahte olabilir</string>
-  <string name="url_fraud_visit">&lt;u&gt;Yine de ziyaret et&lt;/u&gt;</string>
+  <string name="url_fraud_visit">&lt;u>Yine de ziyaret et&lt;/u></string>
   <string name="url_result_safe">Bu link güvenli</string>
   <string name="url_scan_again">Tekrar kontrol et</string>
   <string name="url_scanning">Link kontrol ediliyor…</string>

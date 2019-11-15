@@ -73,7 +73,7 @@
   <string name="add_whitelist">İstisnalara ekle</string>
   <string name="address">Adres</string>
   <string name="address_choose_hint">%1$s, %2$s, ve %3$d diğer konumlar</string>
-  <string name="adjust_sms_cmd">&lt;u&gt;Kalibrasyon SMS şablonunu ayarla&lt;/u&gt;</string>
+  <string name="adjust_sms_cmd">&lt;u>Kalibrasyon SMS şablonunu ayarla&lt;/u></string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Bir ay önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Bir hafta önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Bir hafta önce güncellendi</string>
@@ -221,10 +221,10 @@
   <string name="app_manager_reset_app_preferences_button">Sıfırlayın</string>
   <string name="app_manager_reset_app_preferences_desc">"Bu, tüm tercihleri sıfırlayacak:
 
-"&lt;li&gt;Devre dışı bırakılmış uygulamalar&lt;/li&gt;"
-"&lt;li&gt;Devre dışı bırakılmış uygulama bildirimleri&lt;/li&gt;"
-"&lt;li&gt;Varsayılan uygulamalar&lt;/li&gt;"
-"&lt;li&gt;Uygulamalar için arka plan veri kısıtlamaları&lt;/li&gt;"
+"<li>Devre dışı bırakılmış uygulamalar</li>"
+"<li>Devre dışı bırakılmış uygulama bildirimleri</li>"
+"<li>Varsayılan uygulamalar</li>"
+"<li>Uygulamalar için arka plan veri kısıtlamaları</li>"
 
 Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="app_manager_reset_app_preferences_title">Uygulama tercihleri sıfırlansın mı?</string>
@@ -292,7 +292,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="applock_go_to">Ayarlar</string>
   <string name="applock_header_text_less_than_half">Çok küçük. Biraz daha sürükleyin.</string>
   <string name="applock_login_and_add_account">Oturum aç &amp; ekle</string>
-  <string name="applock_not_add_account">&lt;u&gt;Şimdi değil&lt;/u&gt;</string>
+  <string name="applock_not_add_account">&lt;u>Şimdi değil&lt;/u></string>
   <string name="applock_not_login_account">Oturum açmadınız</string>
   <string name="applock_settings_unlock_all_toast">Tüm uygulamaların kilidi açıldı</string>
   <string name="applock_toast_tip">Uygulama kilidi başarıyla doğrulandı</string>
@@ -450,8 +450,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="bl_no_block_call">Engelli çağrı yok.</string>
   <string name="bl_no_block_sms">Engelli SMS yok.</string>
   <string name="blacklist_prefix_add_hint">Bu önek ile başlayan tüm numaraları engelle</string>
-  <string name="block_message_number">Mesajlar: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-  <string name="block_phone_number">Çağrılar: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_message_number">Mesajlar: &lt;font color=#5fab1b>%d&lt;/font></string>
+  <string name="block_phone_number">Çağrılar: &lt;font color=#5fab1b>%d&lt;/font></string>
   <string name="boost_done">Başarıyla yükseltildi</string>
   <string name="boost_stop">Hız artışını kapat</string>
   <string name="booster_immediately">Hızlandır</string>
@@ -594,7 +594,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="cta_close_dialog_content">Güvenlik için internet erişimini ve konum bilgisini kısıtlarsanız, deprem uyarıları alamaz, virüs tanımlarını ve engelleme listesi bilgilerini güncelleyemezsiniz. Cihazınız daha az güvenli olacak. Yine de kısıtlansın mı?</string>
   <string name="cta_close_dialog_ok">Kısıtla</string>
   <string name="cta_close_dialog_title">Erişim kısıtlanıyor</string>
-  <string name="cta_dialog_msg">&lt;Data&gt;G&amp;#252;venlik uygulamas&amp;#305;n&amp;#305; kullanmadan &amp;#246;nce &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikam&amp;#305;z&amp;#305;&amp;lt;/a&amp;gt; kabul etmelisiniz. G&amp;#252;venlik ayr&amp;#305;ca, normal &amp;#351;ekilde &amp;#231;al&amp;#305;&amp;#351;mak ve vir&amp;#252;sten koruma tan&amp;#305;mlar&amp;#305;n&amp;#305; g&amp;#252;ncel tutmak i&amp;#231;in internete ba&amp;#287;lanmal&amp;#305; ve konumunuza eri&amp;#351;melidir. Kabul?&lt;/Data&gt;</string>
+  <string name="cta_dialog_msg"><Data>Güvenlik uygulamasını kullanmadan önce &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;amp;lang=%2$s\">Gizlilik Politikamızı&lt;/a> kabul etmelisiniz. Güvenlik ayrıca, normal şekilde çalışmak ve virüsten koruma tanımlarını güncel tutmak için internete bağlanmalı ve konumunuza erişmelidir. Kabul?</Data></string>
   <string name="cta_dialog_negative">Çıkış</string>
   <string name="cta_dialog_positive">Kabul</string>
   <string name="cta_dialog_title">Hükümler ve Koşullar</string>
@@ -905,9 +905,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="forbid_autobright_summary">Oynatırken otomatik parlaklık kapanır ve bitirdikten sonra geri yüklenir</string>
   <string name="forbid_autobright_title">Ekran parlaklığını düzelt</string>
   <string name="foreground_traffic">Ön planda %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;Şifremi Unuttum&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>Şifremi unuttum</u></string>
   <string name="forget_password_button_text_normal">Parolamı unuttum</string>
-  <string name="forget_pattern">&lt;u&gt;Deseni Unuttum&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u>Deseni Unuttum&lt;/u></string>
   <string name="forground_network_optimization_summary">Ön planda çalışan oyunlara daha fazla bant genişliği verin</string>
   <string name="forground_network_optimization_title">Bant genişliği önceliği</string>
   <string name="free_send_net_booster">Ücretsiz Ağ hızı artırması</string>
@@ -1062,7 +1062,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
-  <string name="gdpr_msg">&lt;Data&gt;"G&amp;#252;venli&amp;#287;in temel &amp;#246;zelliklerini kullanmak i&amp;#231;in, Xiaomi\'nin G&amp;#252;venlik &amp;#246;zelliklerini kullanma yollar&amp;#305; hakk&amp;#305;nda bilgi (&amp;#246;rne&amp;#287;in, mobil veri kullan&amp;#305;m istatistikleri, k&amp;#246;t&amp;#252; ama&amp;#231;l&amp;#305; yaz&amp;#305;l&amp;#305;m hakk&amp;#305;nda bilgi ve cihaz&amp;#305;n&amp;#305;zla ilgili temel bilgiler) ve &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Gizlilik Politikas&amp;#305;&amp;lt;/a&amp;gt; ile belirtilen di&amp;#287;er bilgi t&amp;#252;rleri de dahil olmak &amp;#252;zere ki&amp;#351;isel verilerinizi toplayaca&amp;#287;&amp;#305;n&amp;#305;, i&amp;#351;leyece&amp;#287;ini ve kullanaca&amp;#287;&amp;#305;n&amp;#305; kabul etmeniz gerekir.\"&lt;/Data&gt;</string>
+  <string name="gdpr_msg"><Data>"Güvenliğin temel özelliklerini kullanmak için, Xiaomi\'nin Güvenlik özelliklerini kullanma yolları hakkında bilgi (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi ve cihazınızla ilgili temel bilgiler) ve &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikası&lt;/a> ile belirtilen diğer bilgi türleri de dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir.\"</Data></string>
   <string name="get_sys_info">Bilgi alınıyor…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Gmail, Google Haritalar ve diğer Google uygulamalarını kullanırken sorun yaşıyorsanız bu özelliği açın. Pil ömrünü biraz azaltacaktır.</string>
@@ -1103,7 +1103,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gs_show_way_vertical">Dikey</string>
   <string name="gs_sign_notification">Her gün saat 8 de giriş yapmayı hatırlat</string>
   <string name="gs_slip_gamebox_detail">Kısayol panelinin görünmesini sağlamak için kaydırıcıyı kullanın veya ekranın üst kenarından kaydırın</string>
-  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Yanlış operatör mü?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;u>Yanlış operatör mü?&lt;/u>&lt;/font>"</string>
   <string name="guide_operator_text">"Mevcut Operatörünüz: "</string>
   <string name="guide_quck_open">Aç</string>
   <string name="guide_second_text">Operatörünüzü ayarladıktan sonra MIUI, ücretsiz olarak mobil operatörünüze SMS göndererek mobil veri kullanımınızı günlük olarak izleyecektir. MIUI, veri sınırını aştığınızı tespit ettiğinde, ağ bağlantısını kesip sizi bilgilendirecektir.</string>
@@ -1388,7 +1388,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="mixed_recording_intro_header">%1$s-%2$s karakter girin</string>
   <string name="mixed_retry_button_text">İptal</string>
   <string name="mixed_settings_help_how_to_record">Parola nasıl ayarlanır</string>
-  <string name="modify_password_mode">&lt;u&gt;Parola türünü değiştir&lt;/u&gt;</string>
+  <string name="modify_password_mode">&lt;u>Parola türünü değiştir&lt;/u></string>
   <string name="modifypassword">Şifre türünü değiştir</string>
   <string name="monitor_app_add">Ekle</string>
   <string name="monitor_app_more">Diğer</string>
@@ -1555,7 +1555,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="password_promotion_postbutton_text">Ekle</string>
   <string name="password_promotion_title">Mi Hesabı ekle</string>
   <string name="password_type">Şifreyi değiştir</string>
-  <string name="password_type_underline">&lt;u&gt;Şifreyi değiştir&lt;/u&gt;</string>
+  <string name="password_type_underline">&lt;u>Şifreyi değiştir&lt;/u></string>
   <string name="password_xspace_forget_pattern_message">İkinci alan şifrenizi değiştirmek için mevcut İkinci alanı silmeli ve yeni bir tane oluşturmalısınız.</string>
   <string name="pc_abnormal_scan_button_text">Uygulamaları kapat</string>
   <string name="pc_abnormal_scan_reason_prevent_standby">Sistemin bekleme moduna girmesini önler</string>
@@ -2201,7 +2201,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="start_game">Başla</string>
   <string name="status_bar_network_flow_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Kalan: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Bu ay: %2$s</string>
-  <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan aşılan: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan aşılan: &lt;font color=%2$s>%3$s&lt;/font></string>
   <string name="status_bar_network_flow_phone_balance">"   Telefon bakiyesi:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Satın alınan &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Veri planı kurulumu &gt;"</string>
@@ -2294,18 +2294,18 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="system_application">Sistem Uygulamaları</string>
   <string name="system_permission_declare_agree">Kabul et</string>
   <string name="system_permission_declare_disagree">Kabul etmiyorum</string>
-  <string name="system_permission_declare_double_link">&lt;Data&gt;Bu &amp;#246;zelli&amp;#287;i kullanmadan &amp;#246;nce &amp;lt;a href=\"%1$s\"&amp;gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;memizi&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"%2$s\"&amp;gt;Gizlilik Politikam&amp;#305;z&amp;#305;&amp;lt;/a&amp;gt; okuyun ve kabul edin.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_double_link"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="system_permission_declare_main_purpose" formatted="false">%1s uygulamasına hoş geldiniz! Bu uygulama şu özelliği kullanmanızı sağlar: %2s.</string>
   <string name="system_permission_declare_no_say_no">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz, bu uygulama normal şekilde çalışamaz.</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz, bu uygulama kısmen çalışamaz.</string>
   <string name="system_permission_declare_privacy_declare">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Güvenlik uygulamasının internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinlerin gerekli olduğunu unutmayın:</string>
   <string name="system_permission_declare_privacy_no_permission">Size hizmet sunabilmek için Güvenlik uygulamasının internete bağlanması ve gerekli kişisel bilgileri toplaması gerektiğini unutmayın. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</string>
-  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Bu &amp;#246;zelli&amp;#287;i kullanmadan &amp;#246;nce &amp;lt;a href=\"%1$s\"&amp;gt;Gizlilik Politikas&amp;#305;&amp;lt;/a&amp;gt; okuyun ve kabul edin.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_privacy_policy"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz.</string>
   <string name="system_permission_declare_revoke_uninstallable">Güvenlik &gt; Uygulamaları yönet &gt; İzinler &gt; İzinler bölümünden çıkış yapabilir, bu uygulamayı kaldırabilir veya yetkilendirmenizi iptal edebilirsiniz.</string>
   <string name="system_permission_declare_use_network">Ağ bağlantısı</string>
   <string name="system_permission_declare_use_network_no_permission">Ağ bağlantısı</string>
-  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Bu &amp;#246;zelli&amp;#287;i kullanmadan &amp;#246;nce &amp;lt;a href=\"%1$s\"&amp;gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;mesi&amp;lt;/a&amp;gt; okuyun ve kabul edin.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_user_agreement"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="system_permission_perm_answer_call">Çağrı yap</string>
   <string name="system_permission_perm_read_mms">MMS oku</string>
   <string name="system_permission_perm_read_numbers">Telefon numaralarını oku</string>
@@ -2324,7 +2324,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="tc_diagnostic_all_error_notification_title">Teşhis tamamlanamadı</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Şebeke türünü ayarlamak için dokunun</string>
   <string name="tc_diagnostic_brand_error_notification_title">Yanlış Ağ Tipi</string>
-  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Sonuç: Yanlış operatör markası&lt;br/&gt;&lt;br/&gt;Markayı ayarla: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Gerçek marka: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Sonuç: Yanlış operatör markası&lt;br/>&lt;br/>Markayı ayarla: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Gerçek marka: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_complete">Tamam</string>
   <string name="tc_diagnostic_fragment_default">Teşhis hakkında\n1. Cihaz, operatör şebekesine bağlanır, ücretsiz bir mesaj gönderir ve operatör yanıtını bekler. Bu işlem 5 dakika kadar sürebilir.\n2. Teşhis arka planda gerçekleştirilir, bu sayfadan çıkabilirsiniz.</string>
   <string name="tc_diagnostic_location_error_notification_summary">Konumu ayarlamak için dokunun</string>
@@ -2335,24 +2335,24 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="tc_diagnostic_onekey_repair_botton">Düzelt</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Operatör ayarlarını değiştirmek için dokunun</string>
   <string name="tc_diagnostic_operator_error_notification_title">Yanlış operatör</string>
-  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Sonuç: Yanlış operatör&lt;br/&gt;&lt;br/&gt;Set carrier: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Gerçek opeartör: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Sonuç: Yanlış operatör&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Gerçek opeartör: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_repair_and_continue">Düzelt ve devam et</string>
-  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Teşhis tamamlandı, konum sorunları düzeltildi.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Teşhis tamamlandı, konum ve operatör sorunları düzeltildi.&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Teşhis tamamlandı, konum sorunları düzeltildi.&lt;/font>"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Teşhis tamamlandı, konum ve operatör sorunları düzeltildi.&lt;/font>"</string>
   <string name="tc_diagnostic_repair_success_toast">Başarıyla değiştirildi</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Sonuç: Teşhis işlemi tamamlanamadı&lt;br/&gt;&lt;br/&gt;MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Sonuç: Yanlış konum&lt;br/&gt;&lt;br/&gt;Set location: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Gerçek konum: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Sonuç: Teşhis işlemi tamamlanamadı&lt;br/>&lt;br/>MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin&lt;/font>"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Sonuç: Yanlış konum&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Gerçek konum: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_status_error_brand">Operatör ağı bulunamadı</string>
-  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Hata&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;Ağ bağlantısı yok&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'&gt;Bilgi alınamadı&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Doğru&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Operatör ağı yanıt verir&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Zaman aşımı&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Hata&lt;/font>"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Ağ bağlantısı yok&lt;/font>"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Bilgi alınamadı&lt;/font>"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Doğru&lt;/font>"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Operatör ağı yanıt verir&lt;/font>"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Zaman aşımı&lt;/font>"</string>
   <string name="tc_diagnostic_status_updating">Test ediliyor…</string>
   <string name="tc_diagnostic_success_notification_summary">MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin</string>
   <string name="tc_diagnostic_success_notification_title">Operatör ağı ve markası doğru</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Sonuç: Operatör ağı ve marka doğru ayarlandı&lt;br/&gt;&lt;br/&gt;Ayarlama tamamlanamadı:&lt;br/&gt;1. Operatör istatistikleri ayın başında veya sonunda güvenilir olmayabilir.&lt;br/&gt;2. Güvenlik uygulaması özellikleri güncellenmedi.&lt;br/&gt;&lt;br/&gt;MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Sonuç: Operatör ağı ve marka doğru ayarlandı&lt;br/>&lt;br/>Ayarlama tamamlanamadı:&lt;br/>1. Operatör istatistikleri ayın başında veya sonunda güvenilir olmayabilir.&lt;br/>2. Güvenlik uygulaması özellikleri güncellenmedi.&lt;br/>&lt;br/>MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin&lt;/font>"</string>
   <string name="tc_diagnostic_title">Operatör teşhisi</string>
   <string name="tc_diagnostic_upload_button">Rapor</string>
   <string name="tc_diagnostic_upload_no_network">Geri bildiriminiz için teşekkür ederiz! Ağa bağlandığınızda raporunuz gönderilecektir.</string>
@@ -2383,7 +2383,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="tc_sms_report_notify_get_timeout_body">Süreç zaman aşımına uğradı. Girdiğiniz SMS sorgulama kodu doğruysa operatörünüz ile onaylayın.</string>
   <string name="tc_sms_report_notify_get_timeout_title">Veri kullanım SMS\'i alınamadı</string>
   <string name="tc_sms_report_receive_content">Veri kullanım raporu SMS içerikleri (Veri kullanım istatistiklerini onayla)</string>
-  <string name="tc_sms_report_receive_content_null">Bu özelliğin geliştirilmesine yardımcı olun!&lt;br/&gt;İşte böyle:&lt;br/&gt;1. \"SMS kontrol komutu\" ve \"Alıcı Numarası\" -na git&lt;br/&gt;2. \"SMS Şablonu al\" dokun&lt;br/&gt;3. Operatörünüzden SMS mesajı almak için bekleyin &lt;br/&gt;4. \"MIUI\'ye yükle\" dokunun​​</string>
+  <string name="tc_sms_report_receive_content_null">Bu özelliğin geliştirilmesine yardımcı olun!&lt;br/>İşte böyle:&lt;br/>1. \"SMS kontrol komutu\" ve \"Alıcı Numarası\" -na git&lt;br/>2. \"SMS Şablonu al\" dokun&lt;br/>3. Operatörünüzden SMS mesajı almak için bekleyin &lt;br/>4. \"MIUI\'ye yükle\" dokunun​​</string>
   <string name="tc_sms_report_receive_num">Alıcı Numarası</string>
   <string name="tc_sms_report_send_num">Operatör Telefon #</string>
   <string name="tc_sms_report_summary">Veri kullanım bilgisi yanlış veya güncellemek için başarısız olduğunda bize bir rapor göndererek bu özelliği geliştirmemize yardımcı olun.</string>
@@ -2534,7 +2534,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="traffic_limit_error_alert_package">\n\nKalan veriler, bir önceki aydan aktarılmış olan verileri içerir.</string>
   <string name="traffic_limit_error_alert_title">%s veri sınırı hatırlatıcısı</string>
   <string name="traffic_none">Yok</string>
-  <string name="traffic_over_purchase_link">"Veri sınırını aştınız.&lt;br/&gt;Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Şimdi kontör yüklemek için dokunun.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">"Veri sınırını aştınız.&lt;br/>Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Şimdi kontör yüklemek için dokunun.&lt;/U>&lt;/font>"</string>
   <string name="traffic_purchase_body">Kontör bakiyeniz için dokunun.</string>
   <string name="traffic_setting_fragment_area">Yerel</string>
   <string name="traffic_setting_fragment_brand">Marka</string>
@@ -2577,7 +2577,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="uninstall_danagerous_title">Kötü amaçlı uygulamaları kaldır</string>
   <string name="unlike">Hayır teşekkürler</string>
   <string name="unlock_failed">İç hata</string>
-  <string name="unlock_pattern">&lt;u&gt;Desen&lt;/u&gt;</string>
+  <string name="unlock_pattern">&lt;u>Desen&lt;/u></string>
   <string name="unlock_pattern_to_bind_fingerprint">Parmak izini etkinleştirmek için şifreyi girin</string>
   <string name="unlock_set_unlock_password_summary">Farklı karakterleri birleştirin</string>
   <string name="unlock_set_unlock_password_title">Şifre</string>

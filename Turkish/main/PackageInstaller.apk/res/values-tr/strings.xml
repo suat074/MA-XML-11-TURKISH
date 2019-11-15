@@ -307,8 +307,8 @@
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
   <string name="permdesc_togglePermissions">Uygulamanın izinlerini değiştirmesi için sahibinin kullanıcı arayüzünü başlatmasına izin verir. Normal uygulamalar için asla gerekli olmaz.</string>
   <string name="permission_request_title">İzin İsteği</string>
-  <string name="permission_review_title_template_install">&lt;b&gt;%1$s&lt;/b&gt; için erişebileceği izinleri seçin</string>
-  <string name="permission_review_title_template_update">&lt;b&gt;%1$s&lt;/b&gt; güncellendi. Bu ugulamanın erişebileceği izinleri seçin.</string>
+  <string name="permission_review_title_template_install">&lt;b>%1$s&lt;/b> için erişebileceği izinleri seçin</string>
+  <string name="permission_review_title_template_update">&lt;b>%1$s&lt;/b> güncellendi. Bu ugulamanın erişebileceği izinleri seçin.</string>
   <string name="permission_review_warning_title_template_update">%1$s güncellendi. %1$s için aşağıdakilere erişim izni verilsin mi?</string>
   <string name="permission_revoked_all">tümü devre dışı</string>
   <string name="permission_revoked_count">%1$d devre dışı</string>

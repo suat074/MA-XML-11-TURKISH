@@ -17,8 +17,8 @@
     <item quantity="one">%1$s gün boyunca kontrol edildi</item>
   </plurals>
   <plurals name="clockin_new_chip">
-    <item quantity="other">&lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; puanınız var</item>
-    <item quantity="one">&lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; puanınız var</item>
+    <item quantity="other">&lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> puanınız var</item>
+    <item quantity="one">&lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> puanınız var</item>
   </plurals>
   <plurals name="days_ago">
     <item quantity="other">%1$d gün önce</item>
@@ -61,8 +61,8 @@
     <item quantity="many">%1$d öğe</item>
   </plurals>
   <plurals name="follow_count">
-    <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; takipçi</item>
-    <item quantity="one">&lt;font color=#fc7050&gt;%d&lt;/font&gt; takipçi</item>
+    <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> takipçi</item>
+    <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> takipçi</item>
   </plurals>
   <plurals name="found_new_files">
     <item quantity="other">%1$d yeni dosya bulundu</item>
@@ -101,8 +101,8 @@
     <item quantity="many">%1$d dakika önce</item>
   </plurals>
   <plurals name="more_gems">
-    <item quantity="other">Şansınızı arttırmak için &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; daha fazla mücevher toplayın</item>
-    <item quantity="one">Şansınızı arttırmak için &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; daha fazla mücevher toplayın</item>
+    <item quantity="other">Şansınızı arttırmak için &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> daha fazla mücevher toplayın</item>
+    <item quantity="one">Şansınızı arttırmak için &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> daha fazla mücevher toplayın</item>
   </plurals>
   <plurals name="number_of_comment_flow">
     <item quantity="other">%1$s yorum</item>
@@ -117,20 +117,20 @@
     <item quantity="many">%1$d seçildi</item>
   </plurals>
   <plurals name="original_user_days">
-    <item quantity="other">• &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; gün</item>
-    <item quantity="one">• &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; gün</item>
+    <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> gün</item>
+    <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> gün</item>
   </plurals>
   <plurals name="original_user_fans">
-    <item quantity="other">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; takipçi var!</item>
-    <item quantity="one">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; takipçi var!</item>
+    <item quantity="other">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
+    <item quantity="one">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
   </plurals>
   <plurals name="original_user_play_1">
-    <item quantity="other">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; video yüklediniz.</item>
-    <item quantity="one">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; video yüklediniz.</item>
+    <item quantity="other">• &lt;font color=#fc7050>%1$s&lt;/font> video yüklediniz.</item>
+    <item quantity="one">• &lt;font color=#fc7050>%1$s&lt;/font> video yüklediniz.</item>
   </plurals>
   <plurals name="original_user_play_2">
-    <item quantity="other">&lt;font color=#fc7050&gt;%1$s&lt;/font&gt; kişiyi mutlu ettiniz!</item>
-    <item quantity="one">&lt;font color=#fc7050&gt;%1$s&lt;/font&gt; kişiyi mutlu ettiniz!</item>
+    <item quantity="other">&lt;font color=#fc7050>%1$s&lt;/font> kişiyi mutlu ettiniz!</item>
+    <item quantity="one">&lt;font color=#fc7050>%1$s&lt;/font> kişiyi mutlu ettiniz!</item>
   </plurals>
   <plurals name="remote_video_update">
     <item quantity="other">%1$s yeni video bulundu</item>

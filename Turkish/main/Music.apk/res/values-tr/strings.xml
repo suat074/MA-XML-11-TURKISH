@@ -397,13 +397,13 @@
   <string name="hungama_free_download_out_summary_toast">%d şarkı zaten indirdiniz. Daha fazla indirmek için bir abonelik alın.</string>
   <string name="hungama_playlist_category">Çalma listesi kategorisi</string>
   <string name="hungama_privacy_desc">Hungama Gizlilik Politikası (isteğe bağlı)</string>
-  <string name="hungama_privacy_tips_content">Çevrimiçi içeriğe erişmek için &lt;a href="/link/click"&gt;Hungama Gizlilik Politikası&lt;/a&gt; kabul etmeniz gerekir.</string>
+  <string name="hungama_privacy_tips_content">Çevrimiçi içeriğe erişmek için &lt;a href="/link/click"&gt;Hungama Gizlilik Politikası&lt;/a> kabul etmeniz gerekir.</string>
   <string name="hungama_privacy_tips_title">Hungama Gizlilik Politikası</string>
   <string name="hungama_subscribe_message">Yüksek kalitede müzik indirmek için PRO üyeliği satın alın.</string>
   <string name="hungama_subscribe_positive_button">PRO üyeliğini satın al</string>
   <string name="hungama_subscribe_title">PRO üyelik</string>
   <string name="i_know">Tamam</string>
-  <string name="impunity_declaration_content">Bu ürünü kullanmadan önce &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Gizlilik Politikamızı&lt;/a&gt; okumalı ve kabul etmelisiniz.</string>
+  <string name="impunity_declaration_content">Bu ürünü kullanmadan önce &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz.</string>
   <string name="impunity_declaration_ignore">Tekrar gösterme</string>
   <string name="impunity_declaration_negative_text">Çık</string>
   <string name="impunity_declaration_positive_text">Kabul</string>

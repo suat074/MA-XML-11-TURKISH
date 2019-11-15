@@ -65,7 +65,7 @@
     <item quantity="one">%d video</item>
   </plurals>
   <plurals name="video_pre_play_tip">
-    <item quantity="other">%1$d-dakika önizleme kullanılabilir. Tam videoyu izlemek için, &lt;Data&gt;&lt;font color=#ffa201&gt;şimdi satın al&lt;/font&gt;&lt;/Data&gt;.</item>
-    <item quantity="one">%1$d-dakika önizleme kullanılabilir. Tam videoyu izlemek için, &lt;Data&gt;&lt;font color=#ffa201&gt;şimdi satın al&lt;/font&gt;&lt;/Data&gt;.</item>
+    <item quantity="other">%1$d-dakika önizleme kullanılabilir. Tam videoyu izlemek için, <Data>&lt;font color=#ffa201>şimdi satın al&lt;/font></Data>.</item>
+    <item quantity="one">%1$d-dakika önizleme kullanılabilir. Tam videoyu izlemek için, <Data>&lt;font color=#ffa201>şimdi satın al&lt;/font></Data>.</item>
   </plurals>
 </resources>

@@ -71,7 +71,7 @@
   <string name="progress_set_owner">Cihaz sahibi ayarlanıyor...</string>
   <string name="provisioning">Provisioning</string>
   <string name="provisioning_error_title">Hooppp!</string>
-  <string name="read_more_delete_profile">İşlemden önce, &lt;a href="#read_this_link"&gt; adresi okuyuns&lt;/a&gt;.</string>
+  <string name="read_more_delete_profile">İşlemden önce, &lt;a href="#read_this_link"> adresi okuyuns&lt;/a>.</string>
   <string name="set_up">Ayarla</string>
   <string name="setting_up_workspace">İş profiliniz ayarlanıyor...</string>
   <string name="setup_device">Cihazınızı ayarlayın</string>

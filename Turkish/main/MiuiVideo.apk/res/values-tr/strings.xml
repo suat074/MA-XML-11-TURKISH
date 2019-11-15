@@ -82,7 +82,7 @@
   <string name="comment_back">Geri</string>
   <string name="comment_detail">Ayrıntılar</string>
   <string name="comment_let_me_comment">Bir yorumum var</string>
-  <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0&gt;cevap verme&lt;/font&gt;%s</string>
+  <string name="comment_reply" formatted="false">%s&lt;font color=#959AA0>cevap verme&lt;/font>%s</string>
   <string name="comment_reply_to">Cevap %s</string>
   <string name="comment_send">Gönder</string>
   <string name="comment_to_loading">Yorum eklemek için giriş yapın</string>
@@ -199,15 +199,15 @@
   <string name="menu_item_enable_audio_enhance">Ses geliştirme</string>
   <string name="message_center_activity_title">Mesajlarım</string>
   <string name="message_center_activity_title_setting">Ayarlar</string>
-  <string name="message_comment_item_my_content">&lt;Data&gt;&lt;font color=#3f3f3f&gt;Ben&lt;/font&gt;&lt;/Data&gt;: %s</string>
-  <string name="message_comment_item_my_reply_content">&lt;Data&gt;&lt;font color=#3f3f3f&gt;Benim&lt;/font&gt;&lt;/Data&gt; cevabım &lt;Data&gt;&lt;font color=#3f3f3f&gt;%1$s&lt;/font&gt;&lt;/Data&gt;: %2$s</string>
-  <string name="message_comment_item_reply">&lt;Data&gt;&lt;font color=#5C7997&gt;%s&lt;/font&gt;&lt;/Data&gt; yanıtladı:</string>
+  <string name="message_comment_item_my_content"><Data>&lt;font color=#3f3f3f>Ben&lt;/font></Data>: %s</string>
+  <string name="message_comment_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Benim&lt;/font></Data> cevabım <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
+  <string name="message_comment_item_reply"><Data>&lt;font color=#5C7997>%s&lt;/font></Data> yanıtladı:</string>
   <string name="message_list_fragment_login_comment">Yorumlar hakkındaki mesajları görmek için giriş yapın.</string>
   <string name="message_list_fragment_login_praise">Beğenilerle ilgili mesajları görüntülemek için oturum açın.</string>
   <string name="message_list_fragment_no_message">Henüz hiç mesajınız yok.</string>
-  <string name="message_praise_item_more">%1$s, %2$s, &lt;Data&gt;&lt;font color=#3f3f3f&gt;ve&lt;/font&gt;&lt;/Data&gt; %3$s &lt;Data&gt;&lt;font color=#3f3f3f&gt;diğer insanlar&lt;/font&gt;&lt;/Data&gt;</string>
-  <string name="message_praise_item_my_content">&lt;Data&gt;&lt;font color=#3f3f3f&gt;Ben&lt;/font&gt;&lt;/Data&gt;: %s</string>
-  <string name="message_praise_item_my_reply_content">&lt;Data&gt;&lt;font color=#3f3f3f&gt;Benim&lt;/font&gt;&lt;/Data&gt; cevabım &lt;Data&gt;&lt;font color=#3f3f3f&gt;%1$s&lt;/font&gt;&lt;/Data&gt;: %2$s</string>
+  <string name="message_praise_item_more">%1$s, %2$s, <Data>&lt;font color=#3f3f3f>ve&lt;/font></Data> %3$s <Data>&lt;font color=#3f3f3f>diğer insanlar&lt;/font></Data></string>
+  <string name="message_praise_item_my_content"><Data>&lt;font color=#3f3f3f>Ben&lt;/font></Data>: %s</string>
+  <string name="message_praise_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Benim&lt;/font></Data> cevabım <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
   <string name="message_praise_item_praise">yorumu beğen</string>
   <string name="message_praise_item_praised">yorumunuzu beğendi</string>
   <string name="message_setting">Mesajları yönet</string>
@@ -261,8 +261,8 @@
   <string name="offline_player">çevrimdışı oyuncu</string>
   <string name="offline_setting_mobile_net_limit_summary">Video indirirken boyut sınırına ulaştıktan sonra mobil veri kullanımını kısıtla</string>
   <string name="offline_setting_mobile_net_limit_title">Mobil veri kullanımı kısıtlamaları</string>
-  <string name="offline_setting_mobile_net_limit_unlimited_title">Mobil veri kullanımı kısıtlamaları(&lt;Data&gt;&lt;font color=#FF0000&gt;Sınırsız&lt;/font&gt;&lt;/Data&gt;)</string>
-  <string name="offline_setting_mobile_net_unlimited">&lt;Data&gt;&lt;font color=#FF0000&gt;Sınırsız&lt;/font&gt;&lt;/Data&gt;</string>
+  <string name="offline_setting_mobile_net_limit_unlimited_title">Mobil veri kullanımı kısıtlamaları(<Data>&lt;font color=#FF0000>Sınırsız&lt;/font></Data>)</string>
+  <string name="offline_setting_mobile_net_unlimited"><Data>&lt;font color=#FF0000>Sınırsız&lt;/font></Data></string>
   <string name="offline_success">Başarıyla İndirildi</string>
   <string name="offline_video_delete">Bu video silindi.</string>
   <string name="online_live_account_bind">Eklendi</string>
@@ -313,7 +313,7 @@
   <string name="passport_back">Geri</string>
   <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="passport_barcode_add_account_prompt">Bir hesabı bağlamak için, oturum açtıktan sonra QR kodunu tekrar tarayın.</string>
-  <string name="passport_change_account">&lt;u&gt;Hesabı değiştir&lt;/u&gt;</string>
+  <string name="passport_change_account">&lt;u>Hesabı değiştir&lt;/u></string>
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre denetleniyor…</string>
   <string name="passport_checking_input">Giriş denetleniyor…</string>
@@ -349,7 +349,7 @@
   <string name="passport_error_user_name">Girdiğiniz kullanıcı adı geçersiz.</string>
   <string name="passport_failed_to_send_activate_email">Etkinleştirme E-Postası gönderilemedi</string>
   <string name="passport_find_password_on_web_msg">Parolanızı sıfırlamak için account.mi.com adresini ziyaret edin.</string>
-  <string name="passport_forget_password">&lt;u&gt;Parolanızı mı unuttunuz&lt;/u&gt;</string>
+  <string name="passport_forget_password">&lt;u>Parolanızı mı unuttunuz&lt;/u></string>
   <string name="passport_forget_password_no_underline">Parolanızı mı unuttunuz</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
   <string name="passport_get_verify_code">Kodu al</string>
@@ -371,7 +371,7 @@
   <string name="passport_login_instead_reg_with_email">Bu postayı kullan</string>
   <string name="passport_login_prompt">Bir Mi Hesabı. Tüm Mi Hizmetleri.</string>
   <string name="passport_login_title">Mi Hesabınızla oturum açın</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Oturum açmak için diğer yollar&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways">&lt;u>Oturum açmak için diğer yollar&lt;/u></string>
   <string name="passport_message_dialog_title">SMS koduyla doğrula</string>
   <string name="passport_next">Sonraki</string>
   <string name="passport_notification_title">"%1$s için oturum açma hatası "</string>
@@ -394,7 +394,7 @@
   <string name="passport_reg_success">Hesap oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s Hesabınızla bağlandı. Oturum açmak veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
   <string name="passport_reg_type_email">E-posta adresini kullan</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Alternatif telefon numarası kullan&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone">&lt;u>Alternatif telefon numarası kullan&lt;/u></string>
   <string name="passport_reg_using_other_phone_number_prompt">Kullanarak yeni bir hesap oluşturun</string>
   <string name="passport_reg_using_phone_number_prompt">Telefon numarasını kullanarak hesap oluştur</string>
   <string name="passport_reg_via_sms_alert">Operatörünüz, bu servisi etkinleştirmek için kullanılan SMS mesajı için ücret talep edebilir.</string>
@@ -402,7 +402,7 @@
   <string name="passport_register">Hesap oluştur</string>
   <string name="passport_register_account_goto_email">Gelen Kutusuna git</string>
   <string name="passport_register_account_verified_confirm">Hesap doğrulandı</string>
-  <string name="passport_register_by_email">&lt;u&gt;E-posta adresini kullanarak bir hesap oluşturun&lt;/u&gt;</string>
+  <string name="passport_register_by_email">&lt;u>E-posta adresini kullanarak bir hesap oluşturun&lt;/u></string>
   <string name="passport_register_restricted">Bu numarayla çok fazla hesap ilişkilendirildi, farklı bir tane deneyin</string>
   <string name="passport_register_restricted_title">Bu telefon numarası kullanılamıyor</string>
   <string name="passport_registered_phone_user_ID">Kullanıcı ID: %s</string>
@@ -546,7 +546,7 @@
   <string name="subtitle_onlinesub_loading">Altyazı yükleniyor…</string>
   <string name="subtitle_onlinesub_loading_wait">Altyazı yükleniyor…</string>
   <string name="subtitle_onlinesub_right_declare">Feragat</string>
-  <string name="subtitle_onlinesub_right_declare_content">Altyazıları &lt;br/&gt;&lt;br/&gt;&lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; adresinden edinin. &lt;br/&gt;&lt;br/&gt;Tüm çevrimiçi altyazılar &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt; tarafından sağlanmaktadır.</string>
+  <string name="subtitle_onlinesub_right_declare_content">Altyazıları &lt;br/>&lt;br/>&lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> adresinden edinin. &lt;br/>&lt;br/>Tüm çevrimiçi altyazılar &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> tarafından sağlanmaktadır.</string>
   <string name="subtitle_onlinesub_save_failed">Altyazılar eklenemiyor</string>
   <string name="subtitle_onlinesub_save_success">Altyazılar başarıyla eklendi</string>
   <string name="subtitle_onlinesub_search_keyword">altyazıları aramak için lütfen bir anahtar kelime girin</string>
@@ -653,7 +653,7 @@
   <string name="v_canceled">İptal edildi</string>
   <string name="v_category">Kategoriler</string>
   <string name="v_change_mobile_net_setting">Ayarlar</string>
-  <string name="v_clause_info">\"1. Sohu TV, iQiyi, vb. tarafından sunulan çevrimiçi hizmetleri kullanabilmek için, &lt;a href=\"http://www.miui.com/res/doc/eula.html\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html\"&gt;Gizlilik Politikası&lt;/a&gt;\".                                                                2. Cihazınız hakkındaki bilgileri ve Mi Videoyu kullanma şeklinizi toplayacağız. İçerik sağlayıcılar cihaz kimliğinizi alır.      3. Kullanıcı deneyiminizi geliştirmek için, bir HD video eklentisi indirilecek ve cihazınıza yüklenecektir.                          4. Mi Video\'nun normal olarak çalışması için ağa bağlanması gerekir.\"</string>
+  <string name="v_clause_info">\"1. Sohu TV, iQiyi, vb. tarafından sunulan çevrimiçi hizmetleri kullanabilmek için, &lt;a href=\"http://www.miui.com/res/doc/eula.html\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html\">Gizlilik Politikası&lt;/a>\".                                                                2. Cihazınız hakkındaki bilgileri ve Mi Videoyu kullanma şeklinizi toplayacağız. İçerik sağlayıcılar cihaz kimliğinizi alır.      3. Kullanıcı deneyiminizi geliştirmek için, bir HD video eklentisi indirilecek ve cihazınıza yüklenecektir.                          4. Mi Video\'nun normal olarak çalışması için ağa bağlanması gerekir.\"</string>
   <string name="v_clause_notips">Tekrar gösterme</string>
   <string name="v_clause_title">Şartlar ve koşullar</string>
   <string name="v_click_channel_scrol_to_top">En üste geri gitmek için tekrar dokunun.</string>
@@ -857,7 +857,7 @@
   <string name="vp_declaration">Uyarı</string>
   <string name="vp_declaration_content_td_custom">Internet\'e bağlanmak uygulama izin?.</string>
   <string name="vp_device_list">Cihazlar</string>
-  <string name="vp_device_list_seaching">&lt;Yayınlanacak cihaz yok&gt;</string>
+  <string name="vp_device_list_seaching">&lt;Yayınlanacak cihaz yok></string>
   <string name="vp_download_apk_from_video_ad">Uygulamayı yükle</string>
   <string name="vp_download_connect_fail">Bağlantı alınamıyor</string>
   <string name="vp_download_file_fail">Dosyayı yazamadı. Cihazınızda yeterli alan olduğundan emin olun.</string>
@@ -871,8 +871,8 @@
   <string name="vp_hint">Dikkat</string>
   <string name="vp_install">Yükle</string>
   <string name="vp_install_title">Yükle</string>
-  <string name="vp_loading">&lt;CDATA&gt;İndiriliyor...&lt;/CDATA&gt;</string>
-  <string name="vp_loading_download">&lt;CDATA&gt;İndiriliyor...&lt;/CDATA&gt;</string>
+  <string name="vp_loading"><CDATA>İndiriliyor...</CDATA></string>
+  <string name="vp_loading_download"><CDATA>İndiriliyor...</CDATA></string>
   <string name="vp_loading_video">Sadece bir saniye…</string>
   <string name="vp_low_definition">DÜŞÜK</string>
   <string name="vp_maintitlearea">HD Videoyu heryerde izle</string>
@@ -933,6 +933,6 @@
   <string name="vp_video_bad_network_condition">İnternet bağlantısı zayıf. Daha sonra tekrar deneyin.</string>
   <string name="vp_video_create_video_error_info">Video oynatıcı hatası, Lütfen daha sonra tekrar deneyin.</string>
   <string name="vp_video_invalid_cp_info">Video sağlayıcısının bilgileri geçersiz. Lütfen uygulamayı yeniden başlatın</string>
-  <string name="vp_video_loading">&lt;CDATA&gt;Sadece bir saniye...&lt;/CDATA&gt;</string>
+  <string name="vp_video_loading"><CDATA>Sadece bir saniye...</CDATA></string>
   <string name="vp_video_plugin_installation">%1$s yükleniyor…</string>
 </resources>

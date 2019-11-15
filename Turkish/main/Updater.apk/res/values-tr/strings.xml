@@ -31,7 +31,7 @@
   <string name="downloading">İndiriliyor:</string>
   <string name="downloading_desc">İndiriliyor, bildirim alanındaki durumu kontrol edin.</string>
   <string name="fetching_data">İndirme bağlantısı alınıyor, lütfen bekleyin…</string>
-  <string name="install_desc">Cihaz kurtarma modunda yeniden başlatılacak ve seçilen dosyayı yükleyecektir: &lt;b&gt;%1$s&lt;/b&gt;"
+  <string name="install_desc">Cihaz kurtarma modunda yeniden başlatılacak ve seçilen dosyayı yükleyecektir: &lt;b>%1$s&lt;/b>"
 Veriler silinmeyecek."</string>
   <string name="install_title">Devam etmekten emin misin?</string>
   <string name="menu_title_current_version_log">Neler yeni?</string>

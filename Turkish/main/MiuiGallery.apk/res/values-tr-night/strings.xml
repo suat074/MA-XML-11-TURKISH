@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Bunun &amp;lt;font color=#e6ffffff&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; oldu&amp;#287;undan emin misiniz? Bu ki&amp;#351;i \"%2$s\" alb&amp;#252;m&amp;#252;ne ta&amp;#351;&amp;#305;nacak. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_face_not">" "&lt;Data&gt; Bunun &amp;lt;font color=#e6ffffff&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; olmad&amp;#305;&amp;#287;&amp;#305;ndan emin misiniz? &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Bunlar&amp;#305;n &amp;lt;font color=#e6ffffff&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; oldu&amp;#287;undan emin misiniz? Bu ki&amp;#351;iler \"%2$s\" alb&amp;#252;m&amp;#252;ne ta&amp;#351;&amp;#305;nacak. &lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt; Bunlar&amp;#305;n &amp;lt;font color=#e6ffffff&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt; olmad&amp;#305;&amp;#287;&amp;#305;ndan emin misiniz? &lt;/Data&gt;" "</string>
+    <string name="confirm_recommandation_face_is">" "<Data> Bunun &lt;font color=#e6ffffff>&lt;b>%1$s&lt;/b>&lt;/font> olduğundan emin misiniz? Bu kişi \"%2$s\" albümüne taşınacak. </Data>" "</string>
+    <string name="confirm_recommandation_face_not">" "<Data> Bunun &lt;font color=#e6ffffff>&lt;b>%1$s&lt;/b>&lt;/font> olmadığından emin misiniz? </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are">" "<Data> Bunların &lt;font color=#e6ffffff>&lt;b>%1$s&lt;/b>&lt;/font> olduğundan emin misiniz? Bu kişiler \"%2$s\" albümüne taşınacak. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not">" "<Data> Bunların &lt;font color=#e6ffffff>&lt;b>%1$s&lt;/b>&lt;/font> olmadığından emin misiniz? </Data>" "</string>
+    <item type="string" name="filter_bg_color_component">0.0</item>
 </resources>

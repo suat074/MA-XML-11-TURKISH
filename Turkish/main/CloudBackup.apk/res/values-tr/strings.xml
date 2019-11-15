@@ -91,7 +91,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="confirm_restore">Geri Yükle</string>
   <string name="confirm_restore_summary">Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir.</string>
   <string name="confirm_restore_title">Geri Yükle</string>
-  <string name="customization">&lt;u&gt;&amp;#214;zelle&amp;#351;tir&lt;/u&gt;</string>
+  <string name="customization">&lt;u>özelleştir&lt;/u></string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarm Saati</string>
   <string name="desktop_downloading">İndiriliyor</string>
@@ -143,9 +143,9 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">Ögeler geri yükleniyor. Şimdi dur?</string>
   <string name="msg_alert_restore_error">Xiaomi Bulut\'tan öğeler geri yüklenemedi. Tekrar dene.</string>
-  <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s dosya indirilecek.&lt;/font&gt;&lt;/b&gt;"</string>
+  <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecek.&lt;/font>&lt;/b>"</string>
   <string name="msg_restore_with_metered_network_hint">Bu öğeleri geri yüklemeye devam ederseniz, indirmek için mobil veri kullanılacaktır.</string>
-  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; dosya indirilecek."</string>
+  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> dosya indirilecek."</string>
   <string name="name_model">%1$s\'nın %2$s</string>
   <string name="network_error">Ağa bağlan</string>
   <string name="no_account">Mi Hesabında oturum açılmadı.</string>

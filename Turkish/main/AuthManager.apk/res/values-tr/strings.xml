@@ -51,13 +51,13 @@
   <string name="Generic_UserApp">İndirilen (%d)</string>
   <string name="Generic_Version">Sürüm: %1$s</string>
   <string name="HIPS_Action_Accept">İzin ver</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;İzinli&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800>İzinli&lt;/font></string>
   <string name="HIPS_Action_Accept_Count">%1$d izin ver</string>
   <string name="HIPS_Action_Accept_Once">Bir kez izinli</string>
   <string name="HIPS_Action_Prompt">Sor</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Sor&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00>Sor&lt;/font></string>
   <string name="HIPS_Action_Reject">Reddet</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Reddet&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000>Reddet&lt;/font></string>
   <string name="HIPS_Action_Reject_Once">Birkez reddet</string>
   <string name="HIPS_Group_DataPrivacy">Gizlilik</string>
   <string name="HIPS_Group_Expense">Güvenlik</string>
@@ -258,7 +258,7 @@
   <string name="HIPS_SecurityPrompt_Remember">Tercihimi Hatırla</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s şunu deniyor: %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d izinleri</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d izinleri - &lt;font color=#478800&gt;Güvenilir&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d izinleri - &lt;font color=#478800>Güvenilir&lt;/font></string>
   <string name="Privacy_App_Finish">Tamam</string>
   <string name="Privacy_App_Installed">Başarıyla yüklendi</string>
   <string name="Privacy_App_Launch">Başlat</string>
@@ -320,7 +320,7 @@
   <string name="permgroupdesc_sensors">Vücut sensör verilerine erişir</string>
   <string name="permgroupdesc_sms">SMS okur veya gönderir</string>
   <string name="permgroupdesc_storage">Cihazdaki fotoğraflara veya dosyalara erişir</string>
-  <string name="permgrouprequest_storage_isolated">&lt;b&gt;%1$s&lt;/b&gt; için cihazınızdaki fotoğraflara ve medyaya erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_storage_isolated">&lt;b>%1$s&lt;/b> için cihazınızdaki fotoğraflara ve medyaya erişme izni verilsin mi?</string>
   <string name="permission_description_summary_activity_recognition">Bu izne sahip uygulamalar, yürüme, bisiklete binme, araba kullanma, adım sayma ve daha fazlası gibi fiziksel etkinliklerinize erişebilir</string>
   <string name="permission_description_summary_calendar">Bu izne sahip uygulamalar takviminize erişebilir</string>
   <string name="permission_description_summary_call_log">Bu izne sahip uygulamalar telefon görüşmesi günlüğünü okuyabilir ve yazabilir</string>

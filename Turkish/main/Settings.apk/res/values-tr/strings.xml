@@ -112,27 +112,27 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="accessibility_screen_magnification_navbar_short_summary">Yakınlaştırmak için bir düğmeye dokunun</string>
   <string name="accessibility_screen_magnification_navbar_summary">"Büyütme açıldığında, hızlı bir şekilde büyütmek için ekranın altındaki Erişilebilirlik düğmesini kullanın.
 
-"&lt;b&gt;Yak&amp;#305;nla&amp;#351;t&amp;#305;rmak&lt;/b&gt;", i&amp;#231;in Eri&amp;#351;ilebilirlik d&amp;#252;&amp;#287;mesine, ard&amp;#305;ndan ekranda herhangi bir yere dokunun.
-"&lt;ul&gt; &lt;li&gt;Kayd&amp;#305;rmak i&amp;#231;in 2 veya daha fazla parma&amp;#287;&amp;#305;n&amp;#305;z&amp;#305; s&amp;#252;r&amp;#252;kleyin&lt;/li&gt;"
-"&lt;li&gt;Yak&amp;#305;nla&amp;#351;t&amp;#305;rmay&amp;#305; ayarlamak i&amp;#231;in 2 veya daha fazla parma&amp;#287;&amp;#305;n&amp;#305;zla s&amp;#305;k&amp;#305;n&lt;/li&gt; &lt;/ul&gt;"
+"&lt;b>Yakınlaştırmak&lt;/b>", için Erişilebilirlik düğmesine, ardından ekranda herhangi bir yere dokunun.
+"&lt;ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
+"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> &lt;/ul>"
 
-"&lt;b&gt;Ge&amp;#231;ici olarak yak&amp;#305;nla&amp;#351;t&amp;#305;rmak i&amp;#231;in&lt;/b&gt;", Eri&amp;#351;ilebilirlik d&amp;#252;&amp;#287;mesine dokunun, ard&amp;#305;ndan ekranda herhangi bir yere dokunup bas&amp;#305;l&amp;#305; tutun.
-"&lt;ul&gt; &lt;li&gt;Ekranda hareket ettirmek i&amp;#231;in s&amp;#252;r&amp;#252;kleyin&lt;/li&gt;"
-"&lt;li&gt;Uzakla&amp;#351;t&amp;#305;rmak i&amp;#231;in parma&amp;#287;&amp;#305;n&amp;#305;z&amp;#305; kald&amp;#305;r&amp;#305;n&lt;/li&gt; &lt;/ul&gt;"
+"&lt;b>Geçici olarak yakınlaştırmak için&lt;/b>", Erişilebilirlik düğmesine dokunun, ardından ekranda herhangi bir yere dokunup basılı tutun.
+"&lt;ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
+"<li>Uzaklaştırmak için parmağınızı kaldırın</li> &lt;/ul>"
 
-Klavye veya gezinme &amp;#231;ubu&amp;#287;unda yak&amp;#305;nla&amp;#351;t&amp;#305;rma yapamazs&amp;#305;n&amp;#305;z."</string>
+Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="accessibility_screen_magnification_navbar_title">Düğmeyle büyütme</string>
   <string name="accessibility_screen_magnification_short_summary">Yakınlaşmak için 3 kez hafifçe dokunun</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Düğmeyle ve üç kez dokunarak büyütme</string>
-  <string name="accessibility_screen_magnification_summary">" "&lt;b&gt;Yak&amp;#305;nla&amp;#351;t&amp;#305;rmak i&amp;#231;in&lt;/b&gt;", ekrana 3 kez h&amp;#305;zl&amp;#305;ca dokunun.
-"&lt;ul&gt; &lt;li&gt;Kayd&amp;#305;rmak i&amp;#231;in 2 veya daha fazla parma&amp;#287;&amp;#305;n&amp;#305;z&amp;#305; s&amp;#252;r&amp;#252;kleyin&lt;/li&gt;"
-"&lt;li&gt;Yak&amp;#305;nla&amp;#351;t&amp;#305;rmay&amp;#305; ayarlamak i&amp;#231;in 2 veya daha fazla parma&amp;#287;&amp;#305;n&amp;#305;zla s&amp;#305;k&amp;#305;n&lt;/li&gt; &lt;/ul&gt;"
+  <string name="accessibility_screen_magnification_summary">" "&lt;b>Yakınlaştırmak için&lt;/b>", ekrana 3 kez hızlıca dokunun.
+"&lt;ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
+"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> &lt;/ul>"
 
-"&lt;b&gt;Ge&amp;#231;ici olarak yak&amp;#305;nla&amp;#351;t&amp;#305;rmak i&amp;#231;in&lt;/b&gt;", ekrana 3 kez h&amp;#305;zl&amp;#305;ca dokunun ve &amp;#252;&amp;#231;&amp;#252;nc&amp;#252; dokunu&amp;#351;ta parma&amp;#287;&amp;#305;n&amp;#305;z&amp;#305; bas&amp;#305;l&amp;#305; tutun.
-"&lt;ul&gt; &lt;li&gt;Ekranda hareket ettirmek i&amp;#231;in s&amp;#252;r&amp;#252;kleyin&lt;/li&gt;"
-"&lt;li&gt;Uzakla&amp;#351;t&amp;#305;rmak i&amp;#231;in parma&amp;#287;&amp;#305;n&amp;#305;z&amp;#305; kald&amp;#305;r&amp;#305;n&lt;/li&gt; &lt;/ul&gt;"
+"&lt;b>Geçici olarak yakınlaştırmak için&lt;/b>", ekrana 3 kez hızlıca dokunun ve üçüncü dokunuşta parmağınızı basılı tutun.
+"&lt;ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
+"<li>Uzaklaştırmak için parmağınızı kaldırın</li> &lt;/ul>"
 
-Klavye veya gezinme &amp;#231;ubu&amp;#287;unda yak&amp;#305;nla&amp;#351;t&amp;#305;rma yapamazs&amp;#305;n&amp;#305;z."</string>
+Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="accessibility_screen_magnification_title">Büyütme hareketleri</string>
   <string name="accessibility_service_default_description">Açıklama yok.</string>
   <string name="accessibility_services_title">Hizmetler</string>
@@ -547,7 +547,7 @@ Klavye veya gezinme &amp;#231;ubu&amp;#287;unda yak&amp;#305;nla&amp;#351;t&amp;
   <string name="auto_sync_personal_account_title">Kişisel verileri otomatik olarak senkronize et</string>
   <string name="auto_sync_work_account_title">İş verilerini otomatik olarak senkronize et</string>
   <string name="autofill_app">Otomatik doldurma hizmeti</string>
-  <string name="autofill_confirmation_message">&lt;b&gt;Bu uygulamaya güvendiğinizden emin olun&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Otomatik Doldurma&gt;%1$s&lt;/xliff:g&gt; otomatik doldurulabilecek öğeleri belirlemek için ekranınızdaki bilgileri kullanır.</string>
+  <string name="autofill_confirmation_message">&lt;b>Bu uygulamaya güvendiğinizden emin olun&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Otomatik Doldurma>%1$s&lt;/xliff:g> otomatik doldurulabilecek öğeleri belirlemek için ekranınızdaki bilgileri kullanır.</string>
   <string name="autofill_keywords">otomatik, doldur, otomatik doldur</string>
   <string name="automatic_brightness">Otomatik Parlaklık</string>
   <string name="automatic_storage_manager_activation_warning">Depolama alanınız artık depolama yöneticisi tarafından yönetiliyor</string>
@@ -780,7 +780,7 @@ Klavye veya gezinme &amp;#231;ubu&amp;#287;unda yak&amp;#305;nla&amp;#351;t&amp;
   <string name="bluetooth_ask_lasting_discovery_no_name">Bir uygulama, telefonunuzu diğer Bluetooth cihazlara görünebilir yapmak istiyor. Bunu daha sonra Bluetooth ayarlarından değiştirebilirsiniz.</string>
   <string name="bluetooth_auto_connect">Otomatik Bağlan</string>
   <string name="bluetooth_broadcasting">Yayın</string>
-  <string name="bluetooth_confirm_passkey_msg">Eşleştirmek için:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bu şifreyi gösterdiğinden emin olun:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Eşleştirmek için:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Bu şifreyi gösterdiğinden emin olun:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_connect_specific_profiles_title">Bağlan…</string>
   <string name="bluetooth_connected">%1$s bağlandı</string>
   <string name="bluetooth_connected_battery_level">Bağlandı | Pil %1$s%2$s</string>
@@ -830,7 +830,7 @@ Klavye veya gezinme &amp;#231;ubu&amp;#287;unda yak&amp;#305;nla&amp;#351;t&amp;
   <string name="bluetooth_disable_inband_ringing_summary">Bluetooth kulaklıklarda özel telefon zil sesleri çalma</string>
   <string name="bluetooth_disable_mi_fast_connect">Mi Bağlantı\'yı devre dışı bırak</string>
   <string name="bluetooth_disable_mi_fast_connect_summary">Mi Hızlı Bağlantı özelliğini devre dışı bırakın</string>
-  <string name="bluetooth_disable_profile_message">Bu devre dışı kalacak:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bundan itibaren:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">Bu devre dışı kalacak:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Bundan itibaren:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_disable_profile_title">Profil devre dışı bırakılsın mı?</string>
   <string name="bluetooth_disabled">Kapalı</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s medya sesiyle bağlantısı kesilecek.</string>
@@ -843,7 +843,7 @@ Klavye veya gezinme &amp;#231;ubu&amp;#287;unda yak&amp;#305;nla&amp;#351;t&amp;
   <string name="bluetooth_disconnect_title">Bağlantı kesilsin mi?</string>
   <string name="bluetooth_disconnected">Bağlantı kesildi</string>
   <string name="bluetooth_disconnecting">Bağlantı kesiliyor...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Eşleştirmek için:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Üzerine yazın:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, daha sonra Return veya Enter tuşuna basın.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Eşleştirmek için:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Üzerine yazın:&lt;br>&lt;b>%2$s&lt;/b>, daha sonra Return veya Enter tuşuna basın.</string>
   <string name="bluetooth_dock_settings">Yuva Ayarları</string>
   <string name="bluetooth_dock_settings_a2dp">Müzik ve medya için</string>
   <string name="bluetooth_dock_settings_headset">Telefon hoparlörü olarak</string>
@@ -1569,8 +1569,8 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="data_usage_restrict_denied_dialog">Arkaplan verilerini sınırlama yalnızca hücresel veri sınırı ayarladığınızda mümkündür.</string>
   <string name="data_usage_summary_format">%1$s veri kullanıldı</string>
   <string name="data_usage_summary_title">Veri kullanımı</string>
-  <string name="data_usage_sweep_limit">" \"&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"\n\"&lt;font size=\"12\"&gt;Limit&lt;/font&gt;\" "</string>
-  <string name="data_usage_sweep_warning">" \"&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"\n\"&lt;font size=\"12\"&gt;Uyarı&lt;/font&gt;\" "</string>
+  <string name="data_usage_sweep_limit">" \"&lt;font size=\"18\">^1&lt;/font> &lt;font size=\"9\">^2&lt;/font>\"\n\"&lt;font size=\"12\">Limit&lt;/font>\" "</string>
+  <string name="data_usage_sweep_warning">" \"&lt;font size=\"18\">^1&lt;/font> &lt;font size=\"9\">^2&lt;/font>\"\n\"&lt;font size=\"12\">Uyarı&lt;/font>\" "</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -2269,7 +2269,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="forget_password_button_text">Şifremi Unuttum</string>
   <string name="forget_password_dialog_button_text">Geri</string>
   <string name="forget_password_dialog_content_four">2. [Verileri sil] öğesini seçin ve cihazınız yeniden başlatana kadar bekleyin.</string>
-  <string name="forget_password_dialog_content_one">&lt;Data&gt;&amp;#350;ifrenizi unutursan&amp;#305;z, geri y&amp;#252;kleyemezsiniz. Ancak, &amp;lt;font color=#ec2700&amp;gt;cihaz&amp;#305;n&amp;#305;zdaki t&amp;#252;m veriler silindikten&amp;lt;/font&amp;gt; (foto&amp;#287;raf, ki&amp;#351;i vb. dahil) sonra geri y&amp;#252;kleyebilirsiniz. Bunun i&amp;#231;in &amp;#246;nce &amp;#246;nemli verileri yedekleyin.&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_one"><Data>Şifrenizi unutursanız, geri yükleyemezsiniz. Ancak, &lt;font color=#ec2700>cihazınızdaki tüm veriler silindikten&lt;/font> (fotoğraf, kişi vb. dahil) sonra geri yükleyebilirsiniz. Bunun için önce önemli verileri yedekleyin.</Data></string>
   <string name="forget_password_dialog_content_three">1. Cihazınızı kapatın. [Güç] düğmesine ve [Ses +] düğmesine aynı anda basın ve * simgesini görene kadar basılı tutun.</string>
   <string name="forget_password_dialog_content_two">Verileri silmek için şu adımları izleyin:</string>
   <string name="forget_password_dialog_title">Verileri sil</string>
@@ -2961,7 +2961,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="long_press_menu_key_when_lock">Kilit ekranında Menü tuşuna uzun bas</string>
   <string name="long_press_power_key">Güç düğmesine uzun basın</string>
   <string name="long_press_power_key_half_of_second">Google Asistan\'ı açmak için güç düğmesine 0,5 saniye basılı tutun.</string>
-  <string name="long_press_power_key_tips">&lt;Data&gt;G&amp;#252;&amp;#231; d&amp;#252;&amp;#287;mesine uzun bas&amp;#305;n &amp;lt;font color=#999999&amp;gt;Daha h&amp;#305;zl&amp;#305; ve daha pratik&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="long_press_power_key_tips"><Data>Güç düğmesine uzun basın &lt;font color=#999999>Daha hızlı ve daha pratik&lt;/font></Data></string>
   <string name="long_press_volume_down">Sesi kısma tuşuna uzun basın</string>
   <string name="lost_internet_access_cancel">Kablosuz bağlantıda kal</string>
   <string name="lost_internet_access_persist">Bir daha gösterme</string>
@@ -3007,7 +3007,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="manually_add_network">Ağ Ekle</string>
   <string name="master_clear_accounts">\n\nŞu anda aşağıdaki hesaplarda oturum açmış durumdasını\n</string>
   <string name="master_clear_all">Telefonunuzun dahili depolama alanındaki tüm veriler silinsin mi? Bu işlemi geri alamazsınız!</string>
-  <string name="master_clear_apply_step_1">&lt;b&gt;&amp;#8220;Fabrika verilerine sıfırlama&amp;#8221; fotoğraflar, şarkılar, notlar ve diğer kişisel veriler de dahil olmak üzere&lt;/b&gt;, telefonunuzdaki tüm verileri silecek. Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun.</string>
+  <string name="master_clear_apply_step_1">&lt;b>&amp;#8220;Fabrika verilerine sıfırlama&amp;#8221; fotoğraflar, şarkılar, notlar ve diğer kişisel veriler de dahil olmak üzere&lt;/b>, telefonunuzdaki tüm verileri silecek. Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun.</string>
   <string name="master_clear_apply_step_2">Tüm önemli öğelerin bilgisayarınıza yedeklendiğinden emin olun. Bu cihaz üzerindeki tüm veriler sıfırlama esnasında silinir. Yedek almadığınız öğeleri geri yükleyemezsiniz.</string>
   <string name="master_clear_apply_title">Attention</string>
   <string name="master_clear_button_text">Telefonu sıfırla</string>
@@ -3956,7 +3956,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="privacy_authorize_cloud_msg">Hesabınızın güvenliğini sağlayan Xiaomi Bulut hizmetleri için yetkilendirmeyi iptal etmek istiyorsanız i.mi.com adresinde oturum açın (eşitleme ve yedeklemeler dahil).</string>
   <string name="privacy_authorize_dialog_agree">Kabul</string>
   <string name="privacy_authorize_dialog_exit">Çıkış</string>
-  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Bu servisin temel &amp;#246;zellikleri kullanabilmek i&amp;#231;in, Xiaomi\'nin ki&amp;#351;isel verilerinizi toplayaca&amp;#287;&amp;#305;n&amp;#305;, i&amp;#351;leyece&amp;#287;ini ve kullanaca&amp;#287;&amp;#305;n&amp;#305; kabul etmeniz gerekir. Ki&amp;#351;isel verileri nas&amp;#305;l toplad&amp;#305;&amp;#287;&amp;#305;m&amp;#305;z&amp;#305; ve i&amp;#351;ledi&amp;#287;imizi &amp;#246;&amp;#287;renmek i&amp;#231;in Gizlilik Politikam&amp;#305;za bak&amp;#305;n. \"Kabul\" se&amp;#231;ene&amp;#287;ini se&amp;#231;mek, &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Gizlilik Politikas&amp;#305;n&amp;#305;&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;amp;lang=%4$s\"&amp;gt;Kullan&amp;#305;c&amp;#305; S&amp;#246;zle&amp;#351;mesini&amp;lt;/a&amp;gt; okudu&amp;#287;unuzu ve kabul etti&amp;#287;inizi g&amp;#246;sterir.&amp;#8203;"&lt;/Data&gt;</string>
+  <string name="privacy_authorize_dialog_message"><Data>"Bu servisin temel özellikleri kullanabilmek için, Xiaomi\'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir. Kişisel verileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul\" seçeneğini seçmek, &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikasını&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;amp;lang=%4$s\">Kullanıcı Sözleşmesini&lt;/a> okuduğunuzu ve kabul ettiğinizi gösterir.&amp;#8203;"</Data></string>
   <string name="privacy_authorize_network_error">Ağa bağlanın ve tekrar deneyin.</string>
   <string name="privacy_authorize_privacy_policy">Gizlilik Politikası</string>
   <string name="privacy_authorize_revoke">Geri al</string>
@@ -4027,7 +4027,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="privacy_settings_title">Sıfırla</string>
   <string name="privacy_thumbnail_blur_progress_message">Sadece bir saniye…</string>
   <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
-  <string name="private_dns_help_message">Özel DNS özellikleri hakkında &lt;annotation id="url"&gt;daha fazla bilgi&lt;/annotation&gt;</string>
+  <string name="private_dns_help_message">Özel DNS özellikleri hakkında &lt;annotation id="url">daha fazla bilgi&lt;/annotation></string>
   <string name="private_dns_mode_off">Kapalı</string>
   <string name="private_dns_mode_opportunistic">Otomatik</string>
   <string name="private_dns_mode_provider">Özel DNS sağlayıcı ana bilgisayar adı</string>
@@ -4196,11 +4196,11 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="reset_app_preferences_button">Uygulamaları sıfırla</string>
   <string name="reset_app_preferences_desc">"Bu, tüm tercihleri sıfırlayacak:
 
-"&lt;li&gt; Devre d&amp;#305;&amp;#351;&amp;#305; b&amp;#305;rak&amp;#305;lm&amp;#305;&amp;#351; uygulamalar&lt;/li&gt;"
-"&lt;li&gt; Devre d&amp;#305;&amp;#351;&amp;#305; b&amp;#305;rak&amp;#305;lm&amp;#305;&amp;#351; uygulama bildirimleri&lt;/li&gt;"
-"&lt;li&gt; Varsay&amp;#305;lan uygulama eylemleri&lt;/li&gt;"
-"&lt;li&gt; Uygulamalar i&amp;#231;in arka plan veri k&amp;#305;s&amp;#305;tlamalar&amp;#305;&lt;/li&gt;"
-"&lt;li&gt; Herhangi bir izin k&amp;#305;s&amp;#305;tlamas&amp;#305;&lt;/li&gt;"
+"<li> Devre dışı bırakılmış uygulamalar</li>"
+"<li> Devre dışı bırakılmış uygulama bildirimleri</li>"
+"<li> Varsayılan uygulama eylemleri</li>"
+"<li> Uygulamalar için arka plan veri kısıtlamaları</li>"
+"<li> Herhangi bir izin kısıtlaması</li>"
 
  Herhangi bir uygulama verisini kaybetmezsiniz."</string>
   <string name="reset_app_preferences_title">Uygulama seçeneklerini sıfırlamak istiyor musunuz?</string>
@@ -4731,10 +4731,10 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Sil</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">İsim</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Tamam</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">Telefonunuzun kilidini açmanın yanı sıra, satın alma işlemlerini ve uygulama erişimini onaylamak içinde parmak izinizi kullanabilirsiniz.&lt;annotation id="url"&gt; Daha fazla bilgi edin&lt;/annotation&gt;" "</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Ekran kilidi seçeneği devre dışı. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisine başvurun."&lt;annotation id="admin_details"&gt; Daha fazla detay&lt;/annotation&gt;"
+  <string name="security_settings_fingerprint_enroll_disclaimer">Telefonunuzun kilidini açmanın yanı sıra, satın alma işlemlerini ve uygulama erişimini onaylamak içinde parmak izinizi kullanabilirsiniz.&lt;annotation id="url"> Daha fazla bilgi edin&lt;/annotation>" "</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Ekran kilidi seçeneği devre dışı. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisine başvurun."&lt;annotation id="admin_details"> Daha fazla detay&lt;/annotation>"
 
-Sat&amp;#305;n alma i&amp;#351;lemlerini ve uygulama eri&amp;#351;imini onaylamak i&amp;#231;in parmak izinizi kullanabilirsiniz."&lt;annotation id="url"&gt; Daha fazla bilgi edin&lt;/annotation&gt;" "</string>
+Satın alma işlemlerini ve uygulama erişimini onaylamak için parmak izinizi kullanabilirsiniz."&lt;annotation id="url"> Daha fazla bilgi edin&lt;/annotation>" "</string>
   <string name="security_settings_fingerprint_enroll_done">Bitti</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Kayıt tamamlanmadı</string>
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Parmak izi kaydı işe yaramadı. Tekrar dene veya farklı bir parmak kullan</string>
@@ -5314,7 +5314,7 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="super_resolution_no_app_tips">Önce WeChat ve Toutiao\'yu indirin.</string>
   <string name="super_resolution_reboot_tips">Bu özellik, WeChat ve Toutiao\’da daha net görüntü elde etmenizi sağlar. Bu özelliği açtıktan sonra uygulamaları tekrar başlatın.</string>
   <string name="super_resolution_title">Süper çözünürlük</string>
-  <string name="supl_not_set">&lt;Ayarsız&gt;</string>
+  <string name="supl_not_set">&lt;Ayarsız></string>
   <string name="supplicant_state_label">Rica Durumu::</string>
   <string name="support_account_picker_add_account">Hesap ekle</string>
   <string name="support_account_request_prefix">İstekte bulunan hesap:</string>
@@ -5326,8 +5326,8 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="support_escalation_24_7_title">Sizin için 7/24 buradayız</string>
   <string name="support_escalation_by_chat">Sohbet</string>
   <string name="support_escalation_by_phone">Telefon</string>
-  <string name="support_escalation_closed_summary">Yardımda arama yapın veya destek saatlerinde (yerel saat) tekrar gelin:&lt;br&gt;&lt;b&gt;%s&lt;/b&gt;</string>
-  <string name="support_escalation_no_internet_summary">Telefonla destek saatleri (yerel saat)&lt;br&gt;&lt;b&gt;%s&lt;/b&gt;</string>
+  <string name="support_escalation_closed_summary">Yardımda arama yapın veya destek saatlerinde (yerel saat) tekrar gelin:&lt;br>&lt;b>%s&lt;/b></string>
+  <string name="support_escalation_no_internet_summary">Telefonla destek saatleri (yerel saat)&lt;br>&lt;b>%s&lt;/b></string>
   <string name="support_escalation_summary">Destek ekibimiz her tür sorunu çözmenize yardımcı olmak için hizmetinizde</string>
   <string name="support_escalation_title">Yardımcı olmak için buradayız</string>
   <string name="support_escalation_unavailable_summary">Yardımda arama yapın veya ipuçları ve püf noktalarını keşfedin</string>
@@ -5371,7 +5371,7 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="sync_menu_sync_now">Şimdi eşitle</string>
   <string name="sync_now">Eşitle</string>
   <string name="sync_one_time_sync">Şimdi eşitlemek için dokunun\n%1$s</string>
-  <string name="sync_plug">&lt;font fgcolor=\"#ffffffff\"&gt;Google eşitlemeye hoşgeldiniz!&lt;/font&gt;\" \nGoogle veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye istediğinizden yerden ulaşabilirsiniz. \"</string>
+  <string name="sync_plug">&lt;font fgcolor=\"#ffffffff\">Google eşitlemeye hoşgeldiniz!&lt;/font>\" \nGoogle veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye istediğinizden yerden ulaşabilirsiniz. \"</string>
   <string name="sync_settings">Hesaplar &amp; eşitleme</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Sadece WLAN</string>

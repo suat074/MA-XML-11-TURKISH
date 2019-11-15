@@ -222,11 +222,11 @@
   <string name="orb_search_action">Arama İşlemi</string>
   <string name="other_permissions">Diğer uygulama özellikleri</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
-  <string name="permgrouprequest_storage_isolated">&lt;b&gt;%1$s&lt;/b&gt; uygulamasının cihazınızdaki fotoğraf ve dosyalara erişmesine izin verilsin mi?</string>
+  <string name="permgrouprequest_storage_isolated">&lt;b>%1$s&lt;/b> uygulamasının cihazınızdaki fotoğraf ve dosyalara erişmesine izin verilsin mi?</string>
   <string name="permission_access_always">Her zaman izin ver</string>
   <string name="permission_access_never">Reddet</string>
   <string name="permission_access_only_foreground">Yalnızca uygulama kullanılırken izin ver</string>
-  <string name="permission_add_background_warning_template">&lt;b&gt;%1$s&lt;/b&gt; uygulamasına %2$s için izin verilsin m?</string>
+  <string name="permission_add_background_warning_template">&lt;b>%1$s&lt;/b> uygulamasına %2$s için izin verilsin m?</string>
   <string name="permission_description_summary_activity_recognition">Bu izne sahip uygulamalar, yürüme, bisiklete binme, araba kullanma, adım sayısı gibi fiziksel aktivitelerinize erişebilir.</string>
   <string name="permission_description_summary_calendar">Bu izne sahip uygulamalar takviminize erişebilir</string>
   <string name="permission_description_summary_call_log">Bu izne sahip uygulamalar telefon arama kaydını okuyabilir ve yazabilir</string>
@@ -241,8 +241,8 @@
   <string name="permission_description_summary_storage">Bu izne sahip uygulamalar, cihazınızdaki fotoğraflara, medyalara ve dosyalara erişebilir.</string>
   <string name="permission_reminders">İzin hatırlatıcılar</string>
   <string name="permission_request_title">İzin isteği</string>
-  <string name="permission_review_title_template_install">&lt;b&gt;%1$s&lt;/b&gt; uygulamasının nelere erişmesine izin vereceğinizi seçin</string>
-  <string name="permission_review_title_template_update">&lt;b&gt;%1$s&lt;/b&gt; güncellendi. Bu uygulamanın nelere erişmesine izin verileceğini seçin.</string>
+  <string name="permission_review_title_template_install">&lt;b>%1$s&lt;/b> uygulamasının nelere erişmesine izin vereceğinizi seçin</string>
+  <string name="permission_review_title_template_update">&lt;b>%1$s&lt;/b> güncellendi. Bu uygulamanın nelere erişmesine izin verileceğini seçin.</string>
   <string name="permission_revoked_all">tümü devre dışı</string>
   <string name="permission_revoked_count">%1$d izin devre dışı</string>
   <string name="permission_revoked_none">hiçbiri devre dışı değil</string>
@@ -281,7 +281,7 @@
   <string name="permission_usage_summary_foreground">Son erişim: %1$s\nSon olarak uygulama kullanılırken erişildi</string>
   <string name="permission_usage_title">Kontrol paneli</string>
   <string name="permission_usage_view_details">Tümünü Kontrol Paneli\'nde göster</string>
-  <string name="permission_warning_template">&lt;b&gt;%1$s&lt;/b&gt; uygulamasına %2$s izni verilsin mi?</string>
+  <string name="permission_warning_template">&lt;b>%1$s&lt;/b> uygulamasına %2$s izni verilsin mi?</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="request_role_current_default">Mevcut varsayılan</string>
   <string name="request_role_dont_ask_again">Tekrar sorma</string>

@@ -105,14 +105,14 @@ Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
   <string name="mibi_error_user_id_mismatch_summary">Please check and re-login your account</string>
   <string name="mibi_error_web_summary">Sunucu hatası</string>
   <string name="mibi_fee">%1$s Mi Kredi</string>
-  <string name="mibi_forget_password">&lt;u&gt;Şifreyi unuttum&lt;/u&gt;</string>
+  <string name="mibi_forget_password">&lt;u>Şifreyi unuttum&lt;/u></string>
   <string name="mibi_format_bill_date">yyyy/M/d</string>
   <string name="mibi_format_date">MMM. dd, yyyy</string>
   <string name="mibi_format_time">MMM dd, yyyy hh:mmaa</string>
   <string name="mibi_frozen">Dondur</string>
   <string name="mibi_frozen_prim">Hesabı dondur</string>
   <string name="mibi_frozen_sub">Anormal etkinlik algılandı</string>
-  <string name="mibi_frozen_text">&lt;Data&gt;Hesabınız donduruldu &amp;lt;font color=#33aaff&amp;gt;Müşteri desteğimize başvurun.&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="mibi_frozen_text"><Data>Hesabınız donduruldu &lt;font color=#33aaff&gt;Müşteri desteğimize başvurun.&lt;/font></Data></string>
   <string name="mibi_frozen_text_pad">Hesabınız donduruldu. İrtibat için: 400–100–3399.</string>
   <string name="mibi_get_phone_format_error">Telefon numarasını doğrula</string>
   <string name="mibi_get_phone_num_prefix">+90</string>
@@ -137,7 +137,7 @@ Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
   <string name="mibi_giftcard_record">My gift cards</string>
   <string name="mibi_giftcard_title">Mi Kredi Gift Card</string>
   <string name="mibi_giftcard_will_expire">Expires on %1$s</string>
-  <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Mi Kredisi mevcut&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="mibi_giftcard_with_num"><Data>&lt;font color=#FF7700>&lt;xliff:g id=value&gt;%1$d&lt;/xliff:g&gt; Mi Kredisi mevcut&lt;/font></Data></string>
   <string name="mibi_header_network_error">"Ağa bağlanamadı."</string>
   <string name="mibi_illegal_intent">Illegal intent request</string>
   <string name="mibi_is_what">What can you buy with Mi Kredisi?</string>
@@ -163,7 +163,7 @@ Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
   <string name="mibi_msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
   <string name="mibi_msg_order_hint_1_2">Automatically contact your service provider.</string>
   <string name="mibi_msg_picker_hint_1_1">1.</string>
-  <string name="mibi_msg_picker_hint_1_2">Topping up via text may be more expensive: &lt;font color=red&gt;￥%1$d = %2$d Mi Kredi&lt;/font&gt;</string>
+  <string name="mibi_msg_picker_hint_1_2">Topping up via text may be more expensive: &lt;font color=red&gt;￥%1$d = %2$d Mi Kredi&lt;/font></string>
   <string name="mibi_msg_picker_hint_2_1">2.</string>
   <string name="mibi_msg_picker_hint_2_a">Carriers charge a ￥%1$s service fee per Kontör</string>
   <string name="mibi_msg_picker_hint_2_b">An SMS will be sent to your carrier after you tap \"Top up\". Carrier will charge you for a regular SMS.</string>
@@ -227,7 +227,7 @@ Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
   <string name="mibi_prepaid_picker_hint_1_2">Only supports one-time charge;</string>
   <string name="mibi_prepaid_picker_hint_2_1">2.</string>
   <string name="mibi_prepaid_picker_hint_2_2_a">"Selected nominal value must be consistent with that of the prepaid card. Choosing another value will void the card. This action can't be undone."</string>
-  <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
+  <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font>, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
   <string name="mibi_prepaid_picker_title_default">Select amount</string>
   <string name="mibi_prepaid_picker_title_selected">amount</string>
   <string name="mibi_privacy_tip_message">Yetkilendirme iptal edildikten sonra Mi Kredilerini kullanamazsınız</string>
@@ -331,7 +331,7 @@ Customer service center：400-100-3399"</string>
   <string name="passport_back">Back</string>
   <string name="passport_bad_authentication">Invalid username or password</string>
   <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
-  <string name="passport_change_account">&lt;u&gt;Change account&lt;/u&gt;</string>
+  <string name="passport_change_account">&lt;u>Change account&lt;/u></string>
   <string name="passport_change_phone_number">Switch numbers</string>
   <string name="passport_checking_account">Checking password…</string>
   <string name="passport_checking_input">Checking input…</string>
@@ -370,7 +370,7 @@ To activate your account, follow the
   <string name="passport_error_user_name">The username you entered is invalid.</string>
   <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
   <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
-  <string name="passport_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
+  <string name="passport_forget_password">&lt;u>Forgot password&lt;/u></string>
   <string name="passport_forget_password_no_underline">Forgot password</string>
   <string name="passport_get_back_pwd">Retrieve account password</string>
   <string name="passport_get_verify_code">Get code</string>
@@ -392,7 +392,7 @@ To activate your account, follow the
   <string name="passport_login_instead_reg_with_email">Use this Email</string>
   <string name="passport_login_prompt">One Mi Account. All Mi services.</string>
   <string name="passport_login_title">Sign in to your Mi Account</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Other ways to sign in&lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways">&lt;u>Other ways to sign in&lt;/u></string>
   <string name="passport_message_dialog_title">SMS with verifying codes</string>
   <string name="passport_next">Sonraki</string>
   <string name="passport_notification_title">Signin error for %1$s</string>
@@ -415,7 +415,7 @@ To activate your account, follow the
   <string name="passport_reg_success">Account created</string>
   <string name="passport_reg_success_summary">%1$s has been bound with your account. You can use it to sign in or to reset your password.</string>
   <string name="passport_reg_type_email">Use email address</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Use alternate phone number&lt;/u&gt;</string>
+  <string name="passport_reg_using_other_phone">&lt;u>Use alternate phone number&lt;/u></string>
   <string name="passport_reg_using_other_phone_number_prompt">"Create a new account using "</string>
   <string name="passport_reg_using_phone_number_prompt">Create account using phone number</string>
   <string name="passport_reg_via_sms_alert">Your carrier may charge for an SMS message used to activate this service.</string>
@@ -423,7 +423,7 @@ To activate your account, follow the
   <string name="passport_register">Create an account</string>
   <string name="passport_register_account_goto_email">Go to inbox</string>
   <string name="passport_register_account_verified_confirm">Account verified</string>
-  <string name="passport_register_by_email">&lt;u&gt;Create an account using email address&lt;/u&gt;</string>
+  <string name="passport_register_by_email">&lt;u>Create an account using email address&lt;/u></string>
   <string name="passport_register_restricted">Too many accounts have been associated with this number, try a different one</string>
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
   <string name="passport_registered_phone_user_ID">User ID: %s</string>
