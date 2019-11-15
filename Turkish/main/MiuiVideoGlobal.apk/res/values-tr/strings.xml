@@ -693,7 +693,7 @@ seçin"</string>
   <string name="passport_unknow_error">Tanımlanamayan bir hata oluştu</string>
   <string name="passport_unknow_host_network_error">Ağ ayarlarınızı kontrol edin ve yeniden deneyin</string>
   <string name="passport_unknow_network_error">Ağ bağlantısı yok</string>
-  <string name="passport_user_agreement_link"><Data>Xiaomi &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> okudum ve kabul ettim.<Data></string>
+  <string name="passport_user_agreement_link"><Data>Xiaomi &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> okudum ve kabul ettim.</Data></string>
   <string name="passport_user_agreement_link_more">"<Data>Şu anlaşmaları okudum ve kabul ettim: Xiaomi'nin &lt;/a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a>,&lt;a href=%2$s&gt;%3$s&lt;/a>.</Data>"</string>
   <string name="passport_user_id_intro">%1$s için şifre girin</string>
   <string name="passport_v_code_error">Doğrulama kodu yanlış</string>
