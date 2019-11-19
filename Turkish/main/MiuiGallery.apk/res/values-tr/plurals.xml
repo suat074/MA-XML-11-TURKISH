@@ -176,6 +176,10 @@
         <item quantity="other">%1$d video eşitleme için bekliyor</item>
         <item quantity="one">%1$d  video eşitleme için bekliyor</item>
     </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Seçilen fotoğraflar cihazda değil. Mobil veri kullanarak bunlar indirilsin mi?</item>
         <item quantity="one">Seçilen fotoğraf cihazda değil. Mobil veri kullanarak bunlar indirilsin mi?</item>
@@ -279,6 +283,26 @@
 	<plurals name="photo_count_format">
         <item quantity="other">Toplam %1$d öğe</item>
         <item quantity="one">Toplam %1$d öğe</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">Seçili %d öğeyi silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
+        <item quantity="one">Seçili %d öğeyi silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">Seçili %d öğeyi silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
+        <item quantity="one">Seçili %d öğeyi silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">Seçili %d öğeyi silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
+        <item quantity="one">Seçili %d öğeyi silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Öğeler %1$d güne kadar burada saklanabilir (%2$s)</item>
+        <item quantity="one">Öğeler %1$d güne kadar burada saklanabilir (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Öğeler %1$d güne kadar burada saklanabilir. Bu süreyi uzatmak için planınızı yükseltin.</item>
+        <item quantity="one">Öğeler %1$d güne kadar burada saklanabilir. Bu süreyi uzatmak için planınızı yükseltin.</item>
     </plurals>
 	<plurals name="video_count_format">
         <item quantity="other">%1$d dosya</item>

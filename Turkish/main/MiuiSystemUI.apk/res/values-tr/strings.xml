@@ -1429,7 +1429,7 @@
   <string name="quick_settings_screenshot_label">Ekran görüntüsü</string>
   <string name="quick_settings_secondary_label_until">%s\'e kadar</string>
   <string name="quick_settings_settings_label">Ayarlar</string>
-  <string name="quick_settings_sim_disabled">(Devre dışı)</string>
+  <string name="quick_settings_sim_disabled">" (Devre dışı)"</string>
   <string name="quick_settings_sync_label">Eşitleme</string>
   <string name="quick_settings_tethering_label">Tethering</string>
   <string name="quick_settings_time_label">Zaman</string>
@@ -1529,7 +1529,9 @@
   <string name="screenshot_edit">Düzenle</string>
   <string name="screenshot_failed_title">Ekran görüntüsü yakalanamadı.</string>
   <string name="screenshot_failed_to_capture_text">Ekran görüntüsü çekmeye, uygulama veya kuruluşunuz tarafından izin verilmiyor</string>
+  <string name="screenshot_failed_to_capture_title">Bu uygulama ekran görüntüsü almanıza izin vermiyor</string>
   <string name="screenshot_failed_to_save_text">Sınırlı depolama alanı nedeniyle ekran görüntüsü kaydedilemiyor</string>
+  <string name="screenshot_failed_to_save_title">Yeni ekran görüntüleri için yeterli depolama alanı yok</string>
   <string name="screenshot_failed_to_save_unknown_text">Ekran görüntüsü kaydedilirken bir hata oluştu.</string>
   <string name="screenshot_feedback_txt">Geribildirim</string>
   <string name="screenshot_insert_failed">Ekran görüntüsü yüklenemedi. Yeni bir ekran görüntüsü alın veya resmi Galeri\'de görüntüleyin.</string>

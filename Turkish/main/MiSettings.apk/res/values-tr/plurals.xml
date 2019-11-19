@@ -16,6 +16,11 @@
     <item quantity="other">Bugün %1$d günlük ortalamanızdan %2$s daha fazla ekran süresi</item>
     <item quantity="one">Bugün %1$d günlük ortalamanızdan %2$s daha fazla ekran süresi</item>
   </plurals>
+  <plurals name="unlock_times">
+    <item quantity="other">%.2f kere</item>
+    <item quantity="zero">%.2f kere</item>
+    <item quantity="one">%.2f kere</item>
+  </plurals>
   <plurals name="usage_state_device_explain_today">
     <item quantity="other">%d kez kilit açıldı</item>
     <item quantity="one">%d kez kilit açıldı</item>

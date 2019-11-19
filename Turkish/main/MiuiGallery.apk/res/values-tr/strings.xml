@@ -130,6 +130,7 @@
   <string name="all_video_album_display_name">Tüm Videolar</string>
   <string name="already_create_baby_album">Bebek albümü zaten Xiaomi Bulut\'ta var.</string>
   <string name="am">ÖÖ</string>
+  <string name="already_share">Paylaşıldı</string>
   <string name="and">" ve "</string>
   <string name="app_is_launching">%s başlatılıyor...</string>
   <string name="app_is_launching_common">Uygulama başlatılıyor…</string>
@@ -143,6 +144,8 @@
   <string name="assistant_page_label">Anılar</string>
   <string name="assistant_page_server_error">Ağ ayarlarınızı kontrol edin</string>
   <string name="associate_face_album">Bir albüm seç</string>
+  <string name="authorize_to_device_failed">Yetkilendirilemedi</string>
+  <string name="authorize_watch_on_tv_failed">TV\'de görüntüleme yetkisi alınamadı</string>
   <string name="auto_backup_introduce">Fotoğraf ve videoları otomatik olarak eşitle (Mi Hesabı gerekli)</string>
   <string name="auto_download_media_title">Xiaomi Bulut\'tan fotoğrafları otomatik olarak indirin</string>
   <string name="auto_update_face">Otomatik olarak fotoğraf ekle</string>
@@ -248,7 +251,10 @@
   <string name="by_sms">Mesaj</string>
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Kamera albümü eşitlenmelidir</string>
+  <string name="can_authorize_owner_albums_share_to_tv">Albümlerin TV\'nizde görüntülenmesi için yetki verin</string>
   <string name="cancel">İptal</string>
+  <string name="cancel_authorize_to_device_failed">Yetkilendirme iptal edilemedi</string>
+  <string name="cancel_authorize_watch_on_tv_failed">TV'\de görüntüleme yetkisi iptal edilemedi</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Varsayılan Kilit ekranı duvar kağıdına geçilsin mi?</string>
   <string name="cancel_download_btn_text">Durdur</string>
   <string name="cancel_hint">Operasyon iptal edildi</string>
@@ -342,7 +348,10 @@
   <string name="click_top_right">Bu simgeye dokunun</string>
   <string name="close">Kapat</string>
   <string name="close_dialog_desc">İletişim kutusunu kapat</string>
+  <string name="cloud_authorize_to_share_to_device">Mi Hesabınızla ilişkili TV\'lerde öğeleri görüntülemeye yetki verin</string>
+  <string name="cloud_authorizing_to_device">Yetkilendiriliyor…</string>
   <string name="cloud_camera_display_name">Kamera fotoğrafları</string>
+  <string name="cloud_cancel_authorizing_to_device">Yetkilendirme iptal ediliyor…</string>
   <string name="cloud_guide_auto_backup_title">Eşitlenecek albümleri seçin</string>
   <string name="cloud_guide_login_title">Fotoğrafları ve videoları otomatik olarak yedekle</string>
   <string name="cloud_guide_welcome_title">Xiaomi Bulut</string>
@@ -362,6 +371,7 @@
   <string name="cloud_storage_warn_title">Xiaomi Bulut depolama alanı yetersiz</string>
   <string name="cloud_sync_card_description">Fotoğraflarınızı ve videolarınızı, birden fazla cihazdan erişmek için Xiaomi Bulut ile eşitleyin</string>
   <string name="cloud_sync_card_title">Bulut ile eşitlemeyi aç</string>
+  <string name="cloud_watch_on_tv">TV\'de görüntüle</string>
   <string name="cloudfolder_cannot_start_with">Albüm adı \'%s\' ile başlamıyor</string>
   <string name="cloudfolder_contain_invalidate_char">Albüm adı \'%s\' içeremez</string>
   <string name="cloudfolder_name_cannot_empty">Bir albüm adı girin</string>
@@ -440,8 +450,8 @@
   <string name="delete_from_homepage_album">Galeri\'de gösterilen albümler</string>
   <string name="delete_from_this_album_and_cloud">bu albümden ve Xiaomi Bulut\'tan</string>
   <string name="delete_from_web">Web albümleri</string>
-  <string name="delete_in_album">Bir albümdeki fotoğrafları veya videoları sildiğinizde, bunlar da silinecek:</string>
-  <string name="delete_in_home_page">Galeri\'den fotoğraf veya video sildiğinizde, bunlar da silinecek:</string>
+  <string name="delete_in_album">Ücretsiz bir bulut depolama planınız varsa, seçilen öğeler buluttan ve tüm bağlı cihazlardan silinecek ve 30 gün boyunca bulut çöp kutusunda saklanacaktır. Yine de silinsin mi?</string>
+  <string name="delete_in_home_page">Ücretsiz bir bulut depolama planınız varsa, seçilen öğeler buluttan ve tüm bağlı cihazlardan silinecek ve 30 gün boyunca bulut çöp kutusunda saklanacaktır. Yine de silinsin mi?</string>
   <string name="delete_in_process">Siliniyor…</string>
   <string name="delete_origin">Orijinal albümdeki öğeleri sil</string>
   <string name="delete_other_shared_images">Başkaları tarafından paylaşılan fotoğraflar silinemiyor</string>
@@ -845,12 +855,16 @@ mevcut"</string>
   <string name="mark_operation_processing">İşleniyor…</string>
   <string name="mark_operation_succeeded">Başarıyla eklendi</string>
   <string name="mark_people_ignore_info_message">Gruplara eklemek için kişilerin fotoğraflarına basılı tutun</string>
-  <string name="megabyteShort">" MB"</string>
-  <string name="menu_album_new_album">Yeni Albüm</string>
+  <string name="megabyteShort">MB</string>
+  <string name="member_menu_vipname_free">Ücretsiz</string>
+  <string name="member_menu_vipname_mega">Mega</string>
+  <string name="member_menu_vipname_premium">Premium</string>
+  <string name="member_menu_vipname_ultra">Ultra</string>
+  <string name="menu_album_new_album">Yeni albüm</string>
   <string name="menu_item_sort_date">Tarih</string>
   <string name="menu_item_sort_name">Adı</string>
   <string name="menu_item_sort_size">Boyutu</string>
-  <string name="menu_view_contact">Kişiyi Görüntüle</string>
+  <string name="menu_view_contact">Kişiyi görüntüle</string>
   <string name="merge_album">Birleştir</string>
   <string name="merge_album_title">Bu kişiyle birleştir</string>
   <string name="messagelist_sender_self">Ben</string>
@@ -989,7 +1003,8 @@ mevcut"</string>
   <string name="night">ÖS</string>
   <string name="no">Hayır</string>
   <string name="no_ignore_faces">Burada kişi yok</string>
-  <string name="no_map_app">Eylemi gerçekleştirecek uygulama bulunamadı</string>
+  <string name="no_map_app">İşlemi gerçekleştirecek uygulama bulunamadı</string>
+  <string name="no_network_connect">İşlem tamamlanamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="no_network_connected">Şebeke bulunamadı</string>
   <string name="noon">ÖS</string>
   <string name="not_ask_any_more">\"%s\" cevabımı tekrar sorma</string>
@@ -1040,6 +1055,7 @@ mevcut"</string>
   <string name="operation_set_video_wallpaper">Video duvar kağıdını ayarla</string>
   <string name="operation_set_wallpaper">Duvar kağıdı olarak ayarla</string>
   <string name="operation_share">Paylaş</string>
+  <string name="operation_share_manage">Paylaşılan öğeleri yönet</string>
   <string name="operation_show_in_photos_tab">Fotoğraflarda göster</string>
   <string name="operation_show_on_map">Haritada göster</string>
   <string name="operation_slide_show">Slayt gösterisini başlat</string>
@@ -1163,6 +1179,8 @@ mevcut"</string>
   <string name="photo_print_menu_loading">Eklenti yükleniyor…</string>
   <string name="photo_print_package_finish">Başarıyla yüklendi</string>
   <string name="photo_print_package_installing">Eklenti yükleniyor…</string>
+  <string name="photo_purge_dialog_message_image">Öğeleri silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</string>
+  <string name="photo_purge_dialog_message_video">Öğeleri silerseniz geri yükleyemezsiniz. Yine de silinsin mi?</string>
   <string name="photo_save_to_msg">%s üzerine kaydedildi</string>
   <string name="photomovie_audio_custom">Yerel</string>
   <string name="photomovie_audio_default">Hafıza</string>
@@ -1245,6 +1263,7 @@ mevcut"</string>
   <string name="publish_failed">Yayınlanamadı</string>
   <string name="publish_succeeded">Albüm yayınlandı</string>
   <string name="publishing">Yayınlanıyor…</string>
+  <string name="purge_or_recovery_processing">İşleniyor…</string>
   <string name="quotation">\"%s\"</string>
   <string name="recent_album_empty_title">Yakın zamanda yeni fotoğraf eklenmedi</string>
   <string name="recipient_editor_count_format">%d</string>
@@ -1253,7 +1272,9 @@ mevcut"</string>
   <string name="recommend_category_title">Galeri\'nin seçimleri</string>
   <string name="recovery_merge">Birleştir</string>
   <string name="recovery_merge_or_rename">Birleşik Albümler</string>
-  <string name="recovery_merge_or_rename_message">Bu ismi taşıyan mevcut bir albüm var. Birleştirilsin mi?</string>
+  <string name="recovery_merge_or_rename_message">Bu isimde bir albüm var. Şimdi birleştirilsin mi?</string>
+  <string name="recovery_not_synced_reason">Öğeler geri yüklenmedi</string>
+  <string name="recovery_not_synced_solution">Öğeleri geri yüklemek için ağa bağlanın.</string>
   <string name="recovery_rename">Adlandır</string>
   <string name="refocus_desc">Tekrar odakla</string>
   <string name="refocus_discard_confirm_message">Değişiklikleri Kaydet?</string>
@@ -1413,6 +1434,7 @@ mevcut"</string>
   <string name="send_secret_file_failed">Paylaşılamadı</string>
   <string name="send_secret_file_space_low">Yeterli depolama alanı yok</string>
   <string name="send_too_many_files_error">Bir seferde %d öğeyi gönder</string>
+  <string name="service_is_provided_by_miui_cloud_service">Bu servis, Xiaomi Bulut tarafından sağlanmaktadır</string>
   <string name="set_as_baby_lock_wallpaper">Kilit ekranı duvar kağıdı olarak ayarla</string>
   <string name="set_as_slide_wallpaper_description">Bu resim küçük, orjinali indirilsin mi?</string>
   <string name="set_as_slide_wallpaper_title">Slayt gösterisi duvar kağıdı olarak ayarla</string>
@@ -1644,6 +1666,14 @@ mevcut"</string>
   <string name="trash_bin">Çöp Kutusu</string>
   <string name="trash_bin_key_word">Silinen fotoğraflar</string>
   <string name="trash_bin_summary">Son zamanlarda silinmiş olan yedeklenmiş fotoğraflara göz at</string>
+  <string name="trash_empty">Burada öğe yok.</string>
+  <string name="trash_menu_delete">Sil</string>
+  <string name="trash_menu_recovery">Geri yükle</string>
+  <string name="trash_purge_all">Tüm fotoğraflar ve videolar buluttan silinecek. Onları geri yükleyemezsin. Yine de silinsin mi?</string>
+  <string name="trash_purge_positive_button">Sil</string>
+  <string name="trash_vip_button_login">Genişlet</string>
+  <string name="trash_vip_button_login_top_level">Yenile</string>
+  <string name="trash_vip_button_unlogin">Giriş yap</string>
   <string name="try_again_later">Daha sonra tekrar deneyin.</string>
   <string name="try_to_send">Gönder</string>
   <string name="tuesday">Salı</string>

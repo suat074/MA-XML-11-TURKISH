@@ -206,6 +206,7 @@
   <string name="loading_message">Uygulama yükleniyor…</string>
   <string name="loading_slogan">Uygulamaları yüklemeden kullanın</string>
   <string name="loading_tips">Ayarlar başarıyla indirildi. Uygulamak için Hesap makinesini tekrar başlatın.</string>
+  <string name="loan_basic_point">Temel nokta</string>
   <string name="loan_edittext_hint_commercial">Miktarı Girin</string>
   <string name="loan_edittext_hint_commercial_combined">Ticari (×10K)</string>
   <string name="loan_edittext_hint_fund">Miktarı Girin</string>
@@ -219,7 +220,14 @@
   <string name="loan_repayment_detail">Detaylı geri ödeme</string>
   <string name="loan_repayment_detail_loading">Detaylı geri ödeme yükleniyor…</string>
   <string name="loan_repayment_detail_unit">Detaylı geri ödeme (CNY)</string>
+  <string name="loan_type_summary_lpr">KFO</string>
+  <string name="loan_type_title">Faiz oranı standardı</string>
   <string name="loan_unit">(×10K)</string>
+  <string name="lpr_ok">Got it</string>
+  <string name="lpr_tips_msg">"8 Ekim 2019 tarihinden başlayarak, kişisel ticari konut kredisi faiz oranı, daha önce uygulanmış gösterge faiz oranı olan %4,9 yerine kredi faiz oranına (KFO) göre hesaplanacaktır. Şimdi, nihai oran bir KFO temel noktası eklenerek onaylanacaktır.
+
+Çin Halk Bankası web sitesinde, bir ay ve beş yıl KFO her ayın 20\'sinde (bankacılık tatilleri nedeniyle gecikmeler olabilir) belirtilecektir."</string>
+  <string name="lpr_tips_title">KFO (Kredi faiz oranı)</string>
   <string name="medical_treatment">Tıbbi tedavi</string>
   <string name="menuDesc">Menü</string>
   <string name="midnight">ÖÖ</string>

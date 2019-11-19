@@ -23,6 +23,10 @@
     <item quantity="other">%s öğe seçili</item>
     <item quantity="one">%s öğe seçili</item>
   </plurals>
+  <plurals name="express_setting_phone_binded_info">
+    <item quantity="other">%d telefon numarası eklendi</item>
+    <item quantity="one">%d telefon numarası eklendi</item>
+  </plurals>
   <plurals name="hours_ago">
     <item quantity="other">%1$dsaat önce</item>
   </plurals>
