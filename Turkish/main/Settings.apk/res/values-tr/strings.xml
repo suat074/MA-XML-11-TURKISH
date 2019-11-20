@@ -3011,32 +3011,47 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="managing_admin">%s tarafından yönetildi</string>
   <string name="manual">Elle</string>
   <string name="manually_add_network">Ağ Ekle</string>
-  <string name="master_clear_accounts">\n\nŞu anda aşağıdaki hesaplarda oturum açmış durumdasını\n</string>
+  <string name="master_clear_accounts">"
+
+Şu anda aşağıdaki hesaplarda oturum açtınız:
+"</string>
   <string name="master_clear_all">Telefonunuzun dahili depolama alanındaki tüm veriler silinsin mi? Bu işlemi geri alamazsınız!</string>
-  <string name="master_clear_apply_step_1">&lt;b>&amp;#8220;Fabrika verilerine sıfırlama&amp;#8221; fotoğraflar, şarkılar, notlar ve diğer kişisel veriler de dahil olmak üzere&lt;/b>, telefonunuzdaki tüm verileri silecek. Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun.</string>
-  <string name="master_clear_apply_step_2">Tüm önemli öğelerin bilgisayarınıza yedeklendiğinden emin olun. Bu cihaz üzerindeki tüm veriler sıfırlama esnasında silinir. Yedek almadığınız öğeleri geri yükleyemezsiniz.</string>
-  <string name="master_clear_apply_title">Attention</string>
-  <string name="master_clear_button_text">Telefonu sıfırla</string>
-  <string name="master_clear_confirm_title">Sıfırlansın mı?</string>
-  <string name="master_clear_desc">\"Telefonunuzun dahili hafızasındaki \"şu veriler silinecek\",:\n\n\"Google Hesabınız\"\n\"Sistem, uygulama verileri ve ayarları\"\n\"İndirilen Uygulamalar</string>
-  <string name="master_clear_desc_also_erases_external">Müzikler\"\n\"Fotoğraflar\"\n\"Diğer kullanıcı verileri</string>
-  <string name="master_clear_desc_erase_external_storage">\"\n\nMüzik, resim, ve diğer kullanıcı verilerini temizlemek içine \"SD kart silinmek zorunda...</string>
+  <string name="master_clear_apply_step_1">&lt;b>\"Fabrika verilerine sıfırlama\" fotoğraflar, şarkılar, notlar ve diğer kişisel veriler de dahil olmak üzere&lt;/b>, telefonunuzdaki tüm verileri silecek. Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun.</string>
+  <string name="master_clear_apply_step_2">Tüm önemli öğelerin bilgisayarınıza yedeklendiğinden emin olun. Sıfırlama sırasında bu cihazdaki tüm veriler silinir. &lt;b>Yedeklemediğiniz öğeleri geri yükleyemezsiniz.&lt;/b></string>
+  <string name="master_clear_apply_title">Dikkat</string>
+  <string name="master_clear_button_text">Tüm verileri sil</string>
+  <string name="master_clear_confirm_title">Tüm veriler silinsin mi?</string>
+  <string name="master_clear_desc">Bu, aşağıdakiler dahil olmak üzere telefonunuzun &lt;b>dahili depolama&lt;/b>", birimindeki tüm verileri siler:
+
+"<li>Google Hesabınız</li>"
+"<li>Sistem ve uygulama verileri ve ayarları</li>"
+"<li>İndirilen uygulamalar</li></string>
+  <string name="master_clear_desc_also_erases_external"><li>Müzik</li>"
+"<li>Fotoğraflar</li>"
+"<li>Diğer kullanıcı verileri</li></string>
+  <string name="master_clear_desc_erase_external_storage">"
+
+Müzik, resim ve diğer kullanıcı verilerini silmek için, "&lt;b>USB depolama&lt;/b> biriminin silinmesi gerekir.</string>
   <string name="master_clear_desc_no_cancel_mobile_plan">"
 
 Bu, mobil servis planınızı iptal etmez."</string>
-  <string name="master_clear_erase_application_progress">Uygulamalar siliniyor...</string>
-  <string name="master_clear_failed">Sistem Temizleme hizmeti kullanılamadığından sıfırlama yapılmadı.</string>
+  <string name="master_clear_erase_application_progress">Uygulamalar siliniyor…</string>
+  <string name="master_clear_failed">Sistem Temizle hizmeti kullanılamadığından sıfırlama gerçekleştirilmedi.</string>
   <string name="master_clear_final_button_text">Her şeyi sil</string>
-  <string name="master_clear_final_desc">Tüm kişisel bilgileriniz ve indirilen uygulamalar silinsin mi? Bu işlemi geri alamazsınız!</string>
-  <string name="master_clear_not_available">Fabrika sıfırlaması bu kullanıcı için geçerli değildir</string>
-  <string name="master_clear_other_users_present">\n\nBurada diğer kullanıcılar va\n</string>
-  <string name="master_clear_personal_data">Kişisel bilgileri silmek istediğinizden emin misiniz? Bu işlemin geri dönüşü yoktur!</string>
-  <string name="master_clear_personal_data_application">Kişisel bilgileri silmek ve kullanıcı uygulamalarını kaldırmak istediğinizden emin misiniz? Bu işlemin geri dönüşü yoktur!</string>
-  <string name="master_clear_personal_data_sdcard">Kişisel bilgileri silmek ve SD Kartınızı biçimlendirmek istediğinizden emin misiniz? Bu işlemin geri dönüşü yoktur!</string>
+  <string name="master_clear_final_desc">Tüm kişisel bilgileriniz ve indirilen uygulamalar silinecektir. Bu işlemi geri alamazsınız.</string>
+  <string name="master_clear_final_desc_esim">İndirilen uygulamalar ve SIM\'ler de dahil olmak üzere tüm kişisel bilgileriniz silinecek. Bu işlemi geri alamazsınız.</string>
+  <string name="master_clear_not_available">Fabrika ayarlarına sıfırlama bu kullanıcı için uygun değil</string>
+  <string name="master_clear_other_users_present">"
+
+Bu cihazda mevcut başka kullanıcılar var.
+"</string>
+  <string name="master_clear_personal_data">Tüm kişisel bilgileriniz silinsin mi? Bu işlemi geri alamazsınız!</string>
+  <string name="master_clear_personal_data_application">Kişisel bilgileriniz ve indirdiğiniz uygulamalar silinsin mi? Bu işlemi geri alamazsınız!</string>
+  <string name="master_clear_personal_data_sdcard">Kişisel bilgileriniz ve içeriğiniz silinsin mi? Bu işlemi geri alamazsınız!</string>
   <string name="master_clear_progress_text">Lütfen bekleyin...</string>
   <string name="master_clear_progress_title">Siliniyor</string>
-  <string name="master_clear_summary">Telefondaki tüm verileri siler</string>
-  <string name="master_clear_title">Fabrika Ayarlarına Sıfırla</string>
+  <string name="master_clear_short_title">Tüm verileri sil (fabrika ayarları)</string>
+  <string name="master_clear_title">Tüm verileri sil (fabrika ayarları)</string>
   <string name="max_aspect_settings_all_app_display_loading">Sadece bir saniye…</string>
   <string name="max_cpu10_info">"Azami 10 Çekirdek "</string>
   <string name="max_cpu2_info">Azami Çift Çekirdek</string>
@@ -5292,12 +5307,29 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="storage_wizard_ready_external_body">^1 tüm ayarları fotoğraflar ve diğer medyada kullan.</string>
   <string name="storage_wizard_ready_internal_body">Yeni ^1 çalışıyor. \n\nFotoğraflar, dosyalar ve uygulama verisini bu cihaza taşı. Bunun için Ayarlar &gt; Depolama bölümüne gidin.</string>
   <string name="storage_wizard_ready_title">^1 hazır</string>
-  <string name="storage_wizard_slow_body">Bu ^1 oldukça yavaş. \n\nDevam etmek için; fakat uygulamalar bu konumdan taşınırken ve veri transferi yapılırken uzun zaman alabilir. \n\n^1 hızlı olması daha iyi performansa sebep olur.</string>
+  <string name="storage_wizard_ready_v2_external_body">İçeriği ^1 bölümüne taşıyabilirsiniz</string>
+  <string name="storage_wizard_ready_v2_internal_body">İçeriği ^1 üzerine taşımak için, <b>Ayarlar &gt; Depolama</b> bölümüne gidin</string>
+  <string name="storage_wizard_ready_v2_internal_moved_body">"İçeriğiniz ^1 bölümüne taşındı. 
+
+^2 yönetmek için, <b>Ayarlar &gt; Depolama</b> bölümüne gidin.</string>
+  <string name="storage_wizard_slow_body">"Bu ^1 yavaş görünüyor. 
+
+Devam edebilirsiniz, ancak bu yere taşınan uygulamalar kekemelik yapabilir ve veri aktarımı uzun zaman alabilir. 
+
+Daha iyi performans için daha hızlı bir ^1 kullanmayı düşünün."</string>
+  <string name="storage_wizard_slow_v2_body">"Bu ^1 hala kullanılabilir, ancak yavaş olacaktır. 
+
+Bu ^2 üzerinde depolanan uygulamalar düzgün çalışmayabilir ve içerik aktarımları uzun sürebilir. 
+
+Daha hızlı bir ^3 kullanmayı deneyin veya bunu ^4 yerine taşınabilir depolama için kullanın."</string>
+  <string name="storage_wizard_slow_v2_continue">Devam et</string>
+  <string name="storage_wizard_slow_v2_start_over">Baştan başla</string>
+  <string name="storage_wizard_slow_v2_title">^1 yavaş</string>
   <string name="storageuse_settings_summary">Uygulamalar tarafından kullanılan depolama alanını görüntüle</string>
-  <string name="storageuse_settings_title">Depolama Kullanımı</string>
-  <string name="strict_mode">Sıkı Mod etkin</string>
-  <string name="strict_mode_summary">Uygulamalar uzun işlemleri yaptığında ekranı flaşla</string>
-  <string name="structure_add_facerecoginition_text">3D yüz verileri ekle</string>
+  <string name="storageuse_settings_title">Depolama kullanımı</string>
+  <string name="strict_mode">Katı mod etkin</string>
+  <string name="strict_mode_summary">Uygulamalar ana iş parçacığında uzun işlemler yaptığında ekranı flaşla</string>
+  <string name="structure_add_facerecoginition_text">3B yüz verisi ekle</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">Düşük pil nedeniyle bu özelliği kullanamazsınız</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Kaydın başlaması için pilin şarjı en az 5% olmalıdır.</string>
   <string name="structure_manage_facerecoginition_text">3B yüz verilerini yönetin</string>
@@ -5315,6 +5347,8 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size_v2">Metin, resim ve simgelerin boyutunu ayarla</string>
   <string name="summary_range_verbal_combination">" %2$s / %1$s"</string>
+  <string name="sunlight_mode">Güneş ışığı modu</string>
+  <string name="sunlight_mode_summary">Otomatik parlaklık kapalıyken parlaklığı güçlü ortam ışığına ayarlayın</string>
   <string name="super_resolution_access_title">Erişilebilir uygulamalar</string>
   <string name="super_resolution_desc">Bir AI algoritması kullanarak görüntüleri daha canlı hale getirin</string>
   <string name="super_resolution_maintain">Süper çözünürlük henüz mevcut değil.</string>
