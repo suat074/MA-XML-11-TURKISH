@@ -5816,6 +5816,10 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunu ^4 yerine taşınabilir depola
   <string name="usb_eject_summary">USB Depolamayı güvenli bir şekilde çıkarabilirsiniz</string>
   <string name="usb_format">USB Depolamayı temizle</string>
   <string name="usb_format_summary">USB Depolamadaki tüm verileri siler (müzik ve fotoğraflar gibi)</string>
+  <string name="usb_headset_not_support_cancel">Anladım</string>
+  <string name="usb_headset_not_support_message">"Adaptör aracılığıyla ses çalınamıyor. Dijital kulaklık
+veya 3.5mm fişli kulaklık kullanın."</string>
+  <string name="usb_headset_not_support_tile">Ses çalınamıyor</string>
   <string name="usb_host_mode_subtext">USB portu oyun denetleyicileri ve diğer çevre birimleri kullanılırken daha fazla güç tüketilebilir</string>
   <string name="usb_host_mode_text">USB ana bilgisayar modu</string>
   <string name="usb_insert_summary">USB depolamayı bağlayın</string>

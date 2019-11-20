@@ -64,6 +64,26 @@
     <item quantity="other">%1$s fotoğraf tüm cihazlardan silinsin mi?</item>
     <item quantity="one">%1$s fotoğraf tüm cihazlardan silinsin mi?</item>
   </plurals>
+  <plurals name="global_wa_clean_finish_audio">
+    <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> serbest bırakıldı (&lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> şarkı için yeterli)&lt;/Data></item>
+    <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> serbest bırakıldı (&lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> şarkı için yeterli)&lt;/Data></item>
+  </plurals>
+  <plurals name="global_wa_clean_finish_picture">
+    <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> serbest bırakıldı (&lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotoğraf için yeterli)&lt;/Data></item>
+    <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> serbest bırakıldı (&lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotoğraf için yeterli)&lt;/Data></item>
+  </plurals>
+  <plurals name="global_wa_image">
+    <item quantity="other">%1$d öğe</item>
+    <item quantity="one">%1$d öğe</item>
+  </plurals>
+  <plurals name="global_wa_video">
+    <item quantity="other">%1$d öğe</item>
+    <item quantity="one">%1$d öğe</item>
+  </plurals>
+  <plurals name="global_wa_voice">
+    <item quantity="other">&lt;Data>&lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> sesli mesaj bulundu&lt;/Data></item>
+    <item quantity="one">&lt;Data>&lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> sesli mesaj bulundu&lt;/Data></item>
+  </plurals>
   <plurals name="hint_similar_image_header_left">
     <item quantity="other">%d grup</item>
     <item quantity="one">%d grup</item>
