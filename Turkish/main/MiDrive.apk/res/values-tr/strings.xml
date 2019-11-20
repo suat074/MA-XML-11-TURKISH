@@ -3,8 +3,8 @@
   <string name="account_logout">“%1$s” hesaptan çık</string>
   <string name="action_mode_deselect_all">Vazgeç</string>
   <string name="action_mode_select_all">Tümü</string>
-  <string name="adding_download_tasks">tasks#8230; indirme ekleniyor</string>
-  <string name="adding_upload_tasks">tasks#8230; gönderim ekleniyor</string>
+  <string name="adding_download_tasks">İndirme görevleri ekleniyor…</string>
+  <string name="adding_upload_tasks">Yükleme görevleri ekleniyor…</string>
   <string name="agree">İzinli</string>
   <string name="app_name">Mi Drive</string>
   <string name="background">Gizle</string>
