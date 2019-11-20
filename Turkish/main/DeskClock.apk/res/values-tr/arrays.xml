@@ -44,6 +44,33 @@
         <item>Alarm %2$s %3$s sonra kapatılacak.</item>
         <item>Alarm %1$s %2$s %3$s sonra kapatılacak.</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Pazartesiden Cumaya</item>
+        <item>Her gün</item>
+        <item>İş günleri</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Her gün</item>
+        <item>Pazartesiden Cumaya</item>
+        <item>İş günleri</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>Ayarlanan zamanda</item>
+        <item>15 dakika önceden</item>
+        <item>30 dakika önceden</item>
+        <item>1 saat önceden</item>
+        <item>Yok</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 dakika</item>
         <item>5 dakika</item>

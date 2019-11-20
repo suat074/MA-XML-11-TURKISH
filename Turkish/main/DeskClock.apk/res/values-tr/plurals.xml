@@ -64,14 +64,30 @@
         <item quantity="other">%d dakika</item>
         <item quantity="one">%d dakika</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1s saat</item>
+        <item quantity="one">%1$s saat</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1s saat</item>
+        <item quantity="one">%1$s saat</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s dakika</item>
+        <item quantity="one">%1$s dakika</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s dak.</item>
+        <item quantity="one">%1$s dak.</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Erteleme aralığı %d dakika olarak değiştirildi</item>
         <item quantity="one">Erteleme aralığı %d dakika olarak değiştirildi</item>
     </plurals>
-  <plurals name="snooze_duration_desc">
-      <item quantity="other">Her %1$s dak. bir, %2$s kez kapanacak</item>
-      <item quantity="one">Her %1$s dak. bir, %2$s kez kapanacak</item>
-   </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">Her %1$s dak. bir, %2$s kez kapanacak</item>
+        <item quantity="one">Her %1$s dak. bir, %2$s kez kapanacak</item>
+    </plurals>
     <plurals name="snooze_duration_count">
         <item quantity="other">%1$s kez sonra kapanacak</item>
         <item quantity="one">%1$s kez sonra kapanacak</item>
