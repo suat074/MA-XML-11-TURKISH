@@ -166,6 +166,7 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="edit">Düzenle</string>
   <string name="edit_folder_title">Klasör adını düzenle</string>
   <string name="edit_mode_dual_app">Klonlu uygulama oluştur</string>
   <string name="edit_mode_group">Grup</string>
