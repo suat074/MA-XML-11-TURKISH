@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="day_index">
+    <item quantity="other">%1$d gün</item>
+    <item quantity="one">%1$d gün</item>
+  </plurals>
+  <plurals name="goal_format_with_unit">
+    <item quantity="other">Hedef: %1$d adım</item>
+    <item quantity="one">Hedef: %1$d adım</item>
+  </plurals>
+  <plurals name="goal_unit">
+    <item quantity="other">" adım"</item>
+    <item quantity="one">" adım"</item>
+  </plurals>
+  <plurals name="menstruation_sum_days">
+    <item quantity="other">%1$d günlük adet dönemi</item>
+    <item quantity="one">%1$d günlük adet dönemi</item>
+  </plurals>
+  <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d yeni bildirim</item>
+    <item quantity="one">%d yeni bildirim</item>
+  </plurals>
+  <plurals name="step_num_format">
+    <item quantity="other">%1$d adım</item>
+    <item quantity="one">%1$d adım</item>
+  </plurals>
+  <plurals name="steps_format">
+    <item quantity="other">%1$d</item>
+    <item quantity="one">%1$d</item>
+  </plurals>
+  <plurals name="subtitle_add_record">
+    <item quantity="other">%1$d gündür kaydetmediniz. Daha doğru tahmin alabilmek için adet dönemlerinizi kaydedin.</item>
+    <item quantity="one">%1$d gündür kaydetmediniz. Daha doğru tahmin alabilmek için adet dönemlerinizi kaydedin.</item>
+  </plurals>
+  <plurals name="subtitle_menstruation_continued_days">
+    <item quantity="other">Bu adet dönemi toplam %1$d gün sürecek</item>
+    <item quantity="one">Bu adet dönemi toplam %1$d gün sürecek</item>
+  </plurals>
+  <plurals name="subtitle_menstruation_cycle_days">
+    <item quantity="other">Bu regl döngüsünün %1$d günü</item>
+    <item quantity="one">Bu regl döngüsünün %1$d günü</item>
+  </plurals>
+  <plurals name="sum_cycle_days">
+    <item quantity="other">%1$d günlük döngü</item>
+    <item quantity="one">%1$d günlük döngü</item>
+  </plurals>
+  <plurals name="times_format">
+    <item quantity="other">%1$d kez</item>
+    <item quantity="one">%1$d kez</item>
+  </plurals>
+  <plurals name="title_menstruation_day">
+    <item quantity="other">Adetin %1$d günü</item>
+    <item quantity="one">Adetin %1$d günü</item>
+  </plurals>
+  <plurals name="title_menstruation_margin_next_time_days">
+    <item quantity="other">Bir sonraki adet dönemine kadar %1$d gün kaldı</item>
+    <item quantity="one">Bir sonraki adet dönemine kadar %1$d gün kaldı</item>
+  </plurals>
+  <plurals name="title_menstruation_predict_period">
+    <item quantity="other">Adet döneminin tahmini %1$d günü</item>
+    <item quantity="one">Adet döneminin tahmini %1$d günü</item>
+  </plurals>
+  <plurals name="unit_days">
+    <item quantity="other">" gün"</item>
+    <item quantity="one">" gün"</item>
+  </plurals>
+  <plurals name="user_age_display_format_year">
+    <item quantity="other">%1$d yaşında</item>
+    <item quantity="one">%1$d yaşında</item>
+  </plurals>
+</resources>
