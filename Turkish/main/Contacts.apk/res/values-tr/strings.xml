@@ -1113,9 +1113,9 @@ Favoriler listenize bir kişi eklemek için:
   <string name="t9_search_empty_send_sms">Mesaj gönder</string>
   <string name="t9_search_empty_video_call">Görüntülü çağrı</string>
   <string name="t9_search_guide_pinyin_title1">Kişileri bulmak için numaraları girin</string>
-  <string name="t9_search_guide_pinyin_title2">&lt;font fgcolor="">Z&lt;/font>ehra &lt;font fgcolor="">H&lt;/font>anım kişisini aramak için 9 ve 4 girin</string>
+  <string name="t9_search_guide_pinyin_title2"><font fgcolor="">Z</font>ehra <font fgcolor="">H</font>anım kişisini aramak için 9 ve 4 girin</string>
   <string name="t9_search_guide_zhuyin_title1">Kişileri bulmak için numaraları girin</string>
-  <string name="t9_search_guide_zhuyin_title2">&lt;font fgcolor="">J&lt;/font>ale &lt;font fgcolor="">M&lt;/font>erve kişisini aramak için 5 ve 6 girin</string>
+  <string name="t9_search_guide_zhuyin_title2"><font fgcolor="">J</font>ale <font fgcolor="">M</font>erve kişisini aramak için 5 ve 6 girin</string>
   <string name="take_new_photo">Yeni fotoğraf çek</string>
   <string name="take_photo">Fotoğraf çek</string>
   <string name="title_other_devices">Diğer mevcut cihazlar</string>
