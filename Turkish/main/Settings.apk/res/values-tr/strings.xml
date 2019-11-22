@@ -114,11 +114,11 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
 
 "&lt;b>Yakınlaştırmak&lt;/b>", için Erişilebilirlik düğmesine, ardından ekranda herhangi bir yere dokunun.
 "&lt;ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
-"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> </ul>"
+"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> &lt;/ul>"
 
 "&lt;b>Geçici olarak yakınlaştırmak için&lt;/b>", Erişilebilirlik düğmesine dokunun, ardından ekranda herhangi bir yere dokunup basılı tutun.
 "&lt;ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
-"<li>Uzaklaştırmak için parmağınızı kaldırın</li> </ul>"
+"<li>Uzaklaştırmak için parmağınızı kaldırın</li> &lt;/ul>"
 
 Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="accessibility_screen_magnification_navbar_title">Düğmeyle büyütme</string>
@@ -126,11 +126,11 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Düğmeyle ve üç kez dokunarak büyütme</string>
   <string name="accessibility_screen_magnification_summary">" "&lt;b>Yakınlaştırmak için&lt;/b>", ekrana 3 kez hızlıca dokunun.
 "&lt;ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
-"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> </ul>"
+"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> &lt;/ul>"
 
 "&lt;b>Geçici olarak yakınlaştırmak için&lt;/b>", ekrana 3 kez hızlıca dokunun ve üçüncü dokunuşta parmağınızı basılı tutun.
 "&lt;ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
-"<li>Uzaklaştırmak için parmağınızı kaldırın</li> </ul>"
+"<li>Uzaklaştırmak için parmağınızı kaldırın</li> &lt;/ul>"
 
 Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="accessibility_screen_magnification_title">Büyütme hareketleri</string>
