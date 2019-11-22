@@ -503,7 +503,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="resource_menu_refresh">Yenile</string>
   <string name="resource_mute">Yok</string>
   <string name="resource_my">Çevrimdışı</string>
-  <string name="resource_network_diagnostics">&lt;u>Ağ testi&lt;/u></string>
+  <string name="resource_network_diagnostics"><u>Ağ testi</u></string>
   <string name="resource_no_match_app">Bu eylemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="resource_no_network_text">Ağ bağlantısı yok.</string>
   <string name="resource_no_result">Bir şey bulunamadı</string>

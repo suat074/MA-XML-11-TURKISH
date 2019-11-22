@@ -380,7 +380,7 @@
   <string name="express_install_open_locker">Open</string>
   <string name="express_install_order_detail">View order details</string>
   <string name="express_install_provider_app_description">%1$s, %2$s uygulamasını yüklemeyi gerektirir. Şimdi yükleyin?</string>
-  <string name="express_install_provider_app_hidden">&lt;u>Tekrar gösterme&lt;/u></string>
+  <string name="express_install_provider_app_hidden"><u>Tekrar gösterme</u></string>
   <string name="express_install_provider_app_ok">Yükle</string>
   <string name="express_install_provider_app_title">%s yükle</string>
   <string name="express_install_schedule_delivery">Order delivery service</string>

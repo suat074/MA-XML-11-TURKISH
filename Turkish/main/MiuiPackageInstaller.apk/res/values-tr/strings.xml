@@ -217,7 +217,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
 Önceki tüm kullanıcı verileriniz kaydedilecektir."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) şu anda yüklü olan (%3$s) yeini alacak. Mevcut tüm uygulama verileri kaydedilecek.</string>
   <string name="dlg_app_replacement_title">Uygulama değiştirilsin mi?</string>
-  <string name="dlg_appstore_notice">"&lt;u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font>&lt;/u> dışındaki kaynaklardan gelen uygulamaların doğruluğunu veya güvenliğini doğrulayamıyoruz.."</string>
+  <string name="dlg_appstore_notice">"<u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font></u> dışındaki kaynaklardan gelen uygulamaların doğruluğunu veya güvenliğini doğrulayamıyoruz.."</string>
   <string name="dlg_ok">Tamam</string>
   <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz?
   
@@ -280,7 +280,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="install_failed_system_incompatible">"Bu uygulama MIUI ile uyumlu değil"</string>
   <string name="install_failed_verify_failed">Paket doğrulamayı geçemedi ve yüklenemez.</string>
   <string name="install_failed_verify_timeout">Bu paketi doğrulamak için çalışırken zaman aşımı oluştu. Daha sonra tekrar yüklemeyi deneyin.</string>
-  <string name="install_from_appstore_hint">&lt;u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font>&lt;/u>ndan uygulama yüklemenizi öneririz</string>
+  <string name="install_from_appstore_hint"><u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font></u>ndan uygulama yüklemenizi öneririz</string>
   <string name="installing">Yükleniyor…</string>
   <string name="intercept_install">Yükle</string>
   <string name="keep_screen_on">Uyanık kal</string>

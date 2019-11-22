@@ -1092,7 +1092,7 @@ Tamamen eşitleninceye kadar bekleyin veya mesajı bilgisayarınızda görüntü
   <string name="ser_resp_err_map_pserr">Şifre veya kullanıcı adı hatalı</string>
   <string name="ser_resp_err_map_serclosed">%s sunucu kapalı.</string>
   <string name="ser_resp_err_map_ssl">"Güvenlik Tipinden 'SSL/TLS (Tüm sertifikaları kabul et)  seçeneğini seçin'"</string>
-  <string name="service_protocol_discribe">&lt;u>WPS Posta Hizmeti Sözleşmesini okudum ve kabul ediyorum&lt;/u></string>
+  <string name="service_protocol_discribe"><u>WPS Posta Hizmeti Sözleşmesini okudum ve kabul ediyorum</u></string>
   <string name="service_protocol_title">Hizmet Sözleşmesi</string>
   <string name="set_network">Ağı ayarla</string>
   <string name="setting_kids_subtitle">Kullanıcının yaşını onayla</string>

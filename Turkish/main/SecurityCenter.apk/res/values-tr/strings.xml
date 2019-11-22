@@ -73,7 +73,7 @@
   <string name="add_whitelist">İstisnalara ekle</string>
   <string name="address">Adres</string>
   <string name="address_choose_hint">%1$s, %2$s, ve %3$d diğer konumlar</string>
-  <string name="adjust_sms_cmd">&lt;u>Kalibrasyon SMS şablonunu ayarla&lt;/u></string>
+  <string name="adjust_sms_cmd"><u>Kalibrasyon SMS şablonunu ayarla</u></string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Bir ay önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Bir hafta önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Bir hafta önce güncellendi</string>
@@ -292,7 +292,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="applock_go_to">Ayarlar</string>
   <string name="applock_header_text_less_than_half">Çok küçük. Biraz daha sürükleyin.</string>
   <string name="applock_login_and_add_account">Oturum aç &amp; ekle</string>
-  <string name="applock_not_add_account">&lt;u>Şimdi değil&lt;/u></string>
+  <string name="applock_not_add_account"><u>Şimdi değil</u></string>
   <string name="applock_not_login_account">Oturum açmadınız</string>
   <string name="applock_settings_unlock_all_toast">Tüm uygulamaların kilidi açıldı</string>
   <string name="applock_toast_tip">Uygulama kilidi başarıyla doğrulandı</string>
@@ -907,7 +907,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="foreground_traffic">Ön planda %s</string>
   <string name="forget_password_button_text"><u>Şifremi unuttum</u></string>
   <string name="forget_password_button_text_normal">Parolamı unuttum</string>
-  <string name="forget_pattern">&lt;u>Deseni Unuttum&lt;/u></string>
+  <string name="forget_pattern"><u>Deseni Unuttum</u></string>
   <string name="forground_network_optimization_summary">Ön planda çalışan oyunlara daha fazla bant genişliği verin</string>
   <string name="forground_network_optimization_title">Bant genişliği önceliği</string>
   <string name="free_send_net_booster">Ücretsiz Ağ hızı artırması</string>
@@ -1103,7 +1103,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gs_show_way_vertical">Dikey</string>
   <string name="gs_sign_notification">Her gün saat 8 de giriş yapmayı hatırlat</string>
   <string name="gs_slip_gamebox_detail">Kısayol panelinin görünmesini sağlamak için kaydırıcıyı kullanın veya ekranın üst kenarından kaydırın</string>
-  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;u>Yanlış operatör mü?&lt;/u>&lt;/font>"</string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'><u>Yanlış operatör mü?</u>&lt;/font>"</string>
   <string name="guide_operator_text">"Mevcut Operatörünüz: "</string>
   <string name="guide_quck_open">Aç</string>
   <string name="guide_second_text">Operatörünüzü ayarladıktan sonra MIUI, ücretsiz olarak mobil operatörünüze SMS göndererek mobil veri kullanımınızı günlük olarak izleyecektir. MIUI, veri sınırını aştığınızı tespit ettiğinde, ağ bağlantısını kesip sizi bilgilendirecektir.</string>
@@ -1388,7 +1388,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="mixed_recording_intro_header">%1$s-%2$s karakter girin</string>
   <string name="mixed_retry_button_text">İptal</string>
   <string name="mixed_settings_help_how_to_record">Parola nasıl ayarlanır</string>
-  <string name="modify_password_mode">&lt;u>Parola türünü değiştir&lt;/u></string>
+  <string name="modify_password_mode"><u>Parola türünü değiştir</u></string>
   <string name="modifypassword">Şifre türünü değiştir</string>
   <string name="monitor_app_add">Ekle</string>
   <string name="monitor_app_more">Diğer</string>
@@ -1555,7 +1555,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="password_promotion_postbutton_text">Ekle</string>
   <string name="password_promotion_title">Mi Hesabı ekle</string>
   <string name="password_type">Şifreyi değiştir</string>
-  <string name="password_type_underline">&lt;u>Şifreyi değiştir&lt;/u></string>
+  <string name="password_type_underline"><u>Şifreyi değiştir</u></string>
   <string name="password_xspace_forget_pattern_message">İkinci alan şifrenizi değiştirmek için mevcut İkinci alanı silmeli ve yeni bir tane oluşturmalısınız.</string>
   <string name="pc_abnormal_scan_button_text">Uygulamaları kapat</string>
   <string name="pc_abnormal_scan_reason_prevent_standby">Sistemin bekleme moduna girmesini önler</string>
@@ -2534,7 +2534,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="traffic_limit_error_alert_package">\n\nKalan veriler, bir önceki aydan aktarılmış olan verileri içerir.</string>
   <string name="traffic_limit_error_alert_title">%s veri sınırı hatırlatıcısı</string>
   <string name="traffic_none">Yok</string>
-  <string name="traffic_over_purchase_link">"Veri sınırını aştınız.&lt;br/>Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Şimdi kontör yüklemek için dokunun.&lt;/U>&lt;/font>"</string>
+  <string name="traffic_over_purchase_link">"Veri sınırını aştınız.&lt;br/>Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/>&lt;br/>&lt;font color='#ccffffff'><u>Şimdi kontör yüklemek için dokunun.</u>&lt;/font>"</string>
   <string name="traffic_purchase_body">Kontör bakiyeniz için dokunun.</string>
   <string name="traffic_setting_fragment_area">Yerel</string>
   <string name="traffic_setting_fragment_brand">Marka</string>
@@ -2577,7 +2577,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="uninstall_danagerous_title">Kötü amaçlı uygulamaları kaldır</string>
   <string name="unlike">Hayır teşekkürler</string>
   <string name="unlock_failed">İç hata</string>
-  <string name="unlock_pattern">&lt;u>Desen&lt;/u></string>
+  <string name="unlock_pattern"><u>Desen</u></string>
   <string name="unlock_pattern_to_bind_fingerprint">Parmak izini etkinleştirmek için şifreyi girin</string>
   <string name="unlock_set_unlock_password_summary">Farklı karakterleri birleştirin</string>
   <string name="unlock_set_unlock_password_title">Şifre</string>

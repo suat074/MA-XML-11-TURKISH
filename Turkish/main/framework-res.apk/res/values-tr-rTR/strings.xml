@@ -168,7 +168,7 @@
   <string name="bugreport_title">Hata raporu al</string>
   <string name="byteShort">B</string>
   <string name="cancel">İptal</string>
-  <string name="candidates_style">&lt;u>aday&lt;/u></string>
+  <string name="candidates_style"><u>aday</u></string>
   <string name="capability_desc_canCaptureFingerprintGestures">Cihazda gerçekleştirilen hareketleri yakalayabilir</string>
   <string name="capability_desc_canControlMagnification">Ekranın yakınlaştırma seviyesini ve konumunu kontrol edin.</string>
   <string name="capability_desc_canPerformGestures">Dokunabilir, kaydırabilir, çimdikleyebilir ve diğer hareketleri gerçekleştirebilir.</string>

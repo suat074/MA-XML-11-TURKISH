@@ -926,7 +926,7 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="url_fraud_risky_alert">Ziyaret etmeye çalıştığınız %s web sitesi tehlikeli olabilir. Yine de ziyaret edilsin mi?
 "</string>
   <string name="url_fraud_title">Web sitesi sahte olabilir</string>
-  <string name="url_fraud_visit">&lt;u>Yine de ziyaret et&lt;/u></string>
+  <string name="url_fraud_visit"><u>Yine de ziyaret et</u></string>
   <string name="url_result_safe">Bu link güvenli</string>
   <string name="url_scan_again">Tekrar kontrol et</string>
   <string name="url_scanning">Link kontrol ediliyor…</string>

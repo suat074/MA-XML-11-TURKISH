@@ -369,7 +369,7 @@
   <string name="passport_quick_login_step2_title">2 adımlı doğrulama</string>
   <string name="passport_quick_login_title">Şifrenizi girin</string>
   <string name="passport_quick_register">Kaydol</string>
-  <string name="passport_quick_register_notice">&lt;u>\"Mi hesabınız yok mu? Bir tane oluştur.\"&lt;/u></string>
+  <string name="passport_quick_register_notice"><u>\"Mi hesabınız yok mu? Bir tane oluştur.\"</u></string>
   <string name="passport_re_get_verify_code">Kodu tekrar al</string>
   <string name="passport_re_register">Tekrar oturum açın</string>
   <string name="passport_recycle_account_prompt">Bu sizin Mi Hesabınız mı?</string>
@@ -383,7 +383,7 @@
   <string name="passport_reg_success">Hesabınız oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s hesabınıza bağlı. Oturum açmak veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
   <string name="passport_reg_type_email">E-posta adresi</string>
-  <string name="passport_reg_using_other_phone">&lt;u>Alternatif telefon numarası kullan&lt;/u></string>
+  <string name="passport_reg_using_other_phone"><u>Alternatif telefon numarası kullan</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">Yeni bir hesap kullanarak oluşturun</string>
   <string name="passport_reg_using_phone_number_prompt">Telefon numarasını kullanarak hesap oluşturun</string>
   <string name="passport_reg_via_sms_alert">Bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
@@ -391,7 +391,7 @@
   <string name="passport_register">Hesap oluştur</string>
   <string name="passport_register_account_goto_email">Gelen kutusuna git</string>
   <string name="passport_register_account_verified_confirm">Hesap doğrulandı</string>
-  <string name="passport_register_by_email">&lt;u>E-posta adresini kullanarak bir hesap oluşturun&lt;/u></string>
+  <string name="passport_register_by_email"><u>E-posta adresini kullanarak bir hesap oluşturun</u></string>
   <string name="passport_register_restricted">Bu numarayla ilişkilendirilmiş çok fazla hesap var, farklı bir hesap deneyin</string>
   <string name="passport_register_restricted_title">Bu telefon numarası kullanılamıyor</string>
   <string name="passport_register_using_other_ways">Hesap oluşturmak için diğer yollar</string>

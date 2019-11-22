@@ -313,7 +313,7 @@
   <string name="passport_back">Geri</string>
   <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="passport_barcode_add_account_prompt">Bir hesabı bağlamak için, oturum açtıktan sonra QR kodunu tekrar tarayın.</string>
-  <string name="passport_change_account">&lt;u>Hesabı değiştir&lt;/u></string>
+  <string name="passport_change_account"><u>Hesabı değiştir</u></string>
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre denetleniyor…</string>
   <string name="passport_checking_input">Giriş denetleniyor…</string>
@@ -349,7 +349,7 @@
   <string name="passport_error_user_name">Girdiğiniz kullanıcı adı geçersiz.</string>
   <string name="passport_failed_to_send_activate_email">Etkinleştirme E-Postası gönderilemedi</string>
   <string name="passport_find_password_on_web_msg">Parolanızı sıfırlamak için account.mi.com adresini ziyaret edin.</string>
-  <string name="passport_forget_password">&lt;u>Parolanızı mı unuttunuz&lt;/u></string>
+  <string name="passport_forget_password"><u>Parolanızı mı unuttunuz</u></string>
   <string name="passport_forget_password_no_underline">Parolanızı mı unuttunuz</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
   <string name="passport_get_verify_code">Kodu al</string>
@@ -371,7 +371,7 @@
   <string name="passport_login_instead_reg_with_email">Bu postayı kullan</string>
   <string name="passport_login_prompt">Bir Mi Hesabı. Tüm Mi Hizmetleri.</string>
   <string name="passport_login_title">Mi Hesabınızla oturum açın</string>
-  <string name="passport_login_using_other_ways">&lt;u>Oturum açmak için diğer yollar&lt;/u></string>
+  <string name="passport_login_using_other_ways"><u>Oturum açmak için diğer yollar</u></string>
   <string name="passport_message_dialog_title">SMS koduyla doğrula</string>
   <string name="passport_next">Sonraki</string>
   <string name="passport_notification_title">"%1$s için oturum açma hatası "</string>
@@ -394,7 +394,7 @@
   <string name="passport_reg_success">Hesap oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s Hesabınızla bağlandı. Oturum açmak veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
   <string name="passport_reg_type_email">E-posta adresini kullan</string>
-  <string name="passport_reg_using_other_phone">&lt;u>Alternatif telefon numarası kullan&lt;/u></string>
+  <string name="passport_reg_using_other_phone"><u>Alternatif telefon numarası kullan</u></string>
   <string name="passport_reg_using_other_phone_number_prompt">Kullanarak yeni bir hesap oluşturun</string>
   <string name="passport_reg_using_phone_number_prompt">Telefon numarasını kullanarak hesap oluştur</string>
   <string name="passport_reg_via_sms_alert">Operatörünüz, bu servisi etkinleştirmek için kullanılan SMS mesajı için ücret talep edebilir.</string>
@@ -402,7 +402,7 @@
   <string name="passport_register">Hesap oluştur</string>
   <string name="passport_register_account_goto_email">Gelen Kutusuna git</string>
   <string name="passport_register_account_verified_confirm">Hesap doğrulandı</string>
-  <string name="passport_register_by_email">&lt;u>E-posta adresini kullanarak bir hesap oluşturun&lt;/u></string>
+  <string name="passport_register_by_email"><u>E-posta adresini kullanarak bir hesap oluşturun</u></string>
   <string name="passport_register_restricted">Bu numarayla çok fazla hesap ilişkilendirildi, farklı bir tane deneyin</string>
   <string name="passport_register_restricted_title">Bu telefon numarası kullanılamıyor</string>
   <string name="passport_registered_phone_user_ID">Kullanıcı ID: %s</string>
