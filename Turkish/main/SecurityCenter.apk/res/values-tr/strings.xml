@@ -281,7 +281,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="applock_add_account">Ekle</string>
   <string name="applock_add_account_info">Parolanızı unutmanız durumunda sıfırlayabilmek için Mi Hesabınızı ekleyin.</string>
   <string name="applock_add_account_setting">Hesap &amp; gizlilik</string>
-  <string name="applock_bind_account_title">Parolamı unuttum</string>
+  <string name="applock_bind_account_title">Parolayı unuttum</string>
   <string name="applock_close_dialog_summary">Tüm gizli uygulamalar görünecek, Ana ekran kısayolları geri yüklenecek ve Uygulama kilidi şifreniz silinecek. Uygulama kilidini kapat?</string>
   <string name="applock_close_dialog_title">Uygulama kilidi kapatılsın mı?</string>
   <string name="applock_exit_account_info">Hesap çıkış yaptığınızda otomatik olarak kaldırılacak</string>
@@ -905,9 +905,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="forbid_autobright_summary">Oynatırken otomatik parlaklık kapanır ve bitirdikten sonra geri yüklenir</string>
   <string name="forbid_autobright_title">Ekran parlaklığını düzelt</string>
   <string name="foreground_traffic">Ön planda %s</string>
-  <string name="forget_password_button_text"><u>Şifremi unuttum</u></string>
-  <string name="forget_password_button_text_normal">Parolamı unuttum</string>
-  <string name="forget_pattern"><u>Deseni Unuttum</u></string>
+  <string name="forget_password_button_text"><u>Şifreyi unuttum</u></string>
+  <string name="forget_password_button_text_normal">Şifreyi unuttum</string>
+  <string name="forget_pattern"><u>Deseni unuttum</u></string>
   <string name="forground_network_optimization_summary">Ön planda çalışan oyunlara daha fazla bant genişliği verin</string>
   <string name="forground_network_optimization_title">Bant genişliği önceliği</string>
   <string name="free_send_net_booster">Ücretsiz Ağ hızı artırması</string>

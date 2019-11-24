@@ -2272,15 +2272,15 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="force_touch_enable_tips">3D Dokunma etkin olduğunda uygulama simgesine açmak için uzunca süre basın.</string>
   <string name="foreground_traffic">Ön planda %s</string>
   <string name="forget">UNUT</string>
-  <string name="forget_password_button_text">Şifremi Unuttum</string>
+  <string name="forget_password_button_text"><u>Şifreyi unuttum</u></string>
   <string name="forget_password_dialog_button_text">Geri</string>
   <string name="forget_password_dialog_content_four">2. [Verileri sil] öğesini seçin ve cihazınız yeniden başlatana kadar bekleyin.</string>
   <string name="forget_password_dialog_content_one"><Data>Şifrenizi unutursanız, geri yükleyemezsiniz. Ancak, &lt;font color=#ec2700>cihazınızdaki tüm veriler silindikten&lt;/font> (fotoğraf, kişi vb. dahil) sonra geri yükleyebilirsiniz. Bunun için önce önemli verileri yedekleyin.</Data></string>
   <string name="forget_password_dialog_content_three">1. Cihazınızı kapatın. [Güç] düğmesine ve [Ses +] düğmesine aynı anda basın ve * simgesini görene kadar basılı tutun.</string>
   <string name="forget_password_dialog_content_two">Verileri silmek için şu adımları izleyin:</string>
   <string name="forget_password_dialog_title">Verileri sil</string>
-  <string name="forget_pattern">Deseni Unuttum</string>
-  <string name="forget_privacy_password_setting">Mi Hesabı Ekle</string>
+  <string name="forget_pattern"><u>Deseni unuttum</u></string>
+  <string name="forget_privacy_password_setting">Mi Hesabı ekle</string>
   <string name="forget_privacy_password_summary">Şifreyi sıfırlamak için Mi Hesabını kullan</string>
   <string name="forget_wifi_message">Telefonunuz bu ağa otomatik bağlanmayı kesecek.</string>
   <string name="found_new_version">Güncelleme var</string>

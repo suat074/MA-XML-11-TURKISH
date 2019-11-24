@@ -63,6 +63,8 @@
   <string name="deep_space_planet">Dış mekan</string>
   <string name="deep_space_planet_des">Bu tema, gün boyunca etrafınızda olan ışık değişimlerini yansıtır. Gündoğumu ve günbatımı da konumunuz ile senkronize edilir.</string>
   <string name="digital_clock">Dijital</string>
+  <string name="disable_aod_in_power_save_mode">Pil tasarrufu açıkken kapat</string>
+  <string name="disable_aod_in_power_save_mode_summary">Güç tasarrufunda öğeleri görüntülemeyin</string>
   <string name="font_thickness">Kalın yazı tipi</string>
   <string name="large_time">Büyük saat</string>
   <string name="letter_space">Harf boşluğu</string>
@@ -80,6 +82,7 @@
   <string name="paper_mode_end_time_title">Kapat</string>
   <string name="paper_mode_start_time_title">Aç</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
+  <string name="photo_editor_saving">Kaydediliyor…</string>
   <string name="please_input_signature">İmzayı girin</string>
   <string name="scheduled_style">Zamanlanmış</string>
   <string name="scope_des">Her kaleydoskop, ekran her yandığında sırayla görüntülenecek 5 farklı desen içerir.</string>
@@ -98,7 +101,7 @@
 olacağına inan"</string>
   <string name="standard_clock_panel">Standart</string>
   <string name="standard_style">Standart</string>
-  <string name="summary">Güç tüketimini azaltmak için, öğeler aşağıdaki durumlarda görüntülenmez:\n1. Cihazınızın ekranı uzun süre kapalı kaldığında.\n2. Rahatsız etme modu açık olduğunda.</string>
+  <string name="summary">Güç tüketimini azaltmak için, cihazınız uzun süre karanlıkta kaldığında öğeler görüntülenmez.</string>
   <string name="temporary_style">Ekrana dokunduktan 10 saniye sonra</string>
   <string name="text_color">Metin rengi</string>
   <string name="text_length_exceed_limit_alert">*Girdiğiniz metin çok uzun</string>
