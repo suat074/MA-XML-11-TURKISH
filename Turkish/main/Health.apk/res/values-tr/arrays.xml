@@ -39,6 +39,15 @@
     <item>Şimdilik uyku verisi yok</item>
     <item>Mi Sağlık açılıyor</item>
   </string-array>
+  <string-array name="week">
+    <item>Pazar</item>
+    <item>Pazartesi</item>
+    <item>Salı</item>
+    <item>Çarşamba</item>
+    <item>Perşembe</item>
+    <item>Cuma</item>
+    <item>Cumartesi</item>
+  </string-array>
   <string-array name="week_label">
     <item>Paz</item>
     <item>Pts</item>

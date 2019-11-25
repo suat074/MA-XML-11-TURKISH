@@ -150,8 +150,8 @@
     <item quantity="one">%2$s boşaltmak için %1$d adım atın</item>
   </plurals>
   <plurals name="dc_item_summary_apk">
-    <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> yükleme paketlerini silebilirsiniz</item>
-    <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> yükleme paketlerini silebilirsiniz</item>
+    <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> yükleme paketini silebilirsiniz</item>
+    <item quantity="one">&lt;font color=#0097FF>%d&lt;/font> yükleme paketini silebilirsiniz</item>
   </plurals>
   <plurals name="dc_item_summary_app_data">
     <item quantity="other">&lt;font color=#0097FF>%d&lt;/font> uygulama için verileri temizleyebilirsiniz</item>

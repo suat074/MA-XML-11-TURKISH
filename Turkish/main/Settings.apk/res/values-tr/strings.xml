@@ -2955,6 +2955,9 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="lockscreen_magazine_title">Duvar Kağıdı Döngüsü</string>
   <string name="lockscreen_remote_input">Cihaz kilitliyse, bildirimlerde cevap yazma veya diğer metinleri engelle</string>
   <string name="lockscreen_settings_title">Kilit ekranı tercihleri</string>
+  <string name="lockscreen_settings_what_to_show_category">Gösterilecekler</string>
+  <string name="lockscreen_sidepanel_shortcuts_summary">Kilit ekranı yan panelinde görüntülenen uygulamaları özelleştirin</string>
+  <string name="lockscreen_sidepanel_shortcuts_title">Yan panel kısayolları</string>
   <string name="login_account_dialog_message">Mi Hesabınızla oturum açın ve bulutla eşitleyin.</string>
   <string name="login_account_dialog_title">Mi Hesabınız ile oturum açın</string>
   <string name="login_account_summary">Hesapları, bulut hizmetlerini, ödemeleri ve daha fazlasını yönetin</string>
@@ -3296,7 +3299,12 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="msd_pc_system_install_summary_xp">1. Yüklemek için setup.exe dosyasını çalıştırın</string>
   <string name="msg_wlan_signal_found">%s bağlansın mı?</string>
   <string name="msim_sim_radio_off">Kapat</string>
+  <string name="mtp_connection_failed">Bağlı bilgisayara dosya aktarılamıyor. Sorun gidermeyi deneyin.</string>
+  <string name="mtp_connection_failed_title">USB bağlantısı</string>
+  <string name="mtp_connection_not_remind">Tekrar gösterme</string>
   <string name="mtp_ptp_mode_summary">MTP veya PTP fonksiyonu faal</string>
+  <string name="mtp_solution_button_cancel">Anladım</string>
+  <string name="mtp_solution_button_ok">Sorun giderme</string>
   <string name="multi_network_acceleration_app_settings">Uygulamalar için ağ hızlandırma</string>
   <string name="multi_touch_points_category_title">Çoklu Dokunma Noktaları</string>
   <string name="multi_touch_points_preference">Cihazınızı yeniden başlattıktan sonra bu ayar yürürlüğe girecek</string>

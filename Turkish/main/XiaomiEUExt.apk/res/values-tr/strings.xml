@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="add">Ekle</string>
+  <string name="app_name">Xiaomi.eu Uzantısı</string>
+  <string name="confirm_reset">Sıfırlamayı onayla</string>
+  <string name="confirm_reset_message">Varsayılan uygulamalara sıfırlansın mı?</string>
+  <string name="delete">Sil</string>
+  <string name="lockscreen_side_apps">Yan panel kısayolları</string>
+  <string name="no_apps">Uygulama yok</string>
+  <string name="reset">Sıfırla</string>
+  <string name="select_app">Bir uygulama seçin</string>
+  <string name="select_apps">Uygulamaları seç</string>
+</resources>

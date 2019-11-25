@@ -131,7 +131,7 @@
   <string name="dc_advise_delete">Alan boşalt</string>
   <string name="dc_group_title_appclean">Uygulamalar</string>
   <string name="dc_header_can_clean">Temizlenebilir</string>
-  <string name="dc_header_can_not_clean">Meşgul</string>
+  <string name="dc_header_can_not_clean">Dolu</string>
   <string name="dc_header_used_space_text">Kullanılan depolama</string>
   <string name="dc_item_summary_wechat_chat">Daha fazla yer açmak için sohbet geçmişini temizle</string>
   <string name="dc_item_title_apk">Yükleme paketlerini sil</string>
@@ -144,7 +144,7 @@
   <string name="dc_item_title_wechat">WeChat Temizleyici</string>
   <string name="dc_item_title_wechat_chat">WeChat geçmişini temizle</string>
   <string name="dc_storage_cleaned">%s serbest bırakıldı</string>
-  <string name="dc_storage_info">Mevcut %1$s | Toplam %2$s</string>
+  <string name="dc_storage_info">Kalan %1$s | Toplam %2$s</string>
   <string name="deep_clean_completed_tips">Başarıyla temizlendi</string>
   <string name="deep_clean_data_path_clean_title">Önbelleği temizle</string>
   <string name="deep_clean_uninstall_completed_tips">Başarıyla kaldırıldı</string>
@@ -463,7 +463,7 @@
   <string name="pref_title_auto_clean_content_choose">Temizlenecek öğeleri seçin</string>
   <string name="pref_title_auto_update_cleanup_db">Otomatik olarak güncelle</string>
   <string name="pref_title_choose_engine">Tanımlamalar</string>
-  <string name="pref_title_clean_alert">Otomatik Temizle</string>
+  <string name="pref_title_clean_alert">Otomatik temizle</string>
   <string name="pref_title_cleanup_white_list">İstisnalar</string>
   <string name="pref_title_create_onekeyclean_shortcut">Ana ekranda kısayol göster</string>
   <string name="pref_title_expand_cache_group">Önbellek öğelerini göster</string>

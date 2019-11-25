@@ -313,6 +313,13 @@
     <item>1 saat</item>
     <item>Asla zaman aşımına uğrama</item>
   </string-array>
+  <string-array name="bt_hci_snoop_log_entries">
+    <item>Devre dışı</item>
+    <item>Filtreleme etkin</item>
+    <item>Etkin</item>
+    <item>\"Filtrelenmiş başlıklar\" etkin</item>
+    <item>\"Medya paketleri filtreleme\" etkin</item>
+  </string-array>
   <string-array name="button_light_timeout_entries">
     <item>1 saniye</item>
     <item>2 saniye</item>
