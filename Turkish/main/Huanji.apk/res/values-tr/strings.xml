@@ -121,17 +121,17 @@
   <string name="close_vpn_title">VPN\'i kapat</string>
   <string name="comma_seperator">", "</string>
   <string name="confirm_description">Onayla</string>
-  <string name="connect_icloud_fail">İCloud/'a bağlanılamadı</string>
+  <string name="connect_icloud_fail">İCloud\'a bağlanılamadı</string>
   <string name="connect_icloud_fail_tips">İCloud hesabınızın aktif olduğundan emin olun. Değilse, icloud.com adresine gidin ve hesabınızı etkinleştirmek için talimatları izleyin.</string>
   <string name="connect_wifi">WLAN\'a bağlan</string>
   <string name="connect_wifi_tip">Ağa bağlanılamadı. ICloud\'dan öğeleri almak için WLAN\'a bağlanın.</string>
   <string name="connecting">Bağlanılıyor…</string>
   <string name="connection_tips_activity_label">Sorun gider</string>
-  <string name="connection_tips_other_message">"1. Eski cihazınıza Mi Transfer/'in en son sürümünün yüklendiğinden emin olun. Mi Transfer son sürümünü GetApps üzerinden indirebilir veya bu bağlantıyı kullanabilirsiniz: %1$s.
+  <string name="connection_tips_other_message">"1. Eski cihazınıza Mi Transfer\'in en son sürümünün yüklendiğinden emin olun. Mi Transfer son sürümünü GetApps üzerinden indirebilir veya bu bağlantıyı kullanabilirsiniz: %1$s.
 2. Yeni cihazın erişim noktası hala Mi Transfer\'de görünmüyorsa, Wi-Fi ayarlarını açın ve orada görünüp görünmediğini kontrol edin. Eğer görünüyorsa, dokunmayın.
-3. Mi Transfer/'e geri dönün ve erişim noktası adına dokunun."</string>
+3. Mi Transfer\'e geri dönün ve erişim noktası adına dokunun."</string>
   <string name="connection_tips_other_title">Eski cihazınız Android telefon ise:</string>
-  <string name="connection_tips_owner_message">Mi Transfer, MIUI 11 çalıştıran tüm cihazlara önceden yüklenmiştir. Daha eski bir MIUI sürümünüz varsa, Mi Transfer/'in son sürümünü GetApps/'den indirebilir veya bu bağlantıyı kullanabilirsiniz: %1$s.</string>
+  <string name="connection_tips_owner_message">Mi Transfer, MIUI 11 çalıştıran tüm cihazlara önceden yüklenmiştir. Daha eski bir MIUI sürümünüz varsa, Mi Transfer\'in son sürümünü GetApps\'den indirebilir veya bu bağlantıyı kullanabilirsiniz: %1$s.</string>
   <string name="connection_tips_owner_title">Eski cihazınız bir Mi telefonu ise:</string>
   <string name="contacts">Kişiler</string>
   <string name="copyright">Telif hakkı</string>
@@ -384,7 +384,7 @@
   <string name="dialog_request_network_btn_positive">Kabul</string>
   <string name="dialog_request_network_message">"Mi Transfer\'e Hoşgeldiniz! Öğeleri eski cihazınızdan yenisine aktarmak için bu uygulamayı kullanabilirsiniz.
 Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Mi Transfer\'in internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerektiğini unutmayın: Wi-Fi açma ve kapatma, kişilerinize erişme ve aktarma, çağrı geçmişinize erişme, SMS, MMS, çağrı kayıtları ve ses kayıtları."</string>
-  <string name="dialog_request_network_message_extra">Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda, uygulamayı kaldırmayı veya Ayarlar/'dan izinleri kısıtlamayı seçebilirsiniz.</string>
+  <string name="dialog_request_network_message_extra">Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda, uygulamayı kaldırmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.</string>
   <string name="dialog_tip_upgrade_summary">Mi Transfer sürümü eski görünüyor. Dosyaları aktarabilmek için Mi Transfer\'i en son sürümüne güncelleyin.</string>
   <string name="dialog_tip_upgrade_title">Mi Transfer güncelle</string>
   <string name="dialog_version_summary_tip">Yenilikler:</string>
@@ -443,8 +443,8 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="group_info_scanning">Hesaplanıyor…</string>
   <string name="guest_hint_connect_new_device">Bağlanmak için yeni cihaza dokunun.</string>
   <string name="guest_install_app_hint_ensure">İndir</string>
-  <string name="guest_install_app_hint_summary">Mi Transfer/'in yeni sürümü bu cihazda yüklü olan sürümle uyumlu değil. Yeni sürümü indirin ve yükleyin.</string>
-  <string name="guest_install_app_hint_title">Mi Transfer/'in yeni sürümünü indirin</string>
+  <string name="guest_install_app_hint_summary">Mi Transfer\'in yeni sürümü bu cihazda yüklü olan sürümle uyumlu değil. Yeni sürümü indirin ve yükleyin.</string>
+  <string name="guest_install_app_hint_title">Mi Transfer\'in yeni sürümünü indirin</string>
   <string name="guest_unfinished_task_alert_btn_negative">Baştan başla</string>
   <string name="guest_unfinished_task_alert_btn_positive">Devam et</string>
   <string name="guest_unfinished_task_alert_message">Bitmemiş aktarma görevleriniz var gibi görünüyor. Aktarmaya devam edilsin mi?</string>
@@ -461,14 +461,14 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="heavenly_stems_yi">乙</string>
   <string name="hide_password_description">Şifreyi gizle</string>
   <string name="host_boot_installation_button">Sonraki</string>
-  <string name="host_boot_installation_content">"1. Eski cihazınızda Ayarlar/'a gidin.
+  <string name="host_boot_installation_content">"1. Eski cihazınızda Ayarlar\'a gidin.
 2. Arama çubuğuna \"Mi Transfer\" girin.
 3. Arama sonuçlarında \"Mi Transfer\" öğesine dokunun."</string>
-  <string name="host_boot_installation_dialog_message">Mi Transfer/'in eski cihazınızdaki sürümü burada yüklü olan sürümle uyumlu değil. Mi Transfer/'i eski cihazınızda güncelleyin.</string>
-  <string name="host_boot_installation_first_title">Eski cihazınızda Mi Transfer/'i açın</string>
-  <string name="host_boot_installation_message">Eski cihazınızda gördüğünüz sayfayı seçin. Mi Transfer/'in eski versiyonunu kullanıyorsanız, nasıl güncelleneceğini size söyleyeceğiz.</string>
+  <string name="host_boot_installation_dialog_message">Mi Transfer\'in eski cihazınızdaki sürümü burada yüklü olan sürümle uyumlu değil. Mi Transfer\'i eski cihazınızda güncelleyin.</string>
+  <string name="host_boot_installation_first_title">Eski cihazınızda Mi Transfer\'i açın</string>
+  <string name="host_boot_installation_message">Eski cihazınızda gördüğünüz sayfayı seçin. Mi Transfer\'in eski versiyonunu kullanıyorsanız, nasıl güncelleneceğini size söyleyeceğiz.</string>
   <string name="host_boot_installation_second_title">Gördüğünüz sayfayı seçin</string>
-  <string name="host_boot_installation_tips">Mi Transfer/'i bulamadınız mı? İndirmek için dokunun.</string>
+  <string name="host_boot_installation_tips">Mi Transfer\'i bulamadınız mı? İndirmek için dokunun.</string>
   <string name="host_connect_timeout_tip">Uzun süre bağlanılamıyor</string>
   <string name="host_dialog_install_button">Başka bir cihaza yükleyin</string>
   <string name="host_dialog_known_button">Anladım</string>
