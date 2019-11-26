@@ -111,6 +111,7 @@
   <string name="app_info">Uygulama bilgisi</string>
   <string name="app_not_found">Bu eylemi gerçekleştirecek bir uygulama bulunamadı</string>
   <string name="app_running_notification_text">Daha fazla bilgi edinmek için veya uygulamayı durdurmak için dokunun.</string>
+  <string name="app_running_notification_tip_text">Bu, cihazınızı yavaşlatabilir ve pili boşaltabilir. Uygulamadan çıkmak için dokunun</string>
   <string name="app_running_notification_title">%1$s çalışıyor</string>
   <string name="app_suspended_default_message">%1$s şu anda müsait değil. Bu %2$s tarafından yönetiliyor.</string>
   <string name="app_suspended_more_details">Daha fazla bilgi edin</string>

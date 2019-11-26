@@ -35,6 +35,7 @@
   <string name="content_description_start">Başlat</string>
   <string name="content_introduction">İçerik Merkezi, birden çok kanaldan içerik ve hizmetleri toplar. Burada makaleleri okuyabilir, videoları izleyebilir, günlük öne çıkan öğeleri görüntüleyebilir ve içerik önerileri alabilirsiniz.</string>
   <string name="continue_to_enable_accessibility">Erişilebilirliği sağlamak için iki parmağınızı basılı tutun.</string>
+  <string name="data_traffic_enable_dialog_title">WLAN\'a şimdi bağlı değilseniz, cihazınız mobil veri kullanacaktır. Mobil veri kullanılması ek operatör ücretleri oluşturabilir.</string>
   <string name="desc_fingerprint">Cihazınızın kilidini açmak, Mi Ödeme işlemlerini doğrulamak veya uygulamalarda ve hizmetlerde oturum açmak için parmak izinizi kullanın.</string>
   <string name="desc_international_fingerprint">Cihazınızın kilidini açmak veya uygulama ve servislerde oturum açmak için parmak izinizi kullanın.</string>
   <string name="diagnose_report">Sistem sorunlarını bulmak, analiz etmek ve kullanıcı deneyimini geliştirmek için tanılama verileri gönderin. Bu veriler kişisel bilgileri içerebilir (örneğin IP, konum vb.)</string>
@@ -92,6 +93,7 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="other_settings_auto_update">Otomatik sistem güncellemeleri</string>
   <string name="other_settings_auto_update_summary">MIUI güncellemeleri indirmek ve yüklemek için en iyi zamanı seçecektir. Cihazınız değişiklikleri uygulamak için otomatik olarak yeniden başlatılacaktır.</string>
   <string name="other_settings_enhanced_lockscreen">Duvar Kağıdı Döngüsü</string>
+  <string name="other_settings_enhanced_lockscreen_for_india">Mi için bakış</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Gizlilik Politikası</string>
   <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak Kilit ekranınıza gönderilen görüntüleri ve hikayelerini alın. %1$s ve %2$s</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Son Kullanıcı Lisans Sözleşmesi</string>

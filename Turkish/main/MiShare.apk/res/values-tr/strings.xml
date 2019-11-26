@@ -49,6 +49,7 @@
   <string name="error_receive_file_cannot_read">Dosya alınamadı</string>
   <string name="error_receive_file_changed">Alınamıyor. Öğe değişti.</string>
   <string name="error_receive_file_no_enough_space">Alınamıyor. Yeterli depolama alanı yok.</string>
+  <string name="error_receive_file_service_disabled">Gelen transfer iptal edildi</string>
   <string name="error_receive_user_cancel">Transfer iptal edildi</string>
   <string name="error_receive_user_interrupted">Diğer kişi transferi iptal etti</string>
   <string name="error_refuse_receive">Transfer iptal edildi</string>
@@ -57,6 +58,7 @@
   <string name="error_send_file_cannot_read">Dosya gönderilemedi. Tekrar deneyin.</string>
   <string name="error_send_file_no_enough_space">Gönderilemiyor. Diğer cihazda yeterli depolama alanı yok.</string>
   <string name="error_send_file_not_found">Dosya bulunamadı. Tekrar deneyin.</string>
+  <string name="error_send_file_service_disabled">Giden transfer iptal edildi</string>
   <string name="error_send_transfer_error">Öğe aktarılamadı. Tekrar deneyin.</string>
   <string name="error_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="error_user_refuse">Gönderilemiyor. Transfer reddedildi.</string>
@@ -94,6 +96,7 @@ OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu ola
   <string name="send_file">DOSYA GÖNDER</string>
   <string name="send_files_to">Öğeleri gönder</string>
   <string name="send_files_to_remote_success">Öğeler %1$s cihazına başarıyla gönderildi</string>
+  <string name="send_files_to_remote_success_title">Başarıyla gönderildi</string>
   <string name="sender_error">Gönderilemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="somepc_send_much_file_to_you_files">%1$s size 200\'den fazla dosya gönderiyor…</string>
   <string name="somepc_send_muchfile_files">%1$s size 200\'den fazla dosya gönderiyor…</string>

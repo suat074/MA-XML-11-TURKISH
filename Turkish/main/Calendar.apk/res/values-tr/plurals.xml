@@ -95,6 +95,10 @@
     <item quantity="other">Etkinlikten %d hafta önce</item>
     <item quantity="one">Etkinlikten %d hafta önce</item>
   </plurals>
+  <plurals name="other_all_day_events">
+    <item quantity="other">%d etkinlik daha</item>
+    <item quantity="one">%d etkinlik daha</item>
+  </plurals>
   <plurals name="repeat_interval_frequency_day_multiple">
     <item quantity="other">%1$d gün</item>
     <item quantity="one">%1$d gün</item>

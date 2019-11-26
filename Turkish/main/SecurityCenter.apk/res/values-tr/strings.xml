@@ -273,6 +273,11 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="app_permission_use_neccesary">Gerekli izinler</string>
   <string name="app_permission_use_no_neccesary">İsteğe bağlı izinler</string>
   <string name="app_permission_use_title">İzinler</string>
+  <string name="app_running_tip_dialog_negative">İptal</string>
+  <string name="app_running_tip_dialog_positive">Tamam</string>
+  <string name="app_running_tip_dialog_text">Arka planda çalışmasını önlemek için %1$s uygulamasından çıkın. Bu, cihazınızı hızlandıracak ve güç tüketimini azaltacaktır.</string>
+  <string name="app_running_tip_dialog_title">Uygulamadan çık</string>
+  <string name="app_running_tip_uninstall">Bu uygulamayı kaldır</string>
   <string name="app_usage_never">Hiç kullanılmadı</string>
   <string name="app_usage_recently">Yakınlarda kullanıldı</string>
   <string name="app_version">Sürüm:</string>

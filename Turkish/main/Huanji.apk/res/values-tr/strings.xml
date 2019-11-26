@@ -2,6 +2,7 @@
 <resources>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="account_or_password_incorrect">Yanlış hesap kimliği veya şifre</string>
   <string name="action_mode_deselect_all">Vazgeç</string>
   <string name="action_mode_select_all">Tümü</string>
   <string name="action_mode_title_empty">Öğeleri seç</string>
@@ -30,8 +31,9 @@
   <string name="cancel_description">İptal</string>
   <string name="cancel_moving_dialog_message">İçe aktarma şimdi durdurulsun mu?</string>
   <string name="cancel_moving_dialog_title">İçe aktarmayı durdur</string>
-  <string name="cannot_use_mi_huanji_summary">Görünüşe göre öğeleri yedekliyorsun. Mi Transfer\'i kullanabilmek için devam eden yedeklemeyi durdurun veya tamamlanana kadar bekleyin.</string>
-  <string name="cannot_use_mi_huanji_title">Mi Transfer kullanılamaz</string>
+  <string name="cannot_use_mi_huanji_button">Anladım</string>
+  <string name="cannot_use_mi_huanji_summary">MIUI şimdi öğeleri yedekliyor gibi görünüyor. Mi Transfer\'in aktarmaya başlamasını sağlamak için devam eden yedeklemeleri durdurun veya cihazınızı yeniden başlatın.</string>
+  <string name="cannot_use_mi_huanji_title">Şimdi aktarılamıyor</string>
   <string name="check_phone_error_title">Eşitleme kapalı</string>
   <string name="check_phone_io_error">Ağa bağlanamıyor</string>
   <string name="chinese_day_1">1.Gün</string>
@@ -119,9 +121,18 @@
   <string name="close_vpn_title">VPN\'i kapat</string>
   <string name="comma_seperator">", "</string>
   <string name="confirm_description">Onayla</string>
+  <string name="connect_icloud_fail">İCloud/'a bağlanılamadı</string>
+  <string name="connect_icloud_fail_tips">İCloud hesabınızın aktif olduğundan emin olun. Değilse, icloud.com adresine gidin ve hesabınızı etkinleştirmek için talimatları izleyin.</string>
   <string name="connect_wifi">WLAN\'a bağlan</string>
   <string name="connect_wifi_tip">Ağa bağlanılamadı. ICloud\'dan öğeleri almak için WLAN\'a bağlanın.</string>
   <string name="connecting">Bağlanılıyor…</string>
+  <string name="connection_tips_activity_label">Sorun gider</string>
+  <string name="connection_tips_other_message">"1. Eski cihazınıza Mi Transfer/'in en son sürümünün yüklendiğinden emin olun. Mi Transfer son sürümünü GetApps üzerinden indirebilir veya bu bağlantıyı kullanabilirsiniz: %1$s.
+2. Yeni cihazın erişim noktası hala Mi Transfer\'de görünmüyorsa, Wi-Fi ayarlarını açın ve orada görünüp görünmediğini kontrol edin. Eğer görünüyorsa, dokunmayın.
+3. Mi Transfer/'e geri dönün ve erişim noktası adına dokunun."</string>
+  <string name="connection_tips_other_title">Eski cihazınız Android telefon ise:</string>
+  <string name="connection_tips_owner_message">Mi Transfer, MIUI 11 çalıştıran tüm cihazlara önceden yüklenmiştir. Daha eski bir MIUI sürümünüz varsa, Mi Transfer/'in son sürümünü GetApps/'den indirebilir veya bu bağlantıyı kullanabilirsiniz: %1$s.</string>
+  <string name="connection_tips_owner_title">Eski cihazınız bir Mi telefonu ise:</string>
   <string name="contacts">Kişiler</string>
   <string name="copyright">Telif hakkı</string>
   <string name="country_name_ac">AC</string>
@@ -371,7 +382,9 @@
   <string name="dialog_rating_title">Mi Transfer\'i değerlendir</string>
   <string name="dialog_request_network_btn_negative">Çıkış</string>
   <string name="dialog_request_network_btn_positive">Kabul</string>
-  <string name="dialog_request_network_message">Mi Transfer\'e Hoşgeldiniz! Öğeleri eski cihazınızdan yenisine aktarmak için bu uygulamayı kullanabilirsiniz. Mi Transfer\'in normal çalışması için internete bağlanması gerekiyor.</string>
+  <string name="dialog_request_network_message">"Mi Transfer\'e Hoşgeldiniz! Öğeleri eski cihazınızdan yenisine aktarmak için bu uygulamayı kullanabilirsiniz.
+Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Mi Transfer\'in internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerektiğini unutmayın: Wi-Fi açma ve kapatma, kişilerinize erişme ve aktarma, çağrı geçmişinize erişme, SMS, MMS, çağrı kayıtları ve ses kayıtları."</string>
+  <string name="dialog_request_network_message_extra">Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda, uygulamayı kaldırmayı veya Ayarlar/'dan izinleri kısıtlamayı seçebilirsiniz.</string>
   <string name="dialog_tip_upgrade_summary">Mi Transfer sürümü eski görünüyor. Dosyaları aktarabilmek için Mi Transfer\'i en son sürümüne güncelleyin.</string>
   <string name="dialog_tip_upgrade_title">Mi Transfer güncelle</string>
   <string name="dialog_version_summary_tip">Yenilikler:</string>
@@ -428,7 +441,10 @@
   <string name="friday_shortest">C</string>
   <string name="get_known_tip">Tekrar deneyin</string>
   <string name="group_info_scanning">Hesaplanıyor…</string>
-  <string name="guest_hint_connect_new_device">Bağlanmak için yeni cihazınızı seçin</string>
+  <string name="guest_hint_connect_new_device">Bağlanmak için yeni cihaza dokunun.</string>
+  <string name="guest_install_app_hint_ensure">İndir</string>
+  <string name="guest_install_app_hint_summary">Mi Transfer/'in yeni sürümü bu cihazda yüklü olan sürümle uyumlu değil. Yeni sürümü indirin ve yükleyin.</string>
+  <string name="guest_install_app_hint_title">Mi Transfer/'in yeni sürümünü indirin</string>
   <string name="guest_unfinished_task_alert_btn_negative">Baştan başla</string>
   <string name="guest_unfinished_task_alert_btn_positive">Devam et</string>
   <string name="guest_unfinished_task_alert_message">Bitmemiş aktarma görevleriniz var gibi görünüyor. Aktarmaya devam edilsin mi?</string>
@@ -444,6 +460,15 @@
   <string name="heavenly_stems_xin">辛</string>
   <string name="heavenly_stems_yi">乙</string>
   <string name="hide_password_description">Şifreyi gizle</string>
+  <string name="host_boot_installation_button">Sonraki</string>
+  <string name="host_boot_installation_content">"1. Eski cihazınızda Ayarlar/'a gidin.
+2. Arama çubuğuna \"Mi Transfer\" girin.
+3. Arama sonuçlarında \"Mi Transfer\" öğesine dokunun."</string>
+  <string name="host_boot_installation_dialog_message">Mi Transfer/'in eski cihazınızdaki sürümü burada yüklü olan sürümle uyumlu değil. Mi Transfer/'i eski cihazınızda güncelleyin.</string>
+  <string name="host_boot_installation_first_title">Eski cihazınızda Mi Transfer/'i açın</string>
+  <string name="host_boot_installation_message">Eski cihazınızda gördüğünüz sayfayı seçin. Mi Transfer/'in eski versiyonunu kullanıyorsanız, nasıl güncelleneceğini size söyleyeceğiz.</string>
+  <string name="host_boot_installation_second_title">Gördüğünüz sayfayı seçin</string>
+  <string name="host_boot_installation_tips">Mi Transfer/'i bulamadınız mı? İndirmek için dokunun.</string>
   <string name="host_connect_timeout_tip">Uzun süre bağlanılamıyor</string>
   <string name="host_dialog_install_button">Başka bir cihaza yükleyin</string>
   <string name="host_dialog_known_button">Anladım</string>
@@ -459,7 +484,7 @@
   <string name="hsa_send_again_countdown">Tekrar gönderin (%ds)</string>
   <string name="hsa_send_failed">Doğrulama kodu gönderilemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="hsa_sending">Gönderiliyor...</string>
-  <string name="hsa_tip_message">1. Doğrulama kodunu alamıyorsanız, Apple cihazınızda iCloud\'da zaten oturum açtığınızdan emin olun.\n2. Doğrulama kodunu girmek yardımcı olmazsa, iki faktörlü kimlik doğrulamayı kapatın.</string>
+  <string name="hsa_tip_message">Doğrulama kodunu alamıyorsanız, Apple cihazınızda iCloud\'da oturum açtığınızdan emin olun.</string>
   <string name="hsa_tip_message_shutdown_hsa">İki faktörlü kimlik doğrulama nasıl kapatılır?</string>
   <string name="hsa_tip_title">İpuçları:</string>
   <string name="hsa_verify_failed">İki faktörlü kimlik doğrulama başarısız</string>
@@ -476,8 +501,10 @@
   <string name="icloud_need_traffic_title">Veri trafiğinin kullanılıp kullanılmayacağı</string>
   <string name="icloud_need_wifi_message">Şimdi Wi-Fi’ye bağlı değilsin. İCloud\'dan veri almak için Wi-Fi\'ye bağlanın.</string>
   <string name="icloud_need_wifi_title">Wi-Fi\'ye bağlan</string>
+  <string name="icloud_signin_fail">Oturum açılamadı</string>
+  <string name="icloud_signin_fail_message">Apple kimliğiniz güvenlik nedeniyle kilitlendi. iforgot.apple.com adresine gidin ve talimatları izleyin.</string>
   <string name="icloud_start_now">Hemen başla</string>
-  <string name="icloud_verify_tips">İOS cihazınızda \"İzin ver\" seçeneğine dokunun ve burada görünen kodu girin.</string>
+  <string name="icloud_verify_tips">iOS cihazınızda İzin Ver\'e dokunun ve burada görüntülenen kodu girin.</string>
   <string name="im">BEN</string>
   <string name="im_recipient">Ben alıcıyım</string>
   <string name="im_sender">Ben göndericiyim</string>
@@ -486,11 +513,12 @@
   <string name="import_again">Tekrar içeri aktar</string>
   <string name="import_data_from_icloud">ICloud\'dan verileri içe aktar</string>
   <string name="install_app_dialog_title">Yakınlarda cihaz bulunamadı</string>
-  <string name="install_app_link_text">Mi Transfer\'in en son sürümünü eski cihazınıza yükleyin</string>
+  <string name="install_app_link_text">Eski cihazım neden erişim noktasına bağlanamıyor?</string>
   <string name="install_app_message">Yeni cihazınızı uzun süre bulamazsanız, şunları deneyin:\n1. Mi Transfer\'in yeni cihazınızda yüklü olduğundan emin olun.\n2. İki cihazı birbirine yaklaştırın.</string>
   <string name="install_app_new_title">Mi Transfer\'i yeni aygıta yüklemek için QR kodunu tarayın</string>
   <string name="install_app_old_title">Mi Transfer\'i eski cihaza yüklemek için QR kodunu tarayın</string>
   <string name="install_app_to_another_phone_content">Mi Transfer\'i yeni cihazınıza yükleyin</string>
+  <string name="install_complete_count_down_time">Başarıyla yüklendi. Aktarım başlatılıyor (%1$d)</string>
   <string name="install_new_app_link_text">Yeni aygıtınıza bağlanabilmek için Mi Transfer\'i yükleyin. Yüklemek için dokunun.</string>
   <string name="instruction">Önemli güvenlik bilgileri</string>
   <string name="label">MIUI SDK</string>
@@ -504,8 +532,9 @@
   <string name="logining">Giriş yapılıyor…</string>
   <string name="main_button_continue">Devam et</string>
   <string name="main_button_quit">Çık</string>
-  <string name="main_chooser_item_android_mi">Android cihazından içe aktar</string>
-  <string name="main_chooser_item_ios">İOS cihazından içe aktar</string>
+  <string name="main_chooser_item_android_mi">Xiaomi telefonundan içe aktar</string>
+  <string name="main_chooser_item_android_others">Başka bir Android telefondan içe aktar</string>
+  <string name="main_chooser_item_ios">iPhone\'dan içe aktar</string>
   <string name="main_chooser_title">Eski cihazı seç</string>
   <string name="message_request_package_stats_perm">Ayarları açmak ve Mi Transfer\'e gerekli izinleri vermek için \"Devam\" seçeneğine dokunun.</string>
   <string name="midnight">GY</string>
@@ -561,27 +590,34 @@
   <string name="need_location_permission_summary">Yakındaki cihazları bulabilmek için Mi Transfer\'in konumunuza erişmesine izin verin.</string>
   <string name="need_more_memory_cacel">İptal</string>
   <string name="need_more_memory_confirm">Temizleyici</string>
-  <string name="need_more_memory_summary">Üçüncü taraf uygulama verileri aktarılmadan önce sıkıştırılmalıdır. Mi Transfer\'ın sıkıştırılmış paketler oluşturmak için %1$s ek depolama alanına ihtiyacı var.</string>
+  <string name="need_more_memory_summary">"Yeterli depolama alanı yok. Mi Transfer\'in aktarmadan önce sıkıştırılmış paketler oluşturmak için %1$s ek depolama alanına ihtiyaç duyuyor.
+1. Yalnızca önemli öğeleri aktarmayı deneyin.
+2. Çok fazla veriye sahip uygulamaları seçmeyin.
+3. Depolama alanı boşaltmak için Temizleyici\'yi kullanın."</string>
   <string name="need_more_memory_title">Yeterli depolama alanı yok</string>
+  <string name="new_app_name">Yeni sürüm</string>
   <string name="new_main_activity_label">Mi Transfer</string>
-  <string name="new_trans_intro_desc_2">Aktarmayı iptal edin, Mi Transfer\'den çıkın ve baştan başlayın. Mi Transfer aktarıma kaldığı yerden devam edecek.</string>
-  <string name="new_trans_intro_desc_3">Mi Transfer dosyaları aktarmak için Wi-Fi kullanır. Bu yüzden aktarım sırasında her iki cihazda da Wi-Fi kullanarak internete bağlanamazsınız.</string>
-  <string name="new_trans_intro_desc_4">Eski cihazlardaki depolama alanı, aktarma paketleri oluşturmak için kullanılır. Aktarıma başlamadan önce eski cihazınızda en az 2GB kullanılabilir depolama alanı olduğundan emin olun.</string>
-  <string name="new_trans_intro_desc_5">Bunun olmasının birkaç nedeni olabilir: sistem ve uygulama sürümü uyumluluk sorunları, ağ sorunları, belirli bir aygıta özgü uyumluluk sorunları, vb.</string>
-  <string name="new_trans_intro_desc_6">Bazı uygulama profilleri (e-bankacılık, finans vb.) güvenlik nedeniyle belirli cihazlarla ilişkilidir. Uygulama verilerini temizlemeyi veya uygulamayı yeni bir cihaza yeniden yüklemeyi deneyin.</string>
-  <string name="new_trans_intro_desc_7">Aktarma sırasında WeChat\'ta oturum açtıysanız, WeChat uygulama verileri ve sohbet geçmişi Mi Transfer kullanılarak tam olarak aktarılamayabilir. Başarılı bir aktarma şansını artırmak için WeChat ayarlarına gidin ve hesabınızdan çıkış yapın.</string>
-  <string name="new_trans_intro_desc_new">\"Ben alıcıyım\" seçeneğine dokunun. \"Android cihazından al\" seçeneğini seçin. Bir bağlantı noktası üretilecek.</string>
-  <string name="new_trans_intro_desc_old">\"Ben göndericiyim\" seçeneğine dokunun. Yeni cihazınıza bağlanın, aktarılacak öğeleri seçin ve Gönder\'e dokunun.</string>
-  <string name="new_trans_intro_question_1">1. Mi Transfer\'i verileri Android cihazdan taşımak için nasıl kullanırım?</string>
-  <string name="new_trans_intro_question_2">2. Mi Transfer belirli bir adımda sıkışmışsa ne yapmalıyım?</string>
-  <string name="new_trans_intro_question_3">3. Aktarım sırasında neden Wi-Fi kullanamıyorum?</string>
-  <string name="new_trans_intro_question_4">4. Mi Transfer neden eski cihazımda yeterli depolama alanı olmadığını söylüyor?</string>
-  <string name="new_trans_intro_question_5">5. Neden bazı uygulamalar başarıyla aktarılamıyor?</string>
-  <string name="new_trans_intro_question_6">6. Neden bazı uygulamalar yeni bir cihazda başlamıyor?</string>
-  <string name="new_trans_intro_question_7">7. Neden WeChat geçmişi tam olarak aktarılamıyor?</string>
-  <string name="new_trans_intro_title_new">Yeni bir cihazda:</string>
-  <string name="new_trans_intro_title_old">Eski bir cihazda:</string>
-  <string name="new_wait_link_first">Eski cihazınızda Mi Transfer\'i açın</string>
+  <string name="new_trans_intro_desc_2">Mi Transfer\'in yeni sürümünde şifre girmenize gerek yoktur. Eski cihazınızda Mi Transfer uygulamasını açın, \"Ben bir göndericiyim\" seçeneğine dokunun ve bağlanmak için erişim noktası adına dokunun.</string>
+  <string name="new_trans_intro_desc_3">Mi Transfer\'in yeni cihaza göndermeden önce eski cihazınızda bir aktarım paketi oluşturmak için depolama alanına ihtiyacı vardır. Devam edebilmek için depolama alanını boşaltın.</string>
+  <string name="new_trans_intro_desc_4">Bazı uygulamaların başarıyla aktarılmasını önleyen cihaz, sistem ve uygulama sürümü uyumluluk sorunları olabilir.</string>
+  <string name="new_trans_intro_desc_5">Bazı uygulamalar (örn. finansal hizmetler ve ödeme araçları) güvenlik nedeniyle şifre transferine izin vermez.</string>
+  <string name="new_trans_intro_desc_6">Yeni Mi telefonunuz bunu yapmak için gerekli izinlere sahip olmayabilir.</string>
+  <string name="new_trans_intro_desc_7">Mi Transfer, bıraktığın yerden devam edebilir. Ancak, cihaz uyumluluğu sorunları kesintiye uğrayan transferi sürdürmenizi engellerse yeniden başlamanız gerekebilir.</string>
+  <string name="new_trans_intro_desc_8">Eski cihazınızdaki WeChat geçmişi, aktarım sırasında yeni cihazınızdaki Wechat geçmişinin üzerine yazılır.</string>
+  <string name="new_trans_intro_desc_new">1. Mi Transfer\'in yeni cihazınızda güncel olduğundan emin olun. Transfer\'in en son sürümünü GetApps üzerinden indirebilir veya bu bağlantıyı kullanabilirsiniz: %1$s.</string>
+  <string name="new_trans_intro_desc_new_click">İndir</string>
+  <string name="new_trans_intro_desc_old">2. Erişim noktası hala Mi Transfer\'de görünmüyorsa, Wi-Fi ayarlarını açın ve orada görünüp görünmediğini kontrol edin. Eğer öyleyse, Mi Transfer\'e geri dönün ve erişim noktası adına dokunun.</string>
+  <string name="new_trans_intro_question_1">1. Yeni cihazın erişim noktası eskisinde neden göremiyorum?</string>
+  <string name="new_trans_intro_question_2">2. Erişim noktasının şifresi nedir?</string>
+  <string name="new_trans_intro_question_3">3. Eski cihazda neden yeterli depolama alanı olmadığını söylüyor?</string>
+  <string name="new_trans_intro_question_4">4. Neden tüm uygulamalar başarıyla aktarılmıyor?</string>
+  <string name="new_trans_intro_question_5">5. Bazı üçüncü taraf uygulama hesaplarının şifreleri neden başarıyla aktarılmıyor?</string>
+  <string name="new_trans_intro_question_6">6. Uygulama verileri neden üçüncü taraf bir cihazdan aktarılamıyor?</string>
+  <string name="new_trans_intro_question_7">7. Mi Transfer\'i bir aktarım sırasında bırakırsam, bir dahaki sefer baştan başlamak zorunda mıyım?</string>
+  <string name="new_trans_intro_question_8">8. Neden WeChat geçmişim yeni cihazda kayboldu?</string>
+  <string name="new_wait_link_first">"1. Eski cihazınızda Mi Transfer uygulamasını açın.
+2. \"Ben bir göndericiyim\" seçeneğine dokunun ve bir süre bekleyin.
+3.  Eski aygıtta aşağıdaki erişim noktasını seçin."</string>
   <string name="nickname">Takma ad</string>
   <string name="night">ÖS</string>
   <string name="no_more_memory_title">Aktarmayı başlatmak için bu cihazda yeterli depolama alanı yok. Depolama alanını boşaltın ve tekrar deneyin.</string>
@@ -611,6 +647,7 @@
   <string name="notification_trans_running_title">Mi Transfer şu anda çalışıyor…</string>
   <string name="notification_trans_send_message">Şimdi veri gönderiliyor. Wi-Fi\'yi kapatmayın veya ağlar arasında geçiş yapmayın.</string>
   <string name="notification_trans_send_title">Veri gönderiliyor…</string>
+  <string name="old_app_name">Eski sürüm</string>
   <string name="old_task_cleared">Eski görevler başarıyla kaldırıldı</string>
   <string name="old_wait_link">Eski cihazda aktarılacak öğeleri seçin</string>
   <string name="old_wait_link_extra">\"Aktar\" seçeneğine dokunun</string>
@@ -665,7 +702,7 @@
   <string name="search_action_mode_cancel">İptal</string>
   <string name="search_input_description">Ara</string>
   <string name="search_mode_button_back_description">Geri</string>
-  <string name="searching_for_new_device">Yeni bir cihaz aranıyor…</string>
+  <string name="searching_for_new_device">Yakındaki cihazlar aranıyor…</string>
   <string name="select_all">Tümü</string>
   <string name="select_all_description">Seçimleri kaldır</string>
   <string name="select_empty">Alınacak öğeleri seçin</string>
@@ -680,7 +717,10 @@
   <string name="send">Gönder</string>
   <string name="send_sms_for_sync_notice">Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir.</string>
   <string name="send_sms_for_sync_title">Veri kullanımı uyarısı</string>
+  <string name="send_verification_code_fail">Doğrulama kodu gönderilemedi</string>
+  <string name="send_verification_code_fail_tips">Bu hesapla Apple cihazınızda oturum açtığınızdan emin olun. Aksi takdirde, kod alamazsınız.</string>
   <string name="settings_phone">Telefon ayarları</string>
+  <string name="settings_powerkeeper">Adım sayacı verileri</string>
   <string name="settings_sms">Mesajlaşma ayarları</string>
   <string name="settings_system">Sistem ayarları</string>
   <string name="settings_wifi">Wi-Fi ayarları</string>
@@ -727,7 +767,7 @@
   <string name="sunday">Pazar</string>
   <string name="sunday_short">Paz</string>
   <string name="sunday_shortest">P</string>
-  <string name="switching_to_5g">5 GHz Wi-Fi\'ye geçiliyor…</string>
+  <string name="switching_to_5g">5 GHz ağına geçiliyor…</string>
   <string name="sync_one_time_sync">Eşitleme için dokunun （ %1$s )</string>
   <string name="task_backup_cancel_progress">Durduruluyor...</string>
   <string name="task_canceled_all_local">İptal</string>
@@ -788,7 +828,8 @@
   <string name="trans_detail_qq_data">QQ verileri (sohbet geçmişi dahil)</string>
   <string name="trans_detail_wechat_data">WeChat verileri (sohbet geçmişi dahil)</string>
   <string name="trans_install_guide_new_content_first">Yeni cihazınızı kullanarak bu QR kodunu tarayın.\nMi Transfer\'i indirip yükleyin.</string>
-  <string name="trans_install_guide_old_content_first">Eski cihazınızı kullanarak bu QR kodunu tarayın.\nMi Transfer\'i indirip yükleyin.</string>
+  <string name="trans_install_guide_old_content_first">"Mi Transfer, MIUI 11 çalıştıran tüm cihazlara önceden yüklenmiştir.
+Mi Transfer, eski cihazınızda yüklü değilse, QR kodunu tarayarak yükleyebilirsiniz."</string>
   <string name="trans_intro_title">SSS</string>
   <string name="trans_main_activity_tutor_first">Fotoğraflarınızı, kişilerinizi, mesajlarınızı, arama geçmişinizi,\nses, video, belge ve uygulamalarınızı yeni bir cihaza taşıyın</string>
   <string name="trans_one_key_migrate">Mi Transfer</string>
@@ -802,6 +843,8 @@
   <string name="transfer_finish_bottom_tip">Eski cihazınızı artık kullanmayacaksanız, tüm önemli öğelerin başarıyla aktarıldığını onayladıktan sonra üzerindeki tüm verileri silebilirsiniz.</string>
   <string name="transfer_lose_connect_summary">Bağlantı kesilmiş gibi görünüyor. Tekrar bağlanın.</string>
   <string name="transfer_lose_connect_title">Bağlantı kesildi</string>
+  <string name="transfer_multi_connect_summary">Transfer, güvenlik nedenlerinden ötürü kesildi. Devam etmek için \"Yeniden bağlan\" düğmesine dokunun.</string>
+  <string name="transfer_multi_connect_title">Bu erişim noktasına birden çok aygıt bağlı gibi görünüyor</string>
   <string name="transfer_quit_alert_btn_negative">Çık</string>
   <string name="transfer_quit_alert_btn_positive">Çıkma</string>
   <string name="transfer_quit_alert_message">"Mi Transfer şu anda çalışıyor. Yine de çıkılsın mı?

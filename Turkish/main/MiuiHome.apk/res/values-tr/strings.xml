@@ -414,6 +414,7 @@
   <string name="status_paused">Duraklatıldı</string>
   <string name="status_pending">Bekleniyor</string>
   <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
+  <string name="system_shortcuts_remove">Kaldır</string>
   <string name="system_text">Sistem</string>
   <string name="title_jeejen">Jeejen Ana ekran</string>
   <string name="title_select_live_folder">Klasörü Seç</string>
