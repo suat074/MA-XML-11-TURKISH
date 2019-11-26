@@ -820,8 +820,8 @@ Favoriler listenize bir kişi eklemek için:
   <string name="photo_fragment">Fotoğraf</string>
   <string name="photo_load_failed">Fotoğraf yüklenemedi</string>
   <string name="photoPickerNotFoundText">Telefonda uygun resim yok</string>
-  <string name="pick_new_photo">%s ile yeni resim seçin</string>
-  <string name="pick_photo">%s resimi seçin</string>
+  <string name="pick_new_photo">%s ile yeni fotoğraf seçin</string>
+  <string name="pick_photo">%s ile fotoğraf seçin</string>
   <string name="picker_all_list_empty">Kişi yok</string>
   <string name="picker_contact_title">Bir kişi seçin</string>
   <string name="picker_email_title">Bir e-posta adresi seçin</string>
