@@ -51,6 +51,7 @@
   <string name="fast_connect_device_title_find_headset">%1$s bul</string>
   <string name="fast_connect_device_title_find_headset_others">Görünüşe göre bu cihaz senin değil: %1$s</string>
   <string name="fast_connect_nzbt_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
+  <string name="fast_connect_wbs_reset">Güç kapalıyken üst düğmeyi %1$s saniye basılı tutun</string>
   <string name="goto_package">%1$s aç</string>
   <string name="install_package">Daha fazla fonksiyon için %1$s yükleyin</string>
   <string name="mi_band_vibrate_alarm">Alarm sesi çaldığında titret</string>
