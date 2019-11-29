@@ -3019,12 +3019,12 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
 Şu anda aşağıdaki hesaplarda oturum açtınız:
 "</string>
   <string name="master_clear_all">Telefonunuzun dahili depolama alanındaki tüm veriler silinsin mi? Bu işlemi geri alamazsınız!</string>
-  <string name="master_clear_apply_step_1">&lt;b>\"Fabrika verilerine sıfırlama\" fotoğraflar, şarkılar, notlar ve diğer kişisel veriler de dahil olmak üzere&lt;/b>, telefonunuzdaki tüm verileri silecek. Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun.</string>
-  <string name="master_clear_apply_step_2">Tüm önemli öğelerin bilgisayarınıza yedeklendiğinden emin olun. Sıfırlama sırasında bu cihazdaki tüm veriler silinir. &lt;b>Yedeklemediğiniz öğeleri geri yükleyemezsiniz.&lt;/b></string>
+  <string name="master_clear_apply_step_1"><b>“Fabrika verilerine sıfırlama” telefonunuzdaki tüm verileri siler</b>, buna fotoğraflar, şarkılar, notlar ve diğer kişisel veriler dahildir. Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun.</string>
+  <string name="master_clear_apply_step_2">Tüm önemli öğelerin bilgisayarınıza yedeklendiğinden emin olun. Sıfırlama sırasında bu cihazdaki tüm veriler silinir. <b>Yedeklemediğiniz öğeleri geri yükleyemezsiniz.</b></string>
   <string name="master_clear_apply_title">Dikkat</string>
   <string name="master_clear_button_text">Tüm verileri sil</string>
   <string name="master_clear_confirm_title">Tüm veriler silinsin mi?</string>
-  <string name="master_clear_desc">Bu, aşağıdakiler dahil olmak üzere telefonunuzun &lt;b>dahili depolama&lt;/b>", birimindeki tüm verileri siler:
+  <string name="master_clear_desc">Bu, aşağıdakiler dahil olmak üzere telefonunuzun <b>dahili depolama</b>", birimindeki tüm verileri siler:
 
 "<li>Google Hesabınız</li>"
 "<li>Sistem ve uygulama verileri ve ayarları</li>"
@@ -3034,7 +3034,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
 "<li>Diğer kullanıcı verileri</li></string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Müzik, resim ve diğer kullanıcı verilerini silmek için, "&lt;b>USB depolama&lt;/b> biriminin silinmesi gerekir.</string>
+Müzik, resim ve diğer kullanıcı verilerini silmek için, "<b>SD kart</b> biriminin silinmesi gerekir."</string>
   <string name="master_clear_desc_no_cancel_mobile_plan">"
 
 Bu, mobil servis planınızı iptal etmez."</string>

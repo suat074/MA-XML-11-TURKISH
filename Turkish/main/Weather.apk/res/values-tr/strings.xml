@@ -283,6 +283,7 @@
   <string name="weather_introduce">Ne olursa olsun, her zaman seninle.</string>
   <string name="weather_permission_agree">Kabul</string>
   <string name="weather_service_channel_name">Arka plan hizmetleri</string>
+  <string name="widget_cta_not_agree">Hava durumu bilgisini almak için dokunun</string>
   <string name="wind_direction_no_data">Rüzgar</string>
   <string name="wind_power_unit_default">0</string>
   <string name="wind_unit">%1$skm/s</string>
