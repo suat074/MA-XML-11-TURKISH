@@ -254,7 +254,7 @@
   <string name="can_authorize_owner_albums_share_to_tv">Albümlerin TV\'nizde görüntülenmesi için yetki verin</string>
   <string name="cancel">İptal</string>
   <string name="cancel_authorize_to_device_failed">Yetkilendirme iptal edilemedi</string>
-  <string name="cancel_authorize_watch_on_tv_failed">TV'\de görüntüleme yetkisi iptal edilemedi</string>
+  <string name="cancel_authorize_watch_on_tv_failed">TV\'de görüntüleme yetkisi iptal edilemedi</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Varsayılan Kilit ekranı duvar kağıdına geçilsin mi?</string>
   <string name="cancel_download_btn_text">Durdur</string>
   <string name="cancel_hint">Operasyon iptal edildi</string>
