@@ -141,7 +141,7 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="permission_recording">Çağrıları ve sesleri kaydetme:</string>
   <string name="permission_recording_introduction">Video kaydederken ses kaydetmek için</string>
   <string name="permission_screen_shoot_introduction">Ekran kayıtlarına erişmek ve kaydetmek için</string>
-  <string name="permission_send_message">SMS gönder</string>
+  <string name="permission_send_message">SMS gönder:</string>
   <string name="permission_user_record_introduction">Ses kaydı için</string>
   <string name="permission_virusscan_introduction">Virüs taraması yapmak ve cihazınızı optimize etmek için</string>
   <string name="permission_xunlei_introduction">Xunlei hizmetleri sağlamak amacıyla sistem hesaplarına giriş yapmak ve yönetmek için</string>
@@ -202,6 +202,7 @@ Yine de kişiselleştirilmiş reklamlar kapatılsın mı?"</string>
   <string name="summary_not_set">Ayarlanmadı</string>
   <string name="system_navigation_mode">Sistem gezinme modu</string>
   <string name="terms_of_use">Şartlar ve koşullar</string>
+  <string name="terms_of_use_ble_htmlViewer">, Birleşik Konum Sağlayıcı, HTML Görüntüleyici</string>
   <string name="terms_of_use_label">"Hangi bilgileri topladığımızı, nasıl kullandığımızı ve sizin için hangi seçeneklerin mevcut olduğunu anlamak için Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyun.
 MIUI\'yı kullanabilmeniz için önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı kabul etmeniz gerekir.
 %s ve Mi Hesap bileşenleri internete bağlanacak ve konumunuzu alacak."</string>

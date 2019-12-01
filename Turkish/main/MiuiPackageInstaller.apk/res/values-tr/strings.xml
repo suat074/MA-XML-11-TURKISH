@@ -168,7 +168,7 @@
   <string name="miui_install_fail">Yüklenemedi (%d)</string>
   <string name="miui_install_fail_notify">Yüklenemedi</string>
   <string name="miui_install_fail_reason">Hata nedeni</string>
-  <string name="miui_install_source">\"%s\" öğesinden</string>
+  <string name="miui_install_source">\"%s\" konumundan</string>
   <string name="miui_install_source_unkown">Bilinmeyen</string>
   <string name="miui_install_success">Başarıyla yüklendi</string>
   <string name="miui_install_version">Sürüm: %1$s | Boyut: %2$s</string>
@@ -252,7 +252,7 @@
   <string name="pref_key_about_privacy_title">Gizlilik Politikası</string>
   <string name="pref_key_antivirus">Güvenlik kontrolü</string>
   <string name="pref_key_antivirus_summary">Uygulamaları yüklemeden önce virüslere karşı kontrol edin</string>
-  <string name="pref_key_app_store_summary">Yüklemeden önce uygulamaları güvenli kaynaklardan indirme istemi</string>
+  <string name="pref_key_app_store_summary">Yüklemeden önce uygulamaları güvenli kaynaklardan indirmek için sor</string>
   <string name="pref_key_app_store_title">Güvenli sürümleri öner</string>
   <string name="privacy_relative">Gizlilik</string>
   <string name="privacyPerms">Gizlilik</string>
@@ -271,9 +271,8 @@
   <string name="screen_overlay_title">Ekran Bindirmesi tespit edildi</string>
   <string name="security_settings_desc">Bu uygulamayı izin ver:</string>
   <string name="settings">Ayarlar</string>
-  <string name="settings_warning_dialog_detail">"Aşağıdaki durumlarda sorulur:
+  <string name="settings_warning_dialog_detail">"Aşağıdaki durumlarda sizden istenir:
  "<li>Bir uygulama virüs içerdiğinde.</li>"
- "<li>Bir uygulamanın daha yeni bir sürümü markette mevcut olduğunda.</li>"
  "<li>Kurulum paketi bilinmeyen bir kaynaktan geliyorsa.</li></string>
   <string name="settings_warning_dialog_msg">Telefonunuz güvenlik risklerine eğilimlidir. Bu özelliği kapatırsanız güvenli uygulama sürümlerini yüklemeniz önerilmez. Yine de kapatılsın mı?</string>
   <string name="settings_warning_dialog_title">Dikkat</string>
