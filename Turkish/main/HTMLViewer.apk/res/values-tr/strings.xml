@@ -6,6 +6,7 @@
   <string name="app_version_which_call">Uygulama sürümü: %s</string>
   <string name="autoconnect">Otomatik bağlan</string>
   <string name="ime_privacy_policy">Klavyeyi seç</string>
+  <string name="legal_written_offer">Yazılı Teklif</string>
   <string name="license_host_unreachable">"Ağa bağlanılamadı. Bu bilgiyi şimdi görüntülemek için, 
 başka bir bağlı cihazda %s konumuna gidin."</string>
   <string name="loading">Sadece bir saniye...</string>

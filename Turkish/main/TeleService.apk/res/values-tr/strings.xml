@@ -94,6 +94,7 @@
   <string name="additional_gsm_call_settings_with_label">Ek ayarlar (%s)</string>
   <string name="administrative_disable">Yönetim devre dışı</string>
   <string name="administrative_enable">Yönetim etkin</string>
+  <string name="advanced_mobile_settings">Gelişmiş ayarlar</string>
   <string name="advanced_options_title">Gelişmiş</string>
   <string name="advanced_settings">İsteğe bağlı ayarlar</string>
   <string name="advanced_settings_hide">▽ Tümünü gizlemek için dokunun</string>
@@ -773,6 +774,7 @@
   <string name="fiveg_power_secret_code_tip">Bunu Güvenlik uygulaması üzerinden çalıştırın - Pil - 5G tasarrufu</string>
   <string name="fiveg_restrict_dcnr1">"DCNR kısıtlama[Slot1] : "</string>
   <string name="fiveg_restrict_dcnr2">"DCNR kısıtlama[Slot2] : "</string>
+  <string name="fiveg_sa_switch_title">SA ağı</string>
   <string name="fiveg_signal_strength1">"5G Sinyal gücü[Slot1] : "</string>
   <string name="fiveg_signal_strength2">"5G Sinyal gücü[Slot2] : "</string>
   <string name="fiveg_switch_status1">"5G geçiş durumu[Slot1] : "</string>
@@ -933,6 +935,7 @@
   <string name="lte_band_sel_setting">bant listesi</string>
   <string name="lte_band_set_status">lte bantı ayarla</string>
   <string name="lte_freq_set_button">frekans ve pci ayarla</string>
+  <string name="main_netcheck_summary">Ağ sorunları için test bağlantısı</string>
   <string name="maintenance_disable">Bakım devre dışı</string>
   <string name="maintenance_enable">Bakım etkin</string>
   <string name="manageConferenceLabel">Konferans çağrısını yönet</string>
@@ -970,6 +973,9 @@
   <string name="miui_notification_network_selection_title_by_sim">SIM %s hizmet yok</string>
   <string name="mmiCancelled">MMI kodu iptal edildi</string>
   <string name="mmiStarted">MMI kodu başladı</string>
+  <string name="mobile_advanced_dns_server_title">DNS sunucusu adresi</string>
+  <string name="mobile_advanced_ip_address_title">IP adresi</string>
+  <string name="mobile_connection_management">Mobil ağ bağlantısını yönet</string>
   <string name="mobile_data">Mobil veri</string>
   <string name="mobile_data_activate_button">VERİ EKLE</string>
   <string name="mobile_data_activate_cancel_button">İPTAL</string>
@@ -992,6 +998,7 @@
   <string name="mobile_data_status_roaming_without_plan_subtext">Şu anda dolaşım, veri planına ihtiyaç duyuyor</string>
   <string name="mobile_network_settings_not_available">Bu kullanıcı için hücresel ağ ayarları mevcut değil</string>
   <string name="mobile_networks">Mobil ağ ayarları</string>
+  <string name="mobile_property">Mobil ağ özellikleri</string>
   <string name="mock_location_app">Sahte konum uygulamasını seçin</string>
   <string name="mock_location_app_not_set">Sahte konum uygulaması yok</string>
   <string name="mock_location_app_set">Sahte konum uygulaması: %1$s</string>
@@ -1038,6 +1045,7 @@
   <string name="name">Adı</string>
   <string name="national_disable">Ulusal haberler devre dışı</string>
   <string name="national_enable">Ulusal haberler etkin</string>
+  <string name="netcheck_title">Mobil ağ tanılama</string>
   <string name="network_1x">1x</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
@@ -1518,7 +1526,7 @@
   <string name="standby_bucket_summary">Uygulama bekleme durumu: %s</string>
   <string name="status_hint_label_incoming_wifi_call">Gelen WLAN Çağrısı</string>
   <string name="status_hint_label_wifi_call">WLAN Çağrısı</string>
-  <string name="status_unavailable">Kullanım dışı</string>
+  <string name="status_unavailable">Mevcut değil</string>
   <string name="stk_cc_ss_to_dial_error">SS isteği ARA olarak değiştirilmiş.</string>
   <string name="stk_cc_ss_to_dial_video_error">SS isteği görüntülü aramaya değiştirildi</string>
   <string name="stk_cc_ss_to_ss_error">SS isteği yeni SS isteği olarak değiştirildi.</string>

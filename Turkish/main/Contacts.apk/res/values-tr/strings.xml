@@ -182,7 +182,8 @@
   <string name="cloud_state_disabled">Kişileri bulutla eşitle</string>
   <string name="cloud_state_loading">Sadece bir saniye…</string>
   <string name="cloud_state_sync_finished">Bulut ile eşitlendi</string>
-  <string name="cloud_state_syncing">Xiaomi Bulut ile eşitlendi</string>
+  <string name="cloud_state_syncing">Bulut ile eşitlendi</string>
+  <string name="cloud_upgrade_recommend">Yetersiz bulut depolama alanı nedeniyle kişiler eşitlenemiyor. Bulut depolama planınızı yükseltin.</string>
   <string name="composer_failed_to_get_database_infomation">Veritabanı bilgisi alınamıyor.</string>
   <string name="composer_has_no_exportable_contact">Dışa aktarılabilir kişi yok. Cihazınızda kişileriniz varsa, bazı veri sağlayıcıları kişilerin cihazdan dışa aktarılmasına izin vermiyor olabilir.</string>
   <string name="composer_not_initialized">vCard oluşturucu düzgün başlamadı.</string>

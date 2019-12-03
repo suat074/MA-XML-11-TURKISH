@@ -1288,6 +1288,13 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="color_cyan">Camgöbeği</string>
   <string name="color_gray">Gri</string>
   <string name="color_green">Yeşil</string>
+  <string name="color_lamp_applications_title">Bildirimleri yönet</string>
+  <string name="color_lamp_applications_title_summary">\"Bildirim kategorileri\" içinde LED ışık kullanmaya izin ver veya kısıtla</string>
+  <string name="color_lamp_battery_title">Şarj sırasında devam et</string>
+  <string name="color_lamp_charging_summary">Cihazınız tam şarj edildiğinde LED ışığı kapatılacak</string>
+  <string name="color_lamp_incall_pulse_title">Gelen çağrılar için flaş ışığı</string>
+  <string name="color_lamp_notification_pulse_title">Ekran kapalı olduğunda bildirimler için flaş ışığı</string>
+  <string name="color_lamp_title">LED ışık</string>
   <string name="color_led_applications_title">Uygulamaları seç</string>
   <string name="color_led_applications_title_summary">Uygulamalar için tek tek LED ışık kullanımını kısıtlayabilirsiniz</string>
   <string name="color_led_battery_title">Şarj olurken devam edin</string>
@@ -1913,6 +1920,8 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="dual_clock_open_message">Çift Saat Kilit ekranında, Ana ekranda görüntülenecektir.</string>
   <string name="dual_wifi">Çift bant WLAN hız artırma</string>
   <string name="dual_wifi_acceleration">Hız artırma</string>
+  <string name="dual_wifi_auto_disable">Otomatik hız artırmayı durdur</string>
+  <string name="dual_wifi_auto_disable_summary">Güç tasarrufu için ekran kapalıyken, yardımcı WLAN ağlarının bağlantısını kesin</string>
   <string name="dual_wifi_avaliable_slave_wifi">Mevcut yardımcı ağlar</string>
   <string name="dual_wifi_avaliable_slave_wifi_24G">Mevcut yardımcı ağlar (2.4G bant)</string>
   <string name="dual_wifi_avaliable_slave_wifi_5G">Mevcut yardımcı ağlar (5G bant)</string>
@@ -2721,6 +2730,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="legal_workday_invalidate">Ptesi-Cuma (tatil bilgi süresi)</string>
   <string name="legal_workday_invalidate_message">Resmi tatil bilgilerini güncellemek için dokunun.</string>
   <string name="legal_workday_message">(Tatilleri atla)</string>
+  <string name="legal_written_offer">Yazılı Teklif</string>
   <string name="license_title">Lisans</string>
   <string name="lift_to_wake_title">Uyandırmak için cihazı kaldır</string>
   <string name="lights_title">LED ışık</string>
@@ -3836,6 +3846,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="popup_gesture_title">Ön kamerayı açmak için kaldırın</string>
   <string name="popup_led_summary">Ön kamera göründüğünde ve geri çekildiğinde animasyonu göster</string>
   <string name="popup_led_title">Görsel efekt</string>
+  <string name="popup_led_try_later">Bir iki dakika bekleyin ve tekrar deneyin</string>
   <string name="popup_title">Ön kamera efektleri</string>
   <string name="popup_title_cangmen">Kabin kapısı</string>
   <string name="popup_title_chilun">Dişli çark</string>

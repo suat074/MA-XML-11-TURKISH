@@ -265,7 +265,8 @@
   <string name="passport_bad_authentication">Kullanıcı adı veya şifre hatalı</string>
   <string name="passport_barcode_add_account_prompt">Bir hesaba bağlamak için, oturum açtıktan sonra QR kodunu tekrar tarayın.</string>
   <string name="passport_btn_change_account">Hesabı değiştir</string>
-  <string name="passport_change_account">Hesabı değiştir</string>
+  <string name="passport_can_not_receive_verification_code">Doğrulama kodu alınamıyor mu?</string>
+  <string name="passport_change_account"><u>Hesabı değiştir</u></string>
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre kontrol ediliyor…</string>
   <string name="passport_checking_input">Giriş kontrol ediliyor…</string>

@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_CallLog_Desc">çağrı geçmişini yazar ve siler</string>
+  <string name="HIPS_Perm_Call_Desc">doğrudan telefon numaralarını arar</string>
+  <string name="HIPS_Perm_Contact_Desc">kişileri değiştirir ve siler</string>
+  <string name="HIPS_Perm_PhoneID_Desc">telefon numarası, IMEI ve IMSI\'ye erişir</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişir</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">çağrı geçmişini okur</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">kişilerinizi okur</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">SMS mesajlarınızı okur</string>
+  <string name="HIPS_Perm_SendSMS_Desc">doğrudan SMS mesajları gönderir</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">sistem sesli mesajları ekler</string>
+  <string name="HIPS_Perm_get_accounts_Desc">cihazda depolanan tüm hesaplara eriş</string>
+  <string name="HIPS_Perm_use_sip_Desc">video akışı için Oturum Başlatma Protokolünü kullanır</string>
   <string name="Phonepass">Çağrılara izin ver</string>
   <string name="SMS_and_MMS">SMS ve MMS</string>
   <string name="SMSpass">SMS\'e izin ver</string>
@@ -1627,6 +1639,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="per_month_pkg_traffic_settings">Veri sınırını ayarla</string>
   <string name="perfermance_optimization_summary">Aşırı ısınma ve donanım ile ilgili sorunlardan kaçının</string>
   <string name="perfermance_optimization_title">Performans optimizasyonu</string>
+  <string name="permdesc_in_calls">Gelen çağrılarıları izler</string>
+  <string name="permdesc_out_calls">Giden çağrılarıları izler</string>
   <string name="permgroupdesc_calendar">Takvim etkinliklerine erişir</string>
   <string name="permgroupdesc_calllog">Çağrı geçmişine erişir ve öğeleri kaydeder</string>
   <string name="permgroupdesc_camera">Fotoğraf çeker ve video kaydeder</string>
@@ -1696,8 +1710,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="power_center_list_item_battery_status_time">s</string>
   <string name="power_center_list_item_close_bluetooth">Bluetooth\'u kapat</string>
   <string name="power_center_list_item_deep_save_title">Gelişmiş ayarlar</string>
+  <string name="power_center_list_item_haptic_feedback">Dokunsal geri bildirimi kapat</string>
   <string name="power_center_list_item_set_lockscreen_time">30 saniye kullanılmadığında ekranı uyku moduna geçir</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">%d saniye aktif olmadığında cihazı kilitle</string>
+  <string name="power_center_list_item_wake_notification">Bildirimler için ekranı uyandırma</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_one_key_save">Optimize</string>
   <string name="power_center_ontime_boot">Zaman ile gücü aç</string>
@@ -1751,6 +1767,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="power_optimize_disable_5g">5G bağlantısını kısıtla</string>
   <string name="power_optimize_disable_app_autostart">Uygulamaların otomatik olarak açılmasını önle</string>
   <string name="power_optimize_disable_gps">GPS\'i kapat</string>
+  <string name="power_optimize_disable_gps_high_accuracy">Yüksek doğruluk konum modunu kapat</string>
   <string name="power_optimize_disable_start_other_app">Uygulamaların diğer uygulamaları açmasını önleyin</string>
   <string name="power_optimize_loading">Yükleniyor</string>
   <string name="power_optimize_open_hide_mode">Pil tasarrufunu açın</string>
@@ -2338,6 +2355,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="system_permission_declare_use_network_no_permission">Ağ bağlantısı</string>
   <string name="system_permission_declare_user_agreement"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="system_permission_perm_answer_call">Çağrı yap</string>
+  <string name="system_permission_perm_optional">" (isteğe bağlı)"</string>
   <string name="system_permission_perm_read_mms">MMS oku</string>
   <string name="system_permission_perm_read_numbers">Telefon numaralarını oku</string>
   <string name="system_permission_perm_send_mms">MMS gönder</string>
