@@ -1228,7 +1228,7 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="change_theme_reboot">Temayı değiştirmek yeniden başlatma gerektirir.</string>
   <string name="channel_notifications_off_desc">Android, bu kategorideki bildirimlerin bu cihazda görünmesini engelliyor</string>
   <string name="charge_length_format">%1$s önce</string>
-  <string name="charging_sounds_title">Şarj Sesleri</string>
+  <string name="charging_sounds_title">Şarj sesleri</string>
   <string name="check_find_device_status_failure_confirm">Tamam</string>
   <string name="check_importance">Gruplandırılmış bildirimler için kurallar</string>
   <string name="check_importance_dialog_cancel">İptal</string>
