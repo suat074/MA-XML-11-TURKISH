@@ -611,6 +611,7 @@
   <string name="wifi_ap_choose_vendor_both">İkisi de</string>
   <string name="wifi_ap_prefer_5G">5,0 GHz Bandı tercih edilir</string>
   <string name="wifi_calling_mode_cellular_preferred_summary">Mobil ağ kullanılamıyorsa kablosuz ağı kullan</string>
+  <string name="wifi_calling_mode_dialog_title">Çağrı seçenekleri</string>
   <string name="wifi_calling_mode_wifi_only_summary">Kablosuz ağ üzerinden çağrı. Kablosuz ağ bağlantısı kesilirse çağrı sonlandırılır.</string>
   <string name="wifi_calling_mode_wifi_preferred_summary">Kablosuz ağ bağlantısı kullanılamıyorsa mobil ağı kullanın</string>
   <string name="wifi_calling_off_explanation">Kablosuz çağrı açık olduğunda, telefonunuz tercihinize ve hangi sinyalin daha güçlü olduğuna bağlı olarak çağrıları kablosuz ağlar veya operatörünüzün ağı üzerinden yönlendirebilir. Bu özelliği açmadan önce, ücretleri ve diğer ayrıntıları öğrenmek için operatörünüze danışın.%1$s</string>
