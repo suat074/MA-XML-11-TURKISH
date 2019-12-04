@@ -126,6 +126,7 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="de_more_info">Daha fazla</string>
   <string name="de_more_resource">Daha fazlasını görüntülemek için kaydır</string>
   <string name="de_no_more_recommendations">Şimdilik bu kadar.</string>
+  <string name="de_preview">Önizleme</string>
   <string name="de_redeem">Kurtar</string>
   <string name="de_to_comment">Yorum</string>
   <string name="de_try">Dene</string>
@@ -249,10 +250,9 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="home_apply_failured">Ana ekran duvar kağıdı uygulanamıyor</string>
   <string name="home_apply_success">Ana ekran duvar kağıdı uygulandı</string>
   <string name="in_the_end">Daha fazla yok</string>
-  <string name="incall_show_apply">Giden aramalar için profil videosu</string>
+  <string name="incall_show_apply">Profil videosu olarak ayarla</string>
   <string name="incall_show_apply_fail">Ayarlanamadı</string>
-  <string name="incall_show_apply_success">"Başarıyla uygulandı. Bu özelliği kapatmak için, 
-Ayarlar &gt; Ses &amp; titreşim &gt; Profil videosu bölümüne gidin."</string>
+  <string name="incall_show_apply_success">Başarıyla uygulandı</string>
   <string name="incall_show_apply_success_without_ringtone">"Başarıyla uygulandı. Bu videoda ses yok. Orijinal zil sesi kullanılacak.
 Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu bölümüne gidin."</string>
   <string name="incall_show_find_more">Daha fazla bul</string>
@@ -824,6 +824,7 @@ Daha fazla seçenek için Temalar &gt; Profil &gt; Tema laboratuvarına gidin."<
   <string name="wallpaper_set_as_both">İkisi için de ayarla</string>
   <string name="wallpaper_set_as_desktop">Ana ekran için ayarla</string>
   <string name="wallpaper_set_as_float_wallpaper">Şeffaf duvar kağıdı olarak ayarla</string>
+  <string name="wallpaper_set_as_incall_show">Profil videosu olarak ayarla</string>
   <string name="wallpaper_set_as_lockscreen">Kilit ekranı için ayarla</string>
   <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
   <string name="wallpaper_settings_loading_text">Yükleniyor</string>

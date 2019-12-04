@@ -265,7 +265,7 @@
   <string name="launcher_auto_fill_empty_title">Boş hücreleri doldur</string>
   <string name="launcher_global_search_mode_title">Global arama</string>
   <string name="launcher_global_search_provider_title">Global arama sağlayıcısı</string>
-  <string name="launcher_minus_screen_title">Sol sayfa ekranı</string>
+  <string name="launcher_minus_screen_title">Varsayılan yardımcı</string>
   <string name="launcher_not_exist">Bir hata oluştu. Ana ekrana dönün ve tekrar deneyin.</string>
   <string name="launcher_pull_down_title">Ana ekranda aşağı kaydırın</string>
   <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırın</string>

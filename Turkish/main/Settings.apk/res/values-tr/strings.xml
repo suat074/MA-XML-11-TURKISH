@@ -1666,6 +1666,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="default_vol_stream_title">Ses kontrolü için varsayılan akış</string>
   <string name="delete">Sil</string>
   <string name="delete_fingerprint_confirm_msg">Parmak izi kaldırılsın mı?</string>
+  <string name="delete_fingerprint_confirm_title">Dikkat</string>
   <string name="delete_fingerprint_text">Parmak izini kaldır</string>
   <string name="delete_legacy_fingerprint">Sil</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Bu Parmak izi silinsin mi?</string>
@@ -2961,6 +2962,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="lockscreen_glogin_submit_button">Oturum Aç</string>
   <string name="lockscreen_label">Kilit ekranı</string>
   <string name="lockscreen_magazine">Duvar Kağıdı Döngüsü</string>
+  <string name="lockscreen_magazine_india">Mi\'ye bir bakış</string>
   <string name="lockscreen_magazine_summary">Günlük size sunulan çarpıcı görüntüler ve heyecan verici hikayeler</string>
   <string name="lockscreen_magazine_title">Duvar Kağıdı Döngüsü</string>
   <string name="lockscreen_remote_input">Cihaz kilitliyse, bildirimlerde cevap yazma veya diğer metinleri engelle</string>
