@@ -300,6 +300,7 @@
   <string name="face_beauty_smart">Akıllı</string>
   <string name="face_score_info">Puan: %.1f</string>
   <string name="fps960_toast">Ağır çekim yakalama, kaydın son çeyreğinde başlayacaktır</string>
+  <string name="fragment_tab_name_bokeh">Bokeh</string>
   <string name="front_camera_hint_text_place">Telefonunuzu döndürdüğünüz zaman \nözçekim yapmak daha kolay olacak</string>
   <string name="front_camera_hint_text_rotate">Telefonunuzu döndürün</string>
   <string name="groupshot_mode_use_hint">"Kamera birden çok fotoğraf çekecek
@@ -953,10 +954,19 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="video_camera_label">Video kamera</string>
   <string name="video_effect_entry_blackwhite">S&amp;B</string>
   <string name="video_effect_entry_bygone">Geçmiş</string>
+  <string name="video_effect_entry_central">Merkezi</string>
+  <string name="video_effect_entry_color_retention">Portre Renk Koruması</string>
+  <string name="video_effect_entry_fantasy">Fantezi</string>
   <string name="video_effect_entry_film">Film</string>
   <string name="video_effect_entry_forest">Ağaçlık</string>
   <string name="video_effect_entry_holiday">Yansımalar</string>
+  <string name="video_effect_entry_lost">Kayıp</string>
+  <string name="video_effect_entry_meet">Karşılama</string>
+  <string name="video_effect_entry_northern_europe">Kuzey Avrupa</string>
   <string name="video_effect_entry_polaroid">Polaroid</string>
+  <string name="video_effect_entry_rome">Roma</string>
+  <string name="video_effect_entry_summer_day">Yaz günü</string>
+  <string name="video_effect_entry_wind_sing">Rüzgar Uğultusu</string>
   <string name="video_reach_size_limit">Boyut sınırına ulaşıldı.</string>
   <string name="video_tag_flag_title">İşaretle</string>
   <string name="view_privacy_policy">Gizlilik Politikasını Görüntüle</string>

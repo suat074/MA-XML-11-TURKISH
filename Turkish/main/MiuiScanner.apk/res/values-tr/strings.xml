@@ -222,7 +222,14 @@
   <string name="shopping_title">Ürünün fotoğrafını çekin</string>
   <string name="shopping_vendor_info">Taobao tarafından desteklenmektedir</string>
   <string name="spaceIsLow_content">Dahili depolamada yeterli alan yok. Biraz yer açın.</string>
-  <string name="study_rotate_picture">Fotoğraf işleniyor</string>
+  <string name="store_feedback_prompt">Önce geri bildiriminizi girin</string>
+  <string name="store_location_dialog">Bu hizmet Dianping tarafından sağlanır. Bu hizmeti kullanırken çektiğiniz tüm fotoğraflar, ilgili konum bilgileri dahil, mağazalar hakkında bilgi almak için Dianping ile paylaşılacaktır.</string>
+  <string name="store_location_fail">Konum bilgisi alınamadı</string>
+  <string name="store_location_prompt">Tarayıcının mağazaları tanımlayabilmesi için konumunuza erişmesine izin verin</string>
+  <string name="store_module_title">Mağaza</string>
+  <string name="store_no_date">Mağaza tanımlanamadı</string>
+  <string name="store_title">Mağaza işaretini tara</string>
+  <string name="study_rotate_picture">Fotoğraf işleniyor…</string>
   <string name="study_scan_result">Sonuç</string>
   <string name="study_searching">Sonuçlar aranıyor…</string>
   <string name="study_title">Çözmek istediğiniz sorunu tarayın</string>
