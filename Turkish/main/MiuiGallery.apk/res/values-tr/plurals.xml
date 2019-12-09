@@ -180,6 +180,10 @@
         <item quantity="other">%d gün</item>
         <item quantity="one">%d gün</item>
     </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="one">%d saat</item>
+        <item quantity="other">%d saat</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">Seçilen fotoğraflar cihazda değil. Mobil veri kullanarak bunlar indirilsin mi?</item>
         <item quantity="one">Seçilen fotoğraf cihazda değil. Mobil veri kullanarak bunlar indirilsin mi?</item>

@@ -179,6 +179,10 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Kapatmak için aşağı doğru kaydırın</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Bu son sekme</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Kapatmak için yukarı kaydırın</string>
+  <string name="browser_default_setting_cancel">İptal</string>
+  <string name="browser_default_setting_confirm">Tamam</string>
+  <string name="browser_default_setting_content">Hızlı ve güvenli web tarayıcı</string>
+  <string name="browser_default_setting_title">Varsayılan tarayıcı olarak ayarla</string>
   <string name="browserFrameFileErrorLabel">Dosya hatası</string>
   <string name="browserFrameFormResubmitMessage">Görüntülemeye çalıştığınız sayfa zaten gönderilmiş veriler içeriyor. Verileri tekrar gönderirseniz, önceki işlemler (örn. aramalar veya satın almalar) tekrarlanacak.</string>
   <string name="browserFrameNetworkErrorLabel">Bağlantı hatası</string>
@@ -456,7 +460,7 @@
   <string name="is_page_top">Sayfanın en üstündesiniz</string>
   <string name="js_disable_confirm_title">JavaScript devredışı bırakılsın mı?</string>
   <string name="keep_queued_download">Koru</string>
-  <string name="load_error_tip">Yükleme hatası, tekrar deneye tıklayın</string>
+  <string name="load_error_tip">Öğeler yüklenemedi. Tekrar denemek için dokunun.</string>
   <string name="load_more_footer_status_msg_error_load">Yüklenemedi. Tekrar deneyin.</string>
   <string name="load_more_footer_status_msg_error_no_network">Ağa bağlanılamadı.</string>
   <string name="load_more_footer_status_msg_full">Şimdilik bu kadar.</string>
@@ -700,7 +704,7 @@
   <string name="navigationbar_rightbutton_actiontext_cancle">İptal</string>
   <string name="navigationbar_rightbutton_actiontext_go">Git</string>
   <string name="navigationbar_rightbutton_actiontext_search">Ara</string>
-  <string name="network_error_tips">Ağ hatası, tekrar dene</string>
+  <string name="network_error_tips">Bir ağ hatası oluştu. Tekrar deneyin.</string>
   <string name="network_not_available_comment">İnternet bağlantısı yok, yorum yapılamıyor</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Bu ağa bağlan</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi ağı kullanılabilir</string>
@@ -716,6 +720,7 @@
   <string name="not_now">Şimdi değil</string>
   <string name="not_remind_again">Seçimimi hatırla</string>
   <string name="notif_install_successful">İndirme tamamlandı</string>
+  <string name="notification_channel_name_local_push">Tarayıcı bildirimleri</string>
   <string name="novel_toast_hint">Bu web sitesi kitaplığa eklendi</string>
   <string name="ok">Tamam</string>
   <string name="open_app_confirm_message">Bu sayfanın %s açmasına izin verilsin mi?</string>
@@ -896,7 +901,7 @@
   <string name="readmodelist_bookmarks_to_show">Okunacaklar listesi</string>
   <string name="recommending_close_toast_text">Gelişmiş ayarlardan bu işlevi kapat</string>
   <string name="refresh_description">Yenile</string>
-  <string name="refresh_text">Yenile</string>
+  <string name="refresh_text">Tekrar deneyin</string>
   <string name="refuse_permissions_request">Reddet</string>
   <string name="remember_passwords_confirm_message">Bu özelliği kapatmak, kullanımı etkileyebilir.</string>
   <string name="remove_bookmark">Yer işaretini sil</string>

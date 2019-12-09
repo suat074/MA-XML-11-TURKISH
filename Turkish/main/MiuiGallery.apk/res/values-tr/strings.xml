@@ -252,6 +252,7 @@
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Kamera albümü eşitlenmelidir</string>
   <string name="can_authorize_owner_albums_share_to_tv">Albümlerin TV\'nizde görüntülenmesi için yetki verin</string>
+  <string name="can_not_transfer_when_screening">Aktarma esnasında yansıtma yapılamaz</string>
   <string name="cancel">İptal</string>
   <string name="cancel_authorize_to_device_failed">Yetkilendirme iptal edilemedi</string>
   <string name="cancel_authorize_watch_on_tv_failed">TV\'de görüntüleme yetkisi iptal edilemedi</string>
@@ -493,6 +494,7 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">İndirilen resimlerin kalitesini seçebilir veya Ayarlar\'dan otomatik indirmeleri kapatabilirsiniz.</string>
   <string name="downloading_title">Xiaomi Bulut\'tan fotoğraflar indiriliyor</string>
+  <string name="dump_db_info">Veri tabanı bilgisi dökümü</string>
   <string name="early_morning">ÖÖ</string>
   <string name="edit_baby_info">Bebek bilgilerini görüntüle</string>
   <string name="editor_cancel">İptal</string>
@@ -692,6 +694,7 @@ mevcut"</string>
   <string name="filter_people_sepia">Sepya</string>
   <string name="filter_people_story">Hikaye</string>
   <string name="filter_people_tea">Çay</string>
+  <string name="filter_portrait_hint">Renk vurgusu</string>
   <string name="filter_scene_city">Şehir</string>
   <string name="filter_scene_df">Sis</string>
   <string name="filter_scene_koizora">Aşk</string>
@@ -1176,6 +1179,11 @@ mevcut"</string>
   <string name="photo_movie_select_image_range">Klipler 3-20 arası fotoğraf içerebilir</string>
   <string name="photo_page_save_uri_image_fail">Fotoğraf Galeri\'ye kaydedilemedi</string>
   <string name="photo_page_save_uri_image_ok">Fotoğraf Galeri\'ye kaydedildi</string>
+  <string name="photo_portrait_color_download_fail">Eklenti indirilemedi. Ağa bağlanın ve tekrar deneyin.</string>
+  <string name="photo_portrait_color_download_success">Filtreler başarıyla indirildi</string>
+  <string name="photo_portrait_color_no_face">Renk vurgusu yalnızca fotoğraflarda ve kişilerde çalışır</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">Cihazınız artık Wi-Fi\'ya bağlı değil gibi görünüyor. Mobil veri kullanarak filtreleri (%1$dMB) indirebilirsiniz.</string>
+  <string name="photo_portrait_download_sdk_without_wifi_title">Filtreleri indir</string>
   <string name="photo_print_menu_loading">Eklenti yükleniyor…</string>
   <string name="photo_print_package_finish">Başarıyla yüklendi</string>
   <string name="photo_print_package_installing">Eklenti yükleniyor…</string>
@@ -1429,6 +1437,8 @@ mevcut"</string>
   <string name="select_origin_tip">Orjinal Dosya (%s)</string>
   <string name="send_file_beautify_failed">Paylaşılamadı</string>
   <string name="send_files_to">Öğeleri gönder</string>
+  <string name="send_heif_summary">Uyumluluk için göndermeden önce görüntüleri dönüştürün</string>
+  <string name="send_heif_title">Göndermeden önce HEIF\'i JPG\'e dönüştür</string>
   <string name="send_multiple_files_hint_format">Gönder (%s)</string>
   <string name="send_public_url">Albüm URL\'sini gönder</string>
   <string name="send_secret_file_failed">Paylaşılamadı</string>
@@ -1692,6 +1702,10 @@ mevcut"</string>
   <string name="unsupport_raw">%s RAW resimlerle çalışmıyor</string>
   <string name="unsupport_raw_and_video">%s videolar ve RAW resimlerle çalışmıyor</string>
   <string name="unsupport_video">%s videolarla çalışmıyor</string>
+  <string name="unsupported_media_downloading_tip_common">Orijinal görüntüleri bu formatta görüntüleme Android\'in bu sürümünde desteklenmemektedir. Yine de indirilsin mi?</string>
+  <string name="unsupported_media_downloading_tip_format">Orijinal %s görüntüleri görüntüleme Android\'in bu sürümünde desteklenmiyor. Yine de indirilsin mi?</string>
+  <string name="unsupported_media_scanned_tip">%1$s görüntü tespit edildi. %2$s görüntüleri görüntüleme Android\'in bu sürümünde desteklenmiyor.</string>
+  <string name="unsupported_media_view_tip">Orijinal %s görüntüleri görüntüleme Android\'in bu sürümünde desteklenmiyor</string>
   <string name="user_agree">Kabul</string>
   <string name="user_agreement2">" Kullanım Şartları"</string>
   <string name="user_agreement4">Gizlilik Politikası</string>

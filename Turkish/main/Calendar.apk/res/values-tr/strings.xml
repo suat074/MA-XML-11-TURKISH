@@ -532,9 +532,9 @@
   <string name="select_date">Tarihe atla</string>
   <string name="select_today_tip">Bugün</string>
   <string name="setting">Ayarlar</string>
-  <string name="setting_about_calendar_version">Takvim sürümü:</string>
-  <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">MIUI sürümü:</string>
+  <string name="setting_about_calendar_version">Takvim sürümü:%1$s-%2$s</string>
+  <string name="setting_about_imei">IMEI:%1$s</string>
+  <string name="setting_about_miui_version">MIUI sürümü:%1$s-%2$s</string>
   <string name="setting_about_summary">Sürüm:</string>
   <string name="setting_accounts">Takvim hesapları</string>
   <string name="setting_chinese_calendar">Çin takvimi</string>
@@ -569,6 +569,7 @@
   <string name="show_day_view">Günü göster</string>
   <string name="sms_import_description">Zaman ile ilgili SMS etkinliklerini daha iyi yönetin</string>
   <string name="solar_lunar_convert_description">Geleneksel Çince-Gregoryen</string>
+  <string name="solar_lunar_convert_description_2">Geleneksel Çince ve Gregoryen takvimleri arasında geçiş yap</string>
   <string name="solar_lunar_convert_tab">Dönüştür</string>
   <string name="solar_to_lunar_chinese_calendar">Gregoryen-Çince</string>
   <string name="start_date_calculate">Hesapla</string>
