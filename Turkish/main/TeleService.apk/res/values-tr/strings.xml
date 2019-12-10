@@ -1340,7 +1340,7 @@
   <string name="prompt_to_suggest_no_call_service_notification_content">Çağrı yapılamıyor ve alınamıyor. SIM\'iniz (Çin Telekom) için VoLTE hizmeti şimdi kapalı.</string>
   <string name="prompt_to_suggest_no_call_service_notification_content2">Çağrı yapılamıyor ve alınamıyor. SIM %d (Çin Telekom) için VoLTE hizmeti şimdi kapalı.</string>
   <string name="prompt_to_suggest_no_call_service_notification_title">Çağrı yapılamıyor ve alınamıyor</string>
-  <string name="prompt_to_suggest_to_open_volte_from_operator2">SIM%d çağrı yapamaz. VoLTE hizmetini etkinleştirmek için Çin Telekom'a başvurun.</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator2">SIM%d çağrı yapamaz. VoLTE hizmetini etkinleştirmek için China Telecom ile iletişime geçin.</string>
   <string name="prompt_to_suggest_to_open_volte_from_operator">Çağrı yapılamıyor. VoLTE servisini açmak için China Telecom ile iletişime geçin.</string>
   <string name="prompt_to_turnoff_volte_when_failed">VoLTE servisleri mevcut değil. Çağrı yapmak için VoLTE\'yi kapatın.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Servis mevcut değil. Ayarlardan VoLTE\'yi kapatın.</string>
