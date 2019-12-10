@@ -430,6 +430,10 @@
   <string name="granularity_label_line">satır</string>
   <string name="granularity_label_link">bağlantı</string>
   <string name="granularity_label_word">kelime</string>
+  <string name="handset_text_unsupported_handset_insert">Ayrıntıları görüntülemek için dokunun</string>
+  <string name="handset_text_usb_handset_insert">Ek ayarları açmak için dokunun</string>
+  <string name="handset_title_unsupported_handset_insert">Adaptör aracılığıyla ses çalınamıyor</string>
+  <string name="handset_title_usb_handset_insert">USB üzerinden ses çalma</string>
   <string name="hardware">Sanal klavyeyi göster</string>
   <string name="harmful_app_warning_open_anyway">HER ZAMAN AÇIK</string>
   <string name="harmful_app_warning_title">Zararlı uygulama algılandı</string>

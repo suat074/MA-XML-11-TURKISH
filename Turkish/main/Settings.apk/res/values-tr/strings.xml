@@ -1795,6 +1795,8 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="disallow_lock_screen_summary">Önce \"Uygulama bildirimleri\" içinden bildirimlere izin verin</string>
   <string name="disconnect">Bağlantıyı kes</string>
   <string name="disconnected">Bağlantı kesildi</string>
+  <string name="display_advanced_mode_summary">Renk gamı seçenekleri</string>
+  <string name="display_advanced_mode_title">Gelişmiş ayarlar</string>
   <string name="display_auto_rotate_rotate">Açık</string>
   <string name="display_auto_rotate_stay_in_current">Kapalı</string>
   <string name="display_auto_rotate_stay_in_landscape">Yataya kilitle</string>
@@ -2429,6 +2431,9 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="handy_mode_tips_full_screen">Tam ekran hareketlerini kullanırken, Hızlı topu kullanarak tek el modunu açabilirsiniz. Ayrıca, tam ekran hareketleri yerine düğmeleri kullanarak da geçiş yapabilirsiniz.</string>
   <string name="haptic_feedback_enable_title">Dokununca titret</string>
   <string name="haptic_feedback_level">Titreşim</string>
+  <string name="haptic_feedback_progress">Dokunsal geri bildirim düzeyi</string>
+  <string name="haptic_feedback_summary">Hareketlere ve sistem kontrollerine dokunsal yanıt alın</string>
+  <string name="haptic_feedback_title">Dokunsal geri bildirim</string>
   <string name="hardkeyboard_category">Fiziksel klavye ayarları</string>
   <string name="hardware_info">Model ve donanım</string>
   <string name="hardware_revision">Donanım sürümü</string>
@@ -2495,6 +2500,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="ignore_optimizations_on_desc">Pilinizi daha hızlı boşaltabilir</string>
   <string name="ignore_optimizations_title">%s için pil optimizasyonu yoksayılsın mı?</string>
   <string name="ime_security_warning">%1$s şifreler, kredi kartı numaraları ve diğer kişisel veriler de dahil olmak üzere girdiğiniz her şeyi kaydedebilir.</string>
+  <string name="ime_security_warning_global">Giriş yöntemleri, parola ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. %1$s kullanılsın mı?</string>
+  <string name="ime_security_warning_title_global">Klavyeyi açma</string>
   <string name="imei_information_summary">IMEI İle İlgili Bilgi</string>
   <string name="imei_information_title">IMEI Bilgisi</string>
   <string name="immediately_destroy_activities">Faaliyetleri saklama</string>
@@ -3682,6 +3689,7 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="open_demo_mode">Aç</string>
   <string name="open_demo_mode_warning_message">Demo modu açıkken durum çubuğundaki saat durur, pil ve sinyal simgeleri dolu olarak görüntülenir. Bunu değiştirmek için Demo modunu kapatabilir veya cihazı yeniden başlatabilirsiniz.</string>
   <string name="open_game_accelerate">Oyun Turbo\'yu aç</string>
+  <string name="open_haptic_feedback">Dokunsal geri bildirim</string>
   <string name="open_miui_optimization_title">MIUI optimizasyonunu aç</string>
   <string name="open_optimization_message">Daha yumuşak, daha hızlı bir kullanıcı arayüzünün keyfini çıkarmak için optimizasyonu açın.</string>
   <string name="open_optimization_option">Aç</string>

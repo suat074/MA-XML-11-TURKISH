@@ -68,7 +68,7 @@
   <string name="done">Tamam</string>
   <string name="external_sources_settings">Ayarlar</string>
   <string name="external_sources_settings_negative">Kısıtla</string>
-  <string name="external_sources_settings_positive">İzin ver</string>
+  <string name="external_sources_settings_positive">Bir kez izin ver</string>
   <string name="game_center_install">Mi Oyunlar üzerinden yükleyin</string>
   <string name="game_center_install_tips">Daha fazla özellik için Mi Oyunlar\'ı indirip yükleyin</string>
   <string name="game_center_intercept_trust_app">Bu uygulama güveniyorum ve olası riskler ile başa çıkabilirim.</string>
@@ -261,7 +261,7 @@
   <string name="review_button_cancel">İptal</string>
   <string name="review_button_continue">Devam</string>
   <string name="risk_warning_title">Risk tespit edildi</string>
-  <string name="risk_warning_msg">Bu kurulum paketindeki imza orijinal görünmüyor. Olası riskleri önlemek için, bu uygulamayı GetApps\'dan yükleyin.</string>
+  <string name="risk_warning_msg">Bu kurulum paketindeki imza orijinal görünmüyor. Olası riskleri önlemek için, bu uygulamayı güvenilir bir kaynaktan yükleyin.</string>
   <string name="risk_warning_top_button">Yükleme</string>
   <string name="risk_warning_bottom_button">GetApps\'dan yükleyin</string>
   <string name="safe_guard_support">Teknik destek %1$s tarafından sağlanıyor</string>

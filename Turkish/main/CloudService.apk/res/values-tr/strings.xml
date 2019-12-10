@@ -518,6 +518,7 @@ Cihazı Bul\'u kullanmadan önce Kullanıcı Sözleşmemizi ve Gizlilik Politika
   <string name="wipe_data_dialog_msg_and_on">, ve diğer öğeler</string>
   <string name="wipe_data_dialog_msg_separator">", "</string>
   <string name="wipe_data_dialog_title">Bazı öğeler eşitlenemedi</string>
+  <string name="wipe_data_query_progress_title">Denetleniyor…</string>
   <string name="wipe_secret_photo_dialog_title">Gizli fotoğraflar eşitlenemiyor</string>
   <string name="xiaomi_cloud_service">Bulut</string>
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>

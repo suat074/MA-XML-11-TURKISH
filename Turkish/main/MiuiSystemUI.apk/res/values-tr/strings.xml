@@ -801,6 +801,8 @@
   <string name="how_to_use_drawer_summary">Ekranın üst kısmında sağa doğru kaydırın</string>
   <string name="how_to_use_fsg">Hareketleri kullanarak bu işlemleri gerçekleştirebilirsiniz:</string>
   <string name="ime_security_warning">Bu giriş yöntemi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Bu yöntem, %1$s uygulamasının bir özelliğidir. Bu giriş yöntemini kullanmak istiyor musunuz?</string>
+  <string name="ime_security_warning_global">Giriş yöntemleri, parola ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. %1$s kullanılsın mı?</string>
+  <string name="ime_security_warning_title_global">Klavyeyi açma</string>
   <string name="immediately_destroy_activities">Etkinlikleri saklama</string>
   <string name="immediately_destroy_activities_summary">Kullanıcının ayrıldığı her etkinliği hemen yok et</string>
   <string name="important_desc">Önemli bildirimlerin tamamı doğrudan bildirim çubuğunda görüntülenir.</string>
