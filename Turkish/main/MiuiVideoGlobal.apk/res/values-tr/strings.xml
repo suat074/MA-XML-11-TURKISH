@@ -171,8 +171,29 @@
   <string name="com_mixpanel_android_done">Tamamlandı</string>
   <string name="com_mixpanel_android_notification_image">Resim gösterilmiyor</string>
   <string name="com_permission_desc">Mi Video cihazınızdaki videolara erişemiyor. Ayarlar menüsünde erişime izin verin.</string>
-  <string name="com_permission_title">İzin gerekli</string>
-  <string name="common_cancel">İptal et</string>
+  <string name="com_permission_title">Gerekli izinler</string>
+  <string name="comment_model_add_comment">Yorum ekle</string>
+  <string name="comment_model_bg_add_comment">Düşüncelerinizi topluluğumuzla paylaşın</string>
+  <string name="comment_model_bg_deleted_comment">Bu yorum silindi</string>
+  <string name="comment_model_comment">Yorumlar</string>
+  <string name="comment_model_confirm_delete">Yorum şimdi silinsin mi?</string>
+  <string name="comment_model_copy">Kopyala</string>
+  <string name="comment_model_copy_fail">Kopyalanamadı</string>
+  <string name="comment_model_copy_success">Başarıyla kopyalandı</string>
+  <string name="comment_model_delete">Sil</string>
+  <string name="comment_model_delete_fail">Silinemedi</string>
+  <string name="comment_model_delete_success">Başarıyla silindi</string>
+  <string name="comment_model_reply">Cevaplar</string>
+  <string name="comment_model_reply_comment">"%s yanıtla: "</string>
+  <string name="comment_model_report">Rapor</string>
+  <string name="comment_model_report_fail">Rapor edilemedi</string>
+  <string name="comment_model_report_success">Başarıyla bildirildi</string>
+  <string name="comment_model_send_fail">Gönderilemedi</string>
+  <string name="comment_model_send_fail_frequently">O kadar hızlı değil! Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="comment_model_send_forbid_desc">Topluluk standartlarımızı ihlal eden öğeleri içeren birden çok yorum yayınladınız. Hesabınız kalıcı olarak askıya alındı. Uygulamadaki geri bildirimi kullanarak kararımıza itiraz edebilirsiniz.</string>
+  <string name="comment_model_send_forbid_tips">Hesap askıya alındı</string>
+  <string name="comment_model_send_success">Başarıyla gönderildi</string>
+  <string name="common_cancel">İptal</string>
   <string name="common_google_play_services_enable_button">Etkinleştir</string>
   <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
   <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
@@ -203,7 +224,7 @@
   <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi.
 Kimlik:%s
 Bu kodu yöneticiye gönderin."</string>
-  <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. \"Kabul et\" seçeneğine dokunduğunuzda, &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> okuyup kabul etmiş sayılırsınız.</string>
+  <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için, kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. \"Kabul et\" seçeneğine dokunduğunuzda, &lt;a href=\"%2$s\">Gizlilik Politikasını&lt;/a> okuyup kabul etmiş sayılırsınız.</string>
   <string name="dialog_privacy_title">Yetkilendirme</string>
   <string name="dialog_revoke_privacy_info_new2">Yetkilendirmeyi kaldırdıktan sonra, uygulama veri toplamayı durdurur ve tüm ilgili veriler sunucularımızdan silinir. Bu işlem, uygulamayı kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı?</string>
   <string name="dialog_revoke_privacy_title">Yetki geri alınıyor</string>
@@ -272,6 +293,7 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="favorite_cancel_success">Favorilerden başarıyla kaldırıldı</string>
   <string name="favorite_fail">Favorilere eklenemedi. Tekrar deneyin.</string>
   <string name="favorite_success">Favorilere başarıyla eklendi</string>
+  <string name="fcm_fallback_notification_channel_label">Çeşitli</string>
   <string name="feedback">Geri bildirim</string>
   <string name="feedback_activity_title">Geri bildirim</string>
   <string name="feedback_contact_empty">İletişim bilgilerinizi girin</string>
@@ -458,7 +480,7 @@ seçin"</string>
   <string name="lv_subtitle_onlinesub_loading">Altyazı yükleniyor…</string>
   <string name="lv_subtitle_onlinesub_loading_wait">Altyazı yükleniyor…</string>
   <string name="lv_subtitle_onlinesub_right_declare">Yasal uyarı</string>
-  <string name="lv_subtitle_onlinesub_right_declare_content">Altyazıları &lt;br/>&lt;br/> &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> adresinden alın. &lt;br/>&lt;br/>Tüm çevrimiçi altyazılar &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> adresinden alınmıştır.</string>
+  <string name="lv_subtitle_onlinesub_right_declare_content">Altyazıları &lt;br/>&lt;br/> &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a> adresinden alın. &lt;br/>&lt;br/>Tüm çevrimiçi altyazılar &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a> adresinden alınmıştır.</string>
   <string name="lv_subtitle_onlinesub_save_failed">Altyazı eklenemedi</string>
   <string name="lv_subtitle_onlinesub_save_success">Altyazı başarıyla eklendi</string>
   <string name="lv_subtitle_onlinesub_search_keyword">Arama yapmak için anahtar kelime girin</string>
@@ -529,6 +551,12 @@ seçin"</string>
   <string name="no_recommend_data">Şu anda tavsiye edilen video yok</string>
   <string name="no_subscriptions">Burada öge yok</string>
   <string name="not_show">Tekrar gösterme</string>
+  <string name="notice_comment_action">%s, gönderinize yorum yaptı</string>
+  <string name="notice_comment_action_deleted">Bu yorum silindi</string>
+  <string name="notice_feedback_content">Geri bildiriminiz hakkında bir güncelleme var. Görüntülemek için dokunun.</string>
+  <string name="notice_like_action">%s yorumunuzu beğendi</string>
+  <string name="notice_message_title">Bildirimler</string>
+  <string name="notice_title">Mesajlar</string>
   <string name="notify_apk_installed">Başarıyla indirildi</string>
   <string name="ok">Tamam</string>
   <string name="order_recently_subscribe">Son abonelikler</string>
@@ -538,6 +566,7 @@ seçin"</string>
   <string name="ovp_category">Kategoriler</string>
   <string name="ovp_confirm_delete_favor">Seçili ögeler favorilerden kaldırılsın mı?</string>
   <string name="ovp_default_plugin_name">HD eklentisi</string>
+  <string name="ovp_detail_back_to_watch_more">Ana sayfada daha fazla öğe keşfedin</string>
   <string name="ovp_detail_collapse_summary">Gizle</string>
   <string name="ovp_detail_collect">Favorilere ekle</string>
   <string name="ovp_detail_comment">Yorum</string>
@@ -580,12 +609,14 @@ seçin"</string>
   <string name="ovp_loading_video_netplay_label_v5">Yalnızca bir sn…</string>
   <string name="ovp_local_videos_title">Yerel videolar</string>
   <string name="ovp_navigation_category">Kategori</string>
+  <string name="ovp_navigation_content">İçerik işbirliği</string>
   <string name="ovp_navigation_favorites">Favoriler</string>
   <string name="ovp_navigation_feedback">Geri bildirim</string>
   <string name="ovp_navigation_history">Geçmiş</string>
   <string name="ovp_navigation_home">Ana sayfa</string>
   <string name="ovp_navigation_language">Dil</string>
   <string name="ovp_navigation_localvideo">Yerel</string>
+  <string name="ovp_navigation_notice">Bildirimler</string>
   <string name="ovp_navigation_setting">Ayarlar</string>
   <string name="ovp_navigation_subscribe">Abonelik</string>
   <string name="ovp_player_plugin_dlg_neg_btn">Kapat</string>
@@ -693,8 +724,8 @@ seçin"</string>
   <string name="passport_unknow_error">Tanımlanamayan bir hata oluştu</string>
   <string name="passport_unknow_host_network_error">Ağ ayarlarınızı kontrol edin ve yeniden deneyin</string>
   <string name="passport_unknow_network_error">Ağ bağlantısı yok</string>
-  <string name="passport_user_agreement_link"><Data>Xiaomi &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikasını&lt;/a> okudum ve kabul ettim.</Data></string>
-  <string name="passport_user_agreement_link_more">"<Data>Şu anlaşmaları okudum ve kabul ettim: Xiaomi'nin &lt;/a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%4$s>Gizlilik Politikası&lt;/a>,&lt;a href=%2$s&gt;%3$s&lt;/a>.</Data>"</string>
+  <string name="passport_user_agreement_link"><Data>Xiaomi &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikasını&lt;/a> okudum ve kabul ettim.</Data></string>
+  <string name="passport_user_agreement_link_more">"<Data>Şu anlaşmaları okudum ve kabul ettim: Xiaomi'nin &lt;/a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"%4$s\">Gizlilik Politikası&lt;/a>,&lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.</Data>"</string>
   <string name="passport_user_id_intro">%1$s için şifre girin</string>
   <string name="passport_v_code_error">Doğrulama kodu yanlış</string>
   <string name="passport_vcode_notification_title">Oturum açma onayınız tamamlanmadı</string>
@@ -731,6 +762,7 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="playlist_title">Çalma listesi</string>
   <string name="plus_add_shortcut">Ana ekran kısayolu oluştur</string>
   <string name="plus_change_poster">Albüm kapağını değiştir</string>
+  <string name="plus_continue_watching">İzlemeye devam et</string>
   <string name="plus_deleting_wait">Siliniyor</string>
   <string name="plus_fallback">Geri bildirim</string>
   <string name="plus_gallery_allvideos">Tüm videolar</string>
@@ -749,6 +781,12 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="plus_gallery_video_title_mediatype">Video kategorileri</string>
   <string name="plus_gallery_video_title_othergallery">Diğer videolar</string>
   <string name="plus_loading_text">Ögeler yükleniyor…</string>
+  <string name="plus_menu_delete">Sil</string>
+  <string name="plus_menu_delete_popup_text">Şimdi silinsin mi?</string>
+  <string name="plus_menu_properties">Özellikler</string>
+  <string name="plus_menu_rename">Yeniden adlandır</string>
+  <string name="plus_menu_rename_fail">Dosya adı \"/\" içeremez</string>
+  <string name="plus_menu_share">Paylaş</string>
   <string name="plus_mine_gallery">Albümlerim</string>
   <string name="plus_mine_videos">Videolarım</string>
   <string name="plus_player_8k_video_not_support">Bu videoda 8K video oynatılamıyor</string>
@@ -787,7 +825,7 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="plus_player_subtitle_local_add_success">Altyazı başarıyla eklendi</string>
   <string name="plus_player_subtitle_no_file">Burada altyazı yok.</string>
   <string name="plus_player_subtitle_online">Çevrimiçi altyazı</string>
-  <string name="plus_player_subtitle_online_declare_content">&lt;br/>Altyazıları &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> veri tabanında aramak üzeresiniz. &lt;br/>Tüm altyazılar &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a> tarafından sağlanmıştır.</string>
+  <string name="plus_player_subtitle_online_declare_content">&lt;br/>Altyazıları &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a> veri tabanında aramak üzeresiniz. &lt;br/>Tüm altyazılar &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a> tarafından sağlanmıştır.</string>
   <string name="plus_player_subtitle_online_declare_title">Yasal uyarı</string>
   <string name="plus_player_subtitle_online_download_fail">Altyazı indirilemedi</string>
   <string name="plus_player_subtitle_online_download_start">Altyazı indiriliyor…</string>
@@ -799,6 +837,31 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="plus_player_unhide">Gizliliği kaldır</string>
   <string name="plus_player_video_not_support">Bu video biçimi desteklenmiyor.</string>
   <string name="plus_poster_reset_default">Varsayılan kapağı geri yükle</string>
+  <string name="plus_properties_bit_rate">Bit hızı</string>
+  <string name="plus_properties_codec">Kodlayıcı</string>
+  <string name="plus_properties_date">Tarih</string>
+  <string name="plus_properties_file">Dosya</string>
+  <string name="plus_properties_file_name">Dosya adı</string>
+  <string name="plus_properties_finished">Tamamlandı</string>
+  <string name="plus_properties_format">Biçim</string>
+  <string name="plus_properties_frame_rate">Kare hızı</string>
+  <string name="plus_properties_last_playback_position">Son pozisyon</string>
+  <string name="plus_properties_last_playback_time">Son oynatılan</string>
+  <string name="plus_properties_length">Süre</string>
+  <string name="plus_properties_media">Medya</string>
+  <string name="plus_properties_path">Konum</string>
+  <string name="plus_properties_playback_history">Oynatma geçmişi</string>
+  <string name="plus_properties_resolution">Çözünürlük</string>
+  <string name="plus_properties_sample_rate">Örnekleme oranı</string>
+  <string name="plus_properties_size">Boyut</string>
+  <string name="plus_properties_status">Durum</string>
+  <string name="plus_properties_stream">Akış</string>
+  <string name="plus_properties_stream_title">Başlık</string>
+  <string name="plus_properties_type">Tür</string>
+  <string name="plus_properties_type_audio">Ses</string>
+  <string name="plus_properties_type_subtitle">Altyazılar</string>
+  <string name="plus_properties_type_video">Video</string>
+  <string name="plus_properties_unfinish">Tamamlanmadı</string>
   <string name="plus_search_barhint">Yerel video ara</string>
   <string name="plus_search_guide">Video ara</string>
   <string name="plus_search_result_empty">Sonuç bulunamamadı</string>
@@ -838,6 +901,11 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="reload_sub_title">Tekrar denemek için dokunun.</string>
   <string name="reload_title">Ağa bağlanamadı.</string>
   <string name="report">Bildir</string>
+  <string name="report_content_fakement">Spam veya dolandırıcılık</string>
+  <string name="report_content_illegal">Yasadışı ifadeler</string>
+  <string name="report_content_other">Diğer</string>
+  <string name="report_content_sexy">Müstehcen içerik</string>
+  <string name="report_content_violence">Nefret konuşması</string>
   <string name="report_fail">Bildirilemedi. Tekrar deneyin.</string>
   <string name="report_success">Başarıyla bildirildi</string>
   <string name="resend_active_email">Tekrar gönder</string>

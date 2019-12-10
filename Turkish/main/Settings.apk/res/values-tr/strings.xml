@@ -4834,6 +4834,8 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="select_logd_size_title">Kaydedici tampon boyutları</string>
   <string name="select_logpersist_dialog_title">Cihazda kalıcı olarak depolanacak günlük arabelleklerini seçin</string>
   <string name="select_logpersist_title">Günlük kaydedici verilerini bu cihazda kalıcı olarak depola</string>
+  <string name="select_private_dns_configuration_dialog_title">Özel DNS Modunu seçin</string>
+  <string name="select_private_dns_configuration_title">Özel DNS</string>
   <string name="select_sim_card">SIM Kartı seç</string>
   <string name="select_sim_for_calls">"Çağrı: "</string>
   <string name="select_sim_for_data">Veri için bir SIM seç</string>

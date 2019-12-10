@@ -47,6 +47,11 @@
   <string name="back_view_description">Geri dön</string>
   <string name="batch_delete">Toplu sil</string>
   <string name="blacklist">Engelle</string>
+  <string name="bind_simcard_default">Çağrılar için varsayılan SIM</string>
+  <string name="bind_simcard_menu">Çağrılar için varsayılan SIM\'i ayarla</string>
+  <string name="bind_simcard_no_dual">Çift SIM bulunamadı</string>
+  <string name="bind_simcard_not_set">Ayarlanmadı</string>
+  <string name="bind_simcard_title">Çağrılar için varsayılan SIM</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
   <string name="blurbJoinContactDataWith">%s ile birleştirmek istediğiniz kişiyi seçin:</string>
   <string name="btn_rotation">Döndür</string>
