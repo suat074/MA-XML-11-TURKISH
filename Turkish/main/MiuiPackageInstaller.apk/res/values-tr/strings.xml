@@ -263,10 +263,10 @@
   <string name="risk_warning_title">Risk tespit edildi</string>
   <string name="risk_warning_msg">Bu kurulum paketindeki imza orijinal görünmüyor. Olası riskleri önlemek için, bu uygulamayı güvenilir bir kaynaktan yükleyin.</string>
   <string name="risk_warning_top_button">Yükleme</string>
-  <string name="risk_warning_bottom_button">GetApps\'dan yükleyin</string>
+  <string name="risk_warning_bottom_button">Güvenilir kaynaktan yükleyin</string>
   <string name="safe_guard_support">Teknik destek %1$s tarafından sağlanıyor</string>
   <string name="safe_relative">Güvenlik</string>
-  <string name="screen_overlay_button">Ayarları Aç</string>
+  <string name="screen_overlay_button">Ayarları aç</string>
   <string name="screen_overlay_message">Bu izin ayarını değiştirmek için, önce Ayarlar altındaki Uygulamalardan; Ekran Bindirmesi özelliğini kapatmak zorundasınız</string>
   <string name="screen_overlay_title">Ekran Bindirmesi tespit edildi</string>
   <string name="security_settings_desc">Bu uygulamayı izin ver:</string>

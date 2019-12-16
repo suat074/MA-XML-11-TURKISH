@@ -141,7 +141,7 @@
   <string name="note_link_web">Tarayıcıda görüntüle</string>
   <string name="note_sort_way">Notlarınızı nasıl sıralamak istediğinizi seçin</string>
   <string name="notealert_enter">Notu aç</string>
-  <string name="notealert_ok">Reddet</string>
+  <string name="notealert_ok">Kapat</string>
   <string name="notify_alarm_title">Not hatırlatma</string>
   <string name="permdesc_accessNote">Kötü amaçlı uygulamalar kişisel verilerinize erişmek için bunu kullanabilir.</string>
   <string name="permission_get_account_desc">Notları bulutla eşitleme</string>
@@ -195,7 +195,7 @@
   <string name="setting_other">DİĞER</string>
   <string name="setting_privacy">Gizlilik Politikası</string>
   <string name="snippet_audio_stub">Sesli not</string>
-  <string name="snippet_image_stub">Resim notu</string>
+  <string name="snippet_image_stub">Resimli not</string>
   <string name="snippet_image_template">[Resim %1$s]</string>
   <string name="sns_action_send">Gönder</string>
   <string name="sns_choose_quality_high">Yüksek (%1$s)</string>
