@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="extra_photo_common_permission_name">Bokeh</string>
-  <string name="extra_photo_common_save_fail">Kaydetme başarısız</string>
-  <string name="extra_photo_common_saving">Kaydediliyor...</string>
+  <string name="extra_photo_common_save_fail">Kaydedilemedi</string>
+  <string name="extra_photo_common_saving">Kaydediliyor…</string>
   <string name="motion_photo_cancel">İptal</string>
   <string name="motion_photo_re_pick_title">Canlı fotoğraf</string>
   <string name="motion_photo_save_fail">Kaydedilemedi</string>
@@ -24,7 +24,7 @@
   <string name="refocus_save_title">Format seç</string>
   <string name="refocus_save_to_photo">Resim olarak kaydet</string>
   <string name="refocus_save_to_video">Video olarak kaydet</string>
-  <string name="refocus_saving">Kaydediliyor...</string>
+  <string name="refocus_saving">Kaydediliyor…</string>
   <string name="refocus_title">Bulanıklık</string>
   <string name="refocus_type_relighting">Stüdyo aydınlatma</string>
   <string name="refocus_type_relighting_no_face">Yüz bulunamadı</string>

@@ -1071,7 +1071,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_advance_settings_touch">Dokunmatik kontroller</string>
   <string name="gb_advance_settings_vibration_4d">4B titreşim</string>
   <string name="gb_advance_settings_vibration_4d_summary">Titreşimi kullanarak oyun içinde eylemleri gösterin</string>
-  <string name="gb_audition_instruction">Kaydetmek için basılı tutun (0-10s)</string>
+  <string name="gb_audition_instruction">Kaydetmek için basılı tutun (%1$s-%2$ss)</string>
   <string name="gb_audition_play_instruction">En iyi etki için kulaklık kullanın</string>
   <string name="gb_create_icon_summary">Ana ekran kısayolu oluştur</string>
   <string name="gb_description_image_button_answer">Cevap</string>

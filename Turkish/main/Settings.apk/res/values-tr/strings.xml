@@ -1914,7 +1914,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="doze_always_on_title">Açık</string>
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
   <string name="doze_title">Her zaman açık ekran</string>
-  <string name="draw_overlay">Diğer uyglmlr üzerinde görüntüle</string>
+  <string name="draw_overlay">Diğ. uygl. üzerinde görüntüle</string>
   <string name="draw_overlay_title">Diğer uygulamaların üzerinde görüntülenen uygulamalar</string>
   <string name="dtmf_tone_enable_title">Tuş takımı sesleri</string>
   <string name="dual_clock">Çift saat</string>
@@ -3724,7 +3724,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="other_sound_settings_title">Ek ayarlar</string>
   <string name="others">Diğer</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
-  <string name="overlay_settings">Diğer uyglmlr üzerinde görüntüle</string>
+  <string name="overlay_settings">Diğ. uygl. üzerinde görüntüle</string>
   <string name="owner_info_settings_edit_text_hint">Görüntülenecek metni yazın</string>
   <string name="owner_info_settings_summary">Yok</string>
   <string name="owner_info_settings_title">Kilit ekranında kişisel bilgi</string>
@@ -5450,11 +5450,11 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunu ^4 yerine taşınabilir depola
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Sadece WLAN</string>
   <string name="system">Sistem</string>
-  <string name="system_alert_window_access_title">Diğer uyglmlr üzerinde görüntüle</string>
+  <string name="system_alert_window_access_title">Diğ. uygl. üzerinde görüntüle</string>
   <string name="system_alert_window_apps_title">Uygulamalar</string>
   <string name="system_alert_window_off">Hayır</string>
   <string name="system_alert_window_on">Evet</string>
-  <string name="system_alert_window_settings">Diğer uyglmlr üzerinde görüntüle</string>
+  <string name="system_alert_window_settings">Diğ. uygl. üzerinde görüntüle</string>
   <string name="system_alert_window_summary">%2$d uygulamanın %1$d diğer uygulamalarda gösterilmesine izin verildi</string>
   <string name="system_and_device_section_title">Sistem ayarları</string>
   <string name="system_app">(Sistem)</string>
@@ -6016,6 +6016,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="vibrate_on_unlock">Kilitlendiğinde titreşim</string>
   <string name="vibrate_title">Titreşim</string>
   <string name="vibrate_when_ringing_title">Çağrılar için titreşim</string>
+  <string name="video_tool_box_title">Video araç kutusu</string>
   <string name="vip_list">VIP listesi</string>
   <string name="virtual_keyboard_category">Sanal Klavye</string>
   <string name="virtual_sim_category_title">Mi Dolaşımı</string>

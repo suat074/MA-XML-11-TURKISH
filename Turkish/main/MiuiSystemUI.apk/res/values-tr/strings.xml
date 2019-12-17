@@ -1237,10 +1237,10 @@
   <string name="okay">Tamam</string>
   <string name="oldman_airplane_mode_text">Uçak modu</string>
   <string name="oldman_incall_text">Aramaya dön</string>
-  <string name="open_camera_hint_text">Kamera\'yı açmak için simgeyi sürükleyin</string>
+  <string name="open_camera_hint_text">Kamera için simgeyi sürükleyin</string>
   <string name="open_extreme_power_save_mode_title">Aşırı pil tasarrufunu aç</string>
   <string name="open_lock_screen_magazine_hint_text">Daha fazla seçenek için sağa kaydırın</string>
-  <string name="open_remote_center_hint_text">Kısayolları görüntülemek için sağa kaydırın</string>
+  <string name="open_remote_center_hint_text">Kısayollar için sağa kaydırın</string>
   <string name="osu_completing_sign_up">Kaydolma tamamlanıyor…</string>
   <string name="osu_connect_failed">Bağlantı kurulamadı</string>
   <string name="osu_opening_provider">%1$s açılıyor</string>

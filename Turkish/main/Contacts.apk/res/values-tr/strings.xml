@@ -791,7 +791,7 @@ Favoriler listenize bir kişi eklemek için:
   <string name="option_view_contact">Görüntüle</string>
   <string name="option_view_group">Görüntüle</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
-  <string name="organizationLabelsGroup">Organizasyon</string>
+  <string name="organizationLabelsGroup">Konum</string>
   <string name="other_contacts">Diğer kişiler</string>
   <string name="other_phone">Diğer cihazlar</string>
   <string name="path_batch_delete">Sistem Uygulamaları/Kişiler/Kişileri düzenle/Toplu sil</string>
