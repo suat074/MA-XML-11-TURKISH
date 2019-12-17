@@ -205,11 +205,6 @@
     <item>Yüzde (simgenin yanında)</item>
     <item>Üst çubuk</item>
   </string-array>
-  <string-array name="battery_labels">
-    <item>%0</item>
-    <item>%50</item>
-    <item>%100</item>
-  </string-array>
   <string-array name="bearer_entries">
     <item>Belirtilmemiş</item>
     <item>LTE</item>

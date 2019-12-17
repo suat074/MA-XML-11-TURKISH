@@ -137,6 +137,7 @@
   <string name="declaration">Kilit ekranınıza her gün doğrudan ücretsiz olarak gönderilen yeni duvar kağıtları alın.</string>
   <string name="declaration_lockscreen_title">Günlük taze Kilit ekranı duvar kağıtları alın</string>
   <string name="declaration_title">Şartlar ve Hükümler</string>
+  <string name="delete_pic">Resmi sil</string>
   <string name="deny_des">Duvar Kağıdı Döngüsü\'nün normal çalışabilmesi için Galeri\'ye erişmesi gerekir.</string>
   <string name="detail_ad_type_ad">Reklam</string>
   <string name="detail_ad_type_video">Popüler videolar</string>
@@ -253,6 +254,7 @@
   <string name="main_fragment_title_user">Ayarlar</string>
   <string name="manage">Yönet</string>
   <string name="minutes_15">Her 15 dakikada bir</string>
+  <string name="minutes_5">Her 5 dakikada bir</string>
   <string name="mode_auto_desc">Otomatik olarak yeni resimler almak için Duvar Kağıdı Döngüsü\'nü açın</string>
   <string name="mode_auto_desc_open">Yeni görüntüleri otomatik olarak alın</string>
   <string name="mode_auto_desc_selected">Yeni görüntüler otomatik olarak alınıyor</string>
@@ -370,7 +372,8 @@
   <string name="see_all">Tümünü göster</string>
   <string name="see_more">Daha fazla göster</string>
   <string name="see_more_content">Daha fazla göster</string>
-  <string name="select_package">Sürümü Seçin</string>
+  <string name="select_package">Sürümü seçin</string>
+  <string name="select_photo_album">Albüm seçin</string>
   <string name="select_picture">Görüntüleri seçin</string>
   <string name="select_picture_des">Fotoğraflarınızı ve çevrimiçi resimlerinizi, slayt gösterisinde otomatik olarak görünmelerini sağlamak için karışıma ekleyin.</string>
   <string name="setting_about_item_des">Versiyon</string>
@@ -396,7 +399,7 @@
   <string name="shortcut_created">Kısayol başarıyla oluşturuldu</string>
   <string name="shortcut_exist">Kısayol zaten var</string>
   <string name="shortcut_failed">Kısayol oluşturulamadı</string>
-  <string name="show_wallpaper_loop_entry_title">Ana ekran slayt gösterisi</string>
+  <string name="show_wallpaper_loop_entry_title">Slayt gösterisi ayarları</string>
   <string name="sign_in_title">Mi Hesabınızla giriş yapın</string>
   <string name="sliding_on_unlock">Kilidi açmak için yukarı kaydırın</string>
   <string name="sns_sign_in">Diğer yolla oturum açın</string>
@@ -472,7 +475,7 @@
   <string name="subscribe_dlg_title">Favori resimlerinizi karışıma ekleyin</string>
   <string name="subscribe_free">Abone ol</string>
   <string name="subscribe_item_checked">Abonelik</string>
-  <string name="subscribe_item_unchecked">Abonelikten çık</string>
+  <string name="subscribe_success_content_per_5_minutes">Duvar kağıdını 5 dakikada bir değiştir</string>
   <string name="subscribe_success_content_per_day">Her gün duvar kağıdını değiştir</string>
   <string name="subscribe_success_content_per_hour">Her saat başı duvar kağıdını değiştir</string>
   <string name="subscribe_success_content_per_quarter">Her 15 dakikada bir duvar kağıdını değiştir</string>
@@ -507,6 +510,8 @@
   <string name="toast_ad_down_tip">Uygulama indiriliyor…</string>
   <string name="toast_ad_down_tip2">%s indiriliyor</string>
   <string name="toast_connect_failed_tip">Bağlanamadı. Bir dakika bekleyin ve tekrar deneyin.</string>
+  <string name="toast_has_close_gallery">Duvar Kağıdı Döngüsü başarıyla kapatıldı</string>
+  <string name="toast_has_open_gallery">Duvar Kağıdı Döngüsü başarıyla açıldı</string>
   <string name="toast_load_failed_tip">Öğe yüklenemedi</string>
   <string name="toast_load_hd_fail">Orijinal resim yüklenemedi</string>
   <string name="toast_neterror_tip">Bir ağ hatası oluştu</string>

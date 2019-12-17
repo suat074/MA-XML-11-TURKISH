@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="HIPS_Perm_CallLog_Desc">çağrı geçmişini yazar ve siler</string>
-  <string name="HIPS_Perm_Call_Desc">doğrudan telefon numaralarını arar</string>
-  <string name="HIPS_Perm_Contact_Desc">kişileri değiştirir ve siler</string>
-  <string name="HIPS_Perm_PhoneID_Desc">telefon numarası, IMEI ve IMSI\'ye erişir</string>
+  <string name="HIPS_Perm_CallLog_Desc">Çağrı geçmişini yazar ve siler</string>
+  <string name="HIPS_Perm_Call_Desc">Doğrudan telefon numaralarını arar</string>
+  <string name="HIPS_Perm_Contact_Desc">Kişileri değiştirir ve siler</string>
+  <string name="HIPS_Perm_PhoneID_Desc">Telefon numarası, IMEI ve IMSI\'ye erişir</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarası ve cihaz durumuna erişir</string>
-  <string name="HIPS_Perm_Read_Call_Log_Desc">çağrı geçmişini okur</string>
-  <string name="HIPS_Perm_Read_Contact_Desc">kişilerinizi okur</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">Çağrı geçmişini okur</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">Kişilerinizi okur</string>
   <string name="HIPS_Perm_Read_SMS_Desc">SMS mesajlarınızı okur</string>
-  <string name="HIPS_Perm_SendSMS_Desc">doğrudan SMS mesajları gönderir</string>
-  <string name="HIPS_Perm_add_voicemail_Desc">sistem sesli mesajları ekler</string>
-  <string name="HIPS_Perm_get_accounts_Desc">cihazda depolanan tüm hesaplara eriş</string>
-  <string name="HIPS_Perm_use_sip_Desc">video akışı için Oturum Başlatma Protokolünü kullanır</string>
+  <string name="HIPS_Perm_SendSMS_Desc">Doğrudan SMS mesajları gönderir</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">Sistem sesli mesajları ekler</string>
+  <string name="HIPS_Perm_get_accounts_Desc">Cihazda depolanan tüm hesaplara eriş</string>
+  <string name="HIPS_Perm_use_sip_Desc">Video akışı için Oturum Başlatma Protokolünü kullanır</string>
   <string name="Phonepass">Çağrılara izin ver</string>
   <string name="SMS_and_MMS">SMS ve MMS</string>
   <string name="SMSpass">SMS\'e izin ver</string>
@@ -97,6 +97,7 @@
   <string name="alert_back_diving_mode_summary">Sürükleyici modu şimdi kapat?</string>
   <string name="alert_back_diving_mode_title">Sürükleyici mod</string>
   <string name="alert_back_milink_hangup_tips_content">Bir çağrıyı bitirirken yansıtma kesintiye uğramaz. Ekranı uyandırmak için Güç düğmesine basabilirsiniz.</string>
+  <string name="alert_back_milink_hangup_tips_content_vb">Ekran kapalıyken ve uygulama arka planda çalışırken yansıtma kesintiye uğramaz. Ekranı tekrar açmak için Güç düğmesine basabilirsiniz.</string>
   <string name="all_address_choose_hint">Bu ildeki tüm numaralar</string>
   <string name="already_close_gamebooster">Oyun hızı artırması kapalı</string>
   <string name="anti_disturb_msg_detail">Gelen aramalar dışında tüm bildirimleri kapat</string>
@@ -298,7 +299,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="applock_add_account">Ekle</string>
   <string name="applock_add_account_info">Parolanızı unutmanız durumunda sıfırlayabilmek için Mi Hesabınızı ekleyin.</string>
   <string name="applock_add_account_setting">Hesap &amp; gizlilik</string>
-  <string name="applock_bind_account_title">Parolayı unuttum</string>
+  <string name="applock_app_recommend_lock_title">Aşağıdaki uygulamaları kilitleyebilirsiniz</string>
+  <string name="applock_bind_account_title">Şifreyi unuttum</string>
   <string name="applock_close_dialog_summary">Tüm gizli uygulamalar görünecek, Ana ekran kısayolları geri yüklenecek ve Uygulama kilidi şifreniz silinecek. Uygulama kilidini kapat?</string>
   <string name="applock_close_dialog_title">Uygulama kilidi kapatılsın mı?</string>
   <string name="applock_exit_account_info">Hesap çıkış yaptığınızda otomatik olarak kaldırılacak</string>

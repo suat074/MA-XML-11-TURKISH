@@ -49,6 +49,11 @@
   <string name="menu_help">Yardım</string>
   <string name="menu_settings">Arama ayarları</string>
   <string name="mina_name">Doğrudan uygulamalar</string>
+  <string name="miuishare_no_network">Ağa bağlanılamadı.</string>
+  <string name="miuishare_title_more">Daha fazla</string>
+  <string name="miuishare_title_share">Paylaş</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Anlar</string>
+  <string name="more_tabs">Daha fazla</string>
   <string name="network_unavailable">Ağa bağlanılamadı</string>
   <string name="permission_prompt_detail">Filmleri, kitapları, müzikleri ve daha fazlasını arayın.</string>
   <string name="permission_prompt_start">İzin ver</string>
@@ -109,6 +114,7 @@
   <string name="switch_prompt_title_default">İhtiyacın olanı bulamıyor musun?</string>
   <string name="switch_setting">Ayarlar</string>
   <string name="system_search_category_title">Telefon</string>
+  <string name="toast_network_fail">Bir ağ hatası oluştu. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="top_clicked">Sık kullanılan öğeler</string>
   <string name="update_check">Güncellemeleri denetle</string>
   <string name="update_right_now">Güncelle</string>

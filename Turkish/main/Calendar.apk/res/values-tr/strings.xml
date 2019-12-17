@@ -420,7 +420,10 @@
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">Bir takvim hesabı eklemeniz gerekiyor. Devam etmek için \"Hesap ekle\" seçeneğine dokunun.</string>
   <string name="no_visiable_calendar_select_account">Hesap ekle</string>
   <string name="no_visiable_calendar_title">Hesap ekle</string>
-  <string name="notification_channel_name">Takvim hatırlatmaları</string>
+  <string name="notification_channel_name">Düzenli hatırlatıcılar</string>
+  <string name="notification_channel_name_no_sound">Sessiz hatırlatıcılar</string>
+  <string name="notification_channel_name_no_vibration">Titreşimsiz hatırlatıcılar</string>
+  <string name="notification_channel_name_silent">Rahatsız etme modu hatırlatıcıları</string>
   <string name="notification_open_setting_button_exit">Hayır teşekkürler</string>
   <string name="notification_open_setting_button_ok">İzin ver</string>
   <string name="notification_open_setting_message">Takvim\'in size bildirim göndermesine izin vermediğiniz sürece, etkinliklerle ilgili bildirimleri alamazsınız.</string>
@@ -532,9 +535,9 @@
   <string name="select_date">Tarihe atla</string>
   <string name="select_today_tip">Bugün</string>
   <string name="setting">Ayarlar</string>
-  <string name="setting_about_calendar_version">Takvim sürümü:%1$s-%2$s</string>
-  <string name="setting_about_imei">IMEI:%1$s</string>
-  <string name="setting_about_miui_version">MIUI sürümü:%1$s-%2$s</string>
+  <string name="setting_about_calendar_version">Takvim sürümü: %1$s-%2$s</string>
+  <string name="setting_about_imei">IMEI: %1$s</string>
+  <string name="setting_about_miui_version">MIUI sürümü: %1$s-%2$s</string>
   <string name="setting_about_summary">Sürüm:</string>
   <string name="setting_accounts">Takvim hesapları</string>
   <string name="setting_chinese_calendar">Çin takvimi</string>

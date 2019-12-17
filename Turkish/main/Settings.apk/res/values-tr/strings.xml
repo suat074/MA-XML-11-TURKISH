@@ -1269,6 +1269,7 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="close_demo_mode">İptal</string>
   <string name="close_fod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
   <string name="close_fod_aod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. \"Her zaman açık modu\" ile mevcut olmayacaktır. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
+  <string name="close_hotspot_hint">Yansıtmadan önce paylaşım noktasını kapat</string>
   <string name="close_gesture">Kullanılan büyütmeyi kapat</string>
   <string name="close_miui_optimization_title">MIUI optimizasyonunu kapat</string>
   <string name="close_optimization_message">Bu özelliği kapattıktan sonra metin düzeni, hesaplar ve MIUI dışındaki diğer bölümler etkilenebilir.</string>
@@ -1276,6 +1277,7 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="close_privacy_thumbnail_blur_title">Önizlemeler bulanık değil</string>
   <string name="close_sdcard_optimization_title">Taklit sdcard optimizasyonunu kapat</string>
   <string name="close_sdcard_optimization_warning_message">Bu değişikliği uygulamak için cihazınız yeniden başlayacaktır.</string>
+  <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı WLAN ağlarının bağlantısını kesin</string>
   <string name="cloud_backup_section_title">Xiaomi Bulut yedekleme</string>
   <string name="cloud_backup_settings_section_title">Yedekleme ayarları</string>
   <string name="cloud_restore_section_summary">Sistem ayarlarını, Ana ekran düzenini ve uygulamaları geri yükleyin</string>

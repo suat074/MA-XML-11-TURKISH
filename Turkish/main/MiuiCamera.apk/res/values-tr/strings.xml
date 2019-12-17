@@ -444,6 +444,8 @@ Makro modunu kullanın"</string>
   <string name="mimoji_selected">Seçin</string>
   <string name="mimoji_start_create">Mimoji oluşturuluyor…</string>
   <string name="mimoji_tips">Fotoğraf çekmek için dokunun. Video kaydı için basılı tutun.</string>
+  <string name="miservice_notification_content">Daha fazla bilgi edinmek için dokunun</string>
+  <string name="miservice_notification_title">Kamera\'daki yeni özellikler hakkında daha fazla bilgi edinin</string>
   <string name="module_name_beauty">Güzellik</string>
   <string name="module_name_capture">Fotoğraf</string>
   <string name="module_name_fun">Kısa video</string>

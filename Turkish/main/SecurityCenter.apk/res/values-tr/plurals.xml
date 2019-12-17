@@ -28,6 +28,10 @@
     <item quantity="other">%d yıl önce kullanıldı</item>
     <item quantity="one">%d yıl önce kullanıldı</item>
   </plurals>
+  <plurals name="applock_guide_app_count_tips">
+    <item quantity="other">En az %s uygulamayı koruyabilirsiniz</item>
+    <item quantity="one">En az %s uygulamayı koruyabilirsiniz</item>
+  </plurals>
   <plurals name="bg_network_allow_count">
     <item quantity="other">%d uygulama arka planda ağa bağlanabilir</item>
     <item quantity="one">%d uygulama arka planda ağa bağlanabilir</item>
@@ -80,6 +84,10 @@
   <plurals name="gb_ad_ten_thousand_people_play">
     <item quantity="other">%1$d kişi oynuyor</item>
     <item quantity="one">%1$d kişi oynuyor</item>
+  </plurals>
+  <plurals name="gb_record_time_title">
+    <item quantity="other">%d san.</item>
+    <item quantity="one">%d san.</item>
   </plurals>
   <plurals name="gb_signed_days_sum">
     <item quantity="other">Üst üste %d gün içinde kontrol edildi</item>
@@ -488,5 +496,9 @@
   <plurals name="menu_text_app_manager_ex">
     <item quantity="other">%d güncelleme mevcut</item>
     <item quantity="one">%d güncelleme mevcut</item>
+  </plurals>
+  <plurals name="videobox_settings_manager_apps_count">
+    <item quantity="other">%d uygulama</item>
+    <item quantity="one">%d uygulama</item>
   </plurals>  
 </resources>

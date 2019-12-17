@@ -80,7 +80,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="cloud_backup_detail_title">Ana ekran, uygulamalar ve ayarlar.</string>
   <string name="cloud_backup_have_data">Xiaomi Bulut\'ta yedek bulundu</string>
   <string name="cloud_backup_in_cancel">İptal</string>
-  <string name="cloud_backup_in_process">Yedekleme…</string>
+  <string name="cloud_backup_in_process">Yedekleniyor</string>
   <string name="cloud_backup_select_recover">Xiaomi Bulut\'tan yedeği seçin</string>
   <string name="cloud_restore_from_other_device">%s geri yüklemek ve yedeği silmek istiyor musunuz? Bu eylem geri döndürülemez.</string>
   <string name="cloud_restore_task">Geri yükleniyor…</string>
