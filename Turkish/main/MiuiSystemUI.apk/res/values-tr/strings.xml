@@ -721,7 +721,7 @@
   <string name="force_rtl_layout_all_locales">Sağdan sola düzenini zorla</string>
   <string name="force_rtl_layout_all_locales_summary">Tüm yerel ayarlar için sağdan sola ekran düzenini zorlar</string>
   <string name="forced_resizable_secondary_display">Uygulama ikincil ekranda çalışmayabilir.</string>
-  <string name="forget_password_string">Şifremi unuttum</string>
+  <string name="forget_password_string">Şifreyi unuttum</string>
   <string name="fs_gesture_back_home_summary">Aşağıdan hızlıca kaydırın</string>
   <string name="fs_gesture_back_ready_title">Geri git</string>
   <string name="fs_gesture_final_over">Hazırım</string>

@@ -57,6 +57,7 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="apply_font_btn_exclude">Şimdi değil</string>
   <string name="apply_font_btn_reboot">Yeniden başlat</string>
   <string name="apply_font_tip">Bu temanın yazı tipini uygulamak için yeniden başlatın.</string>
+  <string name="apply_not_support_in_second_space">Bu öğe İkinci alanda uygulanamıyor</string>
   <string name="apply_theme_with_ringtones">Temanın zil seslerini kullan</string>
   <string name="audio_duration_minutes_format">%1$d dakika</string>
   <string name="audio_duration_seconds_format">%1$d saniye</string>
