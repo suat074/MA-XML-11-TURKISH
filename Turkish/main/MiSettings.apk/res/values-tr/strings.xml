@@ -28,7 +28,7 @@
   <string name="contrast_ratio">Kontrast</string>
   <string name="create">Oluştur</string>
   <string name="create_failed">Oluşturulamadı</string>
-  <string name="create_shortcut">Kısayol oluştur</string>
+  <string name="create_shortcut">Ana ekran kısayolu</string>
   <string name="created">Oluşturuldu</string>
   <string name="created_successfully">Başarıyla oluşturuldu</string>
   <string name="first_unlock_time">"İlk kilidi açma: "</string>
@@ -42,13 +42,13 @@
   <string name="hsv_space_color_value">Değer</string>
   <string name="intelligent_recognition_item_summary">Teslimat ve taksi hizmetlerinden gelen çağrılar için belirlenmiş bir zil sesi kullanın. Bu özellik, %s varsayılan zil sesiniz olarak ayarlandığında çalışacaktır.</string>
   <string name="intelligent_recognition_item_title">Hizmetleri tanımla</string>
-  <string name="lock_summary">Gizliliğinizin kapsamlı korunması</string>
+  <string name="lock_summary">Kişisel bilgilerinizi koruyun</string>
   <string name="mms">Mesajlaşma</string>
   <string name="more_ringtone">Tüm zil sesleri</string>
   <string name="more_settings">Ayarlar</string>
   <string name="most_unlock_week_day">"En fazla kilit açma: "</string>
   <string name="network_error">Bir ağ hatası oluştu. Tekrar deneyin.</string>
-  <string name="no_matching">Eşleşen program yok</string>
+  <string name="no_matching">Bu bağlantıyı açmak için uygulama bulunamadı</string>
   <string name="notification_sound">Bildirim sesleri</string>
   <string name="other_parameter">Diğer</string>
   <string name="p3_color_region_summary">Tüm ekran içeriğini P3 renk gamında görüntüle</string>
@@ -68,12 +68,12 @@
   <string name="screen_original_gamut">Geliştirilmiş</string>
   <string name="screen_original_gamut_summary">Tüm ekran içeriğini mümkün olan en geniş renk gamında görüntüleyin</string>
   <string name="screen_paper_mode_apps_loading">Sadece bir saniye…</string>
-  <string name="screen_time_lock">Ekran süresi yönetimi uygulaması kilidi</string>
+  <string name="screen_time_lock">Ekran süresi kilidi</string>
   <string name="search_app_name">Uygulamaları ara</string>
   <string name="search_empty">Hiçbir uygulama bulunamadı</string>
   <string name="search_menu_title">Ara</string>
   <string name="several_days_use_time">Ekran süresi: %2$s</string>
-  <string name="shortcut_created">The shortcut has been created</string>
+  <string name="shortcut_created">Bu kısayol zaten var</string>
   <string name="sim_slot_1"> (SIM 1)</string>
   <string name="sim_slot_2"> (SIM 2)</string>
   <string name="sms_delivered_sound_title">İletilen mesaj</string>
@@ -83,8 +83,8 @@
   <string name="stop_app_timer_fail">Ekran süresi kapatılamadı</string>
   <string name="stop_app_timer_success">Ekran süresi başarıyla kapatıldı</string>
   <string name="stop_app_timer_tip">Bu ayarları kapattıktan sonra, bireysel ayarlar ve yerel olarak saklanan ve bulutla senkronize edilen öğeler de dahil olmak üzere tüm Ekran süresi verileri ve izinleri silinir.</string>
-  <string name="stop_summary">Devre dışı bırakıldıktan sonra ekran süresi yönetimi için tüm veriler temizlenir</string>
-  <string name="suggestion">Öneriler ve geri bildirim</string>
+  <string name="stop_summary">Bu özelliği kapattığınızda tüm Ekran süresi istatistikleri ve verileri silinecek</string>
+  <string name="suggestion">Geri bildirim</string>
   <string name="thememanager_not_found">Temalar açılamadı. Bu uygulamanın cihazınızda yüklü olduğundan emin olun.</string>
   <string name="today_usage_title">Bugün</string>
   <string name="today_use_time">Ekran süresi: %1$s</string>
@@ -93,9 +93,9 @@
   <string name="trend_from_yesterday_less_simple">%1$s dünden daha az</string>
   <string name="trend_from_yesterday_more">%1$s dünden daha fazla</string>
   <string name="trend_from_yesterday_more_simple">%1$s dünden daha fazla</string>
-  <string name="try_to_create">Bir kısayol oluşturulmaya çalışıldı</string>
   <string name="unlock_times_per_day">"Günlük ortalama: "</string>
   <string name="unlock_times_per_hour">"Saat başına kilit açma: "</string>
+  <string name="usage_agree">Kabul</string>
   <string name="usage_app_get_it">Anladım</string>
   <string name="usage_app_limit_alter_summary">Bu süresi sınırı, bugün bu uygulamayı kullanmakta olduğunuz zamandan daha kısa gibi görünüyor. Sınır yine de ayarlansın mı?</string>
   <string name="usage_app_limit_alter_title">Ekran süresi sınırını kontrol et</string>
@@ -113,6 +113,7 @@
   <string name="usage_app_weekend_limit">Hafta sonları</string>
   <string name="usage_beat_fans">Mi Fanları\'ndan %s daha iyi</string>
   <string name="usage_continuous_days">Seri</string>
+  <string name="usage_exit">Çıkış</string>
   <string name="usage_focus_focus_premission_main_summary">Odak modu kullanım istatistiklerini kaydetmesi için bu uygulamanın hesap bilgilerinize erişmesi gerekir.</string>
   <string name="usage_focus_focus_premission_second_summary">Bu izinleri vermeyi kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamazsınız; Ancak, temel işlevsellik yine de sizin için mevcut olacak. Ayarlar\'dan her zaman izinleri kısıtlayabilir veya yetkilendirmenizi iptal edebilirsiniz.</string>
   <string name="usage_focus_save_success">Galeriye başarıyla kaydedildi</string>
@@ -126,8 +127,19 @@
   <string name="usage_focus_title_level3">Sıradanın üstünde yükseliş</string>
   <string name="usage_focus_title_level4">Tutarlılık içinde sevinin</string>
   <string name="usage_focus_title_level5">Odaklanmaya devam et</string>
+  <string name="usage_home_permission_account_summary">Mi Hesabı\'nda oturum açma ve Ekran süresi istatistiklerini eşitlemek için</string>
+  <string name="usage_home_permission_account_title">Hesap bilgilerine erişir</string>
+  <string name="usage_home_permission_phone_summary">VAID kullanarak cihazınızı tanımlamak için</string>
+  <string name="usage_home_permission_phone_title">Cihaz bilgilerine erişir</string>
   <string name="usage_home_premission_main_summary">Ekran süresine hoş geldiniz! Ekran süresi sınırlarını belirlemek, istatistikleri görüntülemek ve Odak moduna geçmek için bu uygulamayı kullanabilirsiniz. Bu uygulamanın normal bir şekilde çalışabilmesi için ekran süresi bilgilerini (örneğin, telefonunuzun kilidini açma, ekranı açma ve uygulamaları ne kadar süre kullandığınız) toplaması gerekir.</string>
+  <string name="usage_home_premission_main_summary_new">"Ekran süresine hoş geldiniz!
+Uygulamanın normal şekilde çalışabilmesi için ekran süresi bilgilerini toplaması gerekir: Ekran süresi istatistiklerini oluşturmak için telefonunuzun kilidini açma sayısı, uygulama adları ve uygulama kullanım süresi gereklidir; Odak modu istatistikleri üretmek için odak modu ayarları gereklidir.
+Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplayabilmesi için aşağıdaki izinleri alması gerekir:"</string>
+  <string name="usage_home_premission_main_summary_new_o">"Ekran süresine hoş geldiniz!
+Uygulamanın normal şekilde çalışabilmesi için ekran süresi bilgilerini toplaması gerekir: Ekran süresi istatistiklerini oluşturmak için telefonunuzun kilidini açma sayısı, uygulama adları ve uygulama kullanım süresi gereklidir.
+Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplayabilmesi için aşağıdaki izinleri alması gerekir:"</string>
   <string name="usage_home_premission_second_summary">Normal çalışabilmesi için, bu uygulamanın kişisel bilgilerinizi toplaması gerekir. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyoruz.</string>
+  <string name="usage_home_premission_second_summary_new">Yetkilendirmenizi Ekran süresi &gt; Ayarlar &gt; Ekran süresini kapat seçeneğinden iptal edebilirsiniz. Gizlilik hakkında daha fazlası için, privacy@xiaomi.com adresinden bizimle iletişime geçebilirsiniz.</string>
   <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
   <string name="usage_state_add_up_count">Oturum</string>
   <string name="usage_state_add_up_days">Gün</string>

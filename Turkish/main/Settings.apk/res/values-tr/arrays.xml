@@ -280,7 +280,9 @@
     <item>LDAC</item>
     <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
 	<item>Qualcomm® aptX™ TWS+ ses</item>
-	<item>LHDC</item>
+	<item>LHDC_V3</item>
+    <item>LHDC_V2</item>
+    <item>LHDC_V1</item>
     <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
     <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
   </string-array>
@@ -293,7 +295,9 @@
     <item>LDAC</item>
     <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
 	<item>Qualcomm® aptX™ TWS+ ses</item>
-	<item>LHDC</item>
+	<item>LHDC_V3</item>
+    <item>LHDC_V2</item>
+    <item>LHDC_V1</item>
     <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
     <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
   </string-array>

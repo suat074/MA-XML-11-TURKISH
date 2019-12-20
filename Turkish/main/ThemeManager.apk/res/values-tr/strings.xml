@@ -700,6 +700,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="theme_purchased_non_local">Çevrimiçi</string>
   <string name="theme_select_others">Gözat</string>
   <string name="theme_setting">Ayarlar</string>
+  <string name="theme_setting_all">Tüm temalar</string>
   <string name="theme_staggered_item_text">Mi Kredisi alın</string>
   <string name="theme_user_agreement_allow">Kabul</string>
   <string name="theme_user_agreement_content1">"Bu ürünü kullanarak, "</string>
@@ -828,6 +829,8 @@ Daha fazla seçenek için Temalar &gt; Profil &gt; Tema laboratuvarına gidin."<
   <string name="wallpaper_set_as_incall_show">Profil videosu olarak ayarla</string>
   <string name="wallpaper_set_as_lockscreen">Kilit ekranı için ayarla</string>
   <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
+  <string name="wallpaper_setting_all">Tüm duvar kağıtları</string>
+  <string name="wallpaper_setting_live">Canlı</string>
   <string name="wallpaper_settings_loading_text">Yükleniyor</string>
   <string name="wallpaper_settings_no_history">Geçmiş yok</string>
   <string name="wallpaper_settings_pad_more_page_title">Daha fazla</string>

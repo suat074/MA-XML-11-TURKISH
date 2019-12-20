@@ -276,9 +276,8 @@
   <string name="data_traffic_download_prompt">Şu anda veri trafiğini kullanarak, videoyu önbelleğe almaya devam etmek istiyor musunuz?</string>
   <string name="data_traffic_download_setting">Ayarlar</string>
   <string name="data_traffic_download_toast_msg">Şu anda videoyu önbelleğe almak için veri trafiği kullanılıyor</string>
-  <string name="data_traffic_prompt_free_data">Videolara göz atmak için mobil veri bağlantınızı kullanmak, veri kullanımınızı artıracaktır. Lütfen ücretsiz veri trafiğine sahip olun.</string>
-  <string name="data_traffic_prompt_message">Mobil veri bağlantısı kullanmak videolara bakarken veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
-  <string name="data_traffic_prompt_title">Veri Kullanımı Uyarısı</string>
+  <string name="data_traffic_prompt_message">Videolara göz atmak için mobil veri bağlantınızı kullanmak veri kullanımınızı artıracaktır. Planınızın veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücretler alabilir.</string>
+  <string name="data_traffic_prompt_title">Veri kullanımı uyarısı</string>
   <string name="data_traffic_stop">Durdur</string>
   <string name="debug_mode_toast">Hata ayıklama modu etkin</string>
   <string name="delete">Sil</string>

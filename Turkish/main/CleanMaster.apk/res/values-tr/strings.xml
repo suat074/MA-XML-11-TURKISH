@@ -14,7 +14,7 @@
   <string name="activity_title_main">Temizleyici</string>
   <string name="activity_title_news">Yenilikler</string>
   <string name="activity_title_privacy_cache">Gizlilik Önbelleği</string>
-  <string name="activity_title_residual">Artıklar</string>
+  <string name="activity_title_residual">Kalıntılar</string>
   <string name="activity_title_scanfinish">Tarama tamamlandı</string>
   <string name="activity_title_screenshot">Ekran görüntüleri</string>
   <string name="activity_title_settings">Ayarlar</string>
@@ -343,7 +343,7 @@
   <string name="hints_list_item_lock">Tut</string>
   <string name="hints_list_item_unlock">Temizle</string>
   <string name="hints_loading_text">Yükleniyor…</string>
-  <string name="hints_memory_header_left">Hafıza</string>
+  <string name="hints_memory_header_left">Bellek</string>
   <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Gizlilik: %d</string>
   <string name="hints_quick_cleanning">Temizleniyor…</string>
@@ -353,7 +353,7 @@
   <string name="hints_quick_deep_uninstall">Şimdi sil</string>
   <string name="hints_quick_prepare">Hazırlanıyor…</string>
   <string name="hints_quick_scanning">Taranıyor…</string>
-  <string name="hints_residual_header_left">Artıklar</string>
+  <string name="hints_residual_header_left">Kalıntılar</string>
   <string name="hints_scan_has_finish">Temizlik bitti</string>
   <string name="hints_scanfinish">Çöp yok</string>
   <string name="hints_storage_clean_size">%s dahili depolama serbest</string>

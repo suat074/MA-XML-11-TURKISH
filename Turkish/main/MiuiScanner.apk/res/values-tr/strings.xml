@@ -50,6 +50,13 @@
   <string name="call_anyone">Çağrı</string>
   <string name="camera_error_title">Kamera hatası</string>
   <string name="cancel">İptal</string>
+  <string name="carsHome_title">Araba</string>
+  <string name="cars_is_public">Başlatıldı</string>
+  <string name="cars_no_public">Başlatılmadı</string>
+  <string name="cars_solution">"Çözüm: "</string>
+  <string name="cars_suitability">"Eşleşme: "</string>
+  <string name="cars_title">Araba veya araba parçası tara</string>
+  <string name="carshome_data">Autohome Inc. tarafından sağlanan teknik destek</string>
   <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
   <string name="check_for_updates">Beta güncellemelerini kontrol et</string>
   <string name="choose_open_code_app">Bir uygulama seçin</string>
@@ -74,6 +81,7 @@
   <string name="continue_waiting">Beklemeye devam edin</string>
   <string name="copy_text">Metni kopyala</string>
   <string name="copy_text_success">Metin kopyalandı</string>
+  <string name="copy_tracknum">İzleme kodunu kopyala</string>
   <string name="crop_cancel_description">İptal</string>
   <string name="crop_done_description">Bitti</string>
   <string name="crop_title_study">Fotoğrafı kırp</string>
@@ -134,7 +142,7 @@
   <string name="gps">Gezinin</string>
   <string name="image_file_name_format">\'scanner\'_yyyyMMdd_HHmmss</string>
   <string name="import_contact">Kişiyi içe aktar</string>
-  <string name="impunity_declaration_content">Tarayıcının kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğraflarını çekmek için Tarayıcı\'yı kullanmayın. \"Kabul Et\" düğmesine dokunduğunuzda, &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\">Gizlilik Politikamızı&lt;/a>&lt;/font> kabul etmiş ve Tarayıcının internete bağlanmasına izin vermiş olursunuz.</string>
+  <string name="impunity_declaration_content">Tarayıcının kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğraflarını çekmek için Tarayıcı\'yı kullanmayın. \"Kabul Et\" düğmesine dokunduğunuzda, &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Gizlilik Politikamızı&lt;/a>&lt;/font> kabul etmiş ve Tarayıcının internete bağlanmasına izin vermiş olursunuz.</string>
   <string name="impunity_declaration_negative_text">Çıkış</string>
   <string name="impunity_declaration_title">Gizlilik Politikası</string>
   <string name="keywords_search_code">Tarayıcı; Tarama; QR kodu; QR; Tanıma; Barkod; Barkod; Ürün; Ürünler; Alipay; WeChat; QR kodunu nasıl tarar; Barkod nasıl taranır</string>
@@ -143,6 +151,7 @@
   <string name="keywords_search_shopping">Alışveriş; Tarayıcı; Tarama ürünleri; Tarama ürünü; Fiyatı kontrol et; Ürünler; Taobao; Tmall; Fiyatlar; Çevrimiçi alışveriş</string>
   <string name="keywords_search_study">Tarayıcı; Sorunlar; Sorunları çöz; Ödev; Okul; Fizik; Kimya; Matematik; Matematik; İngilizce; Tarih; Çince</string>
   <string name="keywords_search_translation">Tarayıcı; Çeviri; Sözlük; İngilizce; Yabancı dil; Dil; Dil; İngilizce; Çince; İtalyanca; Almanca; Japonca; Korece; İspanyolca; Fransızca; Baidu Çevir; Youdao Sözlüğü; Baidu Sözlük; Google Translate</string>
+  <string name="kuaidi100_data">Kuaidi 100 tarafından desteklenmektedir</string>
   <string name="label_choose_picture">Resim seç</string>
   <string name="label_flash_light">El feneri</string>
   <string name="language_entry_chinese_cn">Sadeleştirilmiş Çince</string>
@@ -152,6 +161,7 @@
   <string name="language_entry_japanese">Japonca</string>
   <string name="language_entry_korean">Korece</string>
   <string name="language_entry_spanish">İspanyolca</string>
+  <string name="logistics">Hızlı teslimat</string>
   <string name="low_version_tip">Tarayıcıyı kullanabilmek için MIUI\'yi en son sürümüne güncelleyin.</string>
   <string name="miracast_connect">Yansıt</string>
   <string name="miracast_connect_fail">Yansıtılamadı, tekrar deneyin</string>
@@ -160,6 +170,7 @@
   <string name="miracast_message">%s yansıt?</string>
   <string name="miracast_switch_off">Kablosuz ekran kapalı</string>
   <string name="miracast_switch_tip">Bu özelliği kullanmak için kablosuz ekranı aç</string>
+  <string name="mishop">Mi Mağazası</string>
   <string name="module_title_business_card">Kartvizit</string>
   <string name="module_title_code">QR Kodu</string>
   <string name="module_title_document">Belge</string>
@@ -178,6 +189,7 @@
   <string name="not_insert_contact">Kişi eklenemedi</string>
   <string name="not_recommend_access_web_url">Yine de git</string>
   <string name="note">Açıklama:</string>
+  <string name="now_state">"Mevcut durum: "</string>
   <string name="once">Sadece bir kere</string>
   <string name="open_url">Link aç</string>
   <string name="pay_no_tip">Tekrar gösterme</string>
@@ -190,6 +202,7 @@
   <string name="plant_reg_fail_2">Bu nesne tanımlanamadı. Tarayıcı sadece bitkileri tanımlayabilir.</string>
   <string name="plant_support">(Teknik destek)</string>
   <string name="plant_title">Tanımlamak istediğiniz bitkiyi tarayın</string>
+  <string name="please_try_again_later">Bir iki dakika bekleyin ve tekrar deneyin</string>
   <string name="pref_camera_focusmode_default">sürekli-resim</string>
   <string name="pref_camera_jpeg_quality_fine">iyi</string>
   <string name="pref_camera_jpeg_quality_normal">normal</string>
@@ -198,6 +211,11 @@
   <string name="previous">Geri</string>
   <string name="prompt">Dikkat</string>
   <string name="qr_code_details">QR kod detayları:</string>
+  <string name="queryNum">Sipariş kontrolü</string>
+  <string name="query_faile">Sipariş durumu ve ayrıntılar henüz eşitlenmedi. Siparişinizi manuel olarak kontrol edin.</string>
+  <string name="query_inai">Mi AI size yardımcı olsun</string>
+  <string name="query_more">Daha fazla bilgi</string>
+  <string name="query_tracknum">Hızlı teslimat siparişini kontrol et</string>
   <string name="recognize">Tara</string>
   <string name="recognize_fail">Kod okunamıyor</string>
   <string name="request_server_failed">Sunucuya bağlanılamadı</string>
@@ -208,6 +226,7 @@
   <string name="search_menu_title">Arama</string>
   <string name="secure_access_web_url">Web sitesine git</string>
   <string name="see_app_details">Uygulama detaylarını görüntüle</string>
+  <string name="see_details">Ayrıntıları görüntülemek için dokunun</string>
   <string name="select_dialog_confirm">Tamam</string>
   <string name="send_mail">E-posta gönder</string>
   <string name="setting_alipay">Alipay</string>
@@ -276,6 +295,7 @@
   <string name="url_is_unknown">Bu web sitesinin güvenli olup olmadığını kontrol edilemiyor</string>
   <string name="url_is_unsafety">Bu web sitesi güvenli değil</string>
   <string name="vender_info_translation_kingsoft">Kingsoft tarafından desteklenmektedir</string>
+  <string name="waybill_num">"Sipariş: "</string>
   <string name="web">Web sitesi:</string>
   <string name="website_details">Web sitesi:</string>
   <string name="weixin_code_tip">WeChat kullanarak bu QR kodunu tarayın.</string>
@@ -289,6 +309,8 @@
   <string name="wifi_ssid">SSID:</string>
   <string name="will_be_sent_tothe_background_review">" (Başvurunuz yakında incelenmek üzere gönderilecektir.)"</string>
   <string name="wx_not_installed_toast">Bu özelliğin WeChat kullanması gerekir. Önce WeChat\'i yükleyin.</string>
+  <string name="xiaoai_dialog">"Mi AI\'ya taramak istediğiniz
+şeyi söylemeyi deneyin"</string>
   <string name="you_have_permission_to_download">Beta sürümünü indirmek için dokunun</string>
   <string name="you_id">"Kimliğiniz: "</string>
   <string name="your_application_is_under_review">" (Başvurunuz inceleniyor.)"</string>
