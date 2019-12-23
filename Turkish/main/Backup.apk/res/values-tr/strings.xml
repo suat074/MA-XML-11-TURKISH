@@ -17,7 +17,7 @@
   <string name="alert_title_restore_from_miasist">Telefonunuzdaki öğeleri geri yükle?</string>
   <string name="already_enable_encrypt">Şifreleme zaten açık</string>
   <string name="app_name">Yedekle</string>
-  <string name="apps_and_data_item_desc">Uygulamalar ve veriler</string>
+  <string name="apps_and_data_item_desc">Uygulama ve verileri</string>
   <string name="auto_backup">Rutin yedekleme zamanlama</string>
   <string name="auto_backup_all_user_apps">Tüm uygulamalar</string>
   <string name="auto_backup_choose">Öğeleri yedekle</string>
@@ -58,7 +58,7 @@
   <string name="button_cancel">İptal</string>
   <string name="button_clean_garbage">Boş alan</string>
   <string name="button_continue">Devam et</string>
-  <string name="button_finish">Tamamlandı</string>
+  <string name="button_finish">Bitti</string>
   <string name="button_got_it">Tamam</string>
   <string name="button_import">Al</string>
   <string name="button_next">Sonraki</string>
@@ -360,7 +360,7 @@
   <string name="sms_title">Mesajlar</string>
   <string name="soft_ap_create_failed">Bağlantı noktası oluşturulamadı</string>
   <string name="soft_ap_creating">Bağlantı noktası oluşturuluyor…</string>
-  <string name="software_backup_info">Uygulama verisi</string>
+  <string name="software_backup_info">Uygulama verileri</string>
   <string name="start_backup">Yedekle</string>
   <string name="start_restore">Geri yükle</string>
   <string name="state_mounting">Yönlendirici deposuna erişiliyor...</string>
@@ -425,7 +425,7 @@
   <string name="trans_connection_failed">Bağlantı kesildi</string>
   <string name="trans_detail_app_apk_list_title">Yüklü uygulamalar</string>
   <string name="trans_detail_app_apk_page_title">Uygulamaları seçin</string>
-  <string name="trans_detail_app_data_list_title">Uygulama verisi</string>
+  <string name="trans_detail_app_data_list_title">Uygulama verileri</string>
   <string name="trans_detail_app_data_page_title">Uygulama verilerini seçin</string>
   <string name="trans_detail_app_data_useless_tip">Bunları uygulamadan geri yükleyebilirsiniz, aktarmaya gerek yok.</string>
   <string name="trans_detail_audio_video_doc_list_title">Ses, video ve dosyalar</string>
@@ -434,7 +434,7 @@
   <string name="trans_detail_category_audio_video_doc">Ses, video ve dosyalar</string>
   <string name="trans_detail_category_files">Dosyalar</string>
   <string name="trans_detail_category_sysdata">Sistem verileri (mesajlar, kişiler ve arama geçmişi dahil)</string>
-  <string name="trans_detail_category_user_app_data">Uygulama verisi</string>
+  <string name="trans_detail_category_user_app_data">Uygulama verileri</string>
   <string name="trans_detail_category_userdata">Uygulamalar</string>
   <string name="trans_detail_category_wechat_qq">WeChat ve QQ verileri (sohbet geçmişi dahil)</string>
   <string name="trans_detail_item_app_data_selected_tip">İlgili uygulamalar da seçilir.</string>
