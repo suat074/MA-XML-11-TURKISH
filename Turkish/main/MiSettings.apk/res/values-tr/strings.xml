@@ -138,8 +138,8 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_home_premission_main_summary_new_o">"Ekran süresine hoş geldiniz!
 Uygulamanın normal şekilde çalışabilmesi için ekran süresi bilgilerini toplaması gerekir: Ekran süresi istatistiklerini oluşturmak için telefonunuzun kilidini açma sayısı, uygulama adları ve uygulama kullanım süresi gereklidir.
 Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplayabilmesi için aşağıdaki izinleri alması gerekir:"</string>
-  <string name="usage_home_premission_second_summary">Normal çalışabilmesi için, bu uygulamanın kişisel bilgilerinizi toplaması gerekir. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyoruz.</string>
-  <string name="usage_home_premission_second_summary_new">Yetkilendirmenizi Ekran süresi &gt; Ayarlar &gt; Ekran süresini kapat seçeneğinden iptal edebilirsiniz. Gizlilik hakkında daha fazlası için, privacy@xiaomi.com adresinden bizimle iletişime geçebilirsiniz.</string>
+  <string name="usage_home_premission_second_summary">Bu uygulamanın normal çalışabilmesi için, kişisel bilgilerinizi toplaması gerekir. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</string>
+  <string name="usage_home_premission_second_summary_new">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Yetkilendirmenizi Ekran süresi &gt; Ayarlar &gt; Ekran süresini kapat seçeneğinden iptal edebilirsiniz. Gizlilik hakkında daha fazlası için, privacy@xiaomi.com adresinden bizimle iletişime geçebilirsiniz.</string>
   <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
   <string name="usage_state_add_up_count">Oturum</string>
   <string name="usage_state_add_up_days">Gün</string>

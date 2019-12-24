@@ -26,6 +26,18 @@
     <item>Takvim</item>
     <item>Depolama</item>
   </string-array>
+  <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+    <item>Cihazınızı tanımlamak için</item>
+    <item>Cihazınızı bulmak ve kayıp moduna geçmek için</item>
+  </string-array>
+  <string-array name="privacy_dialog_sync_runtime_perm_desc">
+    <item>Etkinlikleri eşitlemek için</item>
+    <item>Mesajları eşitlemek için</item>
+    <item>Mesajları eşitlemek için</item>
+    <item>Kişileri eşitlemek için</item>
+    <item>Kişileri eşitlemek için</item>
+    <item>Cihazınızdaki öğeleri kaydetmek için (örneğin resimler, videolar, şarkılar)</item>
+  </string-array>
   <string-array name="settings_search_backup_manage">
     <item>Yedekler</item>
     <item>Yedeklenen öğeler</item>

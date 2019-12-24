@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="actionbar_button_up_description">Geri</string>
   <string name="app_name">Evrensel Oynatıcı Hizmeti</string>
   <string name="casting_tips">Yansıtılıyor…</string>
   <string name="console_guide_btn_got_it">Anladım</string>
@@ -18,12 +19,13 @@
   <string name="dialog_only_suport_content">Fotoğraf, video veya müzik akışı yapın</string>
   <string name="dialog_open_wifi_bt">Aç</string>
   <string name="dialog_please_make_sure_tv_ok">Hedef cihazın kablosuz ekran görüntüsünü açması gerekiyor.</string>
-  <string name="dialog_please_make_sure_tv_ok_or_help">Lütfen hedef cihazın kablosuz ekran yansıtma işlevinin etkin olup olmadığını kontrol edin.\nDaha fazla soru için lütfen yardım bölümüne bakın.</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Hedef cihazda kablosuz yansıtma özelliğinin açık olduğundan emin olun.
+Bağlantı sırasında sorun yaşarsanız yardımı görüntüleyin."</string>
   <string name="dialog_recent_connected">Son kullanılan</string>
   <string name="dialog_retry">Tekrar deneyin</string>
   <string name="dialog_scanning_device">Yakındaki cihazlar aranıyor…</string>
   <string name="dialog_scanning_precondition">Kablosuz Ekranı kullanmak için telefonunuzda WLAN ve Bluetooth\'u açın.</string>
-  <string name="dialog_select_tv">Bağlanılacak cihazı seçin</string>
+  <string name="dialog_select_tv">Cihaz seç (%d)</string>
   <string name="dialog_show_help">Yardım</string>
   <string name="disconnect">Yansıtmayı durdur</string>
   <string name="hang_up">Ekran kapalıyken yansıt</string>
@@ -78,7 +80,7 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt
   <string name="help_page_text_34">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, Uygulamalar &gt; Yansıtma &gt; Android cihazı &gt; Miracast bölümünden seçebilirsiniz.</string>
   <string name="help_page_text_35">Skyworth müşteri desteği: 95105555</string>
   <string name="help_page_text_36">Sony</string>
-  <string name="help_page_text_37">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [KAYNAK] düğmesine basıp ardından \"Ekran Aynalama\" öğesini seçebilir;bazı modeller bu ağ &gt; WIFIDirek ayarı olarak bulunabilir; Bu özellik, çeşitli modellerde varsayılan olarak açıktır.</string>
+  <string name="help_page_text_37">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, uzaktan kumandadaki [KAYNAK] düğmesine basıp ardından \"Ekran Aynalama\" öğesini seçebilir. Diğer bazı modellerde, bu özelliği Ağlar &gt; Wi-Fi Direkt üzerinden açabilirsiniz. Bu özellik çeşitli modellerde varsayılan olarak açıktır.</string>
   <string name="help_page_text_38">Sony müşteri desteği: 400-810-9000</string>
   <string name="help_page_text_39">Panasonic</string>
   <string name="help_page_text_40">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, Uygulamalar &gt; Ekran Aynalama öğesini seçebilirsiniz.</string>
@@ -104,14 +106,17 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt
   <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
   <string name="notification_show_more">Daha fazla özellik görüntülemek için dokunun</string>
   <string name="privacy_agree">Kabul et</string>
-  <string name="privacy_text_1">"　　Yansıtma\'ya Hoş Geldiniz! Yansıtma, telefonunuzun ekranındaki öğelerin daha büyük bir harici monitöre yansıtılmasını sağlar. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bazı özellikler üçüncü taraf bir servis sağlayıcı LeEco tarafından sağlanmaktadır. Bu özelliği kullanmadan önce "&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;LeEco Yansıtma Yasal Beyanı&lt;/a> ve &lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html"&gt;LeEco Yansıtma Gizlilik Politikası&lt;/a>nı okuyun ve kabul edin.</string>
-  <string name="privacy_text_2">"　　Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu uygulamayı kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar'dan izinleri kısıtlamayı seçebilirsiniz. Bu özelliği kullanmadan önce "&lt;a href="http://www.miui.com/res/doc/eula/en.html">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href="https://privacy.mi.com/all/en_US/">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</string>
+  <string name="privacy_text_1"><Data>"Yansıtma\'ya hoş geldiniz! Yansıtma, telefonunuzun ekranındaki öğeleri daha büyük bir harici monitöre yansıtmanızı sağlar.
+Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bazı özellikler üçüncü taraf servis sağlayıcısı HappyCast tarafından sağlanır. Bu özelliği kullanmadan önce &lt;a href=%2$s>HappyCast Yasal Bildirimi&lt;/a> ve &lt;a href=%1$s>HappyCast Gizlilik Politikası&lt;/a> okuyun ve kabul edin.
+Bu uygulamanın normal bir şekilde çalışabilmesi için internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerekir:"</Data></string>
+  <string name="privacy_text_2"><Data>"Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda Ayarlar\'dan uygulamayı kaldırmayı, oturumu kapatmayı veya izinleri kısıtlamayı seçebilirsiniz.
+Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin."</Data></string>
   <string name="privacy_text_pemission">"　　•Bu öğeleri harici monitörlere yansıtmak için cihazınızdaki görüntülere erişir ve bunları kaydeder
 　　•Harici cihazlara ses göndermek için çağrıları ve sesleri kaydeder
 　　•Cihazınızı tanımlamak için telefon numarasına, IMEI ve IMSI\'ye erişir
 　　•Yakındaki cihazları bulmak için konumunuza erişir"</string>
   <string name="private_protect">Özel öğeleri gizle</string>
-  <string name="san_wait_msg_1">Hedef cihazın kablosuz ekran yansıtmayı açması gerekiyor</string>
+  <string name="san_wait_msg_1">Hedef cihazda kablosuz yansıtma özelliğini açın</string>
   <string name="san_wait_msg_2">Cihazları aramak biraz zaman alabilir…</string>
   <string name="san_wait_msg_3">Harici cihazların telefonunuzla aynı ağa bağlı olduklarında bulunması daha kolaydır.</string>
   <string name="san_wait_msg_4">Aygıtları bulamıyorsanız \"Yardım\" sayfasını görüntüleyin</string>

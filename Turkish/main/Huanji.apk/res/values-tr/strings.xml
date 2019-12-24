@@ -18,6 +18,7 @@
   <string name="app_name">Mi Transfer</string>
   <string name="audio">Ses</string>
   <string name="audio_video_document">Ses, video ve belgeler</string>
+  <string name="back">Geri</string>
   <string name="birthday">Doğum günü</string>
   <string name="btn_got_it">Anladım</string>
   <string name="btn_install_complete">Yüklendi. Aktarmayı başlatın.</string>
@@ -604,6 +605,7 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
 2. Çok fazla veriye sahip uygulamaları seçmeyin.
 3. Depolama alanı boşaltmak için Temizleyici\'yi kullanın."</string>
   <string name="need_more_memory_title">Yeterli depolama alanı yok</string>
+  <string name="next">Sonraki</string>
   <string name="new_app_name">Yeni sürüm</string>
   <string name="new_main_activity_label">Mi Transfer</string>
   <string name="new_trans_intro_desc_2">Mi Transfer\'in yeni sürümünde şifre girmenize gerek yoktur. Eski cihazınızda Mi Transfer uygulamasını açın, \"Ben bir göndericiyim\" seçeneğine dokunun ve bağlanmak için erişim noktası adına dokunun.</string>
@@ -724,6 +726,7 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="select_item_photos">Fotoğraflar</string>
   <string name="select_item_remind">Hatırlatmalar</string>
   <string name="select_item_summary_loading">Veri yükleniyor…</string>
+  <string name="selected">Seçili</string>
   <string name="send">Gönder</string>
   <string name="send_sms_for_sync_notice">Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir.</string>
   <string name="send_sms_for_sync_title">Veri kullanımı uyarısı</string>
@@ -747,6 +750,7 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
   <string name="size_tera_byte">TB</string>
+  <string name="skip_underline">Bu adımı atla</string>
   <string name="soft_ap_create_failed">Bağlantı noktası oluşturulamadı</string>
   <string name="soft_ap_creating">Bağlantı noktası oluşturuluyor…</string>
   <string name="solar_term_autumn_begins">Sonbahar Başlıyor</string>
@@ -888,6 +892,7 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="tuesday">Salı</string>
   <string name="tuesday_short">Sa</string>
   <string name="tuesday_shortest">S</string>
+  <string name="unselected">Seçili değil</string>
   <string name="update_now">Şimdi güncelle</string>
   <string name="user_agreement">Hizmet Şartları</string>
   <string name="user_experience_program">Kullanıcı Deneyim Programı</string>

@@ -92,7 +92,7 @@
   <string name="deselect_all">Seçimi kaldır</string>
   <string name="deselect_all_description">Hiçbirini seçme</string>
   <string name="devided_by_zero_reminder_message">Sıfıra bölünemez</string>
-  <string name="dialog_privacy_content">Bir hesap makinesinin temel özelliklerinin yanı sıra, uygulamamız aynı zamanda bilimsel bir hesap makinesi ve çok amaçlı bir dönüştürücü içermektedir. Bazı özelliklerin normal çalışması için internete bağlanması gerekir. Hesap makinesini kullanmadan önce %1$s ve %2$s okumalı ve kabul etmelisiniz.</string>
+  <string name="dialog_privacy_content">Hesap Makinesi, temel işlevlerin yanı sıra para birimlerini ve ölçüm birimlerini dönüştürmenize, ipotek geri ödemelerini hesaplamanıza ve daha fazlasına olanak tanır. Bazı özelliklerin normal şekilde çalışabilmesi için internet bağlantısı gereklidir. <Data>Bu uygulamayı kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="dialog_privacy_title">Şartlar ve Koşullar</string>
   <string name="dialog_rating_desc_ask">Hesap makinesi hakkında ne düşünüyorsunuz?</string>
   <string name="dialog_rating_desc_less">Bize geri bildiriminizi verebilir misiniz?</string>
@@ -108,6 +108,7 @@
   <string name="digit7">7</string>
   <string name="digit8">8</string>
   <string name="digit9">9</string>
+  <string name="disallow">Katılmıyorum</string>
   <string name="div">÷</string>
   <string name="divDesc">böl</string>
   <string name="dot">.</string>
@@ -316,6 +317,7 @@
   <string name="negDesc">Sıfırın üstündeki ve altındaki sıcaklıklar arasında geçiş yapın</string>
   <string name="network_confirm_content">Döviz dönüştürücüsü, vergi ve ipotek hesaplayıcısının normal çalışması için ağ bağlantısı gereklidir.</string>
   <string name="network_confirm_title">İzin gerekli</string>
+  <string name="network_privacy">Bu uygulamanın size hizmet sunabilmesi için internete bağlanması ve gerekli kişisel bilgileri toplaması gerektiğini unutmayın. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</string>
   <string name="network_purpose">Hesap makinesine hoş geldiniz! Hesap makinesi, para birimlerini dönüştürmenize, ipotek ödemelerini hesaplamanıza ve daha pek çok şeye olanak sağlar.</string>
   <string name="nickname">Takma ad</string>
   <string name="night">ÖS</string>
@@ -332,6 +334,14 @@
   <string name="perm_payment_dspt">Uygulamanın Mi Pay Hizmetini kullanarak ödeme yapmasına izin ver</string>
   <string name="perm_payment_lab">Mi Pay</string>
   <string name="permdesc_sendSmsNoConfirmation">Uygulama izninizi istemeden SMS mesajı gönderebilir. Operatörünüz bu mesajlar için sizden ücret alabilir</string>
+  <string name="permission_location">Konum bilgisine erişir</string>
+  <string name="permission_location_desc">Konum tabanlı hizmetler sağlamak için</string>
+  <string name="permission_phone">Cihaz durumuna ve kimliğine erişir</string>
+  <string name="permission_phone_desc">Farklı cihazları tanımlamak için</string>
+  <string name="permission_privacy_link"><Data>Bu uygulamayı kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="permission_purpose">"Hesap Makinesi\'ne hoş geldiniz! Temel işlevlerin yanı sıra, Hesap Makinesi para birimlerini ve ölçüm birimlerini dönüştürmenize, ipotek geri ödemelerini hesaplamanıza ve daha fazlasına olanak tanır. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.
+Bu uygulamanın internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerektiğini unutmayın:"</string>
+  <string name="permission_remove_desc">Bu uygulamayı kaldırmayı, izinleri kısıtlamayı veya yetkilendirmenizi Ayarlar\'dan iptal etmeyi seçebilirsiniz.</string>
   <string name="permlab_sendSmsNoConfirmation">Arka planda SMS mesajlarına izin ver</string>
   <string name="phone">Telefon</string>
   <string name="pi">π</string>

@@ -29,7 +29,7 @@
   <string name="app_store_installing_message">Yükleniyor…</string>
   <string name="app_store_missing_message">Resmi Uygulama Mağazasını yüklememişsiniz gibi görünüyor. Şimdi yüklensin mi?</string>
   <string name="app_store_missing_title">Uygulama Mağazası yüklü değil</string>
-  <string name="application_detail_tips">Uygulama bilgisi ve izin ayarları</string>
+  <string name="application_detail_tips">Uygulama ayrıntıları ve gerekli izinler</string>
   <string name="auto_startup_dialog_msg">Bu uygulama sizin izniniz olmadan başlayabilir.</string>
   <string name="btn_text_full_scan">Tam tarama</string>
   <string name="btn_text_install_new_version">En son sürüm</string>
@@ -102,8 +102,8 @@
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor.</string>
   <string name="install_failed_msg">%1$s telefonunuza yüklenemedi.</string>
   <string name="install_failed_system_incompatible">Bu uygulama MIUI ile uyumlu değil</string>
-  <string name="install_finished_notification_summary">Şimdi temizlemek için tıklayın</string>
-  <string name="install_finished_notification_title">%1$s başarıyla yüklendi, %2$s şimdi temizleyin</string>
+  <string name="install_finished_notification_summary">Depolama alanı boşaltmak için dokunun</string>
+  <string name="install_finished_notification_title">%1$s başarıyla yüklendi. %2$s depolama alanı serbest bırakabilirsiniz.</string>
   <string name="install_from_appstore_hint">Uygulamayı <u>&lt;font color=#91c727>Uygulama Mağazası&lt;/font></u> üzerinden yüklemenizi öneririz</string>
   <string name="installing">Yükleniyor…</string>
   <string name="intercept_install">Yükle</string>
@@ -172,7 +172,7 @@
   <string name="miui_install_source_unkown">Bilinmeyen</string>
   <string name="miui_install_success">Başarıyla yüklendi</string>
   <string name="miui_install_version">Sürüm: %1$s | Boyut: %2$s</string>
-  <string name="miui_install_version_3">Sürüm: %1$s -&gt; %2$s | Boyut: %3$s</string>
+  <string name="miui_install_version_3">Sürüm %1$s -&gt; %2$s | Boyut %3$s</string>
   <string name="miui_installing">Yükleniyor…</string>
   <string name="miui_installing2">Yükleniyor…</string>
   <string name="miui_message_staging_0">Uygulama hazırlanıyor   </string>
@@ -257,7 +257,7 @@
   <string name="privacy_relative">Gizlilik</string>
   <string name="privacyPerms">Gizlilik</string>
   <string name="reboot_time">Yeniden başlatmaya hazırlanıyor… (%1$s)</string>
-  <string name="replace_app_des_text">Bu uygulamayı güncellemek istiyor musunuz?</string>
+  <string name="replace_app_des_text">Uygulama bu sürümle değiştirilsin mi?</string>
   <string name="review_button_cancel">İptal</string>
   <string name="review_button_continue">Devam</string>
   <string name="risk_warning_title">Risk tespit edildi</string>
@@ -306,7 +306,7 @@
   <string name="untrusted_external_source_always_click">Her zaman izin ver</string>
   <string name="untrusted_external_source_title">\"%1$s\" için uygulama yüklemesine izin verilsin mi?</string>
   <string name="untrusted_external_source_warning">Güvenliğiniz için telefonunuzun bu kaynaktan bilinmeyen uygulamaları yüklemesine izin verilmiyor.</string>
-  <string name="untrusted_external_source_warning_summary">Telefonunuz ve kişisel verileriniz bilinmeyen kaynaklardan gelen saldırılara karşı savunmasızdır. Bu kaynaktan uygulama yüklenmesine izin vererek, bu uygulamaların kullanılmasından kaynaklanan herhangi bir hasar ya da veri kaybı için sorumluluğu kabul etmiş olursunuz.</string>
+  <string name="untrusted_external_source_warning_summary">Cihazınız ve kişisel verileriniz bilinmeyen kaynaklardan yüklenen uygulamaların saldırılarına açıktır. Bu kaynaktan uygulama yüklemeye izin vererek, bu uygulamaları kullanırken meydana gelebilecek herhangi bir hasar veya veri kaybı sorumluluğunu kabul etmiş olursunuz.</string>
   <string name="user_is_not_allowed_dlg_text">Geçerli kullanıcının bu kaldırma işlemini gerçekleştirmesine izin verilmiyor.</string>
   <string name="user_is_not_allowed_dlg_title">İzin verilmedi</string>
   <string name="virus_scan_caller_unknown">Bilinmiyor</string>

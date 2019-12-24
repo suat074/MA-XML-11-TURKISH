@@ -36,6 +36,8 @@
   <string name="aod_close_color_inversion">Bu özellik, renkleri ters çevir ile çalışmaz. Önce renkleri ters çevir özelliğini kapatın.</string>
   <string name="aod_lock_screen_date">d MMMM, EE</string>
   <string name="aod_lock_screen_date_12">d MMMM, EE</string>
+  <string name="aod_lock_screen_date_12_signature">d/M</string>
+  <string name="aod_lock_screen_date_signature">d/M</string>
   <string name="aod_mode_preview">Önizleme</string>
   <string name="aod_mode_style">Saat stili ve arka plan</string>
   <string name="aod_mode_style_title">Daha fazla seçenek</string>

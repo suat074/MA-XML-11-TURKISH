@@ -196,6 +196,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="restore_finish_description">Geri yükleme tamamlandı</string>
   <string name="restore_finished_notification_content">Geri yüklenen Ana ekran uygulamaları, sistem ayarları, vb.</string>
   <string name="restore_from_cloud">Bulut yedeklemesinden geri yükle</string>
+  <string name="restore_from_mimover">Mi Transfer kullanarak eski cihazınızdan aktarın</string>
   <string name="restore_from_this_device">Bu yedeği kullanarak geri yükle</string>
   <string name="restore_home_failed">Ana ekran geri yüklenemedi.</string>
   <string name="restore_home_screen_apps">Bulut yedeklemesinden geri yükle</string>

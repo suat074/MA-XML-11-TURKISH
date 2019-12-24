@@ -442,6 +442,8 @@
   <string name="delete">Sil</string>
   <string name="delete_album_failed">Albümü silinemedi</string>
   <string name="delete_album_msg_format">\"%2$s\" albüm %1$s %3$s silinsin mi?</string>
+  <string name="delete_album_msg_format_cloud">%1$s %2$s, Xiaomi Bulutundan ve tüm eşitlenmiş cihazlardan silinsin mi?</string>
+  <string name="delete_album_msg_format_local">%1$s %2$s silinsin mi?</string>
   <string name="delete_album_success">Albüm silindi.</string>
   <string name="delete_finish_format">%d silindi</string>
   <string name="delete_from_all_devices_and_cloud">tüm cihazlardan ve Xiaomi Bulut\'tan</string>
@@ -704,8 +706,12 @@ mevcut"</string>
   <string name="filter_scene_vivid">Canlı</string>
   <string name="filter_scene_warm">Güneş</string>
   <string name="filter_single_sky">Gökyüzü değişimi</string>
+  <string name="filter_sky_clear_sky">Açık hava</string>
   <string name="filter_sky_cloudy">Bulutlu</string>
+  <string name="filter_sky_cumulus">Kümülüs</string>
+  <string name="filter_sky_dawn">Şafak</string>
   <string name="filter_sky_detect_forbidden_tips">Gökyüzü algılanamadı</string>
+  <string name="filter_sky_double_rainbow">Çift gökkuşağı</string>
   <string name="filter_sky_download_failed">Eklenti indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="filter_sky_download_finish">Eklenti başarıyla indirildi</string>
   <string name="filter_sky_download_sdk_without_wifi_msg">Wi-Fi\’ye bağlı değilseniz, fotoğraflarınızdaki gökyüzünü değiştirmenize olanak sağlayan eklentiyi (%1$dMB) indirmek için mobil veri kullanabilirsiniz.</string>
@@ -713,9 +719,13 @@ mevcut"</string>
   <string name="filter_sky_dusk">Alacakaranlık</string>
   <string name="filter_sky_glow">Parlaklık</string>
   <string name="filter_sky_hint">Gökyüzü değişimi</string>
+  <string name="filter_sky_nimbus">Yağmur bulutu</string>
   <string name="filter_sky_rainbow">Gökkuşağı</string>
+  <string name="filter_sky_snowy">Karlı</string>
+  <string name="filter_sky_stratus">Stratus</string>
   <string name="filter_sky_sunny">Güneşli</string>
   <string name="filter_sky_sunset">Gün batımı</string>
+  <string name="filter_sky_twilight">Alacakaranlık</string>
   <string name="finish_create_baby_album_toast">Xiaomi Bulut\'ta \"%s\" için bir albüm oluşturuldu</string>
   <string name="finish_fill_baby">Oluştur</string>
   <string name="first_time_add_video_to_secret_tips">Videoları gizleyebilmek için Galeri\'yi güncelle</string>
@@ -1340,6 +1350,9 @@ mevcut"</string>
   <string name="request_sms_url_title">İpucu</string>
   <string name="retry_to_create_album">Tekrar deneyin</string>
   <string name="retry_to_request_qr_code">Tekrar deneyin</string>
+  <string name="risk_control_deleted_date">dd/MM</string>
+  <string name="risk_control_deleted_message">Birisi Galeri öğelerinizi %2$s tarihinde %1$s üzerinden %3$s kullanarak buluttan sildi. O sen miydin?</string>
+  <string name="risk_control_deleted_title">Güvenlik uyarısı</string>
   <string name="runtime_permission_ungranted">Galeri kapatıldı, izne ihtiyaç yok</string>
   <string name="same_name_album_exist_and_toast">Aynı isimde bir albüm zaten var. Onun yerine \'%s\' oluşturuldu.</string>
   <string name="saturday">Cumartesi</string>
@@ -1676,6 +1689,7 @@ mevcut"</string>
   <string name="trash_bin">Çöp Kutusu</string>
   <string name="trash_bin_key_word">Silinen fotoğraflar</string>
   <string name="trash_bin_summary">Son zamanlarda silinmiş olan yedeklenmiş fotoğraflara göz at</string>
+  <string name="trash_bin_summary_local">Son silinen fotoğrafları ve videoları görüntüle</string>
   <string name="trash_empty">Burada öğe yok.</string>
   <string name="trash_menu_delete">Sil</string>
   <string name="trash_menu_recovery">Geri yükle</string>
@@ -1710,7 +1724,7 @@ mevcut"</string>
   <string name="user_agreement2">" Kullanım Şartları"</string>
   <string name="user_agreement4">Gizlilik Politikası</string>
   <string name="user_alias_self">Kendini</string>
-  <string name="user_notice_identify_summary_format">Bu servisi kullanarak, Xiaomi\'nin %1$s ve %2$s kabul etmiş olursunuz.</string>
+  <string name="user_notice_identify_summary_format"><Data>"Bu hizmeti kullanarak, Xiaomi\'nin &lt;a href=\"%1$s\">\"Hizmet Şartları\"&lt;/a> ve &lt;a href=\"%2$s\">\"Gizlilik Politikası\"&lt;/a>nı kabul etmiş olursunuz."</Data></string>
   <string name="user_notice_title">Şartlar ve Koşullar</string>
   <string name="video_edit_file_not_exits_tip">Önce videoyu indirmeniz lazım</string>
   <string name="video_editor_abandon_changes_tip_message">Tüm değişiklikler iptal edilsin mi?</string>

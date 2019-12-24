@@ -230,6 +230,11 @@
   <string name="accessibility_status_bar_headphones">Kulaklık bağlandı</string>
   <string name="accessibility_status_bar_headset">Kulaklık bağlı</string>
   <string name="accessibility_status_bar_hotspot">Paylaşım</string>
+  <string name="accessibility_status_bar_no_slave_wifi">Yardımcı WLAN bağlantısı kesildi</string>
+  <string name="accessibility_status_bar_slave_wifi_four_bars">Yardımcı WLAN dört çubuk</string>
+  <string name="accessibility_status_bar_slave_wifi_one_bar">Yardımcı WLAN bir çubuk</string>
+  <string name="accessibility_status_bar_slave_wifi_three_bars">Yardımcı WLAN üç çubuk</string>
+  <string name="accessibility_status_bar_slave_wifi_two_bars">Yardımcı WLAN iki çubuk</string>
   <string name="accessibility_three_bars">Üç çubuk.</string>
   <string name="accessibility_tty_enabled">Daktilo (TTY) etkin.</string>
   <string name="accessibility_two_bars">İki çubuk.</string>

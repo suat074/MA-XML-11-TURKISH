@@ -26,6 +26,7 @@
   <string name="data_connection_button_text">Tamam</string>
   <string name="data_connection_title">Veri Kullanım Uyarısı</string>
   <string name="delete">Sil</string>
+  <string name="delete_cloud_data_at_same_time">Buluttan da sil</string>
   <string name="delete_dialog_message">Kayıt silinsin mi?</string>
   <string name="deleting_message">Siliniyor...</string>
   <string name="details">Detaylar</string>
@@ -146,6 +147,8 @@
   <string name="preference_online_orders">Çevrimiçi siparişler</string>
   <string name="preference_recog_faqs">Çevrimiçi tanıma SSS</string>
   <string name="preference_recog_terms">Çevrimiçi tanıma şartları</string>
+  <string name="preference_record_desktop_indicator_summary">Kaydedici arka planda çalışırken Ana ekranda mavi bir gösterge göster</string>
+  <string name="preference_record_desktop_indicator_title">Ana ekran göstergesi</string>
   <string name="preference_record_scenes_dialog_title">Kayıt türünü seçin</string>
   <string name="preference_record_type_dialog_title">Kayıt türünü seçin</string>
   <string name="preference_record_type_title">Kayıt tipi:</string>
