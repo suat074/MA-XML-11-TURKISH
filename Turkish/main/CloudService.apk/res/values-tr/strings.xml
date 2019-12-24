@@ -453,7 +453,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="warning_bar_action_close">Kapat</string>
   <string name="warning_bar_action_turn_on_master_sync">Aç</string>
   <string name="warning_bar_action_turn_on_sync">Aç</string>
-  <string name="warning_bar_action_upgrade_vip">Xiaomi Bulut planını yükseltin</string>
+  <string name="warning_bar_action_upgrade_vip">Yükselt</string>
   <string name="warning_bar_add_short_cut_success">Başarıyla eklendi</string>
   <string name="warning_bar_title_cloud_space_already_full">Bulut depolama alanı azalıyor. Fotoğraflarınız eşitlenmemiş olabilir.</string>
   <string name="warning_bar_title_cloud_space_full">Bulut depolama alanı dolu. Fotoğraflar, arama geçmişi ve diğer öğeler eşitlenemiyor.</string>

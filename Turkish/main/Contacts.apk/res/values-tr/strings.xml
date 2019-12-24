@@ -195,6 +195,7 @@
   <string name="conference_call_disable_tip">Çağrı yapılamıyor. Cihazınızın VoLTE desteği ile 4G ağına bağlı olduğundan emin olun.</string>
   <string name="confirm_call_log_dial_summary">Yanlışlıkla arama yapmamak için çağrı kayıtlarından çağrı yapmadan önce onay isteyin.</string>
   <string name="confirm_call_log_dial_title">Çağrı kayıtları üzerinden aramaları onaylayın</string>
+  <string name="confirm_delete_cloud_all_call_logs">%s ile ilgili tüm çağrı geçmişi kayıtları hem buluttan hem de bu cihazdan silinsin mi?</string>
   <string name="confirm_delete_contact_all_call_logs">Tüm %s geçmişi temizlensin mi?</string>
   <string name="confirm_delete_selected_all_call_logs">Çağrı geçmişi temizlensin mi?</string>
   <string name="confirm_delete_sim_entry_miui_title">Sil</string>
@@ -309,6 +310,7 @@
   <string name="delete_sim_entries_finish">SIM karttaki kişileri sil</string>
   <string name="delete_sim_entry_miui">Sil</string>
   <string name="delete_unknown_contact_calllog_title">Çağrı geçmişi silinsin mi?</string>
+  <string name="deleteCloudConfirmationDetail">%s kişi bilgileri hem buluttan hem de bu cihazdan silinsin mi?</string>
   <string name="deleteConfirmation">Bu kişi silinecek!</string>
   <string name="deleteConfirmation_title">Bu kişi silinsin mi?</string>
   <string name="deleteConfirmationDetail">\"%s\" silinsin mi?</string>
@@ -715,7 +717,7 @@
   <string name="missing_name">(İsimsiz)</string>
   <string name="missing_required_permission">Gerekli bir izni devre dışı bıraktınız.</string>
   <string name="mobile_equipment_identification">Mobil Ekipman Tanımlama</string>
-  <string name="more_call_logs">&lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a> sitesinden detaylı çağrı geçmişini görüntüle</string>
+  <string name="more_call_logs">&lt;a href="https://i.mi.com">i.mi.com&lt;/a> sitesinden detaylı çağrı geçmişini görüntüle</string>
   <string name="move_and_resize">Taşı ve yeniden boyutlandır</string>
   <string name="multi_number_menu_call">Ara</string>
   <string name="multi_number_menu_delete">Sil</string>
@@ -748,6 +750,7 @@
   <string name="no_contacts_dialog_message">Kişiler SIM kart hafızasında olabilir. Telefonunuzun dahili depolamasına SIM karttan bunları aktarın ve yeniden deneyin.</string>
   <string name="no_contacts_dialog_title">Kişiler bulunamadı</string>
   <string name="no_contacts_selected">Seçilmiş kişi yok.</string>
+  <string name="no_phone_no_shortcut">Telefon numaraları olmayan kişiler için kısayollar oluşturulamaz</string>
   <string name="no_sdcard_message">SD Kart bulunamadı.</string>
   <string name="no_setting_menu">Kullanılabilir menü seçeneği yok</string>
   <string name="noAccounts">Grup oluşturabilmek için bir hesaba ihtiyacınız var.</string>
@@ -758,7 +761,7 @@
 
 Favoriler listenize bir kişi eklemek için:
 
-"<li>&lt;b>Kişiler&lt;/b>" sekmesine dokunun
+"<li><b>Kişiler</b>" sekmesine dokunun
 "</li>" 
 "<li>"Favorilerinize eklemek istediğiniz kişiye dokunun
 "</li>" 
