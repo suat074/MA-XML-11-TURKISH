@@ -91,7 +91,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="confirm_restore">Geri Yükle</string>
   <string name="confirm_restore_summary">Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir.</string>
   <string name="confirm_restore_title">Geri Yükle</string>
-  <string name="customization"><u>özelleştir</u></string>
+  <string name="customization"><u>Özelleştir</u></string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarm Saati</string>
   <string name="desktop_downloading">İndiriliyor</string>
