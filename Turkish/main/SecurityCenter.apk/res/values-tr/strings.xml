@@ -1035,6 +1035,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gamebox_immersion_tips_content">Sürükleyici mod, mobil veri bağlantısı dışında tüm SIM kart işlevselliğini kısıtlar. Çağrılar tarafından kesilmeyecek ve de cevapsız çağrılar ile ilgili bildirim almayacaksın. Sürükleyici mod kapatıldığında tüm SIM kart özellikleri geri yüklenir. Sürükleyici modu aç?</string>
   <string name="gamebox_immersion_tips_title">Dikkat</string>
   <string name="gamebox_immerson_open">Sürükleyici mod açılıyor, ağları değiştirmeyin…</string>
+  <string name="gamebox_manual_record">Kayıt</string>
   <string name="gamebox_milink">Yansıt</string>
   <string name="gamebox_positive_button_text">Tamam (%1$ds)</string>
   <string name="gamebox_qq_not_find">QQ yükleyin ve tekrar deneyin.</string>
