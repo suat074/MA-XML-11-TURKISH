@@ -420,7 +420,7 @@
   <string name="no_network_btn">Tekrar deneyin</string>
   <string name="notification_garbage_cleanup_summary">Cihazınızı hızlandırmak için çöp kutusunu (%s) temizleyin</string>
   <string name="notification_garbage_cleanup_title">Çöp dosyaları temizle</string>
-  <string name="notification_low_memory_cache_summary">1,5 GB\'den daha az depolama alanı mevcut</string>
+  <string name="notification_low_memory_cache_summary">1,5 GB\'tan daha az depolama alanı mevcut</string>
   <string name="notification_low_memory_cache_title">Önbelleği temizle</string>
   <string name="notification_low_memory_deepclean_summary">Derin temizlik ile cihazınızda depolama alanı boşaltabilirsiniz</string>
   <string name="notification_low_memory_deepclean_title">Depolama alanı azalıyor</string>

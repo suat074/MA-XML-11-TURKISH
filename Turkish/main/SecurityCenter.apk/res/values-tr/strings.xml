@@ -1548,6 +1548,8 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="notification_channel_battery">Pil</string>
   <string name="notification_exit_power_save_mode">Pil Tasarrrufu kapatıldı</string>
   <string name="notification_exit_power_save_mode_subtitle">Pil %s şarj edildi.</string>
+  <string name="notification_garbage_cleanup_summary">Cihazınızı hızlandırmak için çöpü (%s) temizleyin</string>
+  <string name="notification_garbage_cleanup_title">Çöp dosyaları temizle</string>
   <string name="notification_low_battery_action_btn">Aç</string>
   <string name="notification_low_battery_need_charge">Cihazınızı şarj edin</string>
   <string name="notification_low_battery_open_save_mode">Pil tasarrufunu açın</string>
@@ -1743,10 +1745,10 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="phone_manage_system_tool_summary">Sistem düzeyinde faydalı araçlar</string>
   <string name="phone_manage_system_tool_title">Araçlar</string>
   <string name="pkg_traffic">Veri kullanım sınırını ayarla</string>
-  <string name="pm_auto_start_by_other">Başlatma tetiklendi</string>
+  <string name="pm_auto_start_by_other">Başlatma tetikleme</string>
   <string name="pm_auto_start_by_other_app">Uygulamanın diğer uygulamalar tarafından başlatılmasına izin ver</string>
-  <string name="pm_auto_start_by_system">Uygulamaları başlat</string>
-  <string name="pm_auto_start_by_system_event">Uygulamaların otomatik başlatılmasına izin ver</string>
+  <string name="pm_auto_start_by_system">Uygulamayı başlat</string>
+  <string name="pm_auto_start_by_system_event">Uygulamanın otomatik başlatılmasına izin ver</string>
   <string name="pm_auto_start_proc_is_running">Çalışıyor</string>
   <string name="pm_remember_choice">Seçimimi hatırla</string>
   <string name="pm_root_success_notification_infomation">Root erişimi ile ilgili riskleri anladığınızdan emin olun.</string>
@@ -2343,8 +2345,8 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="summary_cloud_space_almost_full">Depolama al</string>
   <string name="summary_cloud_space_full">Daha fazla depolama alanı edinin ve daha fazla özelliğe erişin</string>
   <string name="summary_cmcc_app_check">Bazı uygulamalar doğrulanamadı</string>
-  <string name="summary_consume_power">Isıtma sorunları bulundu, pil ömrünü etkileyebilir</string>
-  <string name="summary_dark_mode">Bazı sayfalar, üçüncü taraf hizmetleri nedeniyle siyah olarak görüntüleniyor</string>
+  <string name="summary_consume_power">Isınma sorunları bulundu, pil ömrünü etkileyebilir</string>
+  <string name="summary_dark_mode">Bazı sayfalar üçüncü taraf servisleri nedeniyle siyah olarak işlenir</string>
   <string name="summary_data_flow">Ek ücretlerden kaçınmak için mobil veri kullanımını kontrol edin</string>
   <string name="summary_default_app">%s varsayılan sistem uygulaması olarak ayarlanmadı</string>
   <string name="summary_dev">Kötü amaçlı yazılımlardan kaçının ve kişisel verileri koruyun</string>

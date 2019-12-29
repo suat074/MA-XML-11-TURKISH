@@ -300,6 +300,8 @@
   <string name="delete_call_log_message">Çağrı geçmişi silinsin mi?</string>
   <string name="delete_call_log_selected_title">Seçili çağrı geçmişi silinsin mi?</string>
   <string name="delete_call_log_title">Çağrı geçmişini temizle</string>
+  <string name="delete_conference_call_log_message">Bu kişiyle ilişkili tüm konferans görüşme kayıtları şimdi silinsin mi?</string>
+  <string name="delete_conference_call_log_title">Konferans çağrı kayıtlarını sil</string>
   <string name="delete_contact_calllog_title">Çağrı geçmişi silinsin mi?</string>
   <string name="delete_dial_input">Sil</string>
   <string name="delete_duplicate">Birleştir</string>

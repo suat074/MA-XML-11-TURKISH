@@ -154,6 +154,11 @@
   <string name="locate_fail_detail_err">Cihaz konumunuzu bulunamıyor\nElle eklemek veya  yeniden konumlandırmak için ekrana dokunun</string>
   <string name="location_provider_btn_text">Konum hizmetlerini açın</string>
   <string name="location_tag">Konum</string>
+  <string name="manager_city_option_add_city_back_search">Aramaya dön</string>
+  <string name="manager_city_option_add_city_content">Bu şehir başlangıç sayfasına başarıyla eklendi</string>
+  <string name="manager_city_option_add_city_title">Başarıyla eklendi</string>
+  <string name="manager_city_option_add_home">Başlangıç sayfasına ekle</string>
+  <string name="manager_city_option_view_on_home">Başlangıç sayfasında görüntüle</string>
   <string name="menu_location">Konumlar</string>
   <string name="menu_speaker">Sesli Yayın</string>
   <string name="minute_rain">Dakikalık Tahmin</string>

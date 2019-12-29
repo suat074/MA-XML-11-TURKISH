@@ -295,7 +295,7 @@
   <string name="emailTypeWork">İş</string>
   <string name="email_desc">E-posta adresi seçildi</string>
   <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
-  <string name="emergency_calls_only">Sadece acil çağrılar için</string>
+  <string name="emergency_calls_only">Sadece acil çağrılar</string>
   <string name="emptyPhoneNumber">(Telefon numarası yok)</string>
   <string name="enablePin">Başarısız, SIM/RUIM kilidini etkinleştirin.</string>
   <string name="enable_explore_by_touch_warning_message">%1$s, Dokunarak Keşfet özelliğini etkinleştirmek istiyor. Dokunarak Keşfet açık olduğunda parmağınızın altındaki öğelere ait açıklamaları duyabilir veya görebilir veya telefonla etkileşimde bulunmak için birtakım hareketler yapabilirsiniz.</string>
