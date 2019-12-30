@@ -245,6 +245,10 @@
   <string name="fake_cell_timeout_hint">Güvenlik kontrolü başarısız</string>
   <string name="favorite_at_time">Favorilere eklendi: %1s</string>
   <string name="fdn_check_failure">Yalnızca sabit arama numaralarınıza mesaj gönderebilirsiniz.</string>
+  <string name="feature_mx">Mi Mesaj</string>
+  <string name="feature_mx_summary"><b>Mi Mesaj, diğer Mi Mesaj kullanıcılarına internet üzerinden ücretsiz mesaj göndermenizi sağlar</b>. Bu servisi etkinleştirmek için giden bir SMS mesajı gerekir. Operatörünüz bu mesaj için sizden ücret alacaktır. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Kullanıcı Sözleşmemizi</a></font> ve <font color="#B3000000"><a href="http://url2">Gizlilik Politikamızı</a></font> okuyun ve kabul edin.</string>
+  <string name="feature_smart_sms">Akıllı Mesajlaşma</string>
+  <string name="feature_smart_sms_summary"><b>Akıllı mesajlaşma Gönderen kimliği tanıma ve akıllı menüler sağlar</b>. Akıllı Mesajlaşma kısmen Yulore tarafından sağlanır. Bu özelliği kullanmadan önce Yulore <font color="#B3000000"><a href="http://url3">Gizlilik Politikasını</a></font> okuyun ve kabul edin.</string>
   <string name="festival_sms_loading">Yükleniyor...</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Oluşturuldu:</string>
@@ -296,6 +300,7 @@
   <string name="hybrid_service_unavailiable">Hizmet kullanılamıyor</string>
   <string name="hybrid_try_again">Tekrar deneyin</string>
   <string name="i_know">Anladım</string>
+  <string name="ignore">Şimdi değil</string>
   <string name="imageview_ad">Reklam</string>
   <string name="importing_progress_private_message">Aktarılıyor…</string>
   <string name="in_sms">Mesaj</string>
@@ -591,6 +596,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="private_new_notification">Mesaj bildirimleri</string>
   <string name="private_protect">Şifreler</string>
   <string name="private_settings">Ayarlar</string>
+  <string name="privacy_term">Gizlilik Politikası</string>
   <string name="processing">Çalışıyor...</string>
   <string name="prompt_otp">Kod</string>
   <string name="prompt_phone">Telefon numarası</string>
@@ -600,6 +606,12 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="prvate_contact">Özel kişiler</string>
   <string name="quick_reply">Cevapla</string>
   <string name="rate_limit_surpassed">Tamam</string>
+  <string name="recommend_both_dialog_title">Mesajlaşma\'ya hoş geldiniz!</string>
+  <string name="recommend_dialog_message">Ek özelliklere erişmek için Mi Mesaj ve Akıllı Mesajlaşma özelliğini açabilirsiniz.</string>
+  <string name="recommend_mx_dialog_title">Mi Mesaj\'a hoş geldiniz!</string> 
+  <string name="recommend_mx_setting_summary">Mi Mesaj, diğer Mi Mesaj kullanıcılarına internet üzerinden ücretsiz mesaj göndermenizi sağlar.</string> 
+  <string name="recommend_smart_sms_dialog_title">Akıllı Mesajlaşma\'ya hoş geldiniz!</string> 
+  <string name="recommend_smart_sms_setting_summary">Akıllı mesajlaşma Gönderen kimliği tanıma ve akıllı menüler sağlar.</string>
   <string name="rcs_auto_resend_as_sms_remind_change">Ayarları değiştir</string>
   <string name="rcs_auto_resend_as_sms_remind_desp">Şebeke sinyali zayıf olduğunda 900Bayt\'a kadar olan mesajlar dönüştürülebilir ve SMS olarak gönderilebilir. Mesajlarınızı SMS\'e dönüştürmek istemiyorsanız \"Ayarları değiştir\"e dokunun.</string>
   <string name="rcs_auto_resend_as_sms_remind_title">SMS\'e dönüştür</string>
@@ -903,6 +915,7 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="too_many_unsent_mms">Şu anda mesaj gönderilemiyor. Çok fazla gönderilmemiş multimedya mesajı var.</string>
   <string name="train_edit_destination">Ekle</string>
   <string name="try_to_send">Tekrar gönder</string>
+  <string name="turn_on">Aç</string>
   <string name="type_attachment">ek</string>
   <string name="type_audio">ses</string>
   <string name="type_picture">resim</string>
@@ -931,6 +944,7 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="url_scan_again">Tekrar kontrol et</string>
   <string name="url_scanning">Link kontrol ediliyor…</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="user_term">Kullanıcı Sözleşmesi</string>
   <string name="verification_code_icon_name">D</string>
   <string name="verification_code_list_title">Doğrulama kodları</string>
   <string name="view">Görüntüle</string>
@@ -944,4 +958,5 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="yes">Tamam</string>
   <string name="yesterday">Dün</string>
   <string name="you_have_new_message">Yeni mesajlarınız var</string>
+  <string name="yulore_term">Gizlilik Politikası</string>
 </resources>

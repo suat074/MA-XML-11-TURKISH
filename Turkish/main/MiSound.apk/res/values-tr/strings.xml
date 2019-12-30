@@ -104,7 +104,7 @@
   <string name="music_headset_mode_settings">Kulaklık kontrol düğmeleri</string>
   <string name="music_headset_mode_volume">Ses seviyesi kontrolü</string>
   <string name="music_headset_no_contected">Kulaklık algılanmadı</string>
-  <string name="music_headset_settings">Kulaklık</string>
+  <string name="music_headset_settings">Ses efektleri</string>
   <string name="music_hifi_summary">Gürültüyü ve bozulmayı azaltın, ses kalitesini artırın</string>
   <string name="music_hifi_title">Hi-Fi ses</string>
   <string name="music_mi_effect_summary">Hoparlör kullanırken Mi Ses Geliştiricisi\'ni kullanın</string>

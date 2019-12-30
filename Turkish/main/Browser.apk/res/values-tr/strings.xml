@@ -200,6 +200,8 @@
   <string name="channel_header_title">Benim kanalım</string>
   <string name="channel_more_description">Eklemek için dokunun</string>
   <string name="channel_more_title">Daha fazla kanal</string>
+  <string name="channel_network_error">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
+  <string name="channel_no_data">Şimdilik bu kadar. Diğer kanallara göz atın!</string>
   <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
   <string name="check_security_tip_privacy_policy">Gizlilik Politikası</string>
   <string name="check_security_tip_user_agreement">Kullanıcı Sözleşmesi</string>
@@ -229,11 +231,13 @@
   <string name="collect_video">Video derle</string>
   <string name="comment_app_menu">Yorum</string>
   <string name="comment_description">Yorum</string>
+  <string name="comment_fail">Yorum eklenemedi. Tekrar deneyin.</string>
   <string name="comment_hint">Yorum</string>
   <string name="comment_max_length">Yorumunuz çok uzun.</string>
   <string name="comment_menu">Yorum</string>
   <string name="comment_num_description">Yorum numarası</string>
   <string name="comment_publish_to_topic">Yorumları eşitle</string>
+  <string name="comment_success">Yorum başarıyla eklendi</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
   <string name="common_use_phrase_bottom_bar_text_next">Sonraki</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Önceki</string>
@@ -393,6 +397,7 @@
   <string name="exit_fullscreen">Tam ekrandan çık</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="favorite">Favorilere ekle</string>
+  <string name="feedback_not_interested_response">Bu türden daha az öğe göreceksiniz</string>
   <string name="file_dir">Dosyayı değiştir</string>
   <string name="file_name">"İsim: "</string>
   <string name="file_picker">Yolu seç</string>
@@ -995,6 +1000,7 @@
   <string name="short_video_gesture_hint">Sonraki videoyu izlemek için kaydır</string>
   <string name="short_video_net_dialog_continue">Yine de oynat</string>
   <string name="short_video_net_dialog_title">Şimdi mobil veri kullanıyorsunuz. Mobil kullanımı ek operatör ücretleri oluşturabilir.</string>
+  <string name="short_video_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
   <string name="short_video_tip">Bak! Eğlenceli video</string>
   <string name="show_check_security_url_check_tip_dialog_description">Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız.\nTopladığımız veriler şunlardır:\n1. Güvenli URL\'ler: Hizmetlerimizi kullanırken ziyaret ettiğiniz web sitelerinin URL\'lerini toplayacağız.\n2. Konum verileri: Konum bilgilerinize erişiriz.\nTopladığımız verileri şu şekilde kullanırız.:\n1. Güvenlik: Verilerinizi, dolandırıcılık ve virüslerden korumak için kullandığımız gibi, depolama ve yedekleme nedenleriyle de kullanırız.\n2. İçerik: Verileriniz, size özel haber içeriği sağlamamıza yardımcı oluyor.\nTarayıcının normal çalışması için internete bağlanması gerekiyor. Tarayıcı\'yı kullanabilmek için %2$s ve %1$s kabul etmelisiniz.​</string>
   <string name="show_security_tip_dialog_title">Gizlilik Politikası</string>
@@ -1112,6 +1118,7 @@
   <string name="translation_query_error">Çeviri yapılamadı</string>
   <string name="translation_query_error_network">Bilgi alınamadı. Ağa bağlanın ve tekrar deneyin.</string>
   <string name="translation_result_copy">Panoya kopyalandı</string>
+  <string name="tt_ad">Reklam</string>
   <string name="unSwitchText">HAYIR</string>
   <string name="undo">Geri al</string>
   <string name="unknown_title">Bilinmiyor</string>

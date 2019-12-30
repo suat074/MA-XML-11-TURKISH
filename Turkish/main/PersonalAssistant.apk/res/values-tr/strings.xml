@@ -68,9 +68,9 @@
   <string name="app_setting_xiaoai">Mi AI düğmesi</string>
   <string name="app_suggest_detail_setting_summary">Uygulama önerileri kullanım verilerinize bağlı olacak</string>
   <string name="app_suggest_detail_setting_title">Uygulama durumuna erişim izni ver</string>
-  <string name="app_suggest_setting_brief">Son kullanılan uygulamaları göster</string>
-  <string name="app_suggest_setting_brief_detail">Uygulama önerileri kullanım verilerinize bağlı olacak</string>
-  <string name="app_suggest_setting_title">Uygulama önerileri</string>
+  <string name="app_suggest_setting_brief">Kullanmanız muhtemel uygulamalar ve özellikler hakkında öneriler al</string>
+  <string name="app_suggest_setting_brief_detail">Kullanmanız muhtemel uygulamalar ve özellikler hakkında öneriler alın.</string>
+  <string name="app_suggest_setting_title">Akıllı öneriler</string>
   <string name="apps">Uygulama Önerisi</string>
   <string name="apps_label">Uygulamalar</string>
   <string name="arr_airport">Varış havaalanı</string>
@@ -145,6 +145,7 @@
   <string name="card_expand_note_toast_clear_null">Başarıyla temizlendi</string>
   <string name="card_expand_note_toast_save_done">Notlara kaydedildi</string>
   <string name="card_expand_note_toast_save_dup">Başarıyla kaydedildi</string>
+  <string name="card_expand_note_toast_share_null">Bu not boş</string>
   <string name="card_hint_noteboard">Not almak için buraya dokunun.</string>
   <string name="card_menu_edit">Düzenle</string>
   <string name="card_menu_remove">Kaldır</string>

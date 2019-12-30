@@ -1661,6 +1661,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="default_notification_assistant">Bildirim yardımcısı</string>
   <string name="default_phone_title">Arama</string>
   <string name="default_rule_name">Zamanlama 1</string>
+  <string name="default_suppression_title">Varsayılan (Önerilen))</string>
   <string name="default_sound">Varsayılan Ses</string>
   <string name="default_spell_checker">Varsayılan Yazım Denetleyicisi</string>
   <string name="default_theme">Varsayılan</string>
@@ -1818,6 +1819,8 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="display_vr_pref_low_persistence">Düşük hareket bulanıklığı ayarlarını kullan</string>
   <string name="display_vr_pref_off">Bir şey yapma</string>
   <string name="display_vr_pref_title">"Cihaz VR modundayken: "</string>
+  <string name="diy_suppression_summary">Yanlışlıkla dokunmanın yok sayılacağı kenarlara yakın alanın boyutunu ayarlayın</string>
+  <string name="diy_suppression_title">Özel</string>
   <string name="dlg_cancel">İptal</string>
   <string name="dlg_close">Kapat</string>
   <string name="dlg_confirm_unmount_text">Eğer USB depolama çıkartılırsa bazı uygulamalar durdurulur ve USB depolama yeniden bağlanıncaya kadar kullanılmayabilir.</string>
@@ -1954,6 +1957,8 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="edge_mode_photo_summary">Kamera uygulamasında iken, deklanşörü tetiklemek için telefonunuzun kenarına dokunun ve fotoğraf çekmek için tekrar dokunun</string>
   <string name="edge_mode_screenshot">E. Görüntüsü</string>
   <string name="edge_mode_screenshot_summary">Bir ekran görüntüsü almak için iki kenara çift dokunun</string>
+  <string name="edge_mode_state_summary">Kavisli kenarların etrafındaki alan dokunmaya yanıt vermez</string>
+  <string name="edge_mode_state_title">Kenarlara yanlışlıkla dokunmayı yoksay</string>
   <string name="edit_rule">kuralları düzenle</string>
   <string name="edit_rules">düzenle</string>
   <string name="eighthours">8 saat</string>
@@ -2462,7 +2467,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="header_category_system">Sistem</string>
   <string name="header_category_wireless_networks">Ağ</string>
   <string name="header_data_and_synchronization">Veri &amp; Eşitleme</string>
-  <string name="headset_settings_title">Kulaklık</string>
+  <string name="headset_settings_title">Ses efektleri</string>
   <string name="heavy_weight_stop_description">Bu uygulama güvenli bir şekilde durdurulamıyor. Eğer durdurursanız mevcut bazı işleri kaybedebilirsiniz.</string>
   <string name="help_feedback_label">Yardım &amp; geri bildirim</string>
   <string name="help_label">Yardım ve geri bildirim</string>
@@ -4031,6 +4036,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="privacy_factory_reset_dlg_button_text">Sıfırla</string>
   <string name="privacy_factory_reset_dlg_message">Eğer şifrenizi unutursanız; fabrika ayarlarına sıfırlayıp, yeni bir tane alabilirsiniz.</string>
   <string name="privacy_factory_reset_dlg_title">Verilerinizi yedekleyin</string>
+  <string name="privacy_failed_need_to_unlock_nofingerprint">Yeni bir parmak izi kullanmadan önce şifreyi girin</string>
   <string name="privacy_file">Dosyalar</string>
   <string name="privacy_gallery">Fotoğraflar</string>
   <string name="privacy_header_text_less_than_half">Çok küçük.Biraz daha sürükleyin.</string>
@@ -4829,6 +4835,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="security_status_title">Güvenlik durumu</string>
   <string name="security_update">Güvenlik güncellemesi</string>
   <string name="see_all_apps_title">Tüm %1$d uygulamalarına bak</string>
+  <string name="seek_bar_info">Boyutu ayarla</string>
   <string name="select_all">Tümünü seç</string>
   <string name="select_application">Uygulamayı seçin</string>
   <string name="select_device_admin_msg">Cihaz Yöneticileri</string>
@@ -5363,6 +5370,8 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunu ^4 yerine taşınabilir depola
   <string name="storageuse_settings_title">Depolama kullanımı</string>
   <string name="strict_mode">Katı mod etkin</string>
   <string name="strict_mode_summary">Uygulamalar ana iş parçacığında uzun işlemler yaptığında ekranı flaşla</string>
+  <string name="strong_suppression_summary">Cihazınız yanlışlıkla dokunmaya yanıt vermiyor, bazı hareket kontrolleri kenarların yakınında çalışmayabilir</string>
+  <string name="strong_suppression_title">Büyük alan</string>
   <string name="structure_add_facerecoginition_text">3B yüz verisi ekle</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">Düşük pil nedeniyle bu özelliği kullanamazsınız</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Kaydın başlaması için pilin şarjı en az 5% olmalıdır.</string>
@@ -6175,6 +6184,8 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="vt_provisioned_switch_string">Video Görüşmesi Temel Hazırlığını Yap</string>
   <string name="wait_for_debugger">Hata ayıklayıcı için bekle</string>
   <string name="wait_for_debugger_summary">Ayıklanacak uygulamayı çalıştırmadan önce bağlamak için hata ayıklayıcısını bekle</string>
+  <string name="wake_suppression_summary">Cihazınız yanlışlıkla dokunmaya yanıt verebilir, ancak kenarların yakınındaki hareket kontrollerine de cevap verecektir</string>
+  <string name="wake_suppression_title">Küçük alan</string>
   <string name="wakeup_and_sleep_settings_category_name">Kilit ekranı ayarları</string>
   <string name="wakeup_for_keyguard_notification_title">Bildirimler için Kilit ekranını uyandır</string>
   <string name="wallpaper_attributions">Duvar Kağıtları</string>
@@ -6329,7 +6340,9 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_details_dns">DNS</string>
   <string name="wifi_details_ipv6_address_header">IPv6 adresleri</string>
   <string name="wifi_details_subnet_mask">Alt ağ maskesi</string>
-  <string name="wifi_dialog_remind_type_title">Mobil Veri Ağı</string>
+  <string name="wifi_dialog_remind_type_title">Mobil veri ağı</string>
+  <string name="wifi_direct_close_hotspot_hint">WLAN Direkt\'i kullanmadan önce taşınabilir bağlantı noktasını kapat</string>
+  <string name="wifi_direct_close_slave_wifi_hint">WLAN Direkt\'i kullanmadan önce yardımcı WLAN bağlantısını kesin</string>
   <string name="wifi_disabled_by_recommendation_provider">Düşük kaliteli ağ nedeniyle bağlı değil</string>
   <string name="wifi_disabled_generic">Devre dışı</string>
   <string name="wifi_disabled_help">Zayıf bağlantı nedeniyle WLAN bağlantısı kesildir</string>

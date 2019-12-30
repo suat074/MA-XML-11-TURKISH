@@ -40,7 +40,7 @@
   <string name="catch_full_log_item_title_gps">Konum hizmetleri</string>
   <string name="catch_full_log_item_title_sensor">Sensörler</string>
   <string name="catch_full_log_item_title_signal">Telefon, sinyal ve mobil ağlar</string>
-  <string name="catch_full_log_item_title_wifi">WLAN ve Mi Drop</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi ve Paylaşım</string>
   <string name="catch_full_log_notification_content">Günlüklere geri dönmek için dokunun</string>
   <string name="catch_full_log_notification_title">Günlük oluşturuluyor…</string>
   <string name="catch_full_log_privacy_content_audio">Günlükleri oluşturuyorsunuz ve bunları cihazınıza kaydediyorsunuz. Günlükler, oynatma geçmişi ve kayıt geçmişi de dahil olmak üzere cihazınızdaki ses ile ilgili bilgileri içerebilir. Dikkatli olun ve bu günlükleri başkalarıyla paylaşmayın. Aşağıdaki \"Kabul\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve ardından raporlayıp bildirdiğiniz sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul edersiniz.</string>
@@ -85,6 +85,7 @@
   <string name="err_type_xiaomi_family">Mi Ailesi</string>
   <string name="err_type_xiaomi_service">Müşteri Hizmetleri</string>
   <string name="error_no_connection">"Ağa bağlanamadı"</string>
+  <string name="failed_to_fetch_fql">SSS bilgisi alınamadı, ağ bağlantısını kontrol edin</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problemi \"%2$s\"</string>
   <string name="feedback_choose_app_tag">Sorunu seçin</string>
   <string name="feedback_choose_module">Öğeyi Seç</string>
@@ -186,6 +187,10 @@
   <string name="hint_feedback_main">Problemi açıkla</string>
   <string name="hot_problem">Genel hataları göster</string>
   <string name="issue_search">Arama</string>
+  <string name="jump_full_log_dialog_cancel">İptal</string>
+  <string name="jump_full_log_dialog_confirm">Oluştur</string>
+  <string name="jump_full_log_dialog_content">Günlükler, bildirmek üzere olduğunuz sorunu çok daha hızlı bulmamıza ve düzeltmemize yardımcı olacaktır. Günlükler oluşturun ve geri bildiriminize ekleyin.</string>
+  <string name="jump_full_log_dialog_title">Günlükleri oluştur</string>
   <string name="kr_authorization_agree">Kabul</string>
   <string name="kr_authorization_contact">Hesaplar</string>
   <string name="kr_authorization_contact_desc">Cihazı tanımlamak için Mi Hesap bilgilerine erişmek için</string>
@@ -299,6 +304,7 @@
   <string name="module_tools">Sistem Araçları</string>
   <string name="modules">Öğe seç</string>
   <string name="multi_graph_more">Toplam Öğe: %d</string>
+  <string name="net_error_info">Ağ bağlantısı yok, Ayarlar\'a gitmek için buraya dokunun</string>
   <string name="network_err">Ağa bağlanamadı."</string>
   <string name="network_errorbtntip_custom">Yeniden deneyin</string>
   <string name="network_errorbtntip_login">Oturum aç</string>
@@ -501,6 +507,7 @@
   <string name="select_system_app_tag">Etiketleri seçin</string>
   <string name="server_error_message">Sunucu Hatası (Kod:%1$s), daha sonra tekrar deneyin</string>
   <string name="server_unknown_error_message">Sunucu hatası, lütfen tekrar deneyin</string>
+  <string name="service_unavailiable">Bilgi alınamadı, daha sonra yeniden deneyin</string>
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
   <string name="submit_dialog_content"><Data>"Geri bildirimi kullanabilmek için &lt;a href=\"%1$s\">Gizlilik Politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmemizi&lt;/a> kabul etmelisiniz. Eklediğiniz öğelerle birlikte bildirdiğiniz sorunlar (kişisel bilgilerin yanı sıra cihazınız ve ağınızla ilgili bilgileri de içerebilir) MIUI sunucularına yüklenir. Bu, bildirdiğiniz sorunları bulmamıza ve çözmemize yardımcı olacaktır."</Data></string>
@@ -534,6 +541,7 @@
   <string name="toast_feedback_submitted">Rapor gönderildi</string>
   <string name="toast_feedback_submitting">Gönderiliyor...</string>
   <string name="toast_feedbackservice_in_submit">Önceki geribildirim gönderiliyor...</string>
+  <string name="toast_file_format_not_support">Bu dosya biçimi desteklenmiyor. Farklı bir dosya seçmeyi deneyin.</string>
   <string name="toast_fill_brackets">Raporda bazı bilgiler eksik</string>
   <string name="toast_loading_app_id">Bilgi alınıyor…</string>
   <string name="toast_log_not_exists">"Gerekli günlük silindi veya mevcut değil"</string>
@@ -552,7 +560,21 @@
   <string name="toast_title_required">Problemi tanımlayın</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Tekrar deneyin</string>
+  <string name="update_dialog_cancel">İptal</string>
+  <string name="update_dialog_confirm">Güncelle</string>
+  <string name="update_dialog_content_log">"Yenilikler:
+%1$s
+Boyut: %2$s"</string>
+  <string name="update_dialog_content_version">Şimdi %1$s sürümüne güncelleyebilirsiniz.</string>
+  <string name="update_dialog_title">Bir güncelleme mevcut</string>
   <string name="upload_log_failed">Kayıtlar gönderilemedi</string>
   <string name="warning_field_empty">%1$s girişi</string>
   <string name="warning_field_invalid">Geçerli bir %1$s seçin</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme Yöneticisi\'ne bağlanma başarısız oldu, lütfen Uygulama Yönetimi\'den İndirme Yöneticisi durumunu kontrol edin.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"%1$s sürüm tanıtımı
+Boyut: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"%1$s sürüm tanıtımı
+Delta güncelleme boyutu: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s güncellemesi!</string> 
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama alanı kullanılamıyor, lütfen SD kartı kontrol edin.</string>
 </resources>

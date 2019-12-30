@@ -28,9 +28,13 @@
   <string name="alarmclock_empty_text">Alarm yok</string>
   <string name="alarmclock_silent_hint">Alarm susturuldu</string>
   <string name="alert">Zil Sesi</string>
+  <string name="alert_ringtone">Alarm zil sesi</string>
+  <string name="alert_volume">Zil sesi seviyesi</string>
+  <string name="alert_volume_summary">Alarmlar ve zamanlayıcılar için zil sesi seviyesini ayarla</string>
   <string name="analog_gadget">Analog Saat</string>
   <string name="app_label">Saat</string>
   <string name="auto_silence_never">Asla</string>
+  <string name="auto_silence_summary">Alarmların ve zamanlayıcıların susturulacağı zamanı ayarla</string>
   <string name="auto_silence_title">Otomatik susma</string>
   <string name="back">Çıkış</string>
   <string name="battery_charging_level">%d%%</string>
@@ -114,6 +118,7 @@
   <string name="done">Tamamlandı</string>
   <string name="dynamic_alarm_speech">Akıllı alarm</string>
   <string name="edit_alarm">Alarmı düzenle</string>
+  <string name="edit_label">Alarm etiketini düzenle</string>
   <string name="edit_systemtime">Sistem saatini düzenle</string>
   <string name="edit_systemtime_setting_summary">Tarih, saat ve Çift saat</string>
   <string name="every_day">Her gün</string>
@@ -126,6 +131,7 @@
   <string name="holiday_update_fail">Güncelleme yapılamadı</string>
   <string name="holiday_update_loading">Güncelleniyor…</string>
   <string name="holiday_update_success">Tüm öğeler güncel</string>
+  <string name="holiday_update_title">Tatil günleri hakkındaki bilgileri güncelle</string>
   <string name="hour">1 saat</string>
   <string name="hour_unit">Sa +</string>
   <string name="hours">%d saat</string>
@@ -141,6 +147,8 @@
   <string name="korea_permission_storage">Depolama</string>
   <string name="korea_permission_storage_desc">Alarmları kaydetmek için</string>
   <string name="label">Alarmı adlandır</string>
+  <string name="label_input_desc">Alarm çaldığında bu etiket ekranda görüntülenecektir</string>
+  <string name="label_input_hint">Etiket girin</string>
   <string name="label_pref_summary">Bu alarma bir isim ver</string>
   <string name="lap">Tur</string>
   <string name="lap_num">Tur</string>
@@ -224,17 +232,23 @@
   <string name="module_white_noise_download_wifi">Saat\'in zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirmesi gerekiyor. Şimdi indirilsin mi?</string>
   <string name="module_white_noise_download_wifi_privacy"><Data>Zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirebilmek ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
   <string name="monday_to_friday">Pazartesiden Cumaya</string>
+  <string name="more_alert_setting">Ek alarm ayarları</string>
   <string name="more_settings">Ayarlar</string>
+  <string name="net_permission_cancel">Katılmıyorum</string>
+  <string name="net_permission_ok">Kabul</string>
   <string name="network_privacy"><Data>Yerel resmi tatil günleri hakkında daha fazla bilgi edinmek ve alarmları ayarlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
   <string name="network_privacy_global"><Data>Kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
   <string name="never">Bir kez</string>
+  <string name="new_label">Alarm etiketi ekle</string>
   <string name="no_alarm_setting">Burada alarm yok</string>
   <string name="no_worldclock">Burada saat yok</string>
+  <string name="normal_settings">Genel ayarlar</string>
   <string name="not_update">Şimdi değil</string>
   <string name="oneshot_alarm">Kapatıldıktan sonra sil</string>
   <string name="open_keep_screen">Ekran üzerinde tutulacak</string>
   <string name="open_sleep_record">Aç</string>
   <string name="other_category_title">Diğer</string>
+  <string name="other_settings">Ek ayarlar</string>
   <string name="pause">Durdur</string>
   <string name="percentage_sign">%</string>
   <string name="personal_recommend">Kişiselleştirilmiş içerik önerileri</string>
@@ -246,6 +260,7 @@
   <string name="revert">Geri Al</string>
   <string name="ringtone_all">Tüm zil sesleri</string>
   <string name="ringtone_dew">Sabah damlacığı</string>
+  <string name="ringtone_digital_timer">Zamanlayıcı</string>
   <string name="ringtone_dream">Hayal</string>
   <string name="ringtone_firefly">Ateş böcekleri</string>
   <string name="ringtone_other">Daha fazla zil sesi</string>
@@ -320,6 +335,7 @@
   <string name="time_picker_label_hour">S</string>
   <string name="time_picker_label_minute">D</string>
   <string name="time_picker_label_second">S</string>
+  <string name="time_settings">Saat ayarları</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Zili durdurmak için ekrana dokunun</string>
   <string name="timer_alarm_dot_matrix_label">Zamanlayıcı</string>
@@ -356,6 +372,7 @@
   <string name="timer_new_item">Zamanlayıcı ekle</string>
   <string name="timer_notify_text">Ertele veya zamanlayıcıyı kapat.</string>
   <string name="timer_pause_timer">Zamanlayıcıyı duraklat</string>
+  <string name="timer_ringtone">Zamanlayıcı zil sesi</string>
   <string name="timer_running">Zamanlayıcı çalışıyor</string>
   <string name="timer_start_alarm">Süre doldu!</string>
   <string name="timer_start_timer">Zamanlayıcıyı başlat</string>

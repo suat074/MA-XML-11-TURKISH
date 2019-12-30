@@ -153,6 +153,7 @@
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Hızlı çekim modu</string>
   <string name="camera_snap_mode_title_detail">Ayrıntıları görüntülemek için dokunun</string>
+  <string name="camcorder_tip_8k_max_video_duration">8K ile 6 dakikaya kadar kayıt yapabilirsiniz</string>
   <string name="cannot_connect_camera_once">Kameraya bağlanılamıyor</string>
   <string name="cannot_connect_camera_twice">Hala kameraya bağlanılamıyor. Cihazınızı yeniden başlatmayı deneyin</string>
   <string name="cannot_connect_camera_volte_call">Görüntülü çağrı devam ediyor, lütfen daha sonra deneyin.</string>
@@ -1013,6 +1014,8 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="user_notice_identify_summary_format">"Kamera\'yı kullanmadan önce &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı&lt;/a> kabul etmelisiniz. Ayrıca Kamera\'nın normal çalışması için internete bağlanması gerekir. Kabul?"</string>
   <string name="user_notice_title">Şartlar ve Koşullar</string>
   <string name="video_beauty_tip">Videolar için güzelleştirme</string>
+  <string name="video_beauty_tip_filter">Filtreler</string>
+  <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Video kamera</string>
   <string name="video_effect_entry_blackwhite">S&amp;B</string>
   <string name="video_effect_entry_bygone">Geçmiş</string>
