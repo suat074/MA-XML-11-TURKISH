@@ -119,6 +119,7 @@
   <string name="aqi_quality_index_light_pollution">Dikkat</string>
   <string name="aqi_quality_index_moderate">Orta</string>
   <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
+  <string name="auto_add_app_shortcut">Yeni yüklenen uygulama masaüstüne eklendi</string>
   <string name="backup_fail">Başlatıcı yedeklenemedi</string>
   <string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemiyor</string>
   <string name="buffering">Arabelleğe alınıyor…</string>
@@ -133,6 +134,9 @@
   <string name="category_cannot_empty">Önce kategoriyi girin</string>
   <string name="category_choose_no_app_select_tip">Her kategori en az 1 uygulama içermelidir.</string>
   <string name="category_drawer_name_hint">Kategori adını girin</string>
+  <string name="category_edit_back_confirm_dialog_content">Değişiklikler şimdi kaydedilsin mi?</string>
+  <string name="category_edit_back_confirm_dialog_negative_button">Kaydetme</string>
+  <string name="category_edit_back_confirm_dialog_positive_button">Kaydet</string>
   <string name="category_group">Uygulamaları kategorilere ayır</string>
   <string name="category_group_summary">Uygulamaları Uygulama çekmecesinde kategorilere ayırın</string>
   <string name="category_not_selected">Mevcut uygulamalar</string>

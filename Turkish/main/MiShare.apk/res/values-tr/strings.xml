@@ -31,10 +31,13 @@
   <string name="btn_cancel">İptal</string>
   <string name="btn_sure">Tamam</string>
   <string name="can_not_transfer_when_screening">Transferl sırasında yansıtma yapılamıyor</string>
+  <string name="cancel">İptal</string>
   <string name="cancel_current">GEÇERLİYİ IİPTAL ET</string>
   <string name="cancel_receive">İptal</string>
   <string name="cancel_send">Aktarım iptal edildi</string>
   <string name="cancel_task">İptal</string>
+  <string name="complete">Bitti</string>
+  <string name="confirm_cancel_receive">Transferi şimdi iptal ederseniz bu öğeyi alamayacaksınız. Yine de iptal edilsin mi?</string>
   <string name="confirm_cancel_task_files">%1$s için dosya gönderme iptal edilsin mi?</string>
   <string name="confirm_cancel_task_images">%1$s için resim gönderme iptal edilsin mi?</string>
   <string name="default_device_name">Bilinmeyen aygıt</string>
@@ -45,9 +48,11 @@
   <string name="enable_midrop">Aç</string>
   <string name="error_ap_or_screen_already_hosting">Yansıtma yapılırken veya internet paylaşımı kullanılırken öğeler diğer cihazlara gönderilemiyor.</string>
   <string name="error_device_lost">Diğer cihaz ulaşılamıyor gibi görünüyor. Bir iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="error_has_occurred">Bir hata oluştu</string>
   <string name="error_msg_network_error">Bir ağ hatası oluştu. Tekrar deneyin.</string>
   <string name="error_receive_file_cannot_read">Dosya alınamadı</string>
   <string name="error_receive_file_changed">Alınamıyor. Öğe değişti.</string>
+  <string name="error_receive_file_file_opened">Bu öğe alınamadı. Şu anda kullanılıyor gibi görünüyor.</string>
   <string name="error_receive_file_no_enough_space">Alınamıyor. Yeterli depolama alanı yok.</string>
   <string name="error_receive_file_service_disabled">Gelen transfer iptal edildi</string>
   <string name="error_receive_user_cancel">Transfer iptal edildi</string>
@@ -62,15 +67,21 @@
   <string name="error_send_transfer_error">Öğe aktarılamadı. Tekrar deneyin.</string>
   <string name="error_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="error_user_refuse">Gönderilemiyor. Transfer reddedildi.</string>
+  <string name="fail_in_send">Gönderilemedi</string>
   <string name="file_cannot_print">Bu öğe yazdırılamıyor.</string>
   <string name="file_cannot_screen_throw">Bu öğe yansıtılamıyor</string>
   <string name="file_receive_progress">İlerleme: %1$d%%</string>
+  <string name="file_receive_progress_title">İlerleme</string>
+  <string name="file_received_successfully_from_pc">%1$s konumundan 200\'den fazla dosya başarıyla alındı</string>
   <string name="file_sending">Dosya aktarılıyor…</string>
   <string name="file_transfer_progress">İlerleme: %1$d%%</string>
+  <string name="file_transfer_progress_title">İlerleme</string>
   <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin!</string>
   <string name="hide">Gizle</string>
+  <string name="i_know">Anladım</string>
   <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>
   <string name="mi_drop">Dosya Paylaşımı</string>
+  <string name="mishare_folder_in_file_explorer">Dosya Yöneticisi &amp; Paylaşım</string>
   <string name="mishare_settings_summary_international">"Yakındaki cihazlara öğe göndermek için Dosya Paylaşımı\'nı kullanabilirsiniz.
 Dosya Paylaşımı, Mi ve Redmi telefonlarıyla uyumludur.
 OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu olacak. Uyumlu cihazların listesini web sitemizden kontrol edebilirsiniz."</string>
@@ -97,7 +108,9 @@ OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu ola
   <string name="send_files_to">Öğeleri gönder</string>
   <string name="send_files_to_remote_success">Öğeler %1$s cihazına başarıyla gönderildi</string>
   <string name="send_files_to_remote_success_title">Başarıyla gönderildi</string>
+  <string name="send_successfully">Başarıyla gönderildi</string>
   <string name="sender_error">Gönderilemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="some_files_receive_completed">%1$s içinde daha önce aldığınız dosyaları görüntüleyin.</string>
   <string name="somepc_send_much_file_to_you_files">%1$s size 200\'den fazla dosya gönderiyor…</string>
   <string name="somepc_send_muchfile_files">%1$s size 200\'den fazla dosya gönderiyor…</string>
   <string name="start_advertise">TANITIMI BAŞLAT</string>
@@ -111,6 +124,7 @@ OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu ola
   <string name="throwing_print">Yazdır</string>
   <string name="throwing_screen">Yansıt</string>
   <string name="tips_prompt_enable_midrop">Dosyaları yakındaki cihazlarla paylaşın</string>
+  <string name="to_feedback">Rapor</string>
   <string name="transfer_intercept_to_remote">Gönderilemedi: %1$s</string>
   <string name="transfer_to_pc_summary">Mi Dizüstü bilgisayarlarda yüklü olan AIoT yazılımının en son sürümü Dosya Paylaşımı ile uyumludur. Desteklenen dizüstü bilgisayar modellerinin listesini MIUI web sitesinde kontrol edebilirsiniz. Dizüstü bilgisayarınız listede bulunuyorsa, ancak AIoT yüklü değilse, dizüstü bilgisayarınızın BIOS ve ağ bağdaştırıcısı sürücüsünü güncelleyin ve AIoT yazılımını indirin.</string>
   <string name="transfer_to_pc_title">Dosyaları bilgisayarlara gönder</string>
@@ -119,6 +133,7 @@ OPPO, vivo, realme ve diğer markalar yakında Dosya Paylaşımı ile uyumlu ola
   <string name="unkonw_device">Bilinmeyen aygıt</string>
   <string name="unrecognized_manufacture">Bilinmeyen</string>
   <string name="unrecognized_model">Bilinmeyen aygıt</string>
+  <string name="view_file">Görüntüle</string>
   <string name="wait_receive_file">Almak için bekleniyor…</string>
   <string name="wait_remote_receive_tips">Bekleniyor…</string>
   <string name="wifi_is_not_enabled">Önce Wi-Fi\'yi aç</string>
