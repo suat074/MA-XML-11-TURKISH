@@ -53,7 +53,7 @@
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>Tümü</item>
-        <item>Sadece alıcılar</item>
+        <item>Sadece gönderenler</item>
     </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>

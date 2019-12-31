@@ -45,9 +45,9 @@
   </plurals>
   <plurals name="video_playback_error">
     <item quantity="other">"Video yüklenemedi.
- Bir sonraki %d saniye içinde oynatılacak…"</item>
+Bir sonraki %d saniye içinde oynatılacak…"</item>
     <item quantity="one">"Video yüklenemedi.
- Bir sonraki %d saniye içinde oynatılacak…"</item>
+Bir sonraki %d saniye içinde oynatılacak…"</item>
   </plurals>
   <plurals name="video_subtitle_last_message">
     <item quantity="other">%d dakika kaldı</item>
