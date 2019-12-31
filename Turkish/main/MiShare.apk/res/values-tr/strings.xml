@@ -32,7 +32,7 @@
   <string name="btn_sure">Tamam</string>
   <string name="can_not_transfer_when_screening">Transferl sırasında yansıtma yapılamıyor</string>
   <string name="cancel">İptal</string>
-  <string name="cancel_current">GEÇERLİYİ IİPTAL ET</string>
+  <string name="cancel_current">GEÇERLİ OLANI İPTAL ET</string>
   <string name="cancel_receive">İptal</string>
   <string name="cancel_send">Aktarım iptal edildi</string>
   <string name="cancel_task">İptal</string>
