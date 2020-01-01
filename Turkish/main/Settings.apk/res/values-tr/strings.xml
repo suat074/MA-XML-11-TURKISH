@@ -1283,6 +1283,8 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="cloud_restore_section_summary">Sistem ayarlarını, Ana ekran düzenini ve uygulamaları geri yükleyin</string>
   <string name="cloud_restore_section_title">Xiaomi Bulut\'tan geri yükle</string>
   <string name="cmcc_hardware_version">Donanım sürümü</string>
+  <string name="codec_low_latency_summary">Ses/Video eşitlemesi için düşük gecikme süresi deneyimi sağlayın</string>
+  <string name="codec_low_latency_title">Düşük Gecikme</string>
   <string name="color_black">Siyah</string>
   <string name="color_blue">Mavi</string>
   <string name="color_calibration_none">Doğal</string>

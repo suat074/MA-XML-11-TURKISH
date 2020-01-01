@@ -100,7 +100,8 @@
   <string name="action_translate">Çevir</string>
   <string name="action_wifi">WLAN\'a bağlan</string>
   <string name="aggregate_add_field">Alan ekle</string>
-  <string name="ai_scene_mode_use_hint_text">AI kamera sahneleri otomatik olarak algılar ve bu bilgilere dayanarak fotoğraflarınızı optimize eder</string>
+  <string name="ai_scene_mode_use_hint_text">"AI kullanarak sahneleri tanıma
+ve tercihleri otomatik olarak ayarlama"</string>
   <string name="ai_scene_top_moon_off">Düşük ışık modu</string>
   <string name="ai_scene_top_tip">Ay modu</string>
   <string name="app_name">Efekt Yöneticisi</string>

@@ -68,6 +68,7 @@
   <string name="button_send">Gönder</string>
   <string name="call_title">Çağrı geçmişi</string>
   <string name="camera_summary">Kamera ayarları (fotoğraflar dahil değil)</string>
+  <string name="camera_summary_for_cta">Kamera ayarları</string>
   <string name="cancel">İptal</string>
   <string name="cancel_backup">Durdur</string>
   <string name="cancel_moving_dialog_message">İçe aktarma şimdi durdurulsun mu?</string>

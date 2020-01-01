@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="file_received_successfully">
+    <item quantity="other">%1$s konumundan %2$d dosya başarıyla alındı</item>
+    <item quantity="one">%1$s konumundan %2$d dosya başarıyla alındı</item>
+  </plurals>
   <plurals name="file_type_detail_count">
     <item quantity="other">%1$d dosya</item>
     <item quantity="one">%1$d dosya</item>
+  </plurals>
+  <plurals name="image_received_successfully">
+    <item quantity="other">%1$s konumundan %2$d resim başarıyla alındı</item>
+    <item quantity="one">%1$s konumundan %2$d resim başarıyla alındı</item>
   </plurals>
   <plurals name="send_file_success_detail_files">
     <item quantity="other">%1$s dosya başarıyla gönderildi</item>
@@ -67,5 +75,13 @@
   <plurals name="success_receive_file_images">
     <item quantity="other">%1$s üzerinden %2$d resim alındı. Görüntülemek için dokunun.</item>
     <item quantity="one">%1$s üzerinden %2$d resim alındı. Görüntülemek için dokunun.</item>
+  </plurals>
+  <plurals name="successfully_sent_files">
+    <item quantity="other">%2$d dosya %1$s konumuna başarıyla gönderildi</item>
+    <item quantity="one">%2$d dosya %1$s konumuna başarıyla gönderildi</item>
+  </plurals>
+  <plurals name="successfully_sent_images">
+    <item quantity="other">%2$d resim %1$s konumuna başarıyla gönderildi</item>
+    <item quantity="one">%2$d resim %1$s konumuna başarıyla gönderildi</item>
   </plurals>
 </resources>

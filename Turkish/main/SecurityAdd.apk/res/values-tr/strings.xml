@@ -41,7 +41,7 @@
   <string name="ew_detail_earthquake_feel_middle">Güçlü</string>
   <string name="ew_detail_earthquake_feel_none">Mantıklı değil</string>
   <string name="ew_detail_earthquake_feel_normal">Orta</string>
-  <string name="ew_detail_earthquake_feel_title">Tahmini yoğunluk</string>
+  <string name="ew_detail_earthquake_feel_title">Tahmini şiddet</string>
   <string name="ew_detail_earthquake_level_title">Tahmini büyüklük</string>
   <string name="ew_detail_receive_alert_from">Chengdu Yüksek Teknoloji Afet Azaltma Enstitüsü tarafından sağlanan veriler</string>
   <string name="ew_detail_receive_distance_message2">%s km (Merkez üssü sizden uzakta. Depremi hissetmeyebilirsiniz.)</string>
