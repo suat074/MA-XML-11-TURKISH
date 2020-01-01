@@ -2251,7 +2251,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="st_antispam_title_null_incoming">Özel Numaralar</string>
   <string name="st_antispam_title_service_sms">Şebeke Bildirimleri</string>
   <string name="st_antispam_title_whitelist">İstisnalar</string>
-  <string name="st_call_backsound_group">Arka Ses</string>
+  <string name="st_call_backsound_group">Engelleme listesi sesi</string>
   <string name="st_call_intercept_contacts">Kişilerden gelen aramaları engelle</string>
   <string name="st_call_intercept_forwarding">Yönlendirilen çağrıları engelle</string>
   <string name="st_call_intercept_oversea">Yurtdışından gelen aramaları engelle</string>
@@ -2286,7 +2286,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="st_share_settings">Sim 1 ile ayarları paylaş</string>
   <string name="st_sub_title_customize_mode_name">Adı</string>
   <string name="st_sub_title_whiteblack_list_group">Engelli listesi</string>
-  <string name="st_sum_call_wait">Dişarda olduğunuzda gelen çağrılarda yoğun şekilde sinyal verilir.</string>
+  <string name="st_sum_call_wait">Dışarıda mesajınız gelen çağrılar için meşgul sinyali olarak da çalınır.</string>
   <string name="st_summary_blacklist_numbers">Aramaları ve mesajları belirli numaralarda ve alanlarda engelle</string>
   <string name="st_summary_blacklist_numbers_international">Aramaları ve belirli numaralardan gelen mesajları engelle</string>
   <string name="st_summary_keywords_blacklist">Mesajları engellemek için anahtar kelimeler ekleyin</string>
@@ -2298,14 +2298,14 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="st_title_addwhitelist">İstisnalara ekle</string>
   <string name="st_title_adress">Konumlara ekle</string>
   <string name="st_title_adress_num">%d seçildi</string>
-  <string name="st_title_anticomintcall_backsound_setting">Engellenen numaraların mesajlarını göster</string>
+  <string name="st_title_anticomintcall_backsound_setting">Engellenen numaraların mesajlarını bildir</string>
   <string name="st_title_antispam_mode">Kurallar</string>
   <string name="st_title_back_sound_busy">Meşgul</string>
-  <string name="st_title_back_sound_choose">Dışarıda mesaj</string>
-  <string name="st_title_back_sound_closed">Güç kapatıldı</string>
-  <string name="st_title_back_sound_none">Numara mevcut değil</string>
+  <string name="st_title_back_sound_choose">Dışarıda mesajı</string>
+  <string name="st_title_back_sound_closed">Kapalı</string>
+  <string name="st_title_back_sound_none">Numara yok</string>
   <string name="st_title_back_sound_stop">Hizmette değil</string>
-  <string name="st_title_backsound_group">Dışarıda mesaj</string>
+  <string name="st_title_backsound_group">Dışarıda mesajı</string>
   <string name="st_title_blacklist_numbers">Engellenen numaralar</string>
   <string name="st_title_call_wait">Çağrı bekletme bildirimi</string>
   <string name="st_title_call_wait_setting">Çağrı beklemede</string>

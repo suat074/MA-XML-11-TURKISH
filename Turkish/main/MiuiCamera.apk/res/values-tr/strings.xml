@@ -202,7 +202,7 @@
   <string name="confirm_install_scanner_message">Tarayıcı, QR kodlarını, barkodları ve daha fazlasını taramanıza izin verir. Yüklemek için internete bağlanmak zorunda değilsiniz.</string>
   <string name="confirm_install_scanner_title">Tarayıcıyı Yükle</string>
   <string name="confirm_location_alert">Fotoğraf konumlarını hatırla</string>
-  <string name="confirm_location_message"><Data>Kamera\'ya hoş geldiniz! Fotoğraflarınızı ve videolarınızı çekildikleri konumlarla etiketlemek, Galerinizi daha düzenli hale getirecek ve öğeleri daha hızlı bulmanıza yardımcı olacaktır. Konum bilgisi eklemeyi kısıtlarsanız bazı özellikler kullanılamayabilir.&lt;br/>&lt;br/>Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</Data></string>
+  <string name="confirm_location_message">Kamera\'ya hoş geldiniz! Fotoğraflarınızı ve videolarınızı çekildikleri konumlarla etiketlemek, Galerinizi daha düzenli hale getirecek ve öğeleri daha hızlı bulmanıza yardımcı olacaktır. Konum bilgisi eklemeyi kısıtlarsanız bazı özellikler kullanılamayabilir. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</string>
   <string name="confirm_location_title">Fotoğraf konumları hatırlansın mı?</string>
   <string name="confirm_recording_fail_calling_alert">Çağrı sırasında kayıt yapılamıyor.</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Başka bir uygulama zaten kayıt için cihazın mikrofonunu kullanıyor olabilir.</string>

@@ -232,7 +232,7 @@
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">Yakın alandaki (NFC) donanıma erişebilir</string>
   <string name="HIPS_Perm_process_outgoing_calls">Telefon uygulamalarına erişebilir</string>
-  <string name="HIPS_Perm_process_outgoing_calls_Desc">gelen çağrıyı izle</string>
+  <string name="HIPS_Perm_process_outgoing_calls_Desc">gelen çağrıları izler</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Hizmeti</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">SMS Hizmetini okur</string>
   <string name="HIPS_Perm_service_foreground">Ön plan hizmetleri</string>
