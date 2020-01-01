@@ -93,7 +93,7 @@
   <string name="change_phone_number">Telefon numarasını değiştir</string>
   <string name="cloud_service">Xiaomi Bulut</string>
   <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
-  <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> adresini ziyaret edin ve yukarıda gösterilen kodu girin.</string>
+  <string name="com_facebook_device_auth_instructions"><b>facebook.com/device</b> adresini ziyaret edin ve yukarıda gösterilen kodu girin.</string>
   <string name="com_facebook_image_download_unknown_error">Resim indirilirken beklenmeyen bir hata oluştu.</string>
   <string name="com_facebook_internet_permission_error_message">WebView girişi, İNTERNET izni gerektirir</string>
   <string name="com_facebook_internet_permission_error_title">AndroidManifest Hatası</string>
@@ -246,7 +246,7 @@
   <string name="optional_permissions">İsteğe bağlı izinler</string>
   <string name="passport_Resend">Yeniden gönder</string>
   <string name="passport_access_denied">Erişim engellendi</string>
-  <string name="passport_account_hint_text">E-Posta adresi veya Mi Hesap Kimliği</string>
+  <string name="passport_account_hint_text">E-Posta/Telefon/Mi Hesap ID</string>
   <string name="passport_account_identity_title">Kimliğinizi doğrulayın</string>
   <string name="passport_account_label">Mi Hesabı</string>
   <string name="passport_account_name">Hesap: %1$s</string>
