@@ -174,7 +174,8 @@
   <string name="minute_rain_pull_down_refresh">Yenilemek için aşağı doğru çekin</string>
   <string name="minute_rain_refreshing_now">Yenileniyor...</string>
   <string name="missing_required_permission">Gerekli izinleri devre dışı bıraktınız.</string>
-  <string name="more_details">Diğer Detaylar</string>
+  <string name="more_details">Diğer ayrıntılar</string>
+  <string name="more_expanded">Daha fazla</string>
   <string name="network_not_available">Ağa bağlanamadı.</string>
   <string name="network_unavailable">Ağa bağlanamadı.</string>
   <string name="night_not_disturb_settings_summary">23:00 - 7:00 arasındaki uyarıları engelle</string>
