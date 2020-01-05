@@ -20,8 +20,12 @@
   <string name="mi_service_app_name">Hizmetler &amp; geri bildirim</string>
   <string name="miservice_channel_update_notification_info">\"Hizmetler &amp; geri bildirim\" çevrimiçi veri isteniyor…</string>
   <string name="miservice_notification_boot_content">MIUI yapabilecekleri hakkında daha fazla bilgi edinin</string>
+  <string name="miservice_notification_huanji_content">Mi Transfer\'i kullanarak aktarın</string>
+  <string name="miservice_notification_huanji_title">Eski telefonunuzda önemli öğeler var mı?</string>
   <string name="miservice_notification_open_feedback_content">Tüm geri bildirim özellikleri yeni uygulamaya taşındı</string>
   <string name="miservice_notification_open_feedback_title">\"Hizmetler &amp; geri bildirim\" ile tanışın</string>
+  <string name="miservice_notification_scan_content">Sözcükleri ve ifadeleri çevirmek için Tarayıcı\'yı kullanın</string>
+  <string name="miservice_notification_scan_title">Hızlı çeviri</string>
   <string name="miui_feedback_answer_detail_community">Sorularınızın cevaplarını Mi Community üzerinde bulabilirsiniz</string>
   <string name="miui_feedback_answer_detail_feedback_resolved">Evet</string>
   <string name="miui_feedback_answer_detail_feedback_result">Geri bildiriminiz için teşekkürler!</string>

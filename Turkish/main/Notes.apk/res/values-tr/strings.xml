@@ -187,7 +187,8 @@
   <string name="repeat_mode_set_item_week_detail">Her hafta (%s)</string>
   <string name="repeat_mode_set_item_year">Her yıl (%s)</string>
   <string name="repeat_mode_set_item_year_detail">Her yıl (%s)</string>
-  <string name="repeat_mode_set_title">Repeat</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
+  <string name="repeat_mode_set_title">Tekrarla</string>
   <string name="repeat_mode_week">Her hafta</string>
   <string name="repeat_mode_year">Her yıl</string>
   <string name="rich_text_bold_description">Kalın</string>

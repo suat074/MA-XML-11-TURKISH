@@ -1786,10 +1786,11 @@ mevcut"</string>
   <string name="video_editor_intelligent_special_effect">Efektler</string>
   <string name="video_editor_invalid_trim_arguments">Bir saniyeden uzun olmalı</string>
   <string name="video_editor_loading_plugin">Yükleniyor…</string>
-  <string name="video_editor_loading_warning_msg">Kodlama hatası nedeniyle, bazı özellikler ve önizleme; düzenleme işlemi esnasında çalışmayabilir. Böyle olması video dosyasını etkilemez.</string>
-  <string name="video_editor_loading_warning_title">Kodlama Hatası</string>
+  <string name="video_editor_loading_warning_msg">Kodlama hatası nedeniyle, düzenleme işlemi sırasında bazı özellikler ve önizlemeler kullanılamayabilir. Ama bu son video dosyasını etkilemez.</string>
+  <string name="video_editor_loading_warning_title">Kodlama hatası</string>
   <string name="video_editor_more">Gelişmiş</string>
-  <string name="video_editor_not_support_tips">Video dosyaları desteklenmiyor</string>
+  <string name="video_editor_not_support_8k_tips">8K videolar düzenlenemiyor</string>
+  <string name="video_editor_not_support_tips">Bu tür video dosyaları desteklenmez</string>
   <string name="video_editor_ok">Tamam</string>
   <string name="video_editor_regulator">Ayarlama</string>
   <string name="video_editor_res_download_failed_tips">İndirilemedi, ağ ayarlarını denetleyip, yeniden deneyin</string>

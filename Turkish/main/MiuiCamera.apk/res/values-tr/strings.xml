@@ -104,6 +104,7 @@
 ve tercihleri otomatik olarak ayarlama"</string>
   <string name="ai_scene_top_moon_off">Düşük ışık modu</string>
   <string name="ai_scene_top_tip">Ay modu</string>
+  <string name="ai_watermark_title">AI Filigranı</string>
   <string name="app_name">Efekt Yöneticisi</string>
   <string name="audio_focus_exit_button_text">Ses odağını kapat</string>
   <string name="autozoom_click_hint">Hareket halindeyken odağı korumak için bir nesneye dokunun. En iyi etki için en az 3 metre uzakta kalın.</string>
@@ -227,7 +228,13 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="dirty_tip_toast">Lens kirli. Temizleyin.</string>
   <string name="dismiss_button_content_description">Kameraya yakın</string>
   <string name="do_not_remind_me">Tekrar gösterme</string>
-  <string name="dual_camera_lens_covered_toast">Lens kapalı.</string>
+  <string name="document_blackwhite">S&amp;B</string>
+  <string name="document_mode_use_hint_text_body">"Taranan belgeleri
+otomatik olarak hizala ve iyileştir"</string>
+  <string name="document_mode_use_hint_text_title">Belgeleri tara</string>
+  <string name="document_origin">Orijinal</string>
+  <string name="document_strengthen">Geliştirilmiş</string>
+  <string name="dual_camera_lens_covered_toast">Lens kaplıdır.</string>
   <string name="dual_camera_lowlight_toast">Çok karanlık gibi görünüyor.</string>
   <string name="dual_camera_too_close_toast">Kamera nesneye çok yakın.</string>
   <string name="dual_camera_use_hint">Nesnenin 2 metreden daha fazla olmadığından emin olun.</string>
@@ -448,7 +455,8 @@ Makro modunu kullanın"</string>
   <string name="mimoji_recapture_alert">Baştan başladığınızda tüm değişiklikler kaybolur. Yine de baştan başlansın mı?</string>
   <string name="mimoji_reset">Sıfırla</string>
   <string name="mimoji_save">Kaydet</string>
-  <string name="mimoji_save_success">Başarıyla kaydedildi</string>
+  <string name="mimoji_save_finish">Bitti</string>
+  <string name="mimoji_save_success">Görüntü başarıyla kaydedildi</string>
   <string name="mimoji_selected">Seçin</string>
   <string name="mimoji_start_create">Mimoji oluşturuluyor…</string>
   <string name="mimoji_tips">Fotoğraf çekmek için dokunun. Video kaydı için basılı tutun.</string>
@@ -1045,6 +1053,11 @@ Daha heyecan verici güzelliği keşfedin."</string>
 kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">Biraz bekleyin…</string>
+  <string name="watermark_tab_city">şehir</string>
+  <string name="watermark_tab_festival">festival</string>
+  <string name="watermark_tab_general">genel</string>
+  <string name="watermark_tab_scene">sahne</string>
+  <string name="watermark_tab_spots">noktalar</string>
   <string name="wideselfie_press_shoot_key_to_start">Deklanşöre dokunun</string>
   <string name="wideselfie_result_image_lossless">Panoramik çekim oluşturulamadı</string>
   <string name="wideselfie_rotate_slowly">Telefonu yana doğru döndürün</string>

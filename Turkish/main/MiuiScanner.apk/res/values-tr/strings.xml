@@ -24,7 +24,7 @@
   <string name="accessibility_shutter_button">Deklanşör</string>
   <string name="action_search">Ara</string>
   <string name="address">Adres:</string>
-  <string name="agree_app_use">QR kodlarını tarar ve diğer görüntülerde tanıma yapar</string>
+  <string name="agree_app_use">QR kodlarını ve diğer görüntüleri tarar (bazı özellikler konumunuza erişmenizi gerektirebilir)</string>
   <string name="agree_btn">Kabul</string>
   <string name="agree_camera_permission">Fotoğraf çekmek ve video kaydetmek için</string>
   <string name="agree_storage_permission">Cihazınızda depolanan fotoğraflara ve dosyalara erişmek için</string>

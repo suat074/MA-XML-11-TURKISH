@@ -113,9 +113,11 @@
   <string name="usage_app_weekend_limit">Hafta sonları</string>
   <string name="usage_beat_fans">Mi Fanları\'ndan %s daha iyi</string>
   <string name="usage_continuous_days">Seri</string>
+  <string name="usage_creating_weekly_report">Haftalık rapor oluşturuluyor…</string>
   <string name="usage_exit">Çıkış</string>
   <string name="usage_focus_focus_premission_main_summary">Odak modu kullanım istatistiklerini kaydetmesi için bu uygulamanın hesap bilgilerinize erişmesi gerekir.</string>
   <string name="usage_focus_focus_premission_second_summary">Bu izinleri vermeyi kabul etmezseniz, bu uygulamanın bazı özelliklerini kullanamazsınız; Ancak, temel işlevsellik yine de sizin için mevcut olacak. Ayarlar\'dan her zaman izinleri kısıtlayabilir veya yetkilendirmenizi iptal edebilirsiniz.</string>
+  <string name="usage_focus_new_summary">Daha dikkatli ve odaklanmış olun</string>
   <string name="usage_focus_save_success">Galeriye başarıyla kaydedildi</string>
   <string name="usage_focus_summary_level1">Odaklanmaya birkaç dakika ayırmak kolaydır.</string>
   <string name="usage_focus_summary_level2">Odaklama, tatmin edici bir rutin haline gelebilir.</string>
@@ -140,6 +142,11 @@ Uygulamanın normal şekilde çalışabilmesi için ekran süresi bilgilerini to
 Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplayabilmesi için aşağıdaki izinleri alması gerekir:"</string>
   <string name="usage_home_premission_second_summary">Bu uygulamanın normal çalışabilmesi için, kişisel bilgilerinizi toplaması gerekir. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.</string>
   <string name="usage_home_premission_second_summary_new">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Yetkilendirmenizi Ekran süresi &gt; Ayarlar &gt; Ekran süresini kapat seçeneğinden iptal edebilirsiniz. Gizlilik hakkında daha fazlası için, privacy@xiaomi.com adresinden bizimle iletişime geçebilirsiniz.</string>
+  <string name="usage_no_net_summary">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+  <string name="usage_refresh">Tekrar deneyin</string>
+  <string name="usage_request_error_summary">Bilinmeyen bir hata oluştu</string>
+  <string name="usage_request_timeout_summary">İstek zaman aşımına uğradı</string>
+  <string name="usage_special_feature">Ayrıcalıklı özellikler</string>
   <string name="usage_state_accurate_date">dd MMMM, yyyy</string>
   <string name="usage_state_add_up_count">Oturum</string>
   <string name="usage_state_add_up_days">Gün</string>
@@ -186,7 +193,7 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_state_friday">Cum</string>
   <string name="usage_state_go_more">Daha fazla uygulama</string>
   <string name="usage_state_hour_minute">%1$ds %2$dd</string>
-  <string name="usage_state_less_one_minute">1 dakikadan az</string>
+  <string name="usage_state_less_one_minute">&lt; 1 dakika</string>
   <string name="usage_state_monday">Pzt</string>
   <string name="usage_state_mourth_day">%s günü ekran süresi</string>
   <string name="usage_state_noti_mourth_day">%s üzerinden bildirim</string>
@@ -234,6 +241,8 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_stats_week_day">Hafta sonu</string>
   <string name="usage_total_days">Toplam gün</string>
   <string name="usage_total_times">Toplam oturum</string>
+  <string name="usage_weekly_report_summary">Cihazınızla nasıl zaman geçirdiğinizi öğrenin</string>
+  <string name="usage_weekly_report_title">Haftalık rapor</string>
   <string name="usagestats_app_category_miui_education">Eğitim</string>
   <string name="usagestats_app_category_miui_entainment">Eğlence</string>
   <string name="usagestats_app_category_miui_financial">Finans</string>
