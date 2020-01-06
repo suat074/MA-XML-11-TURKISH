@@ -1183,6 +1183,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gdpr_msg"><Data>"Güvenliğin temel özelliklerini kullanmak için, Xiaomi\'nin Güvenlik özelliklerini kullanma yolları hakkında bilgi (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi ve cihazınızla ilgili temel bilgiler) ve &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikası&lt;/a> ile belirtilen diğer bilgi türleri de dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir.\"</Data></string>
   <string name="get_sys_info">Bilgi alınıyor…</string>
   <string name="gigabyteShort">GB</string>
+  <string name="global_wa_setting_alert_dialog_content">%s alan boşaltılabilir</string>
+  <string name="global_wa_setting_alert_dialog_title">WhatsApp Temizleyici</string>
   <string name="gmscore_support_remind">Gmail, Google Haritalar ve diğer Google uygulamalarını kullanırken sorun yaşıyorsanız bu özelliği açın. Pil ömrünü biraz azaltacaktır.</string>
   <string name="gmscore_support_service">Temel Google hizmetleri</string>
   <string name="go_to">İlerle</string>
@@ -1230,6 +1232,8 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="gs_show_way_vertical">Dikey</string>
   <string name="gs_sign_notification">Her gün saat 8 de giriş yapmayı hatırlat</string>
   <string name="gs_slip_gamebox_detail">Kısayol panelinin görünmesini sağlamak için kaydırıcıyı kullanın veya ekranın üst kenarından kaydırın</string>
+  <string name="gtb_exit_game_to_gtb">Oyun kutusunu aç</string>
+  <string name="gtb_exit_game_to_home">Ana ekrana dön</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'><u>Yanlış operatör mü?</u>&lt;/font>"</string>
   <string name="guide_operator_text">"Mevcut Operatörünüz: "</string>
   <string name="guide_quck_open">Aç</string>

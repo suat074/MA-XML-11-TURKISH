@@ -383,18 +383,18 @@
   <string name="device_paired_dialog_title">Kişiler alınıyor...</string>
   <string name="device_pairing_dialog_message">Eşleştiriliyor...</string>
   <string name="device_pairing_dialog_title">Cihazlar eşleştiriliyor</string>
-  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Diğer cihazda Bluetooth\'u açın.
+  <string name="device_transfer_by_bluetooth_message">"1. Diğer cihazda Bluetooth\'u açın.
   
 - Bluetooth, Android cihazlardaki genellikle ağ ayarlarında bulunur.
 - iOS cihazlarda Bluetooth, Ayarlar\'da bulunur.
 
-%d. Android cihazlarda keşfedilebilir mod açık olmalıdır.
+2. Android cihazlarda keşfedilebilir mod açık olmalıdır.
 
-%d. \"İleri\" düğmesine dokunun ve Kişilere gerekli izinleri verin."</string>
-  <string name="device_transfer_by_sim_message" formatted="false">"%d. Kişileri diğer cihazdan SIM karta kaydedin;
+3. \"İleri\" düğmesine dokunun ve Kişilere gerekli izinleri verin."</string>
+  <string name="device_transfer_by_sim_message">"1. Kişileri diğer cihazdan SIM karta kaydedin;
  
  
-%d. Kişiler uygulamasında Ayarları açın ve ardından \"Kişileri İçe/Dışa aktar\" -- \"SIM karttan içe aktar\" seçeneğine gidin, seçmek için herhangi bir SIM kişisini basılı tutun, gerekli tüm kişileri seçin ve \"İçe Aktar\" seçeneğini seçin."</string>
+2. Kişiler uygulamasında Ayarları açın ve ardından \"Kişileri İçe/Dışa aktar\" -- \"SIM karttan içe aktar\" seçeneğine gidin, seçmek için herhangi bir SIM kişisini basılı tutun, gerekli tüm kişileri seçin ve \"İçe Aktar\" seçeneğini seçin."</string>
   <string name="device_version_header_bluetooth">Bluetooth yoluyla aktar</string>
   <string name="device_version_header_no_bluetooth">SIM Kart yoluyla aktar</string>
   <string name="dial">Çevir</string>
@@ -548,7 +548,7 @@
   <string name="import_from_sim2">SIM 2\'den içe aktar</string>
   <string name="import_multiple_vcard_string">Birden fazla vCard dosyasını içe aktar</string>
   <string name="import_name">Adı</string>
-  <string name="import_one_vcard_string">%d vCard dosyasını içe aktar</string>
+  <string name="import_one_vcard_string">1 vCard dosyasını içe aktar</string>
   <string name="import_selected_sim_entries_miui">Seçilen kişileri içe aktar</string>
   <string name="import_sim_contacts_hint_title">SIM kişilerini içe aktar</string>
   <string name="import_sim_entries_finish">SIM karttaki kişiler aktarıldı</string>
@@ -1036,7 +1036,7 @@ Favoriler listenize bir kişi eklemek için:
   <string name="set_photo_failed_msg">Fotoğraf atanamadı</string>
   <string name="share_contact_as">Kişi olarak paylaş</string>
   <string name="share_error">Bu kişi paylaşılamaz</string>
-  <string name="share_over_limit">%d kişiden fazla paylaşılamıyor</string>
+  <string name="share_over_limit">1000 kişiden fazla paylaşılamıyor</string>
   <string name="share_qrcode">QR kodunu paylaş</string>
   <string name="share_via">Kullanarak gönder</string>
   <string name="share_visible_contacts">Kişileri paylaş</string>
@@ -1078,9 +1078,9 @@ Favoriler listenize bir kişi eklemek için:
   <string name="smart_group_company_label">Şirketler</string>
   <string name="smart_group_company_unavailable">Şirket bilgisi yok</string>
   <string name="smart_group_frequency_1">Geçen ay içinde</string>
-  <string name="smart_group_frequency_2" formatted="false">%d - %d ay</string>
-  <string name="smart_group_frequency_3" formatted="false">%d - %d ay</string>
-  <string name="smart_group_frequency_4">%d aydan daha önce</string>
+  <string name="smart_group_frequency_2">1 - 3 ay</string>
+  <string name="smart_group_frequency_3">3 - 6 ay</string>
+  <string name="smart_group_frequency_4">6 aydan daha önce</string>
   <string name="smart_group_frequency_label">Son kullanılanlar</string>
   <string name="smart_group_label">Akıllı gruplar</string>
   <string name="smart_group_loading">Sadece bir saniye…</string>
@@ -1128,9 +1128,9 @@ Favoriler listenize bir kişi eklemek için:
   <string name="t9_search_empty_send_sms">Mesaj gönder</string>
   <string name="t9_search_empty_video_call">Görüntülü çağrı</string>
   <string name="t9_search_guide_pinyin_title1">Kişileri bulmak için numaraları girin</string>
-  <string name="t9_search_guide_pinyin_title2" formatted="false"><font fgcolor="">Z</font>ehra <font fgcolor="">H</font>anım kişisini aramak için %d ve %d girin</string>
+  <string name="t9_search_guide_pinyin_title2"><font fgcolor="">Z</font>ehra <font fgcolor="">H</font>anım kişisini aramak için 9 ve 4 girin</string>
   <string name="t9_search_guide_zhuyin_title1">Kişileri bulmak için numaraları girin</string>
-  <string name="t9_search_guide_zhuyin_title2" formatted="false"><font fgcolor="">J</font>ale <font fgcolor="">M</font>erve kişisini aramak için %d ve %d girin</string>
+  <string name="t9_search_guide_zhuyin_title2"><font fgcolor="">J</font>ale <font fgcolor="">M</font>erve kişisini aramak için 5 ve 6 girin</string>
   <string name="take_new_photo">Yeni fotoğraf çek</string>
   <string name="take_photo">Fotoğraf çek</string>
   <string name="title_other_devices">Diğer mevcut cihazlar</string>
