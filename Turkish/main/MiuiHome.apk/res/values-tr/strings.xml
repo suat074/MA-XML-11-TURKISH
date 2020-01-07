@@ -341,6 +341,7 @@
   <string name="notification_installed">Başarıyla yüklendi</string>
   <string name="notification_open_button">Aç</string>
   <string name="notification_reset_title">Simgeler başarıyla düzenlendi</string>
+  <string name="one_key_call_title">Aramak için dokunun</string>
   <string name="online_wallpaper">Çevrimiçi</string>
   <string name="open_personal_assistant_dialog_btn_cancel">İptal</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Kapat</string>

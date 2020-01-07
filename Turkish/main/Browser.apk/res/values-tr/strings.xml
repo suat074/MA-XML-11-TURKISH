@@ -1205,6 +1205,7 @@
   <string name="view_certificate">Sertifikayı görüntüle</string>
   <string name="view_document_downloaded_files">İndirilenlerde indirilmiş dosyaları görüntüle</string>
   <string name="vo_info_flow_rs_hint">Ara</string>
+  <string name="vo_mi_ad_detail">%s içinde aç</string>
   <string name="voice_check_network">Ağ ayarlarını kontrol edin ve yeniden deneyin.</string>
   <string name="voice_close_description">Kapat</string>
   <string name="voice_connect_network">Ağa bağlanılamadı.</string>
