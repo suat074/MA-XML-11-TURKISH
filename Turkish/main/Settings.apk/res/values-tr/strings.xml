@@ -1150,6 +1150,7 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="calendar_remind">Etkinlikler</string>
   <string name="calendar_sound_dialog_title">Takvim sesini seç</string>
   <string name="calendar_sound_title">Takvim sesi</string>
+  <string name="call_example_name">Ad</string>
   <string name="call_manager_enable_summary">Çağrılarınızı yönetmek için bu servise izin verir</string>
   <string name="call_manager_enable_title">Çağrı Yöneticisi Etkin</string>
   <string name="call_manager_title">Çağrı Yöneticisi</string>

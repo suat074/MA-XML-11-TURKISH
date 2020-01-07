@@ -1165,11 +1165,15 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_sound_audition">Deneyin</string>
   <string name="gb_voice_change_settinged">Ses değiştirici açık</string>
   <string name="gb_voice_changer_cartoon">Karikatür</string>
+  <string name="gb_voice_changer_dlg_button_refuse">Kısıtla</string>
+  <string name="gb_voice_changer_dlg_button_agree">İzin ver</string>
   <string name="gb_voice_changer_dlg_title">Ses değiştirici</string>
   <string name="gb_voice_changer_lady">Kadın</string>
   <string name="gb_voice_changer_loli">Kız</string>
   <string name="gb_voice_changer_men">Erkek</string>
   <string name="gb_voice_changer_normal">Orijinal</string>
+  <string name="gb_voice_changer_permission_dlg_title">Gerekli izinler</string>
+  <string name="gb_voice_changer_permission_dlg_msg">Ses değiştiricinin normal çalışabilmesi için ses kaydı yapabilmesi gerekir.</string>
   <string name="gb_voice_changer_robot">Robot</string>
   <string name="gb_wonderful_video_cancel">İptal</string>
   <string name="gb_wonderful_video_checkall">Tümünü seç</string>
@@ -1589,7 +1593,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="notification_channel_battery">Pil</string>
   <string name="notification_exit_power_save_mode">Pil Tasarrrufu kapatıldı</string>
   <string name="notification_exit_power_save_mode_subtitle">Pil %s şarj edildi.</string>
-  <string name="notification_garbage_cleanup_summary">Cihazınızı hızlandırmak için çöpü (%s) temizleyin</string>
+  <string name="notification_garbage_cleanup_summary">Cihazı hızlandırmak için çöpü (%s) temizle</string>
   <string name="notification_garbage_cleanup_title">Çöp dosyaları temizle</string>
   <string name="notification_low_battery_action_btn">Aç</string>
   <string name="notification_low_battery_need_charge">Cihazınızı şarj edin</string>

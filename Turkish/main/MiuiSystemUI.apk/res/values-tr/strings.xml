@@ -1048,7 +1048,7 @@
   <string name="long_screenshot_not_support_msg">Mevcut uygulama kayan ekran görüntülerini desteklemiyor</string>
   <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>
   <string name="long_screenshot_processing">İşleniyor…</string>
-  <string name="long_screenshot_stop">Tamamlandı</string>
+  <string name="long_screenshot_stop">Bitti</string>
   <string name="long_screenshot_top_msg">Ekran görüntüsü oluşturuluyor…</string>
   <string name="long_screenshot_top_msg_manual">Ekran görüntüsünü kesin ve bitirmek için tuşa dokunun</string>
   <string name="low_temperature_button_ok">Anladım</string>
@@ -1408,7 +1408,7 @@
   <string name="quick_settings_dnd_label">Rahatsız etme</string>
   <string name="quick_settings_dnd_none_label">Herşey sessiz</string>
   <string name="quick_settings_dnd_priority_label">Sadece öncelikli</string>
-  <string name="quick_settings_done">Tamamlandı</string>
+  <string name="quick_settings_done">Bitti</string>
   <string name="quick_settings_drivemode_label">Araba modu</string>
   <string name="quick_settings_dual_location_label">Çift GPS</string>
   <string name="quick_settings_edit_label">Düzenle</string>

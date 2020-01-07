@@ -270,7 +270,7 @@
   <string name="passport_change_phone_number">Numaraları değiştir</string>
   <string name="passport_checking_account">Şifre kontrol ediliyor…</string>
   <string name="passport_checking_input">Giriş kontrol ediliyor…</string>
-  <string name="passport_click_email_to_valid">\n\nHesabınızı etkinleştirmek için, aşağıdaki\n gelen kutunuza gönderilen bağlantıyı takip edin.</string>
+  <string name="passport_click_email_to_valid">Hesabınızı etkinleştirmek için gelen kutunuza gönderdiğimiz bağlantıyı takip edin.</string>
   <string name="passport_completed">Tamam</string>
   <string name="passport_confirm_login">Devam et</string>
   <string name="passport_confirm_recycle_account">Evet</string>
