@@ -317,6 +317,7 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="fw_loading">Yalnızca bir sn…</string>
   <string name="fw_reload_sub_title">Tekrar denemek için ekrana dokunun</string>
   <string name="fw_reload_title">Ağa bağlanamadı.</string>
+  <string name="gallery_fold_tags">İşaretleri gizle</string>
   <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_camera">Kamera</string>
   <string name="gallery_folder_alias_download">İndirilenler</string>
@@ -349,6 +350,7 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="gallery_video_operate_text">Yavaş çekim ayarları</string>
   <string name="gallery_video_save_video">Video oluşturuluyor…</string>
   <string name="gallery_video_slow_edit">Yavaş çekim</string>
+  <string name="gallery_view_tags">İşaretleri göster</string>
   <string name="get_back_pwd">Şifre sıfırlanıyor</string>
   <string name="get_ph_ticket">Kodu al</string>
   <string name="get_phone_bind_exceed_limit">Bir telefon numarasını 3 Mi Hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor.</string>
@@ -382,13 +384,17 @@ seçin"</string>
   <string name="lbl_player_response_failed_alert_dialog_text">Üzgünüz, isteğiniz şu anda tamamlanamıyor. Lütfen bir süre sonra tekrar deneyin.</string>
   <string name="lbl_setting_playback_streaming_auto">Otomatik</string>
   <string name="lbl_url_alert">Bilgi</string>
-  <string name="loading">Yalnızca bir sn…</string>
-  <string name="logging_verbose">Ayrıntılı</string>
+  <string name="loading">Sadece bir saniye…</string>
+  <string name="local_push_title">Bugün popüler</string>
   <string name="login">Oturum açın</string>
-  <string name="login_tip">Geri bildiriminize gönderdiğimiz cevapları almak için oturum açın.</string>
+  <string name="login_tip">Geri bildiriminize olan yanıtlarımızı alabilmek için oturum açın.</string>
   <string name="logout">Oturumu kapat</string>
   <string name="logout_account">Oturumu kapat</string>
-  <string name="lp_base_folder">SD Kart</string>
+  <string name="lp_base_folder">SD kart</string>
+  <string name="lp_play_mode_list_loop">Tümünü döndür</string>
+  <string name="lp_play_mode_pause">Birini oynat</string>
+  <string name="lp_play_mode_single_loop">Birini döndür</string>
+  <string name="lp_play_mode_title">Oynatma modu</string>
   <string name="lp_speed_title">Oynatma hızı</string>
   <string name="lp_speed_toast">%sX hızında oynatılıyor…</string>
   <string name="lp_videoView_error_button">Anladım</string>
@@ -409,6 +415,7 @@ seçin"</string>
   <string name="lv_audio_track">Ses dosyası</string>
   <string name="lv_auto_update">Daha sonra güncelle</string>
   <string name="lv_brightness">Parlaklık</string>
+  <string name="lv_cast">Yansıt</string>
   <string name="lv_check_delete_file">Silinecek ögeleri seçin</string>
   <string name="lv_check_send_file">Bir defada yalnızca tek bir dosya gönderebilirsiniz</string>
   <string name="lv_confirm_delete_history">Seçili ögeler silinsin mi?</string>
@@ -546,7 +553,8 @@ seçin"</string>
   <string name="next">İleri</string>
   <string name="nick_name">Takma Ad</string>
   <string name="no_account">Oturum açılmadı</string>
-  <string name="no_network_tips">Bu özellik şu anda kullanılamıyor. Ağ erişimi kısıtlı.</string>
+  <string name="no_more_content">Şimdilik bu kadar</string>
+  <string name="no_network_tips">Bu özellik şimdi kullanılamıyor. Ağ erişimi kısıtlanmış.</string>
   <string name="no_phone">Telefon numarası yok</string>
   <string name="no_recommend_data">Şu anda tavsiye edilen video yok</string>
   <string name="no_subscriptions">Burada öge yok</string>
