@@ -1905,10 +1905,10 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="power_save_on_time_end_time_summary_na">Başlangıç</string>
   <string name="power_save_on_time_start_time_summary_na">Bitiş</string>
   <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
-  <string name="power_save_ps_close_setting">Pil tasarrufu için yüksek güç tüketimine sahip hizmetleri ve özellikleri (eşitleme, GPS, dokunsal geri bildirim, \"Uyandırmak için kaldır\", \"Ekranı uyandırmak veya kapatmak için çift dokun\", \"Ekran kapalıyken parmak izi simgesini göster\") kapatın</string>
-  <string name="power_save_ps_close_setting_5g">Pil tasarrufu için yüksek güç tüketimine sahip hizmetleri ve özellikleri (eşitleme, 5G ağ bağlantısı, GPS, dokunsal geri bildirim, \"Uyandırmak için kaldır\", \"Ekranı uyandırmak veya kapatmak için çift dokun\", \"Ekran kapalıyken parmak izi simgesini göster\") kapatın</string>
-  <string name="power_save_ps_close_setting_5g_q">Yüksek güç tüketimine sahip hizmetleri ve özellikleri (eşitleme, 5G ağ bağlantısı, dokunsal geri bildirim, \"Uyandırmak için kaldır\", \"Ekranı uyandırmak veya kapatmak için çift dokun\", \"Ekran kapalıyken parmak izi simgesini göster\") kapatın</string>
-  <string name="power_save_ps_close_setting_q">Yüksek güç tüketimine sahip hizmetleri ve özellikleri (eşitleme, dokunsal geri bildirim, \"Uyandırmak için kaldır\", \"Ekranı uyandırmak veya kapatmak için çift dokun\", \"Ekran kapalıyken parmak izi simgesini göster\") kapatın</string>
+  <string name="power_save_ps_close_setting">Yüksek güç tüketen hizmetleri ve özellikleri (eşitleme, GPS, dokunsal geri bildirim, \"Uyandırmak için cihazı kaldır\", ve \"Ekran kapalıyken parmak izi simgesini göster\") kapatın</string>
+  <string name="power_save_ps_close_setting_5g">Yüksek güç tüketen hizmetleri ve özellikleri (eşitleme, 5G ağ bağlantısı, GPS, dokunsal geri bildirim, \"Uyandırmak için cihazı kaldır\", ve \"Ekran kapalıyken parmak izi simgesini göster\") kapatın</string>
+  <string name="power_save_ps_close_setting_5g_q">Yüksek güç tüketen hizmetleri ve özellikleri (eşitleme, 5G ağ bağlantısı, dokunsal geri bildirim, \"Uyandırmak için cihazı kaldır\", ve \"Ekran kapalıyken parmak izi simgesini göster\") kapatın</string>
+  <string name="power_save_ps_close_setting_q">Yüksek güç tüketen hizmetleri ve özellikleri (eşitleme, dokunsal geri bildirim, \"Uyandırmak için cihazı kaldır\", ve \"Ekran kapalıyken parmak izi simgesini göster\") kapatın</string>
   <string name="power_save_ps_freeze">Arka planda uygulamaları dondur</string>
   <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>
   <string name="power_save_settings">Pil ayarları</string>

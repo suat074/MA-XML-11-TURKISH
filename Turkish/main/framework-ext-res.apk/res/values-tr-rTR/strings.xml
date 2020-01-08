@@ -199,7 +199,7 @@
   <string name="sim_added_reboot_title">SIM kart, cihazınızı yeniden başlattıktan sonra aktif hale gelecektir.</string>
   <string name="sim_lock_non_ais_msg">SIM kartınız bu telefonla tam olarak çalışmıyor çünkü aboneliğinizin şartlarına ve koşullarına uymuyor. Herhangi bir sorunuz veya bu konuda daha fazla bilgiye ihtiyacınız varsa, lütfen Xiaomi servis merkezlerine veya size ürünü satan mağazaya başvurun.</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
-  <string name="slatoast">Hızı artırmak için mobil veri kullanmak, mobil verinizi tüketebilir</string>
+  <string name="slatoast">Hızı artırmak için mobil veri kullanmak ek operatör ücretleri oluşturabilir</string>
   <string name="slavewifi">Çift bant WLAN</string>
   <string name="slavewifi_disconnect">Bağlantıyı kes</string>
   <string name="slavewifi_notification_title">Çift bant WLAN kullan</string>
