@@ -3859,6 +3859,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="play_pause_description">Oynat/Duraklat düğmesi</string>
   <string name="please_select_phase2">Faz 2 doğrulaması</string>
   <string name="please_type_passphrase">Şifre</string>
+  <string name="poco_launcher_privacy_policy">POCO Başlatıcı Gizlilik Politikası</string>
+  <string name="poco_launcher_user_agreement">POCO Başlatıcı Kullanıcı Sözleşmesi</string>
   <string name="pointer_location">İşaretleyici Konumu</string>
   <string name="pointer_location_summary">Dokunma koordinatlarını göster</string>
   <string name="pointer_settings_category">Fare/dokunmatik alan</string>
@@ -5917,7 +5919,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="use_open_wifi_automatically_summary">Yüksek kaliteli kamu ağlarına otomatik olarak bağlan</string>
   <string name="use_open_wifi_automatically_title">Açık ağlara bağlan</string>
   <string name="use_otg_charge_only">Ters şarj</string>
-  <string name="use_otg_charge_only_summary">Daha hızlı 1A şarj</string>
+  <string name="use_otg_charge_only_summary">Daha hızlı 1.8A şarj</string>
   <string name="use_otg_file_transfers">Ters şarj &amp; dosya aktarma</string>
   <string name="use_otg_file_transfers_summary">Daha yavaş 500mA şarj ve dosya aktarımları</string>
   <string name="use_otg_title">Hareket halinde USB</string>
