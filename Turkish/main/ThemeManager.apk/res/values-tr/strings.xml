@@ -312,6 +312,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="miuishare_share_done">Başarıyla paylaşıldı</string>
   <string name="miuishare_share_editor_title">Paylaş</string>
   <string name="miuishare_share_fail">Paylaşılamadı</string>
+  <string name="miuishare_sys_title_share">Daha fazla seçenek</string>
   <string name="miuishare_timeline_title">Bir sonraki duvar kağıdını bul</string>
   <string name="miuishare_title_more">Daha</string>
   <string name="miuishare_title_share">Paylaş</string>

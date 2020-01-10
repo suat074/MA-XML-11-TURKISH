@@ -64,6 +64,7 @@
   <string name="custom_image">Özel resim</string>
   <string name="deep_space_planet">Dış mekan</string>
   <string name="deep_space_planet_des">Bu tema, gün boyunca etrafınızda olan ışık değişimlerini yansıtır. Gündoğumu ve günbatımı da konumunuz ile senkronize edilir.</string>
+  <string name="delete">Sil</string>
   <string name="digital_clock">Dijital</string>
   <string name="disable_aod_in_power_save_mode">Pil tasarrufu açıkken kapat</string>
   <string name="disable_aod_in_power_save_mode_summary">Güç tasarrufunda öğeleri görüntülemeyin</string>
@@ -73,6 +74,7 @@
   <string name="line_space">Satır aralığı</string>
   <string name="mini_time">Küçük saat</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+  <string name="my_style_title">tarzım</string>
   <string name="notification_anim_pulse">Titreşim</string>
   <string name="notification_anim_rhythm">Ritim</string>
   <string name="notification_anim_star">Yıldız ışığı</string>
@@ -108,6 +110,7 @@ olacağına inan"</string>
   <string name="text_color">Metin rengi</string>
   <string name="text_length_exceed_limit_alert">*Girdiğiniz metin çok uzun</string>
   <string name="text_size">Metin boyutu</string>
+  <string name="theme_cate_title">tema</string>
   <string name="time_location">Saat pozisyonu</string>
   <string name="time_style">Stil</string>
   <string name="time_style_layout">Yerleşim</string>
