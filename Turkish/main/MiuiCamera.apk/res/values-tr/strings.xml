@@ -220,8 +220,6 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="custom_watermark_words">Özel filigran</string>
   <string name="custom_watermark_words_input_hint">Metni girin</string>
   <string name="custom_watermark_words_save_success">Başarıyla kaydedildi</string>
-  <string name="device_ultra_pixel_watermark_default_text">48MP ÇİFT KAMERA</string>
-  <string name="device_watermark_default_text">AI ÇİFT KAMERA</string>
   <string name="dialog_google_lens_option_0">Google Lens(Tavsiye edilen)</string>
   <string name="dialog_ok">Tamam</string>
   <string name="dialog_ok_time">Tamam (%ds)</string>
