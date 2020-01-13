@@ -75,5 +75,9 @@
   <plurals name="dirty_phrase_count">
     <item quantity="other">%d sık kullanılan ifade</item>
     <item quantity="one">%d sık kullanılan ifade</item>
+  </plurals>
+  <plurals name="select_no_more_than">
+    <item quantity="other">%d öğeden fazla seçilemiyor</item>
+    <item quantity="one">%d öğeden fazla seçilemiyor</item>
   </plurals>  
 </resources>

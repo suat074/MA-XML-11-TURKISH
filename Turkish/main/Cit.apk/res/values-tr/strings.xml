@@ -228,6 +228,9 @@
 3.Sistem fotoğraf çekildikten sonra otomatik olarak kaydeder
 4.Çektiğiniz fotoğrafın ekranda görünmesi gerekiyor, testi tamamlamak için Geç\'e dokunun."</string>
   <string name="cit_front_camera_check_title">Ön kamera</string>
+  <string name="cit_front_camera_motor_cali_fail">Motor kalibrasyonu başarısız</string>
+  <string name="cit_front_camera_motor_cali_success">Motor kalibrasyonu başarılı</string>
+  <string name="cit_front_camera_motor_cali_tips">Açılır kamera motoru kalibrasyonu işlemi sırasında kamerayı engellemeyin</string>
   <string name="cit_get_signature_failed">imza al BAŞARISIZ</string>
   <string name="cit_goodix_sensor_check_summary">Goodix sensör testi, düğmeye basın ve yeşil renkte vurgulanan geçiş bilgisinin doğru olmasını bekleyin.</string>
   <string name="cit_goodix_sensor_check_title">Goodix parmak izi sensörü</string>

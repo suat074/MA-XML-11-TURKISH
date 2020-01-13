@@ -230,6 +230,7 @@
   <string name="accessibility_status_bar_headphones">Kulaklık bağlandı</string>
   <string name="accessibility_status_bar_headset">Kulaklık bağlı</string>
   <string name="accessibility_status_bar_hotspot">Paylaşım</string>
+  <string name="accessibility_status_bar_micphone">mikrofon bağlı</string>
   <string name="accessibility_status_bar_no_slave_wifi">Yardımcı WLAN bağlantısı kesildi</string>
   <string name="accessibility_status_bar_slave_wifi_four_bars">Yardımcı WLAN dört çubuk</string>
   <string name="accessibility_status_bar_slave_wifi_one_bar">Yardımcı WLAN bir çubuk</string>
@@ -802,6 +803,9 @@
   <string name="home">Ayarlar Ana Sayfası</string>
   <string name="how_to_back_home">Ana ekrana git</string>
   <string name="how_to_switch_recents">Son kullanılanları aç</string>
+  <string name="how_to_use_app_quick">Uygulamalar arasında geçiş yapma</string>
+  <string name="how_to_use_app_quick_hide_line_summary">Ekranın altından yukarı doğru kaydırın, ardından sola veya sağa kaydırın</string>
+  <string name="how_to_use_app_quick_summary">Tam ekran göstergesinden veya ekranın altından sola veya sağa kaydırın</string>
   <string name="how_to_use_drawer">Kayan menü nasıl açılır</string>
   <string name="how_to_use_drawer_summary">Ekranın üst kısmında sağa doğru kaydırın</string>
   <string name="how_to_use_fsg">Hareketleri kullanarak bu işlemleri gerçekleştirebilirsiniz:</string>

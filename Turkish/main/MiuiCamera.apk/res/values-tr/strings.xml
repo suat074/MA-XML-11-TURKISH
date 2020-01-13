@@ -254,6 +254,7 @@ otomatik olarak hizala ve iyileştir"</string>
   <string name="edit_skin_white">Ton</string>
   <string name="edit_slim_nose">Burun</string>
   <string name="edit_smile">Gülümseme</string>
+  <string name="emoticon">Emoji paketi</string>
   <string name="error_action_not_found">Bu uygulama cihazınızda bulunamadı.</string>
   <string name="error_barcode_lookup">Barkod araması başarısız oldu.</string>
   <string name="error_barcode_no_results">Eşleşen ürün bulunamadı.</string>
@@ -942,6 +943,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="screen_on_proximity_sensor_summary">Kulaklık alanını kapatmayın</string>
   <string name="search_settings">Kamera Ayarları;Kalite;Fotoğraf Kalitesi;Resim Konumu;Fotoğraf Konumu;Yüz Tespiti;Kamera Sesi</string>
   <string name="see_qrcode_detals">QR Kodu Detayları</string>
+  <string name="share">Paylaş</string>
   <string name="simple_mode_button_asd_flash">Flaş yakalamasını kapat</string>
   <string name="simple_mode_button_asd_hdr">HDR yakalamasını kapat</string>
   <string name="simple_mode_button_text_audio_capture">Ses Tetikleyicisini kapat</string>

@@ -13,6 +13,8 @@
   <string name="btn_return">Geri</string>
   <string name="button_cancel">İptal</string>
   <string name="calendar_sync">Takvim</string>
+  <string name="check_contact">Ekle</string>
+  <string name="choose_contact_title">Kişiler</string>
   <string name="click_to_enabled">Eşitlemek için dokunun.</string>
   <string name="close_shortcut">Kapat</string>
   <string name="cloud_find_device">Cihazı bul</string>
@@ -357,6 +359,9 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="pay_info_dialog_mibi_balance_prefix">Kalan Mi Kredilerini kullan: %s</string>
   <string name="pay_info_dialog_title">Ödeme türünü seçin</string>
   <string name="phone_number_required_dspt_provision">Bu servis için telefon numaranız gerekiyor.</string>
+  <string name="picker_list_empty">Burada kişi yok</string>
+  <string name="picker_search_empty">Kişi bulunamadı</string>
+  <string name="picker_search_hint">Ara</string>
   <string name="pre_privacy_policy">Gizlilik Politikası</string>
   <string name="pre_user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">WLAN ağına bağlıyken, yalnızca kişilerin profil resimlerini eşitle</string>
@@ -399,6 +404,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="soundrecorder_sync_only_in_wifi">Eşitlemek için için sadece WLAN kullan</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Kaydedici, kayıtları indirmek veya yüklemek için mobil veri kullanmayacak</string>
   <string name="soundrecorder_sync_records">Xiaomi Bulut ile eşitle</string>
+  <string name="starred_contact">Favoriler</string>
   <string name="storage_manage_expansion">Daha fazlasını alın</string>
   <string name="storage_manage_list_title">Bulut verileri</string>
   <string name="storage_manage_list_title_action">Daha fazla göster</string>

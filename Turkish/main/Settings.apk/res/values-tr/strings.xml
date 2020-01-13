@@ -3403,6 +3403,9 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="my_device_disclaimer">Not: İşlemci, pil kapasitesi, ekran boyutu ve çözünürlüğü, kamera gibi donanım bilgileri, Xiaomi laboratuarları, tasarımcılar ve tedarikçiler tarafından sağlanmaktadır.</string>
   <string name="n_cacrts">%d CA sertifikaları</string>
   <string name="nature_color">Varsayılan</string>
+  <string name="navigation_guide_app_quick_switch_hide_line_summary">Ekranın altından yukarı doğru kaydırın, ardından sola veya sağa kaydırın</string>
+  <string name="navigation_guide_app_quick_switch_summary">Tam ekran göstergesinden veya ekranın altından sola veya sağa kaydırın</string>
+  <string name="navigation_guide_app_quick_switch_title">Uygulamalar arasında geçiş yapma</string>
   <string name="navigation_guide_app_summary">Üst alanda ekranın kenarından sola veya sağa kaydırın</string>
   <string name="navigation_guide_app_title">Uygulama tetikleme eylemi</string>
   <string name="navigation_guide_appswitch_anim_summary">Önceki uygulamaya geri dönmek için kenardan başlayarak ekran boyunca hızlıca kaydırın</string>
@@ -3417,6 +3420,10 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="navigation_guide_dialog_skip">Atla</string>
   <string name="navigation_guide_dialog_summary">Sanal anahtar yerine hareket kullanın.</string>
   <string name="navigation_guide_dialog_title">Hareketi öğrenin</string>
+  <string name="navigation_guide_gesture_line_dialog_summary">Tam ekran göstergesini gizledikten sonra uygulamalar arasında geçiş yapmak için yeni bir hareket kullanılacak. Bu hareketi şimdi öğrenin?</string>
+  <string name="navigation_guide_gesture_line_dialog_title">Yeni bir hareket öğrenin</string>
+  <string name="navigation_guide_hide_gesture_line_summary">Tam ekran hareketleri kullanırken tam ekran göstergesini gösterme</string>
+  <string name="navigation_guide_hide_gesture_line_title">Tam ekran göstergesini gizle</string>
   <string name="navigation_guide_home_summary">Ekranın altından yukarı doğru hızlıca kaydırın</string>
   <string name="navigation_guide_home_title">Ana ekrana geri dön</string>
   <string name="navigation_guide_recent_summary">Ekranın altından hızlıca kaydırın ve duraklatın</string>

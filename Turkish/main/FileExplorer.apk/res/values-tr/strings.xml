@@ -192,6 +192,7 @@
   <string name="error_delete_failed">Dosya silinemedi</string>
   <string name="error_filename_too_long">Girdiğiniz dosya adı çok uzun.</string>
   <string name="error_folder_already_exists">Bu dosya zaten var</string>
+  <string name="error_hint_copy_folder_to_self_or_sub">Klasörler kendilerine veya alt klasörlerine taşınamaz veya kopyalanamaz</string>
   <string name="error_info_cant_send_folder">Bu tür bir dosya gönderilemiyor.</string>
   <string name="error_invalid_path">Yanlış yol</string>
   <string name="error_not_support">Desteklenmiyor</string>
