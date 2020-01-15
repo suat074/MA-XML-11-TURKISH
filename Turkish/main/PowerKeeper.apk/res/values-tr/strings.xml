@@ -86,6 +86,8 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="power_hide_mode_app_list_summary">Arka planda güç tasarrufu</string>
   <string name="power_hide_mode_title">Pil &amp; performans</string>
   <string name="power_mode">Güç ayarları</string>
+  <string name="power_tools_current">Geçerli</string>
+  <string name="power_tools_fps">FPS</string>
   <string name="power_usage">Güç kullanımı</string>
   <string name="pref_config_title">Performans Optimizasyonu</string>
   <string name="privacy">Gizlilik Politikası</string>

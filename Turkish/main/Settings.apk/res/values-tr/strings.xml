@@ -3919,6 +3919,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="power_mgr">Pil optimizasyonu</string>
   <string name="power_mode">Güç Ayarları</string>
   <string name="power_mode_balanced_title">Dengeli Güç</string>
+  <string name="power_monitor_summary">Gücü izlemek için kullanılan araçlar.</string>
+  <string name="power_monitor_title">Güç monitörü</string>
   <string name="power_optimize">Pil Tasarrufu</string>
   <string name="power_overcounted">Aşırı Yüksek Sayaç</string>
   <string name="power_phone">Sesli Çağrılar</string>
@@ -5147,16 +5149,20 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="spell_checker_not_selected">Seçilmedi</string>
   <string name="spellchecker_language">Dil</string>
   <string name="spellchecker_quick_settings">Ayarlar</string>
-  <string name="spellchecker_security_warning">Bu yazı denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazı denetleyici, %1$s uygulamasından gelmektedir. Bu yazı denetleyiciyi kullanmak istiyor musunuz?</string>
-  <string name="spellchecker_switch_title">Yazım denetleyicisini etkinleştir</string>
-  <string name="spellcheckers_settings_title">Yazım Denetleyici</string>
-  <string name="split_screen">Bölünmüş ekran kısayolu</string>
-  <string name="ssl_ca_cert_warning">Ağ belki izleniyor</string>
-  <string name="ssl_ca_cert_warning_message">Üçüncü bir şahıs ağ faaliyetlerinizi, e-posta ve eklerini, uygulamaları ve güvenli websitelerini izleyebilir.\n\nGüvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun.</string>
-  <string name="stable_build">\nStabil</string>
+  <string name="spellchecker_security_warning">Bu yazım denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere, yazdığınız tüm metni toplayabilir. %1$s uygulamasından geliyor. Bu yazım denetleyicisi kullanılsın mı?</string>
+  <string name="spellchecker_switch_title">Yazım denetleyicisini aç</string>
+  <string name="spellcheckers_settings_for_work_title">İş için yazım denetleyicisi</string>
+  <string name="spellcheckers_settings_title">Yazım denetleyicisi</string>
+  <string name="split_screen">Bölünmüş ekranı aç</string>
+  <string name="ssl_ca_cert_warning">Ağ izlenebilir</string>
+  <string name="ssl_ca_cert_warning_message">"Üçüncü bir taraf, e-postalar, uygulamalar ve güvenli web siteleri dahil olmak üzere ağ etkinliğinizi izleyebilir.
+
+Cihazınıza yüklenmiş güvenilir bir kimlik bilgisi bunu mümkün kılıyor."</string>
+  <string name="stable_build">Stabil</string>
   <string name="standard">Sessiz</string>
-  <string name="standard_info">Çağrılar ve bildirimler sessiz, ancak alarm, müzik hala ses çıkaracaktır</string>
-  <string name="start_silent_mode">Sessiz Modu Aç</string>
+  <string name="standard_info">Çağrılar ve bildirimler susturulacak</string>
+  <string name="standby_bucket_summary">Uygulama bekleme durumu: %s</string>
+  <string name="start_silent_mode">Sessiz modu aç</string>
   <string name="starting_android">Android başlatılıyor...</string>
   <string name="status_awaiting_tap">Bir etiket yazmak için dokunun...</string>
   <string name="status_awake_time">Uyanık zaman</string>

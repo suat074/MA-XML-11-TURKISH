@@ -1377,7 +1377,7 @@ izin istendi."</string>
   <string name="smv_application">%1$s uygulaması (%2$s işlemi) kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
   <string name="smv_process">%1$s işlemi kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
   <string name="ssl_ca_cert_noti_by_administrator">İş profil yöneticisi tarafından</string>
-  <string name="ssl_ca_cert_noti_by_unknown">Bunu, bilinmeyen üçüncü taraflar yapabilir</string>
+  <string name="ssl_ca_cert_noti_by_unknown">Bilinmeyen bir üçüncü taraf ile</string>
   <string name="ssl_ca_cert_noti_managed">%s tarafından</string>
   <string name="ssl_certificate">Güvenlik Sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>

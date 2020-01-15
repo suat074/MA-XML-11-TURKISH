@@ -987,6 +987,7 @@
   <string name="mmiStarted">MMI kodu başladı</string>
   <string name="mobile_advanced_dns_server_title">DNS sunucusu adresi</string>
   <string name="mobile_advanced_ip_address_title">IP adresi</string>
+  <string name="mobile_advanced_nr_network_title">5G ağ türü</string>
   <string name="mobile_connection_management">Mobil ağ bağlantısını yönet</string>
   <string name="mobile_data">Mobil veri</string>
   <string name="mobile_data_activate_button">VERİ EKLE</string>
@@ -1119,6 +1120,13 @@
   <string name="notification_voicemail_text_format">%s çevir</string>
   <string name="notification_voicemail_title">Yeni sesli mesaj</string>
   <string name="notification_voicemail_title_count">Yeni Sesli Mesaj (%d)</string>
+  <string name="nr_network_info">5G ağ kullanım bilgisi</string>
+  <string name="nr_usaged_first_used_time">5G ağına kayıtlı</string>
+  <string name="nr_usaged_module">Cihaz modeli</string>
+  <string name="nr_usaged_network_rate">En yüksek hız</string>
+  <string name="nr_usaged_network_usaged">Bugünün verileri</string>
+  <string name="nr_usaged_operator">Operatör</string>
+  <string name="nr_usaged_used_time">Kullanım süresi</string>
   <string name="number">Numara</string>
   <string name="oem_unlock_enable">OEM kilidini açma</string>
   <string name="oem_unlock_enable_summary">Önyükleyicinin kilidinin açılmasına izin ver</string>

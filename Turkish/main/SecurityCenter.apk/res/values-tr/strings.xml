@@ -106,6 +106,8 @@
   <string name="already_close_gamebooster">Oyun Turbo kapalı</string>
   <string name="anti_disturb_msg_detail">Gelen aramalar dışında tüm bildirimleri kapat</string>
   <string name="anti_disturb_msg_title">Rahatsız Etme</string>
+  <string name="antispam_mms_text">Engellenen mesajları görüntüleyebilmek için Mesajlaşma\'yı varsayılan SMS mesajlaşma uygulamanız olarak ayarlayın</string>
+  <string name="antispam_mms_text_setting">Engelleme listesini kullanabilmek için Mesajlaşma\'yı varsayılan SMS mesajlaşma uygulamanız olarak ayarlayın</string>
   <string name="antispam_mode_details">Engelleme listesi ayrıntıları</string>
   <string name="antispam_notificaiton_type_show_all">Tüm Numaralar</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Engellenmemiş Numaralar</string>

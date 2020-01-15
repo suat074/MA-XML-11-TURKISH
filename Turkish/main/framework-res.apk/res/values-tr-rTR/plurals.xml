@@ -98,7 +98,7 @@
   </plurals>
   <plurals name="ssl_ca_cert_warning">
     <item quantity="other">Sertifika yetkilileri yüklendi</item>
-    <item quantity="one">Sertifika yetkilileri yüklendi</item>
+    <item quantity="one">Sertifika yetkilisi yüklendi</item>
   </plurals>
   <plurals name="wifi_available">
     <item quantity="other">WLAN ağı mevcut</item>
