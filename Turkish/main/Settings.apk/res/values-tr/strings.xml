@@ -1405,6 +1405,8 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="convert_to_file_encryption_enabled">Dönüştür...</string>
   <string name="cool_color">Soğuk</string>
   <string name="copyright_title">Telif Hakkı</string>
+  <string name="corner_assistant_gesture_summary">Google Asistan\'ı uyandırmak için sol veya sağ alt köşeden yukarı kaydırın</string>
+  <string name="corner_assistant_gesture_title">Google Asistan için köşeden yukarı kaydır</string>
   <string name="country_name">%s (sistem)</string>
   <string name="create">Oluştur</string>
   <string name="credential_contains">Bu giriş şunları içeriyor:</string>
