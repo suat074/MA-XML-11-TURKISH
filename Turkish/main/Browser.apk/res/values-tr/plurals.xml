@@ -4,6 +4,26 @@
     <item quantity="other">%d öğe engellendi</item>
     <item quantity="one">%d öğe engellendi</item>
   </plurals>
+  <plurals name="comment_detail_title">
+    <item quantity="other">%d yanıt</item>
+    <item quantity="one">%d yanıt</item>
+  </plurals>
+  <plurals name="comment_hour_ago">
+    <item quantity="other">%d saat önce</item>
+    <item quantity="one">%d saat önce</item>
+  </plurals>
+  <plurals name="comment_look_all">
+    <item quantity="other">%d yorumu görüntüle</item>
+    <item quantity="one">%d yorumu görüntüle</item>
+  </plurals>
+  <plurals name="comment_minute_ago">
+    <item quantity="other">%d dakika önce</item>
+    <item quantity="one">%d dakika önce</item>
+  </plurals>
+  <plurals name="comment_selected">
+    <item quantity="other">%d sebep seçildi</item>
+    <item quantity="one">%d sebep seçildi</item>
+  </plurals>
   <plurals name="find_on_page_matches">
     <item quantity="other">%d eşleşme</item>
     <item quantity="one">%d eşleşme</item>
