@@ -172,7 +172,7 @@
   <string name="miui_install_source_unkown">Bilinmeyen</string>
   <string name="miui_install_success">Başarıyla yüklendi</string>
   <string name="miui_install_version">Sürüm: %1$s | Boyut: %2$s</string>
-  <string name="miui_install_version_3">Sürüm %1$s -&gt; %2$s | Boyut %3$s</string>
+  <string name="miui_install_version_3">Sürüm: %1$s -&gt; %2$s | Boyut: %3$s</string>
   <string name="miui_installing">Yükleniyor…</string>
   <string name="miui_installing2">Yükleniyor…</string>
   <string name="miui_message_staging_0">Uygulama hazırlanıyor   </string>
