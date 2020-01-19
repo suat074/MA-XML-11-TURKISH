@@ -81,6 +81,14 @@
     <item quantity="other">Hafta içi: %d dakika</item>
     <item quantity="one">Hafta içi: %d dakika</item>
   </plurals>
+  <plurals name="usage_stats_remain_hour">
+    <item quantity="other">%s saat</item>
+    <item quantity="one">%s saat</item>
+  </plurals>
+  <plurals name="usage_stats_remain_miunte">
+    <item quantity="other">%s dak</item>
+    <item quantity="one">%s dak</item>
+  </plurals>
   <plurals name="usagestats_device_notification_des_hour">
     <item quantity="other">" saat"</item>
     <item quantity="one">" saat"</item>

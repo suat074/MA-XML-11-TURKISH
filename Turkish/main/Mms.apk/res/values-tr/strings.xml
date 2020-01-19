@@ -471,6 +471,8 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="non_english_subject_limit">13 karakter</string>
   <string name="nosend_message">Gönderme</string>
   <string name="not_prepare_for_send">Gönderilecek mesaj yok</string>
+  <string name="notification_add_todo">Bana hatırlat</string>
+  <string name="notification_add_todo_content">Alıcı kodu: %s</string>
   <string name="notification_channel_msg_description">Mesajlarla ilgili bildirimler</string>
   <string name="notification_channel_msg_name">Mesajlar</string>
   <string name="notification_channel_other_description">Diğer bildirimler</string>

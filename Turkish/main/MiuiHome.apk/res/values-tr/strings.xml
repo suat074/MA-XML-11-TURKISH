@@ -404,6 +404,8 @@
   <string name="recents_empty_message">Son kullanılan öğe yok</string>
   <string name="recents_empty_message_dismissed_all">Her şeyi temizledin</string>
   <string name="recents_empty_message_multi_window">Uygulamaları Ana ekrandan aç</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">Yansıtma yapılırken Ekran bölme kullanılamıyor</string>
+  <string name="recents_task_screening">Yansıt</string>
   <string name="recents_title_app_manager">Uygulamaları yönet</string>
   <string name="recents_title_game">Oyunlar</string>
   <string name="recents_title_garbage_cleanup">Temizleyici</string>
@@ -465,6 +467,7 @@
   <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
   <string name="system_shortcuts_remove">Kaldır</string>
   <string name="system_text">Sistem</string>
+  <string name="task_access_locked_app_msg">Uygulama kilidi açık</string>
   <string name="title_jeejen">Jeejen Ana ekran</string>
   <string name="title_select_live_folder">Klasörü Seç</string>
   <string name="title_select_shortcut">Kısayolu Seç</string>
