@@ -110,6 +110,9 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="de_author_follow">Takip et</string>
   <string name="de_author_following">Takip ediliyor</string>
   <string name="de_component_author">Yazar</string>
+  <string name="de_component_font_author">Yazı tipi tasarımcısı</string>
+  <string name="de_component_tags">Etiketler</string>
+  <string name="de_font_exchange_success">Başarıyla satın alındı</string>
   <string name="de_icon_text_comment">Yorum</string>
   <string name="de_icon_text_favorite">Favorilere ekle</string>
   <string name="de_icon_text_like">Beğen</string>
@@ -474,7 +477,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="resource_exchange_share_code_content">"MIUI'nin Tema Mağazasından %1$s teması için (%2$s) hediye kodu aldınız. Şimdi dokunup %3$s kullanın."</string>
   <string name="resource_exchange_share_code_dlg_content">Hediye Kodu: %1$s: %2$s. Başka bir MIUI kullanıcısına göndermeden önce onların temayı indirmesi lazım.</string>
   <string name="resource_exchange_share_code_dlg_title">Gönderiliyor</string>
-  <string name="resource_exchange_success">İyi eğlenceler! :)</string>
+  <string name="resource_exchange_success">Başarıyla satın alındı</string>
   <string name="resource_exchange_unavailable">Girdiğiniz kod ile ilişkili tema mevcut değil.</string>
   <string name="resource_exchange_universal_finish">MIUI Tema Marketten bir temayı indirmek için bu kodu kullanabilirsiniz.</string>
   <string name="resource_exchange_universal_goon">Bu kod marketten herhangi bir temayı indirmek için kullanılabilir.</string>

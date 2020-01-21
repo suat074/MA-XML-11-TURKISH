@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
+  <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
   <string name="abc_action_mode_done">Bitti</string>
@@ -20,7 +20,7 @@
   <string name="abc_prepend_shortcut_label">Menü+</string>
   <string name="abc_search_hint">Arama…</string>
   <string name="abc_searchview_description_clear">Sorguyu temizle</string>
-  <string name="abc_searchview_description_query">Arama sorgusu</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
   <string name="abc_searchview_description_search">Ara</string>
   <string name="abc_searchview_description_submit">Sorguyu gönder</string>
   <string name="abc_searchview_description_voice">Sesli arama</string>
