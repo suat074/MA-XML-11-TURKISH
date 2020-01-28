@@ -83,6 +83,9 @@ düğmeye dokunun"</string>
     <string name="card_on_using">Kullanılıyor</string>
     <string name="channel_id_background_service">Arka plan hizmetleri</string>
     <string name="chart_no_data">Veri yok</string>
+	<string name="chip_text">Çip metni</string>
+    <string name="clear_text_end_icon_content_description">Metni temizle</string>
+    <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
     <string name="complete_preference_basic_info">Profilinizi tamamlayın</string>
     <string name="copy_done">Başarıyla kopyalandı</string>
     <string name="copyright_statement">Telif hakkı © Xiaomi Inc. Her hakkı saklıdır.</string>
@@ -118,15 +121,21 @@ Sağlık verilerinizi, saklamayı seçtikten sonra silmeye karar verirseniz, bun
     <string name="day">Gün</string>
     <string name="deep_sleep">Derin uyku</string>
 	<string name="delete_all_data">Tüm verileri sil</string>
+	<string name="delete_all_data_sources">Tüm veri kaynaklarını sil</string>
+    <string name="delete_all_data_sources_description">Eklenen tüm veri kaynakları silinsin mi?</string>
     <string name="delete_menstruation_record_confirm">Bu kayıt silinsin mi?</string>
 	<string name="delete_origin_data_description">%1$s tarafından oluşturulan tüm veriler silinsin mi?</string>
 	<string name="device_data_manage">Cihazları yönet</string>
     <string name="device_data_sync">Sağlık verilerini eşitle</string>
     <string name="device_list_origin_description">Bu cihazlar %1$s Mi Hesabı ile ilişkilendirildi. İhtiyacınız olan cihazı burada bulamıyorsanız, ilgili uygulamaya zaten eklediğinizden emin olun.</string>
     <string name="device_off_sync_description">Bu cihazda oluşturulan sağlık verileri Mi Sağlık ile eşitlenmeyecek</string>
+	<string name="diagnosis_log_send_failed">Tanı günlüğü gönderilemedi.</string>
+    <string name="diagnosis_log_sent_format">"Tanı günlüğü gönderildi.
+ID:%s
+Lütfen bu kodu teknisyene gönderin."</string>
     <string name="dialog_abandon">Yoksay</string>
     <string name="dialog_abandon_sleep_edit">Değişiklikler yok sayılsın mı?</string>
-	<string name="dialog_account_perm_desc">Mi Hesabınıza erişmek için</string>
+	<string name="dialog_account_perm_desc">Sistem hesabına erişmek ve oturum açmak için</string>
     <string name="dialog_agree_and_continue">Kabul et</string>
     <string name="dialog_auto_start_detail">"Bildirim almak için Mi Sağlık'a otomatik başlama izni verin.
 Mi Sağlık yalnızca önemli ögeler hakkında bildirim gönderir."</string>
@@ -157,7 +166,7 @@ Mi Sağlık yalnızca önemli ögeler hakkında bildirim gönderir."</string>
     <string name="dialog_permission_loading_msg">Kontrol ediliyor…</string>
     <string name="dialog_privacy_policy_statement">Gizlilik Politikası ifadesi</string>
     <string name="dialog_privacy_title">Şartlar ve koşullar</string>
-    <string name="dialog_read_phone_perm_desc">Cihazınızı tanımlamak için</string>
+    <string name="dialog_read_phone_perm_desc">OAID veya Android ID kullanarak cihaz özelliklerini tanımlamak için</string>
     <string name="dialog_sleep_goal_setting">Uyku süresi hedefini ayarla</string>
     <string name="dialog_sleep_goal_subtitle">Her gün 7-9 saat uyuyun</string>
     <string name="dialog_sleep_goal_title">Uyku süresi hedefi</string>
@@ -183,6 +192,7 @@ Mi Sağlık yalnızca önemli ögeler hakkında bildirim gönderir."</string>
     <string name="feedback_need_permission_msg">"Geri bildirim için kullanılan kayıtları oluşturabilmesi için Mi Sağlık'a harici depolamaya yazma izni verin."</string>
     <string name="feedback_permission_denied_msg">"Mi Sağlık harici depolamaya yazamıyor. Mi Sağlık'a ayarlarda gerekli izni verin."</string>
     <string name="finish">Bitir</string>
+	<string name="for_diagnosis_usage_only">Bu bilgileri yalnızca tanılama için kullanın.</string>
     <string name="gender_female">Kadın</string>
     <string name="gender_male">Erkek</string>
     <string name="gender_other">Diğer</string>
@@ -308,10 +318,14 @@ Mi Sağlık yalnızca önemli ögeler hakkında bildirim gönderir."</string>
     <string name="no_records">Burada henüz öge yok.</string>
 	<string name="not_open_auto_sync">Eşitleme kapalı</string>
     <string name="not_support_step">Cihazınız adım sayamıyor</string>
+	<string name="ok">Tamam</string>
 	<string name="open_data_sync_description">Diğer kaynaklardan gelen sağlık verilerini eşitlemek için bulutla eşitlemeyi açın.</string>
     <string name="open_sync">Eşitlemeyi aç</string>
     <string name="open_unrestricted_permissions">"Uykunuzu daha doğru takip edebilmek için Mi Sağlık'a arka planda çalışma izni verin."</string>
 	<string name="other_can_add_data_source">Mevcut kaynaklar</string>
+	<string name="passport_oauth_actionbar_title">Mi Hesabı</string>
+    <string name="passport_oauth_sucess_tip">Yetkilendirme başarılı</string>
+    <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="permission_check_result">Başarıyla ayarlandı</string>
     <string name="permission_check_result_failed">Ayarlanamadı</string>
     <string name="permission_manage">İzinleri yönet</string>
@@ -362,6 +376,8 @@ Mi Sağlık yalnızca önemli ögeler hakkında bildirim gönderir."</string>
     <string name="sedentary_toggle_content">Mi Sağlık, uzun süre hareketsiz kaldığınızda ayağa kalkıp yürümenizi hatırlatır.</string>
     <string name="select_menstruation_end_date">Bu adet döneminin bitiş tarihini seçin</string>
     <string name="select_null">Seçilmedi</string>
+	<string name="send_diagnosis_log">Tanı günlüğünü gönder</string>
+    <string name="sending">Gönderiliyor…</string>
     <string name="setting">Ayarlar</string>
 	<string name="setting_data_cloud_sync_tip">Bu cihazdaki öğeleri yedeklemek ve diğer cihazlardaki sağlık verilerini eşitlemek için bu özelliği kullanın</string>
     <string name="setting_sedentary_off">KAPALI</string>
@@ -449,6 +465,7 @@ bağlı olarak tavsiye alabilirsiniz."</string>
     <string name="sync_status_in_progress">Eşitleniyor...</string>
     <string name="sync_status_network_failure">Eşitlenemedi. Ağa bağlanın ve yeniden deneyin.</string>
     <string name="sync_status_never_done">Eşitlenmedi</string>
+	<string name="temporary_not_available">geçici olarak mevcut değil</string>
     <string name="text_edit_exercise_goal">Hedefi değiştir</string>
     <string name="text_save_exercise_goal">Tamamlandı</string>
     <string name="tips_default">Veri yok</string>
