@@ -15,5 +15,5 @@
   <string name="open_app">Uygulamayı aç</string>
   <string name="prompt">Bağlantı isteği</string>
   <string name="session">Oturum:</string>
-  <string name="warning">%s, ağ trafiğini izlemesine izin veren bir VPN bağlantısı kurmak istiyor. Yalnızca kaynağa güveniyorsanız kabul edin. <br /> <br /> <img src=vpn_icon /> VPN etkin olduğunda ekranınızın üstünde görünür.</string>
+  <string name="warning">%s, ağ trafiğini izlemesine izin veren bir VPN bağlantısı kurmak istiyor. Yalnızca kaynağa güveniyorsanız kabul edin. VPN etkin olduğunda ekranınızın üstünde görünür.</string>
 </resources>
