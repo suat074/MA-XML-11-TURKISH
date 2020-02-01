@@ -2009,7 +2009,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="enable_webview_multiprocess">Çok İşlemli WebView</string>
   <string name="enable_webview_multiprocess_desc">WebView oluşturucularını ayrı ayrı çalıştır</string>
   <string name="enable_wifi_display">Kablosuz ekran</string>
-  <string name="enabled_authorised_apps_summary">Bireysel uygulamaların anahtarıyla geçiş yaptıktan sonra yetkiniz iptal edilecektir.</string>
+  <string name="enabled_authorised_apps_summary">Tek tek uygulamaların anahtarlarını değiştirdikten sonra yetkilendirmeniz iptal edilir.</string>
   <string name="enabled_authorised_apps_title">Verilen yetki</string>
   <string name="enabled_by_admin">Yönetici tarafından etkinleştirildi</string>
   <string name="enalbe_identify_iPhone">Cihaz kimliği</string>
@@ -4028,7 +4028,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="priority_storage_title">Depolama Ayarları</string>
   <string name="priority_summary">Bildirimleri listenin başında göster</string>
   <string name="priority_title">Öncelik</string>
-  <string name="privacy_authorize_cloud_msg">Hesabınızın güvenliğini sağlayan Xiaomi Bulut hizmetleri için yetkilendirmeyi iptal etmek istiyorsanız i.mi.com adresinde oturum açın (eşitleme ve yedeklemeler dahil).</string>
+  <string name="privacy_authorize_cloud_msg">Hesabınızın güvenliğini sağlamak için, Xiaomi Bulut hizmetleri (eşitleme ve yedeklemeler dahil) yetkisini iptal etmek istiyorsanız, i.mi.com adresinde oturum açın.</string>
   <string name="privacy_authorize_dialog_agree">Kabul</string>
   <string name="privacy_authorize_dialog_exit">Çıkış</string>
   <string name="privacy_authorize_dialog_message"><Data>"Bu servisin temel özellikleri kullanabilmek için, Xiaomi\'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir. Kişisel verileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul\" seçeneğini seçmek, &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikasını&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\">Kullanıcı Sözleşmesini&lt;/a> okuduğunuzu ve kabul ettiğinizi gösterir.​"</Data></string>
@@ -5601,14 +5601,19 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunu ^4 yerine taşınabilir depola
   <string name="traffic_none">Yok</string>
   <string name="transition_animation_scale_title">Geçiş animasyon ölçeği</string>
   <string name="translation_contributors_title">Katkıda bulunanlar</string>
+  <string name="trigger_carrier_provisioning">Tetikleyici Taşıyıcı Sağlama</string>
+  <string name="trust_agents_extend_unlock_summary">Etkinleştirilirse, güvenli aracılar cihazınızın kilidini daha uzun süre açık tutar, ancak zaten kilitli bir cihazın kilidini açamaz.</string>
+  <string name="trust_agents_extend_unlock_title">Güvenli aracılar yalnızca kilidi genişletir</string>
+  <string name="trust_lost_locks_screen_summary">Etkinleştirilirse, son güvenli aracı güveni kaybettiğinde aygıt kilitlenir</string>
+  <string name="trust_lost_locks_screen_title">Güven kaybolduğunda ekranı kilitle</string>
   <string name="trusted_credentials">Güvenilir kimlik bilgileri</string>
-  <string name="trusted_credentials_disable_confirmation">Sistem KB sertifikası kapatılsın mı?</string>
+  <string name="trusted_credentials_disable_confirmation">Sistem CA sertifikası devre dışı bırakılsın mı?</string>
   <string name="trusted_credentials_disable_label">Devre dışı</string>
-  <string name="trusted_credentials_enable_confirmation">Sistem KB sertifikası açılsın mı?</string>
+  <string name="trusted_credentials_enable_confirmation">Sistem CA sertifikası etkinleştirilsin mi?</string>
   <string name="trusted_credentials_enable_label">Etkin</string>
-  <string name="trusted_credentials_remove_confirmation">Kalıcı olarak kullanıcı KB sertifikası kaldırılsın mı?</string>
+  <string name="trusted_credentials_remove_confirmation">Kullanıcı CA sertifikası kalıcı olarak kaldırılsın mı?</string>
   <string name="trusted_credentials_remove_label">Kaldır</string>
-  <string name="trusted_credentials_summary">Güvenilir KB sertifikalarını görüntüle</string>
+  <string name="trusted_credentials_summary">Güvenilir CA sertifikalarını görüntüle</string>
   <string name="trusted_credentials_system_tab">Sistem</string>
   <string name="trusted_credentials_trust_label">Güven</string>
   <string name="trusted_credentials_user_tab">Kullanıcı</string>
@@ -6152,7 +6157,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="vpn_first_always_on_vpn_message">Bu ayarı açtığınızda VPN doğru bir şekilde bağlanana kadar İnternet bağlantınız olmayacak.</string>
   <string name="vpn_forget">Unut</string>
   <string name="vpn_forget_long">VPN\'i unut</string>
-  <string name="vpn_ipsec_ca_cert">IPSec KB Sertifikası</string>
+  <string name="vpn_ipsec_ca_cert">IPSec CA sertifikası</string>
   <string name="vpn_ipsec_identifier">IPSec tanımlayıcısı</string>
   <string name="vpn_ipsec_secret">IPSec Ön Paylaşımlı Anahtar</string>
   <string name="vpn_ipsec_server_cert">IPSec sunucu sertifikası</string>

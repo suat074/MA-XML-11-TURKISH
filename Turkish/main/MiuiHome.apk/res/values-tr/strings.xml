@@ -273,6 +273,7 @@
   <string name="guide_install_app_msg">Uygulama telefonunuzda yüklü değil. Uygulama bulunup yüklensin mi?</string>
   <string name="guide_install_app_title">Uygulama bulunup, yüklensin mi?</string>
   <string name="guide_tips_editing_mode">Bir widget almak için basılı tutun</string>
+  <string name="hide_apps_title">Uygulama simgelerini gizle</string>
   <string name="home_gesture_content_center">İçerik merkezi</string>
   <string name="home_gesture_global_search">Ara</string>
   <string name="home_gesture_no_action">Yok</string>

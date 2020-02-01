@@ -32,7 +32,7 @@
   <string name="ac_post_notification_contentTitle">Uygulama kilidini aç</string>
   <string name="ac_pre_notification_contentText">Kişisel bilgilerinizi koruyun</string>
   <string name="ac_pre_notification_contentTitle">Uygulama kilidini deneyin</string>
-  <string name="ac_recommend_guide_dialog_app_content">Kişisel bilgilerinizi korumak ve veri sızıntılarını önlemek için bu uygulama için Uygulama kilidi\'ni kullanın.</string>
+  <string name="ac_recommend_guide_dialog_app_content">Kişisel bilgilerinizi korumak ve veri sızıntılarını önlemek için bu uygulamayla Uygulama kilidi\'ni kullanın.</string>
   <string name="ac_recommend_guide_dialog_content">Uygulama kilidini kullanarak kişisel bilgilerinizi koruyabilir ve veri sızıntılarından kaçınabilirsiniz.</string>
   <string name="ac_recommend_guide_dialog_ignore">Tekrar gösterme</string>
   <string name="ac_recommend_guide_dialog_open">Aç</string>

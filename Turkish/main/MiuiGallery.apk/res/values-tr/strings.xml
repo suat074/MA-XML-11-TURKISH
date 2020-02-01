@@ -440,11 +440,11 @@
   <string name="default_relation_name">Yeni Grup</string>
   <string name="define_by_user">Özel</string>
   <string name="delete">Sil</string>
-  <string name="delete_album_failed">Albümü silinemedi</string>
-  <string name="delete_album_msg_format">\"%2$s\" albüm %1$s %3$s silinsin mi?</string>
-  <string name="delete_album_msg_format_cloud">%1$s %2$s, Xiaomi Bulutundan ve tüm eşitlenmiş cihazlardan silinsin mi?</string>
+  <string name="delete_album_failed">Albüm silinemedi</string>
+  <string name="delete_album_msg_format">\"%2$s\" albümü %1$s %3$s silinsin mi?</string>
+  <string name="delete_album_msg_format_cloud">%1$s %2$s, Xiaomi Bulut ve tüm eşitlenmiş cihazlardan silinsin mi?</string>
   <string name="delete_album_msg_format_local">%1$s %2$s silinsin mi?</string>
-  <string name="delete_album_success">Albüm silindi.</string>
+  <string name="delete_album_success">Albüm silindi</string>
   <string name="delete_finish_format">%d silindi</string>
   <string name="delete_from_all_devices_and_cloud">tüm cihazlardan ve Xiaomi Bulut\'tan</string>
   <string name="delete_from_cloud">Xiaomi Bulut\'tan öğeleri sil</string>
