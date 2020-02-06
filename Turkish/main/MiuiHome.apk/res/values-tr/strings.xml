@@ -282,6 +282,7 @@
   <string name="home_screen">Ana ekran</string>
   <string name="home_screen_settings">Ana ekran</string>
   <string name="home_slide_up_action">Ana ekranda yukarı kaydırın</string>
+  <string name="home_switch_personal_assistant">-1 ekran</string>
   <string name="icon_reorganize_channel">Simgeleri düzenle</string>
   <string name="icon_size">Simge boyutu</string>
   <string name="image_too_small_message">Orijinal görüntü yeterince büyük değil</string>
@@ -465,6 +466,9 @@
   <string name="status_installing">Yükleniyor</string>
   <string name="status_paused">Duraklatıldı</string>
   <string name="status_pending">Bekleniyor</string>
+  <string name="switch_personal_assistant_app_vault">Uygulama kasası</string>
+  <string name="switch_personal_assistant_google">Google Keşfet</string>
+  <string name="switch_personal_assistant_none">Hiçbiri</string>
   <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
   <string name="system_shortcuts_remove">Kaldır</string>
   <string name="system_text">Sistem</string>
