@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="height_array">
+        <item>Santimetre</item>
+        <item>Metre</item>
+        <item>Fit</item>
+        <item>İnç</item>
+    </string-array>
     <string-array name="operatorDescs">
         <item>sol parantez</item>
         <item>sağ parantez</item>
