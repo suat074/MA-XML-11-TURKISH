@@ -21,6 +21,14 @@
     <item quantity="zero">%.2f kere</item>
     <item quantity="one">%.2f kere</item>
   </plurals>
+  <plurals name="usage_remain_about_hour">
+    <item quantity="other">≈%s saat</item>
+    <item quantity="one">≈%s saat</item>
+  </plurals>
+  <plurals name="usage_remain_about_miunte">
+    <item quantity="other">≈%s dak</item>
+    <item quantity="one">≈%s dak</item>
+  </plurals>
   <plurals name="usage_state_device_explain_today">
     <item quantity="other">%d kez kilit açıldı</item>
     <item quantity="one">%d kez kilit açıldı</item>
