@@ -44,6 +44,7 @@
   <string name="action_item_hifi">Kulaklıklar &amp; Ses Efektleri</string>
   <string name="action_item_play_all">Tümünü Oynat</string>
   <string name="action_item_play_next">Sonra oynat</string>
+  <string name="action_item_play_video">Müzik videosu oynat</string>
   <string name="action_item_remove">Kaldır</string>
   <string name="action_item_remove_from_favorite">Favoriden Kaldır</string>
   <string name="action_item_share">Paylaş</string>
@@ -126,6 +127,7 @@
   <string name="checking_new_version">Güncellemeler kontrol ediliyor…</string>
   <string name="choose_download_quality">İndirme kalitesini seçin</string>
   <string name="choose_stream_quality">Akış kalitesini seç</string>
+  <string name="click_and_watch_video_tip">Müzik videosu oynatmak için dokunun</string>
   <string name="click_to_add_album_cover_and_lyric">Albüm kapağı ve şarkı sözleri eklemek için dokunun</string>
   <string name="click_to_shuffle">Karıştırmak için dokunun</string>
   <string name="close_music_time">"Kalan süre: "</string>
@@ -361,6 +363,7 @@
   <string name="fcm_fallback_notification_channel_label">Çeşitli</string>
   <string name="feed_back">Geri bildirim</string>
   <string name="file_not_found">Dosya yok</string>
+  <string name="filter_by_MP4">MP4 dosyası olan klasörleri görüntüle</string>
   <string name="filter_by_duration">Süreye göre</string>
   <string name="filter_by_duration_max">%d dak</string>
   <string name="filter_by_duration_min">%d san</string>
@@ -397,7 +400,10 @@
   <string name="home_tab_home">Ana sayfa</string>
   <string name="home_tab_joox">JOOX Müzik</string>
   <string name="home_tab_local">Müziğim</string>
+  <string name="home_tab_more_music">Daha fazla müzik</string>
   <string name="home_tab_online">Çevrimiçi müzik</string>
+  <string name="home_tab_recommend">Çevrimiçi</string>
+  <string name="home_tab_search">Ara</string>
   <string name="home_tab_yandex">Yandex Müzik</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama_batch_download_alert_summary">Sadece PRO üyeleri birden fazla şarkı indirebilir. Şimdi PRO üye ol?</string>
@@ -728,6 +734,8 @@
   <string name="service_and_settings">Servis ve Hizmetler</string>
   <string name="set_as_alarm_clock_ringtone">Alarm</string>
   <string name="set_as_ring">Zil sesi yap</string>
+  <string name="set_online_home_subtitle">Uygulama başlatıldığında çevrimiçi önerileri aç</string>
+  <string name="set_online_home_title">Başlangıçta çevrimiçi önerileri göster</string>
   <string name="set_ringtones_failed">Zil sesi yapılamadı</string>
   <string name="set_ringtones_successful">%s zil sesi olarak ayarla</string>
   <string name="setting_feature_setting">Özellik ayarları</string>
@@ -867,4 +875,5 @@
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor, lütfen SD kartı kontrol edin.</string>
   <string name="you_can_switch_mode_in_settings">Ayarlar\’da modlar arasında geçiş yapabilirsiniz.</string>
   <string name="you_may_like">Şunlar da hoşunuza gidebilir</string>
+  <string name="youtube_play_history">Oynatma geçmişi</string>
 </resources>
