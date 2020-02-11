@@ -74,6 +74,8 @@
   <string name="locale_picker_title">Bölgenizi seçin</string>
   <string name="location_introduction">Konum tabanlı servisler size en yakın ürünleri ve hizmetleri bulur.</string>
   <string name="lockscreen_introduction">Duvar Kağıdı Döngüsü, Kilit ekranınıza günlük olarak gönderilen taze görüntüleri almanızı sağlar.</string>
+  <string name="mint_keyboard_oobe_checkbox">Mint Klavye Gizlilik Politikası\'nı okudum ve kabul ediyorum</string>
+  <string name="mint_keyboard_oobe_terms">Mint Klavye Gizlilik Politikası</string>
   <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Gizlilik Politikasını %s adresinden görüntüleyin.</string>
   <string name="miui_terms_no_network">İnternet bağlantınız yok. Kullanıcı Sözleşmesi\'ni %s adresinde görüntüleyin.</string>
   <string name="multisim_settings_category">SIM kart ayarları</string>
@@ -215,8 +217,15 @@ MIUI\'yı kullanabilmeniz için önce Kullanıcı Sözleşmemizi ve Gizlilik Pol
   <string name="terms_of_use_label_systemhelper">, Kendinden kayıtlı servis</string>
   <string name="terms_of_use_label_updater">, Güncelleyici</string>
   <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Xiaomi Bulut, Cihazı bul, Ana ekran, Oyunlar, MIUI Daemon, MSA sistem bileşenleri, çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, istatistik, Mi Link</string>
-  <string name="terms_of_use_lable_default_input_method_facemoji">\n\nBu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir.</string>
-  <string name="terms_of_use_lable_default_input_method_kika">\n\nBu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerekir.</string>
+  <string name="terms_of_use_lable_default_input_method_facemoji">"
+  
+Bu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir."</string>
+  <string name="terms_of_use_lable_default_input_method_kika">"
+  
+Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerekir."</string>
+  <string name="terms_of_use_lable_default_input_method_mint">"
+
+Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmelisiniz."</string>
   <string name="terms_of_use_lable_gms">, Google Play hizmetleri</string>
   <string name="terms_of_use_lable_smart_cards">, Akıllı kartlar</string>
   <string name="terms_of_use_lable_vsimcore">, MConn Hizmeti</string>

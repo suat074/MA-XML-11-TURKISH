@@ -1112,6 +1112,7 @@
   <string name="not_a_valid_port">Port numarası %1$d ile %2$d arasında olmalıdır.</string>
   <string name="not_allowed">SIM kartınız bu ağa bağlanmaya izin vermiyor.</string>
   <string name="not_voice_capable">Sesli arama desteklenmiyor</string>
+  <string name="notification_channel_demo">Demo cihaz</string>
   <string name="notification_demo_version_text">Çağrı yapılamıyor veya mobil veri kullanılamıyor</string>
   <string name="notification_demo_version_title">Bu bir demo cihaz</string>
   <string name="notification_network_selection_text">Seçili ağ (%s) kullanılamaz</string>

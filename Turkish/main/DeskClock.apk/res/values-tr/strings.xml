@@ -46,7 +46,7 @@
   <string name="bedtime_manage">Yatma zamanını yönet</string>
   <string name="bedtime_manage_desc">Yatma zamanı hatırlatmaları planlayın ve uykunuzu takip edin</string>
   <string name="bedtime_manage_open">Yatma zamanını planla</string>
-  <string name="bedtime_manage_tip">Burada yatma zamanını yönet</string>
+  <string name="bedtime_manage_tip">Yatma zamanını buradan yönetin</string>
   <string name="bedtime_not_open_text">Yatma zamanı hatırlatıcılarını kullanmaya başladıktan sonra istatistikleriniz burada görünecek</string>
   <string name="bedtime_repeat_desc">Hatırlatıcı aldığınız günler</string>
   <string name="bedtime_repeat_type">Zamanlama</string>
@@ -326,7 +326,7 @@
   <string name="stopwatch_lap_empty_text">Tur yok</string>
   <string name="stopwatch_title">Kronometre</string>
   <string name="system_permission_phone_desc">Farklı cihazları tanımlamak için</string>
-  <string name="system_permission_purpose">Hafta içi alarmlar oluşturma ve özelleştirilmiş zil sesleri ayarlama</string>
+  <string name="system_permission_purpose">Hafta içi alarmlar oluştur ve özelleştirilmiş zil sesleri ayarla</string>
   <string name="system_permission_storage_desc">Alarm zil seslerine erişmek için</string>
   <string name="system_time_setting">Ayarlar</string>
   <string name="system_time_settings_category_title">Zaman ayarları</string>

@@ -32,6 +32,8 @@
   <string name="actionbar_overflow_item_desc">Daha fazla seçenek</string>
   <string name="add_automatically_alert_msg">Otomatik olarak bu albüme \"%1$s\" fotoğraf eklensin mi?</string>
   <string name="add_automatically_alert_title">Fotoğrafları otomatik ekle</string>
+  <string name="add_nomedia_with_move_to_rubbish">Diğer uygulamalara görünmez yapmak için seçili albümlere \".nomedia\" dosyaları ekleyin</string>
+  <string name="add_remove_nomedia_dialog_message">Seçili albümlere \".nomedia\" dosyaları eklensin mi? Diğer uygulamalar bundan sonra bu albümleri göremeyecek.</string>
   <string name="add_secret_ensure_title">Gizle</string>
   <string name="add_sharer">Üye ekle</string>
   <string name="add_to_album">Albüme ekle</string>
@@ -86,11 +88,19 @@
   <string name="album_jump_failed">Albümler bulutla eşitlenene kadar bekleyin ve tekrar deneyin</string>
   <string name="album_member">Albüm Üyeleri: %s</string>
   <string name="album_name">Albüm Adı</string>
+  <string name="album_name_all_photos">Tüm fotoğraflar</string>
+  <string name="album_name_all_photos_shortcut">Tümü</string>
   <string name="album_name_locations">Yerler</string>
   <string name="album_name_people">İnsanlar</string>
   <string name="album_name_recent_discovery">Geçmiş</string>
   <string name="album_name_tags">Etiketler</string>
   <string name="album_notes">Notlar</string>
+  <string name="album_sort_type">Sıralama düzeni</string>
+  <string name="album_sort_type_create_time_asc">Eskiden yeniye</string>
+  <string name="album_sort_type_create_time_desc">Yeniden eskiye</string>
+  <string name="album_sort_type_custom">Özel</string>
+  <string name="album_sort_type_name_asc">A\'dan Z\'ye</string>
+  <string name="album_sort_type_name_desc">Z\'den A\'ya</string>
   <string name="album_others_share_baby_info_format">Bebek Albümü: %s</string>
   <string name="album_others_share_info_format">%s</string>
   <string name="album_owner_share">Paylaş</string>
@@ -311,6 +321,7 @@
   <string name="choose_owner_relation">İlişki</string>
   <string name="choose_people">Yüz albümünü seçiniz</string>
   <string name="choose_some_people">%s ile albümü seçin</string>
+  <string name="choose_video_compress_quality">Çözünürlük seçin</string>
   <string name="chooser_fragment_mishare_title">Paylaşım için</string>
   <string name="cleaner_empty_value_description">Her şey iyi gözüküyor</string>
   <string name="cleaner_photo_pick_delete_selected">Seçilen fotoğrafları sil</string>
@@ -849,6 +860,7 @@ mevcut"</string>
   <string name="loading_processing_tip">Fotoğraf işleniyor…</string>
   <string name="loading_suspend">İndirme durdu. WLAN kullanılabilir olduğunda devam edecek.</string>
   <string name="loading_video">Video indiriliyor...</string>
+  <string name="loading_video_compress_lib">Video sıkıştırma eklentisi indiriliyor…</string>
   <string name="loading_video_fail_sync_without_network">Meta verileri indirmek için ağa bağlanın</string>
   <string name="loading_video_fail_syncing">Meta verileri tamamen indirilene kadar bekleyin ve tekrar deneyin</string>
   <string name="loading_video_thumbnail">Video kapağı indiriliyor…</string>
@@ -861,6 +873,8 @@ mevcut"</string>
   <string name="main_save_compress">Sıkıştır ve kaydet</string>
   <string name="main_save_error_msg">Değişiklikler kaydedilirken bir hata oluştu</string>
   <string name="main_save_origin">Orijinal dosyayı kaydet</string>
+  <string name="manual_hide_manage">\".nomedia\" dosyalarını ekle</string>
+  <string name="manual_hide_state">\".nomedia\" dosyaları başarıyla eklendi</string>
   <string name="mark_myself_default_name">Bana</string>
   <string name="mark_myself_suggestion_load_more">O ben değilim</string>
   <string name="mark_myself_suggestion_title">Galeriyi kişiselleştirmek için\nyüzünüzün fotoğraflarını seçin</string>
@@ -1076,6 +1090,7 @@ mevcut"</string>
   <string name="operation_too_often">Çok fazla sayıda IP isteği adresinizden yapılıyor. Bir veya iki dakika bekleyin ve yeniden deneyin.</string>
   <string name="operation_unforce_top">Sabitten kaldır</string>
   <string name="operation_unhide">Görünür yap</string>
+  <string name="operation_video_compress">Videoyu sıkıştır</string>
   <string name="orientation_lock_tip">Ototmatik Döndürme kapalı</string>
   <string name="orientation_unlock_tip">Otomatik Döndürme açık</string>
   <string name="origin_gif_name">orijinal dosya</string>
@@ -1317,6 +1332,7 @@ mevcut"</string>
   <string name="relation_text_mother">Anne</string>
   <string name="relation_with_you">İlişki seçin</string>
   <string name="remind_face_recommend_confirm">Onayla</string>
+  <string name="remove_single_manual_hide_album_from_rubbish_page_tip">Seçili albümler geri yüklensin ve \".nomedia\" dosyalarını silsin mi?</string>
   <string name="remove_from_album_message">Bu fotoğraf artık burada gösterilmeyecek</string>
   <string name="remove_from_album_title">Geçerli albümden kaldır</string>
   <string name="remove_from_current_album">Bu albümden kaldır</string>
@@ -1353,6 +1369,7 @@ mevcut"</string>
   <string name="risk_control_deleted_date">dd/MM</string>
   <string name="risk_control_deleted_message">Birisi Galeri öğelerinizi %2$s tarihinde %1$s üzerinden %3$s kullanarak buluttan sildi. O sen miydin?</string>
   <string name="risk_control_deleted_title">Güvenlik uyarısı</string>
+  <string name="rubbish_nomedia_manager_button_text">\".nomedia\" dosyalarıyla albümleri yönet</string>
   <string name="runtime_permission_ungranted">Galeri kapatıldı, izne ihtiyaç yok</string>
   <string name="same_name_album_exist_and_toast">Aynı isimde bir albüm zaten var. Onun yerine \'%s\' oluşturuldu.</string>
   <string name="saturday">Cumartesi</string>
@@ -1493,6 +1510,7 @@ mevcut"</string>
   <string name="slideshow_interval_invalid">Aralık 3 ve 3600 saniye arasında olmalıdır</string>
   <string name="slideshow_interval_title">Her resmin geçiş süresini seçin</string>
   <string name="slideshow_interval_value">%1$d saniye</string>
+  <string name="slideshow_loop_title">Tüm slaytları döngüye al</string>
   <string name="slim_complete">Tamam</string>
   <string name="slim_complete_action_title">Başarıyla optimize edildi</string>
   <string name="slim_cost_time_minute">Kalan %dd</string>
@@ -1531,6 +1549,7 @@ mevcut"</string>
   <string name="solar_term_white_dews">Beyaz çiy</string>
   <string name="solar_term_winter_begins">Kış başlıyor</string>
   <string name="solar_term_winter_solstice">Kış gündönümü</string>
+  <string name="sort">Sırala</string>
   <string name="special_type_eye_repair">AI kullanarak kapalı gözler düzeltildi</string>
   <string name="special_type_hdr">HDR</string>
   <string name="special_type_night_beauty">AI düşük ışık portre</string>
@@ -1726,6 +1745,15 @@ mevcut"</string>
   <string name="user_alias_self">Kendini</string>
   <string name="user_notice_identify_summary_format"><Data>"Bu hizmeti kullanarak, Xiaomi\'nin &lt;a href=\"%1$s\">\"Hizmet Şartları\"&lt;/a> ve &lt;a href=\"%2$s\">\"Gizlilik Politikası\"&lt;/a>nı kabul etmiş olursunuz."</Data></string>
   <string name="user_notice_title">Şartlar ve Koşullar</string>
+  <string name="video_compress_download_failed_for_notwork">İndirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="video_compress_encode_video">Video sıkıştırılıyor...</string>
+  <string name="video_compress_lib_download">Video sıkıştırma eklentisini indir</string>
+  <string name="video_compress_lib_download_without_wifi">Cihazınızın kablosuz ağa bağlı olmadığı anlaşılıyor. Video sıkıştırma eklentisini (1.3MB) indirmek için mobil veri kullanabilirsiniz.</string>
+  <string name="video_compress_not_with_8k">8K videolar sıkıştırılamıyor</string>
+  <string name="video_compress_not_with_format">Bu format için video sıkıştırma desteklenmiyor</string>
+  <string name="video_compress_not_with_low_quality">Mevcut çözünürlük en düşükte</string>
+  <string name="video_compress_save_stop_tips">Sıkıştırmayı durdurmak için tekrar dokunun</string>
+  <string name="video_compress_size">Sıkıştırmadan sonra ≈%s</string>
   <string name="video_edit_file_not_exits_tip">Önce videoyu indirmeniz lazım</string>
   <string name="video_editor_abandon_changes_tip_message">Tüm değişiklikler iptal edilsin mi?</string>
   <string name="video_editor_abandon_changes_tip_title">Değişiklikleri yoksay</string>
@@ -1838,6 +1866,17 @@ mevcut"</string>
   <string name="video_editor_watermark">Filigran</string>
   <string name="video_err">Video oynatılamıyor</string>
   <string name="video_not_exist">Video mevcut değil</string>
+  <string name="video_quality_1080p">1080P</string>
+  <string name="video_quality_1080p_hd">1080P (yüksek çözünürlük)</string> 
+  <string name="video_quality_1080p_original">1080P (sıkıştırılmamış)</string>
+  <string name="video_quality_4k">4K</string>
+  <string name="video_quality_4k_hd">4K (yüksek çözünürlük)</string>
+  <string name="video_quality_4k_original">4K (sıkıştırılmamış)</string>
+  <string name="video_quality_720p">720P</string>
+  <string name="video_quality_720p_hd">720P (yüksek çözünürlük)</string>
+  <string name="video_quality_720p_original">720P (sıkıştırılmamış)</string>
+  <string name="video_quality_8k">8K</string>
+  <string name="video_quality_title_sub">Mevcut çözünürlük: %1$s (≈%2$s)</string>
   <string name="video_with_time">Video %s tarihinde çekilmiş</string>
   <string name="video_with_time_and_location">Video %1$s tarihinde çekilmiş. Yer: %2$s.</string>
   <string name="view_by_gallery_tip">MIUI Galeri</string>

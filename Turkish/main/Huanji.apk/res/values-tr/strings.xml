@@ -416,6 +416,9 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="err_no_gms">Uyumsuz uygulama sürümü. Bu uygulamayı ayrı olarak yükleyin</string>
   <string name="err_not_allow">Desteklenmiyor</string>
   <string name="err_pkg_not_exist">Uygulama bulunamadı.</string>
+  <string name="err_remote_no_space">Yeni aygıtta yeterli depolama alanı yok</string>
+  <string name="err_remote_timeout">Aktarım zaman aşımına uğradı</string>
+  <string name="err_send_error">Gönderilemedi</string>
   <string name="err_unknown">Bilinmeyen hata</string>
   <string name="err_user_abort">Kullanıcı tarafından iptal edildi.</string>
   <string name="err_version_too_old">Yedek dosyası çok eski.</string>
@@ -495,7 +498,7 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="hsa_tip_message_shutdown_hsa">İki faktörlü kimlik doğrulama nasıl kapatılır?</string>
   <string name="hsa_tip_title">İpuçları:</string>
   <string name="hsa_verify_failed">İki faktörlü kimlik doğrulama başarısız</string>
-  <string name="hsa_verify_failed_message">İki faktörlü kimlik doğrulama başarısız oldu. İki faktörlü kimlik doğrulamayı yeniden deneyebilir veya kapatabilirsiniz.</string>
+  <string name="hsa_verify_failed_message">İki faktörlü kimlik doğrulama işe yaramadı. Tekrar deneyin.</string>
   <string name="hsa_verify_retry">Tekrar dene</string>
   <string name="hsa_verify_shutdown">Kapat</string>
   <string name="hybrid_provider">%1$s tarafından sağlandı.</string>
@@ -901,6 +904,7 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="user_name_null">Kullanıcı adı boş olamaz</string>
   <string name="video">Video</string>
   <string name="view_password_description">Şifreyi göster</string>
+  <string name="waiting_restore_desktop">Ana ekran düzenini geri yüklemek için üçüncü taraf uygulamalar aktarılıyor…</string>
   <string name="web_sso_login_fail">Tekrar oturum açmanız gerekiyor.</string>
   <string name="web_sso_login_message">Oturum açılıyor…</string>
   <string name="website">Websitesi</string>

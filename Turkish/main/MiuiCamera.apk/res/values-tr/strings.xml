@@ -189,6 +189,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="color_effect_live_none">Normal</string>
   <string name="color_effect_live_solar">Gök mavisi</string>
   <string name="color_effect_live_years">Sepya</string>
+  <string name="color_enhance_mode">Geliştirilmiş renkler</string>
   <string name="config_name_group">Grup özçekim</string>
   <string name="config_name_hht">Gece modu</string>
   <string name="config_name_magic">Sihirli</string>
@@ -455,7 +456,7 @@ Makro modunu kullanın"</string>
   <string name="mimoji_reset">Sıfırla</string>
   <string name="mimoji_save">Kaydet</string>
   <string name="mimoji_save_finish">Bitti</string>
-  <string name="mimoji_save_success">Görüntü başarıyla kaydedildi</string>
+  <string name="mimoji_save_success">Başarıyla kaydedildi</string>
   <string name="mimoji_selected">Seçin</string>
   <string name="mimoji_start_create">Mimoji oluşturuluyor…</string>
   <string name="mimoji_tips">Fotoğraf çekmek için dokunun. Video kaydı için basılı tutun.</string>
@@ -1053,11 +1054,11 @@ Daha heyecan verici güzelliği keşfedin."</string>
 kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">Biraz bekleyin…</string>
-  <string name="watermark_tab_city">şehir</string>
-  <string name="watermark_tab_festival">festival</string>
-  <string name="watermark_tab_general">genel</string>
-  <string name="watermark_tab_scene">sahne</string>
-  <string name="watermark_tab_spots">noktalar</string>
+  <string name="watermark_tab_city">Şehir</string>
+  <string name="watermark_tab_festival">Tatil</string>
+  <string name="watermark_tab_general">Genel</string>
+  <string name="watermark_tab_scene">Sahne</string>
+  <string name="watermark_tab_spots">Yer</string>
   <string name="wideselfie_press_shoot_key_to_start">Deklanşöre dokunun</string>
   <string name="wideselfie_result_image_lossless">Panoramik çekim oluşturulamadı</string>
   <string name="wideselfie_rotate_slowly">Telefonu yana doğru döndürün</string>

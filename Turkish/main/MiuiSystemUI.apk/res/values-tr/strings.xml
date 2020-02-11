@@ -230,7 +230,7 @@
   <string name="accessibility_status_bar_headphones">Kulaklık bağlandı</string>
   <string name="accessibility_status_bar_headset">Kulaklık bağlı</string>
   <string name="accessibility_status_bar_hotspot">Paylaşım</string>
-  <string name="accessibility_status_bar_micphone">mikrofon bağlı</string>
+  <string name="accessibility_status_bar_micphone">Mikrofon başarıyla bağlandı</string>
   <string name="accessibility_status_bar_no_slave_wifi">Yardımcı WLAN bağlantısı kesildi</string>
   <string name="accessibility_status_bar_slave_wifi_four_bars">Yardımcı WLAN dört çubuk</string>
   <string name="accessibility_status_bar_slave_wifi_one_bar">Yardımcı WLAN bir çubuk</string>

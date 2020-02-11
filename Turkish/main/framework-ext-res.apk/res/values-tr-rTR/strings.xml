@@ -238,6 +238,8 @@
   <string name="status_bar_toggle_wifi_ap">Paylaşım</string>
   <string name="stop_operate_camera_frequently">Ön kamerayı çok sık açıyorsun.</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="sunlight_notification_content">Parlaklığı güçlü ortam ışığına karşı otomatik olarak ayarlayın</string>
+  <string name="sunlight_notification_title">Güneş Işığı modunu aç</string>
   <string name="super_resolution_maintain_tips">Süper çözünürlük henüz mevcut değil.</string>
   <string name="switch_brand_desc_tv">Grafit tarafından sağlanan güvenlik hizmetleri</string>
   <string name="switch_desc_tv">İki alan. Bir cihaz.</string>

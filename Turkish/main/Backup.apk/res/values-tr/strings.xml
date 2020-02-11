@@ -218,9 +218,37 @@
   <string name="list_footer_tip_title">İpuçları:</string>
   <string name="loading_data">Veri yükleniyor</string>
   <string name="local_app_name">Yedekle</string>
+  <string name="local_back_up_detail_description">"Not:
+1. Veri kaybını önlemek için, yerel yedeklemeleri bilgisayarınıza kopyalayın.
+2. Fabrika ayarlarına sıfırlama yapmadan önce daima yerel yedeklemeleri bilgisayarınıza kopyalayın; Aksi takdirde, yerel yedeklemeler kaybolacaktır.
+3. Yerel yedeklemeler nerede saklanır? %1$s"</string>
+  <string name="local_backup_select_activity">Yedek oluştur</string>
   <string name="local_backup_window_title">Yerel yedekleme verileri</string>
+  <string name="local_button_backup_data">Yedekle</string>
+  <string name="local_button_backup_now">Yedekle</string>
+  <string name="local_button_restore_data">Bu cihaza geri yükle</string>
+  <string name="local_button_restore_now">Geri yükle</string>
+  <string name="local_click_to_jump">Görüntülemek için dokunun</string>
+  <string name="local_config_off">Kapalı</string>
+  <string name="local_config_on">Açık</string>
   <string name="local_home_title">Yerel olarak yedekle</string>
+  <string name="local_main_auto_backup_title">Otomatik olarak yedekle</string>
+  <string name="local_main_backup">Yerel yedeklemeler</string>
+  <string name="local_main_backup_and_restore">Bu cihazda</string>
+  <string name="local_main_backup_detail_title">Sistem ayarları, hesaplar ve uygulama verileri</string>
+  <string name="local_main_backup_manage_null">%s</string>
+  <string name="local_main_backup_manager">Yerel yedeklemeleri yönet</string>
+  <string name="local_main_backup_manager_title">Yedeklemeleri yönet</string>
+  <string name="local_main_backup_settings">Yerel yedekleme ayarları</string>
+  <string name="local_main_backup_time">En son yedekleme: %1$s</string>
+  <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+  <string name="local_main_encrypt_backup_summary">Mi Hesabınızı kullanarak yedeklediğiniz öğeleri şifreleyin</string>
+  <string name="local_main_encrypt_backup_title">Yedekleri şifrele</string>
+  <string name="local_main_latest_backup_time_loading">Sadece bir saniye…</string>
   <string name="local_no_backup">Yedek yok.</string>
+  <string name="local_no_backup_data">Henüz burada yedek yok</string>
+  <string name="local_restore_select_activity">Yedeklemeleri yönet</string>
+  <string name="local_restore_select_data_activity">Bir yedekten geri yükle</string>
   <string name="local_restore_window_title">Yerel geri yükleme</string>
   <string name="local_select_account_contact">Hesaplar &amp; kişiler</string>
   <string name="local_select_audio">Ses dosyaları</string>

@@ -48,6 +48,8 @@
   <string name="business_no_result">Kartvizit tanınamadı. Tekrar deneyin.</string>
   <string name="calender">Takvim</string>
   <string name="call_anyone">Çağrı</string>
+  <string name="calories_logo_text">Health Hope tarafından sağlanan AI desteği</string>
+  <string name="calories_request_interface_text">AI desteği</string>
   <string name="camera_error_title">Kamera hatası</string>
   <string name="cancel">İptal</string>
   <string name="carsHome_title">Araba</string>
