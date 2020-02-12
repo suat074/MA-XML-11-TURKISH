@@ -37,7 +37,12 @@
   <string name="aod_lock_screen_date">d MMMM, EE</string>
   <string name="aod_lock_screen_date_12">d MMMM, EE</string>
   <string name="aod_lock_screen_date_12_signature">d/M</string>
+  <string name="aod_lock_screen_date_12_smartcover">"EE
+d/M"</string>
   <string name="aod_lock_screen_date_signature">d/M</string>
+  <string name="aod_lock_screen_date_smartcover">"EE
+d/M"</string>
+  <string name="aod_lock_screen_date_smartcover_b">d/M EE</string>
   <string name="aod_mode_preview">Önizleme</string>
   <string name="aod_mode_style">Saat stili ve arka plan</string>
   <string name="aod_mode_style_title">Daha fazla seçenek</string>
@@ -73,6 +78,7 @@
   <string name="letter_space">Harf boşluğu</string>
   <string name="line_space">Satır aralığı</string>
   <string name="mini_time">Küçük saat</string>
+  <string name="minimalist_clock">Basit saat</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="my_style_title">tarzım</string>
   <string name="notification_anim_pulse">Titreşim</string>
