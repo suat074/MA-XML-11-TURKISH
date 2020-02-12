@@ -13,6 +13,13 @@
     <item>Hafta içi</item>
     <item>Özel</item>
   </string-array>
+  <string-array name="app_behavior_type_menu">
+    <item>Tüm kayıtlar</item>
+    <item>Otomatik başlatma</item>
+    <item>Zincirleme başlatma</item>
+    <item>Kullanılan izinler</item>
+    <item>Hassas eylemler</item>
+  </string-array>
   <string-array name="applock_password_types">
     <item>Desen</item>
     <item>PIN</item>

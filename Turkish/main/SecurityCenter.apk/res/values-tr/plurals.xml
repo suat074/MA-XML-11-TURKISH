@@ -4,6 +4,22 @@
     <item quantity="other">%d oyun eklendi</item>
     <item quantity="one">%d oyun eklendi</item>
   </plurals>
+  <plurals name="app_behavior_desc_allow">
+    <item quantity="other">%1$s ile %2$s arasında %3$d kez izin verildi</item>
+    <item quantity="one">%1$s ile %2$s arasında %3$d kez izin verildi</item>
+  </plurals>
+  <plurals name="app_behavior_desc_deny">
+    <item quantity="other">%1$s ile %2$s arasında %3$d kez kısıtlandı</item>
+    <item quantity="one">%1$s ile %2$s arasında %3$d kez kısıtlandı</item>
+  </plurals>
+  <plurals name="app_behavior_privacy_manager_off">
+    <item quantity="other">%1$d uygulama tarafından gerçekleştirilen hassas eylemler hakkında bildirim almayacaksınız</item>
+    <item quantity="one">%1$d uygulama tarafından gerçekleştirilen hassas eylemler hakkında bildirim almayacaksınız</item>
+  </plurals>
+  <plurals name="app_behavior_privacy_manager_on">
+    <item quantity="other">%1$d uygulama tarafından gerçekleştirilen hassas eylemler hakkında bildirim alacaksınız</item>
+    <item quantity="one">%1$d uygulama tarafından gerçekleştirilen hassas eylemler hakkında bildirim alacaksınız</item>
+  </plurals>
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">%d izin verildi</item>
     <item quantity="one">%d izin verildi</item>

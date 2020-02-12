@@ -1432,7 +1432,7 @@
   <string name="quick_settings_nfc_off">NFC devre dışı</string>
   <string name="quick_settings_nfc_on">NFC etkinleştirildi</string>
   <string name="quick_settings_night_display_label">Gece lambası</string>
-  <string name="quick_settings_night_secondary_label_on_at">%s üzerinde</string>
+  <string name="quick_settings_night_secondary_label_on_at">%s saatinde</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">Gün batımında</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Güneş doğana kadar</string>
   <string name="quick_settings_nightmode_label">Karanlık mod</string>
