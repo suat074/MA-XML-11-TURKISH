@@ -941,7 +941,7 @@
   <string name="removed_from_bookmarks">Yer iminden kaldırıldı</string>
   <string name="reopen">Aç</string>
   <string name="replace">Yenile</string>
-  <string name="reply_comment_title">Cevapla: %s</string>
+  <string name="reply_comment_title">"%s yanıtla: "</string>
   <string name="resume_download">Başlat</string>
   <string name="retry_after_network_available">Ağa bağlanamıyor</string>
   <string name="retry_download">Tekrar dene</string>
