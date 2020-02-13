@@ -819,7 +819,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_video_duration_entry_30">30 dakika</string>
   <string name="pref_camera_video_duration_entry_mms">30 saniye(MMS)</string>
   <string name="pref_camera_video_tag">Video etiketlemeye izin ver</string>
-  <string name="pref_camera_video_tag_description">Bir videoyu oynatırken işaretli anlara geri dönmek için \"Etiket\" düğmesine dokunun.</string>
+  <string name="pref_camera_video_tag_description">Oynatma sırasında etiketli anlara geri dönmek için, video çekerken \"Etiket\" düğmesine dokunun</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Pozlama</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Çekim</string>
   <string name="pref_camera_volumekey_function_entry_timer">Çekim geri sayımı</string>

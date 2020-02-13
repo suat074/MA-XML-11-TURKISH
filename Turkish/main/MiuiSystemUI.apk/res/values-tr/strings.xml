@@ -2007,6 +2007,15 @@
   <string name="wireless_charge_reset_device">Şarj işlemi yavaş. Cihazınızı ayarlayın.</string>
   <string name="wireless_charge_reset_device_detail">Cihazınızın şarj ünitesindeki pozisyonunun doğru olduğundan emin olun.</string>
   <string name="wireless_charge_stop">Kablosuz şarj durduruldu</string>
+  <string name="wireless_charging_connected_message">Cihazınız kablosuz olarak şarj olurken, ters kablosuz şarjı kullanamazsınız.</string>
+  <string name="wireless_charging_low_battery_level_message">Pil 30%\'dan az şarj olduğunda ters kablosuz şarjı kullanamazsınız.</string>
+  <string name="wireless_charging_ok">Anladım</string>
+  <string name="wireless_charging_saver_cancel">Kapat</string>
+  <string name="wireless_charging_saver_message">Pil tasarrufu açık. Ters kablosuz şarj kullanılabilir durumda tutulsun mu?</string>
+  <string name="wireless_charging_saver_ok">Tut</string>
+  <string name="wireless_charging_tips_disable">Tekrar gösterme</string>
+  <string name="wireless_charging_tips_message">Qi kablosuz şarjı destekleyen cihazları (telefonlar, aksesuarlar vb.) bu cihazın arkasına yerleştirin.</string>
+  <string name="wireless_charging_tips_title">Ters kablosuz şarj</string>
   <string name="wrong_password">Yanlış şifre</string>
   <string name="zen_alarm_warning">Bir sonraki %1$s alarmını duymayacaksın</string>
   <string name="zen_alarm_warning_indef">Bundan önce kapatmadığınız sürece sonraki %1$s alarmınızı duymayacaksınız.</string>
