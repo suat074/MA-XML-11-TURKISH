@@ -558,7 +558,7 @@
   <string name="header_category_other">Geri bildirim</string>
   <string name="header_label_general_preferences">Genel</string>
   <string name="help_and_info">Yardım</string>
-  <string name="help_me_get_qq_auth">QQ kodunu al</string>
+  <string name="help_me_get_qq_auth">Yetkilendirme kodu alın</string>
   <string name="help_weixin_title">"Herhangi bir sorunuz varsa, resmi WeChat hesabımıza bir satır bırakmaktan çekinmeyin: "</string>
   <string name="hide_elided">▼ Alıntılanan metni gizle</string>
   <string name="hide_password">Şifreyi gizle</string>
@@ -593,7 +593,7 @@
   <string name="login_failed_tip">"Yardım almak için WeChat\'ten bize ulaşın: "</string>
   <string name="login_failed_title">Oturum açılamadı</string>
   <string name="login_mail">Oturum aç</string>
-  <string name="login_qq_psw">QQ şifresi/kimlik doğrulayıcı/doğrulama kodunu kullanarak giriş yapın</string>
+  <string name="login_qq_psw">Yetkilendirme kodu kullanarak oturum açın</string>
   <string name="login_support_tip_text">Tüm önemli e-posta hesaplarını destekler</string>
   <string name="long_press_to_select_tip">Bir konuşma seçmek için dokunun ve basılı tutun, sonra daha fazla seçmek için dokunun.</string>
   <string name="long_string">çoooooooooooooooooooooooooooooooooooooooooooooooookkkkkkk uzzzzzzzzzzzzzzzzuuuuuunnnnnnnnnnnnnn</string>
@@ -784,7 +784,7 @@ Farklı bir gelen kutusu deneyin."</string>
   <string name="oauth_login_continue">Devam</string>
   <string name="oauth_login_continue_qq">Bir şifre alın ve oturum açın &gt;</string>
   <string name="oauth_login_usr_proxy">Proxy kullanarak oturum açın</string>
-  <string name="obtain_new_auth_code">Yeni bir kod al</string>
+  <string name="obtain_new_auth_code">Yeni bir yetkilendirme kodu alın</string>
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>
   <string name="one_day">Bir gün</string>
@@ -962,7 +962,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="qq_login_send_message">Bir doğrulama kodu almak için \"SMS gönder\" tuşuna dokunun</string>
   <string name="qq_login_webview">"\"Web'de QQ Mail'de oturum açıp, şifrenizi girin."</string>
   <string name="qq_next_generation_auth_toast">Tarayıcınızda şifre korumasını açın</string>
-  <string name="qq_pwd_or_qq_auth_code">QQ kodunu veya e-posta şifrenizi girin</string>
+  <string name="qq_pwd_or_qq_auth_code">Yetkilendirme kodunu girin</string>
   <string name="qq_uthentication_failed">Hesap doğrulanamadı, tekrar oturum açın</string>
   <string name="qq_verify_code">(QQ Doğrulama Kodu Gerekir)</string>
   <string name="qq_webview_loading">Biraz bekleyin…</string>
@@ -1227,7 +1227,7 @@ Tamamen eşitleninceye kadar bekleyin veya mesajı bilgisayarınızda görüntü
   <string name="upload_logs">Günlükleri yükle</string>
   <string name="upload_logs_keywords">günlükleri yükle</string>
   <string name="uploading_logs">Sadece bir saniye…</string>
-  <string name="user_new_auth_code">Yeni bir kodla oturum açın</string>
+  <string name="user_new_auth_code">Yeni bir yetkilendirme koduyla oturum açın</string>
   <string name="user_privacy_settings">Gizlilik ayarları</string>
   <string name="user_privacy_settings_agreement_authorization">(\"Kabul et\" seçeneğine dokunduğunuzda Posta\'ya gerekli tüm izinleri vermiş olursunuz)</string>
   <string name="user_privacy_settings_path">Yetkinizi iptal etmek için Ayarlar &gt; Gizlilik ayarları\'na gidin.</string>
