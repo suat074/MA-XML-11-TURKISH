@@ -142,6 +142,7 @@
   <string name="note_sort_way">Notlarınızı nasıl sıralamak istediğinizi seçin</string>
   <string name="notealert_enter">Notu aç</string>
   <string name="notealert_ok">Kapat</string>
+  <string name="notification_content_add_todo_from_other_app">Yeni bir görev eklediniz. Görüntülemek için dokunun.</string>
   <string name="notify_alarm_title">Not hatırlatma</string>
   <string name="permdesc_accessNote">Kötü amaçlı uygulamalar kişisel verilerinize erişmek için bunu kullanabilir.</string>
   <string name="permission_get_account_desc">Notları bulutla eşitleme</string>

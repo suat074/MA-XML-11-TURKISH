@@ -28,6 +28,10 @@
   <string name="bluetooth_dun_notification_connect_request_message">%1$s gelen isteğini kabul etmek için seçin</string>
   <string name="bluetooth_dun_notification_connect_request_ticker">Bluetooth Bağlantı Kurma Yetkilendirmesinin isteği</string>
   <string name="bluetooth_dun_notification_connect_request_title">Bluetooth Bağlantı Kurma Yetkilendirmesi</string>
+  <string name="bluetooth_map_remote_advance_feature_support">Gelişmiş mesaj erişim özellikleri desteklenir</string>
+  <string name="bluetooth_map_remote_message_access_feature_downgrade">Uzak mesaj erişim özellikleri için sürüm düşürme</string>
+  <string name="bluetooth_map_repair_for_adv_message_access_feature">Gelişmiş mesaj erişim özelliklerini kullanmak için yeniden eşleştirin</string>
+  <string name="bluetooth_map_repair_for_message_access_version_comp">Mesaj erişimi sürüm uyumluluğunu sağlamak için tekrar eşleştirin</string>
   <string name="bluetooth_map_settings_app_icon">Uygulama Simgesi</string>
   <string name="bluetooth_map_settings_cancel">İptal</string>
   <string name="bluetooth_map_settings_count">Boş Yuvalar:</string>

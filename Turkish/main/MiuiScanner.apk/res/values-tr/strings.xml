@@ -65,6 +65,11 @@
   <string name="choose_pay_title">Ödeme yöntemini seçin</string>
   <string name="choose_picture">QR kod resmini seçin</string>
   <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi\'yi açın.</string>
+  <string name="crop__cancel">İPTAL</string>
+  <string name="crop__done">BİTTİ</string>
+  <string name="crop__pick_error">Resim kaynağı yok</string>
+  <string name="crop__saving">Resim kaydediliyor…</string>
+  <string name="crop__wait">Lütfen bekleyin…</string>
   <string name="com_taobao_tae_sdk_alert_message">Zaman aşımı, lütfen tekrar çalıştırın</string>
   <string name="com_taobao_tae_sdk_authorize_title">Giriş izni</string>
   <string name="com_taobao_tae_sdk_loading_progress_message">Yükleniyor</string>
@@ -116,6 +121,7 @@
   <string name="error_empty_result">Sonuç bulunamadı</string>
   <string name="error_get_image">Resim alınamadı</string>
   <string name="error_media_storage_failure">Fotoğraf kaydedilemedi</string>
+  <string name="error_null_cursor">Hoop! Birşeyler yanlış gitti!</string>
   <string name="error_permissions">Tarayıcı normal çalışması için gerekli izinlere sahip değil. Devam etmek için Ayarlar\'a gidin ve izinleri kontrol edin.</string>
   <string name="error_server_error">Bir sunucu hatası oluştu.</string>
   <string name="experience_new_feature_tips">Beta sürümünü kullanma izinlerini almak için Mi Hesabınıza giriş yapın. Başvurunuzu inceledikten sonra Beta sürümünü kullanabileceksiniz. Beta sürümü hatalar içerebilir.</string>
@@ -140,6 +146,7 @@
   <string name="food_module_thumbs_up">Beğen</string>
   <string name="food_module_tip">Yiyecekleri çerçevenin içine yerleştirin</string>
   <string name="food_module_title_food">Kalori</string>
+  <string name="grant_permission">İzin ver</string>
   <string name="got_it">Anladım</string>
   <string name="gps">Gezinin</string>
   <string name="image_file_name_format">\'scanner\'_yyyyMMdd_HHmmss</string>
@@ -197,6 +204,8 @@
   <string name="pay_no_tip">Tekrar gösterme</string>
   <string name="pay_save_this_choose">Seçimimi hatırla</string>
   <string name="payment_text">%s ile aç</string>
+  <string name="permission_denied_albums">Albümleri görüntülemek için cihazınızdaki fotoğraflara, medyaya ve dosyalara erişime izin verin</string>
+  <string name="permission_denied_images">Resimleri görüntülemek için cihazınızdaki fotoğraflara, medyaya ve dosyalara erişime izin verin</string>
   <string name="phone">Telefon:</string>
   <string name="place_barcode_into_rectangle">Kodu çerçevenin içine yerleştirin</string>
   <string name="plant_fail">Tanımlanamadı</string>
@@ -230,6 +239,7 @@
   <string name="see_app_details">Uygulama detaylarını görüntüle</string>
   <string name="see_details">Ayrıntıları görüntülemek için dokunun</string>
   <string name="select_dialog_confirm">Tamam</string>
+  <string name="select_from_album">Albümden seç</string>
   <string name="send_mail">E-posta gönder</string>
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Her zaman sor</string>
@@ -257,6 +267,7 @@
   <string name="study_vendor_info">Zuoyebang tarafından desteklenmektedir</string>
   <string name="suggested_submission_success">Geri bildiriminizi başarıyla gönderildi</string>
   <string name="switch_open">Aç</string>
+  <string name="take_a_picture">Bir fotoğraf çek</string>
   <string name="tel">Telefon</string>
   <string name="title">Başlık:</string>
   <string name="to_install_title">Bu QR kodu sizi kaldırılmış bir uygulamaya yönlendirir. Şimdi bu uygulamayı indirilsin mi?</string>
