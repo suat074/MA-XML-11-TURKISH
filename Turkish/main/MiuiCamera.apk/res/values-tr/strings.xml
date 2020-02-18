@@ -932,6 +932,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_watermark_on">Açık</string>
   <string name="pref_watermark_title">Filigran</string>
   <string name="preparing_sd">SD kart kontrol ediliyor…</string>
+  <string name="pro_color_mode">Pro renk</string>
   <string name="recapture_dialog_message">Geri almayı onayla?</string>
   <string name="recapture_dialog_title">Yeniden çekim yapmak geçerli görüntüyü temizler</string>
   <string name="recommend_macro_mode">Makro modunu deneyin</string>
@@ -979,6 +980,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="super_eis">Sabit video</string>
   <string name="super_eis_disabled_hint">Sabit video kapalı</string>
   <string name="super_night_hint">Görüntüyü optimize ediliyor… Cihazınızı sabit tutun.</string>
+  <string name="super_night_se_tip">Gece modu</string>
   <string name="super_night_toast">Fotoğraf çekerken telefonunuzu sabit tutun</string>
   <string name="tap_to_exposure">El ile pozlamayı ayarlamak için dokunun</string>
   <string name="tap_to_focus">Odaklanmak için dokunun</string>

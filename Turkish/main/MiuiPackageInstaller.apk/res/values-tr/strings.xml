@@ -88,12 +88,19 @@
   <string name="increment_install_pause_for_wifi">Ağ bekleniyor</string>
   <string name="increment_preparing">Hazırlanıyor…</string>
   <string name="install">Yükle</string>
+  <string name="install_app_progress_clear_apk">APK\'yı sil</string>
   <string name="install_confirm_question">Bu uygulamayı yüklemek istiyor musunuz? Şunlara erişecek:</string>
   <string name="install_confirm_question_no_perms">Bu uygulamayı yüklemek istiyor musunuz? Özel bir izin gerektirmez.</string>
   <string name="install_confirm_question_update">Bu mevcut uygulama için bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmaz. Güncellenen uygulama şunlara erişecek:</string>
   <string name="install_confirm_question_update_no_perms">Bu mevcut uygulama için bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacak. Özel bir izin gerektirmez.</string>
   <string name="install_confirm_question_update_system">Bu sistem uygulaması için bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmaz. Güncellenen uygulama şunlara erişecek:</string>
   <string name="install_confirm_question_update_system_no_perms">Bu sistem uygulaması için bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmayacak. Özel bir izin gerektirmez.</string>
+  <string name="install_control_cancel_install">Yükleme</string>
+  <string name="install_control_continue_install">Yine de yükle</string>
+  <string name="install_control_lite_mode_explain_des">Bu uygulama bilinmeyen bir kaynaktan geliyor ve Basit modda çalışmayabilir.</string>
+  <string name="install_control_lite_mode_solution_des">"Yine de bu uygulamayı yüklemeyi seçebilirsiniz.
+Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
+  <string name="install_control_normal_mode_explain_des">Yasal kısıtlamalar nedeniyle bu uygulama yüklenemiyor</string>
   <string name="install_done">Uygulama yüklendi.</string>
   <string name="install_failed">Uygulama yüklenemedi</string>
   <string name="install_failed_blocked">Paketin yüklenmesi engellendi.</string>
