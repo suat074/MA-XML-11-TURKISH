@@ -62,8 +62,8 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="unlock_access_denied">Erişim engellendi</string>
   <string name="unlock_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="unlock_error_abort">Kullanıcı tarafından iptal edildi</string>
-  <string name="unlock_error_device_id">Aygıt kimliğini alınamıyor</string>
-  <string name="unlock_error_interrupted">Tamamlanamadı</string>
+  <string name="unlock_error_device_id">Cihaz kimliğini alınamıyor</string>
+  <string name="unlock_error_interrupted">Kesilmiş</string>
   <string name="unlock_error_network">Ağa bağlanılamıyor</string>
   <string name="unlock_error_passport_sdk_timeout">Mi Hesabı SDK yanıt vermiyor</string>
   <string name="unlock_error_rpc">RPC hatası</string>
@@ -71,9 +71,9 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
   <string name="unlock_error_ssl_hand_shake">Sunucuya bağlanılamadı. Tarih ve saati elle ayarlamayı deneyin.</string>
   <string name="unlock_error_unknown">Oturum açılamıyor</string>
   <string name="unlock_error_user_name">Geçersiz kullanıcı adı</string>
-  <string name="unlock_error_wrong_vcode">Girmiş olduğunuz kod hatalı</string>
+  <string name="unlock_error_wrong_vcode">Girdiğiniz kod yanlış</string>
   <string name="unlock_help">"Ağa bağlı kalın.
-Çalışan bir SIM kart yüklediğinize (cihazınız destekliyorsa) ve cihazınızın geçerli bir Wi-Fi ağına bağlı olduğundan emin olun.
+Çalışan bir SIM kart yüklediğinizden (cihazınız destekliyorsa) ve cihazınızın geçerli bir WLAN ağına bağlı olduğundan emin olun.
 
 Şifrenizi mi unuttunuz?
 Şifrenizi sıfırlamak için id.mi.com adresine gidin.
@@ -81,6 +81,7 @@ Ayrıntılar için satış danışmanınızla iletişime geçin."</string>
 Diğer nedenler
 i.mi.com adresinde oturum açın ve cihazınızın kilidini buradan açmayı deneyin."</string>
   <string name="unlock_help_title">Kilit açma yardımı:</string>
+  <string name="unlock_number">Kilit açma kodu: %s</string>
   <string name="unlock_wrong_captcha">Girmiş olduğunuz kod hatalı</string>
   <string name="unlocking">Etkinleştiriliyor…</string>
   <string name="verifing_account">Şifre doğrulanıyor…</string>

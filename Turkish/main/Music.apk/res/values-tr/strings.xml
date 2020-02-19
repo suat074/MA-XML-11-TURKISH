@@ -635,7 +635,8 @@
   <string name="play_mode_one_loop">Döngü</string>
   <string name="play_mode_play_all">Tümünü oynat</string>
   <string name="play_mode_shuffle_all">Karıştır</string>
-  <string name="play_next">Sonrakini oynat.</string>
+  <string name="play_next">Sonrakini oynat</string>
+  <string name="play_setting">Oynatma</string>
   <string name="play_video_with_traffic">DEVAM ET</string>
   <string name="play_video_with_traffic_toast">Şimdi mobil veri kullanıyorsunuz.</string>
   <string name="playlist_empty">Çalma listesi bulunamadı.</string>
@@ -779,6 +780,7 @@
   <string name="songgroup_pick_playlist">Çalma listeleri</string>
   <string name="sort_by_name">İsim</string>
   <string name="sort_by_time">Tarih</string>
+  <string name="sound_fade_in_and_out_when_change_song_automatically">Oynatma sırasında şarkıları çaprazlamayı deneyin</string>
   <string name="start_to_check_new_version">Güncellemeler kontrol ediliyor…</string>
   <string name="start_to_download">İndiriliyor...</string>
   <string name="start_to_play">Oynat</string>

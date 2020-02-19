@@ -114,6 +114,10 @@
     <item quantity="other">%d şarkı</item>
     <item quantity="one">%d şarkı</item>
   </plurals>
+  <plurals name="sound_fade_duration_in_seconds">
+    <item quantity="other">Şarkılar arasında geçiş yap: %d saniye</item>
+    <item quantity="one">Şarkılar arasında geçiş yap: %d saniye</item>
+  </plurals>
   <plurals name="video_count">
     <item quantity="other">Videolar</item>
     <item quantity="one">Video</item>

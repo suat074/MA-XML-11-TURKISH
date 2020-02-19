@@ -1347,6 +1347,7 @@
   <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Sadece GSM</string>
   <string name="preferred_network_type_pref_entries_only_3g">Sadece 3G</string>
   <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Sadece WCDMA</string>
+  <string name="preferred_network_type_pref_entries_only_4g">Sadece LTE</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tercih edilen ağ tipi</string>
   <string name="preferred_phone_account">Tercih edilen arama hesabı</string>
