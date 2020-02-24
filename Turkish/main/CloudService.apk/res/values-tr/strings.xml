@@ -302,6 +302,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_setting_phrase_summary">Sık kullanılan ifadeler</string>
   <string name="micloud_setting_recorder_summary">Ses ve çağrı kayıtları</string>
   <string name="micloud_setting_sms_summary">SMS ve MMS mesajları</string>
+  <string name="micloud_setting_sms_summary_for_google_csp">Metin mesajları</string>
   <string name="micloud_setting_wifi_summary">WLAN ayarları</string>
   <string name="micloud_space_applist_detail">Ana ekranınızdaki uygulamaları yönetin</string>
   <string name="micloud_space_applist_title">Uygulamaları yönet</string>

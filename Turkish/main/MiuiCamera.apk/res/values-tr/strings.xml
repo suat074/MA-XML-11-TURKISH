@@ -475,7 +475,7 @@ Makro modunu kullanın"</string>
   <string name="module_name_square">Kare</string>
   <string name="module_name_video">Video</string>
   <string name="moive_frame">Film çerçevesi</string>
-  <string name="multi_window_mode_not_supported">Kamera, Bölünmüş ekranda çalışmaz</string>
+  <string name="multi_window_mode_not_supported">Kamera, Çoklu pencerede çalışmıyor</string>
   <string name="network_access_user_notice_agree">Kabul</string>
   <string name="network_access_user_notice_message_live_video"><Data>"Kamera\'nın, kısa videolar için efekt, müzik ve diğer özellikleri sağlaması için internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="network_access_user_notice_message_mi_live_video"><Data>Kısa videolara hoş geldiniz! Hizmetimizin size müzik ve diğer özellikleri sağlaması için ağa bağlanması gerekir. &lt;br/>&lt;br/>Hizmetimizi kullanmadan önce, &lt;a href =%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikası&lt;/a> okumalı ve kabul etmeli ve uygulamanın internete bağlanmasına izin vermelisiniz.</Data></string>

@@ -10,7 +10,7 @@
   <string name="back_up_task_in_process">Yedekleniyor…</string>
   <string name="back_up_task_unfinished">Yedeklenemedi</string>
   <string name="backing_up_to_micloud">Yedekleniyor…</string>
-  <string name="backup_fail_wifi_needed">Yedeklenemedi, WLAN gerekli.</string>
+  <string name="backup_fail_wifi_needed">Yedeklenemedi, Wi-Fi gerekli.</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi Bulut üzerinde yeterli depolama alanı yok. Planınızı yükseltin veya depolama alanını boşaltın.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın.</string>
   <string name="backup_failed_reason_network_error">Ağ hatası. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
@@ -29,7 +29,7 @@
   <string name="btn_restore_continue">Yine de geri yükle</string>
   <string name="btn_restore_resume">Devam</string>
   <string name="btn_restore_retry">Tekrar dene</string>
-  <string name="btn_restore_wait">Wi-Fi için bekleyin</string>
+  <string name="btn_restore_wait">Wi-Fi\'ı bekleyin</string>
   <string name="btn_retry">Tekrar kontrol et</string>
   <string name="btn_skip">Bu adımı atla</string>
   <string name="button_cancel">İptal</string>
@@ -54,7 +54,7 @@
   <string name="cloud_app_restore_success">Uygulamalar geri yüklendi</string>
   <string name="cloud_app_restore_wifi_prompt">Bulut yedeklemesinden geri yükleyin.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Cihazınız WLAN\'a bağlandığında, bu öğeler Xiaomi Bulut\'a yedeklenecek:
+  <string name="cloud_back_up_detail_discription">"Cihazınız Wi-Fi\'a bağlandığında, bu öğeler Xiaomi Bulut\'a yedeklenecek:
 *  Uygulamalar, Ana ekran düzeni ve duvar kağıtları
 *  Alarm, saat ve zaman Ayarları 
 *  Bildirim ayarları 
@@ -63,7 +63,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="cloud_back_up_frequence_choice_title">Yedekleme Planı</string>
   <string name="cloud_back_up_frequence_long">Her 7 günde bir</string>
   <string name="cloud_back_up_frequence_short">Hergün</string>
-  <string name="cloud_back_up_no_network_warn">WLAN ağına bağlanamadı</string>
+  <string name="cloud_back_up_no_network_warn">Wi-Fi ağına bağlanamadı</string>
   <string name="cloud_back_up_ok_btn">Tamam</string>
   <string name="cloud_back_up_opening">Biraz bekleyin…</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Yükselt</string>
@@ -75,7 +75,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="cloud_backup_detail_frequence">Yedekleme Planı</string>
   <string name="cloud_backup_detail_manage">Yedekleri Yönet</string>
   <string name="cloud_backup_detail_state">Otomatik yedekleme</string>
-  <string name="cloud_backup_detail_state_summary">WLAN\'a bağlandığında Xiaomi Bulut yedeklemeyi otomatik olarak başlatın.</string>
+  <string name="cloud_backup_detail_state_summary">Wi-Fi\'a bağlandığında Xiaomi Bulut yedeklemelerini otomatik olarak oluşturun.</string>
   <string name="cloud_backup_detail_time">Son Yedekleme: %1$s</string>
   <string name="cloud_backup_detail_title">Ana ekran, uygulamalar ve ayarlar.</string>
   <string name="cloud_backup_have_data">Xiaomi Bulut\'ta yedek bulundu</string>
@@ -111,8 +111,8 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="dialog_cancel_backup_msg">Anahtarı değiştirdiğinizde devam eden yedeklemeler sona erer.</string>
   <string name="dialog_cancel_backup_title">Devam eden yedeklemeyi iptal et?</string>
   <string name="dialog_msg_overwrite_backup">Yerel yedekleme, Xiaomi Bulut\'ta olandan farklıdır. Devam ederseniz, geçerli yedek bir öncekinin üzerine yazılacaktır.</string>
-  <string name="dialog_msg_restore_require_wlan">Yedek dosyaları geri yüklemek WLAN gerektirir.</string>
-  <string name="dialog_title_require_wlan">WLAN gerekli</string>
+  <string name="dialog_msg_restore_require_wlan">Yedekleri geri yüklemek  Wi-Fi bağlantısı gerektirir.</string>
+  <string name="dialog_title_require_wlan">Wi-Fi gerekli</string>
   <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="doing_calc_backup_data_size">Boyut hesaplanıyor…</string>
   <string name="doing_restore_home">Ana ekran ve ayarları geri yükleniyor...</string>
@@ -153,9 +153,9 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="notification_channel_remind">Hatırlatma</string>
   <string name="notification_channel_service">Hizmet</string>
   <string name="open_backup_switch">Yedek anahtarını değiştirin</string>
-  <string name="open_wifi">Şimdi WLAN\'ı aç</string>
-  <string name="open_wifi_description">Uygulamayı WLAN bağlandığında geri yükle</string>
-  <string name="open_wifi_setting">WLAN Ayarları</string>
+  <string name="open_wifi">Şimdi Wi-Fi\'ı aç</string>
+  <string name="open_wifi_description">Uygulamayı geri yüklemek için bir Wi-Fi ağına bağlanın</string>
+  <string name="open_wifi_setting">Wi-Fi ayarları</string>
   <string name="other_device_main_space">İlk alan</string>
   <string name="other_device_second_space">İkinci alan</string>
   <string name="process_whole_recovery">\"%s\" geri yükleniyor</string>

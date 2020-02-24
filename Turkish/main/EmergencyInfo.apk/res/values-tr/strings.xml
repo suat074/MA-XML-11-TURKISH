@@ -147,7 +147,7 @@
   <string name="confirm_enable_oem_unlock_text">UYARı: Aygıt koruma özellikleri, bu ayar açıkken bu cihazda çalışmaz.</string>
   <string name="confirm_enable_oem_unlock_title">OEM&amp;#39;in kilidini açmasına izin verilsin mi?</string>
   <string name="connected_via_passpoint">Üzerinden bağlandı %1$s</string>
-  <string name="connected_via_wfa">WLAN asistanı ile bağlandı</string>
+  <string name="connected_via_wfa">WLAN yardımcısı ile bağlandı</string>
   <string name="convert_to_fbe_warning">Veri bölümünü dosya tabanlı şifrelemeye dönüştürün.\n !!Uyarı!! Bu, tüm verilerinizi silecektir.\n Bu özellik alfa ve doğru çalışmayabilir.\n Devam etmek için &amp;#39;Wipe and convert ...&amp;#39; tuşuna basın.</string>
   <string name="convert_to_file_encryption">Dosya şifrelemesine dönüştürün</string>
   <string name="convert_to_file_encryption_done">Zaten şifrelenmiş dosya</string>

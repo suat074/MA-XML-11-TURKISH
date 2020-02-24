@@ -297,6 +297,10 @@
   <string name="custom_head_content_pull_down_text">aşağı çek</string>
   <string name="custom_head_pull_down_text">Akış bilgisini gir</string>
   <string name="custom_head_weather">Hava durumu</string>
+  <string name="dark_mode_setting_dark">Gece modu (koyu)</string>
+  <string name="dark_mode_setting_follow">Sistemi takip et</string>
+  <string name="dark_mode_setting_light">Gündüz modu (açık)</string>
+  <string name="dark_mode_setting_title">Gece modu</string>
   <string name="data_monitor">Trafik izleme hatırlatıcısı</string>
   <string name="data_monitor_dialog_message">Bir şey mobil verinizi boşaltıyor gibi görünüyor. Bunu durdurmak için başlangıç sayfasını açın.</string>
   <string name="data_traffic_continue">Devam</string>
