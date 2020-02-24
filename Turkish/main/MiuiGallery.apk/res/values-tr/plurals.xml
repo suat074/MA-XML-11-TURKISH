@@ -201,16 +201,20 @@
         <item quantity="one">Seçilen (%dMB) fotoğraf cihazda değil. Mobil veri kullanılarak indirilsin mi?</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">%d kalan fotoğraf iptal edilsin mi?</item>
-        <item quantity="one">Kalan fotoğrafın indirilmesi iptal edilsin mi?</item>
+        <item quantity="other">%d dosya henüz indirilmedi. Yine de iptal edilsin mi?</item>
+        <item quantity="one">%d dosya henüz indirilmedi. Yine de iptal edilsin mi?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">%1$d fotoğraflar indirilemiyor, ağa bağlanıp, yeniden deneyin</item>
         <item quantity="one">Fotoğraf indirilemiyor, ağa bağlanıp, yeniden deneyin</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">%1$d fotoğraflar indirilemiyor (%2$dMB), ağa bağlanıp, yeniden deneyin</item>
-        <item quantity="one">Fotoğraf indirilemiyor (%2$dMB), ağa bağlanıp, yeniden deneyin</item>
+        <item quantity="other">%1$d dosya indirilemedi (%2$dMB). Ağa bağlanın ve yeniden deneyin.</item>
+        <item quantity="one">%1$d dosya indirilemedi (%2$dMB). Ağa bağlanın ve yeniden deneyin.</item>
+    </plurals>
+	<plurals name="picker_origin_need_to_download">
+        <item quantity="other">%1$d dosya (%2$dMB) henüz indirilmedi. Mobil veri kullanılarak indirilsin mi?</item>
+        <item quantity="one">%1$d dosya (%2$dMB) henüz indirilmedi. Mobil veri kullanılarak indirilsin mi?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">%1$d fotoğraf indirilemiyor, yeniden denensin mi?</item>
