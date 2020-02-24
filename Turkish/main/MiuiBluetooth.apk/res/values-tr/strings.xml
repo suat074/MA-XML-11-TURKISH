@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Ana sayfaya git</string>
-  <string name="abc_action_bar_up_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
-  <string name="abc_action_mode_done">Tamam</string>
+  <string name="abc_action_mode_done">Bitti</string>
   <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
   <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
   <string name="abc_capital_off">KAPALI</string>
@@ -11,7 +11,7 @@
   <string name="abc_search_hint">Arama…</string>
   <string name="abc_searchview_description_clear">Sorguyu temizle</string>
   <string name="abc_searchview_description_query">Sorguyu ara</string>
-  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_search">Ara</string>
   <string name="abc_searchview_description_submit">Sorgu gönder</string>
   <string name="abc_searchview_description_voice">Sesli arama</string>
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
@@ -32,17 +32,18 @@
   <string name="bluetooth_preference_found_devices">Mevcut cihazlar</string>
   <string name="bluetooth_preference_scan_title">Cihazları ara</string>
   <string name="bluetooth_search_for_devices">Cihazları ara</string>
+  <string name="copy">Kopyala</string>
   <string name="device_picker">Bluetooth cihaz ayarları</string>
   <string name="disconnect">Eşleşmeyi kaldır</string>
   <string name="expand_button_title">Gelişmiş</string>
+  <string name="fast_connect_device_battery">Pil</string>
   <string name="fast_connect_device_box">Kutu</string>
   <string name="fast_connect_device_box_name">%1$s kutusu</string>
   <string name="fast_connect_device_connect_cancel">İptal</string>
   <string name="fast_connect_device_connect_ok">Bağlan</string>
   <string name="fast_connect_device_connect_retry">Tekrar dene</string>
   <string name="fast_connect_device_connect_setup">Ayarlar</string>
-  <string name="fast_connect_device_connect_success">Tamamlandı</string>
-  <string name="fast_connect_device_headset">Pil</string>
+  <string name="fast_connect_device_connect_success">Bitti</string>
   <string name="fast_connect_device_headset_l">Sol</string>
   <string name="fast_connect_device_headset_r">Sağ</string>
   <string name="fast_connect_device_headset_reset">Kutunun üzerindeki düğmeye basılı tutun</string>
@@ -68,7 +69,7 @@
   <string name="mi_key_alert_dialog_message">Alarmı susturmak için Tamam\'a dokun</string>
   <string name="mi_key_alert_dialog_title">Mi Key Alarmı</string>
   <string name="mi_key_find_mikey">Mi Key\'i bul</string>
-  <string name="mi_key_find_phone">Kulaklığı bul</string>
+  <string name="mi_key_find_phone">Cihazı bul</string>
   <string name="mi_key_open_camera">Kamerayı aç</string>
   <string name="mi_key_summary_find_phone">Zil sesi için Mi Key\'e basılı tutun</string>
   <string name="mi_key_summary_open_camera">Kamerayı açmak için Mi Key\'e çift tıklayın</string>
@@ -88,6 +89,7 @@
   <string name="notify_device_lose_connection_text">%1$s eşlemesini kaldırmak için dokunun</string>
   <string name="notify_device_lose_connection_title">%1$s ile bağlantı kesildi</string>
   <string name="ok_button">Tamam</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="progress_scanning">Aranıyor…</string>
   <string name="reset_function_msg">Bu özelliği sıfırlamak, %1$s öğesinin normal şekilde çalışmasını engelleyebilir.</string>
   <string name="search_menu_title">Arama</string>
