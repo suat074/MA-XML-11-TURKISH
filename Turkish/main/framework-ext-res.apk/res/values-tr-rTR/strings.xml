@@ -80,6 +80,10 @@
   <string name="global_actions_reboot">Yeniden başlat</string>
   <string name="global_actions_shutdown">Kapat</string>
   <string name="global_actions_silent_mode">Sessiz mod</string>
+  <string name="handset_text_unsupported_handset_insert">Ayrıntıları görüntülemek için dokunun</string>
+  <string name="handset_text_usb_handset_insert">Ek ayarları açmak için dokunun</string>
+  <string name="handset_title_unsupported_handset_insert">Adaptör aracılığıyla ses çalınamıyor</string>
+  <string name="handset_title_usb_handset_insert">USB üzerinden ses çalma</string>
   <string name="handy_mode_enter_dlg_msg">Tek elle kullanım moduna girilsin mi?</string>
   <string name="handy_mode_enter_dlg_title">Tek elle kullanım moduna gir</string>
   <string name="handy_mode_summary">Kapatmak için karanlık alana dokunun.</string>
@@ -108,6 +112,8 @@
   <string name="memory_clear_nothing_result">Önbellekte temizlemek için bir şey yok</string>
   <string name="memory_clear_result">%1$sB temizlendi</string>
   <string name="mi_drop">Mi Paylaşım</string>
+  <string name="miaudiovisual_notification_summary">Kilit ekranındaki efektleri göstermek için açın</string>
+  <string name="miaudiovisual_notification_title">Ses ve görsel efektler</string>
   <string name="miui">miui</string>
   <string name="miui_forbid_poweroff_when_device_locked">Kapatılamıyor, cihaz kilitli.</string>
   <string name="miui_screen_ratio_hint">Ekran oranı sorunları</string>
