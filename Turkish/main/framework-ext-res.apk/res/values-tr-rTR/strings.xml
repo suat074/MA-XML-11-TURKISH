@@ -82,7 +82,7 @@
   <string name="global_actions_silent_mode">Sessiz mod</string>
   <string name="handset_text_unsupported_handset_insert">Ayrıntıları görüntülemek için dokunun</string>
   <string name="handset_text_usb_handset_insert">Ek ayarları açmak için dokunun</string>
-  <string name="handset_title_unsupported_handset_insert">Adaptör aracılığıyla ses çalınamıyor</string>
+  <string name="handset_title_unsupported_handset_insert">USB kulaklık adaptörleri desteklenmiyor</string>
   <string name="handset_title_usb_handset_insert">USB üzerinden ses çalma</string>
   <string name="handy_mode_enter_dlg_msg">Tek elle kullanım moduna girilsin mi?</string>
   <string name="handy_mode_enter_dlg_title">Tek elle kullanım moduna gir</string>

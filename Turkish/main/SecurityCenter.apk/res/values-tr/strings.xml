@@ -1156,6 +1156,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gateway_exception_title">Yönlendirici Testi</string>
   <string name="gb_ad_game_size">MB</string>
   <string name="gb_add_game_hint">Uygulamalar listesinden öğe ekleyin</string>
+  <string name="gb_add_game_loading_tips">Sadece bir saniye…</string>
   <string name="gb_advance_settings_edge_gear1">Yok</string>
   <string name="gb_advance_settings_edge_gear2">Küçük</string>
   <string name="gb_advance_settings_edge_gear3">Orta</string>

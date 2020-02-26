@@ -20,6 +20,10 @@
     <item quantity="other">%d hafta önce</item>
     <item quantity="one">%d hafta önce</item>
   </plurals>
+  <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d yeni bildirim</item>
+    <item quantity="one">%d yeni bildirim</item>
+   </plurals>
   <plurals name="sent_frequency_per_day">
     <item quantity="other">Günde %d bildirim</item>
     <item quantity="one">Günde %d bildirim</item>

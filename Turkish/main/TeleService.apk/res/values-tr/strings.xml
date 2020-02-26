@@ -1240,6 +1240,7 @@
   <string name="phone_in_ecm_call_notification_text">Veri bağlantısı devre dışı</string>
   <string name="phone_in_ecm_notification_complete_time">%s kadar veri bağlantısı yok</string>
   <string name="phone_in_ecm_notification_title">Acil Geri Arama Modu</string>
+  <string name="phone_report_title">Gelen çağrı bilgilerini oku</string>
   <string name="picture_color_mode">Resim renk modu</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
   <string name="pin2_attempts">\n %d deneme hakkınız kaldı.</string>
@@ -1408,6 +1409,9 @@
   <string name="remove">Kaldır</string>
   <string name="remove_sip_account">Hesabı kaldır</string>
   <string name="removing_account">Hesap kaldırılıyor…</string>
+  <string name="report_method_entries_item1">Yalnızca kulaklıklar bağlıyken</string>
+  <string name="report_method_entries_item2">Her zaman</string>
+  <string name="report_method_entries_item3">Kapat</string>
   <string name="requesting_unlock">Ağ kilidini açma isteği…</string>
   <string name="respond_via_sms_canned_response_1">Şimdi konuşamam, lütfen daha sonra arar mısın?</string>
   <string name="respond_via_sms_canned_response_2">En kısa sürede seni arayacağım.</string>
