@@ -807,6 +807,7 @@ Yedeklemeler Xiaomi Bulut\'ta saklanır ve kablosuz olarak erişilebilir. Bu yö
   <string name="bluetooth_connected_no_headset_no_a2dp">Bağlandı (telefon veya medya yok)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlandı (telefon veya medya yok) | Pil %1$s%2$s</string>
   <string name="bluetooth_connected_no_map">Bağlandı (mesaj erişimi yok)</string>
+  <string name="bluetooth_connect_settings">Bluetooth bağlantı ayarları</string>
   <string name="bluetooth_connected_summary">%1$s cihazına bağlı</string>
   <string name="bluetooth_connecting">Bağlanıyor...</string>
   <string name="bluetooth_connecting_error_message">%1$s için bağlanamadı.\"</string>
@@ -859,6 +860,7 @@ Yedeklemeler Xiaomi Bulut\'ta saklanır ve kablosuz olarak erişilebilir. Bu yö
   <string name="bluetooth_disconnected">Bağlantı kesildi</string>
   <string name="bluetooth_disconnecting">Bağlantı kesiliyor...</string>
   <string name="bluetooth_display_passkey_pin_msg">Eşleştirmek için:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Üzerine yazın:&lt;br>&lt;b>%2$s&lt;/b>, daha sonra Return veya Enter tuşuna basın.</string>
+  <string name="bluetooth_display_settings">Bluetooth ekran ayarları</string>
   <string name="bluetooth_dock_settings">Yuva Ayarları</string>
   <string name="bluetooth_dock_settings_a2dp">Müzik ve medya için</string>
   <string name="bluetooth_dock_settings_headset">Telefon hoparlörü olarak</string>
@@ -899,7 +901,10 @@ Sorun şunlar olabilir:
   <string name="bluetooth_max_connected_audio_devices_dialog_title">Maksimum bağlı Bluetooth ses cihazı sayısını seçin</string>
   <string name="bluetooth_max_connected_audio_devices_string">Maksimum bağlı Bluetooth ses cihazı</string>
   <string name="bluetooth_menu_advanced">Gelişmiş</string>
-  <string name="bluetooth_name_not_set">Kullanılan hesap adının ad ayarı yok</string>
+  <string name="bluetooth_mi_fast_connect">Mi Link</string>
+  <string name="bluetooth_mi_fast_connect_summary">Yakınlardaki Bluetooth cihazlarına bağlanın</string>
+  <string name="bluetooth_middle_name">Durum</string>
+  <string name="bluetooth_name_not_set">İsim ayarlanmadı, hesap adı kullanılıyor</string>
   <string name="bluetooth_no_devices_found">Yakınlarda Bluetooth cihazı bulunamadı.</string>
   <string name="bluetooth_not_visible_to_other_devices">Diğer Bluetooth cihazlar bunu göremez</string>
   <string name="bluetooth_notif_message">%1$s ile eşleştirmek için dokunun</string>
