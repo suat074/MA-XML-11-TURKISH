@@ -66,6 +66,10 @@
   <string name="action_update_phone">Telefon numarasını değiştir</string>
   <string name="activate_email_notice">Hesabınızı 24 saat içerisinde etkinleştirdiğinizden emin olun</string>
   <string name="activity_not_found_notice">Uygulama bulunamıyor</string>
+  <string name="ad_buy">Satın al</string>
+  <string name="ad_download">İndir</string>
+  <string name="ad_join">Topluluğa katıl</string>
+  <string name="ad_more">Daha fazla</string>
   <string name="add_to_trust_device">Bu güvenli bir cihazdır</string>
   <string name="agree">Kabul et</string>
   <string name="ai_animation_music_text">AI film müziği</string>
@@ -143,6 +147,9 @@
   <string name="choose_to_signup">Hayır, yeni bir hesap oluşturacağım</string>
   <string name="click_to_reload_more">Daha fazla yüklemek için dokunun</string>
   <string name="click_to_retry">Tekrar dene</string>
+  <string name="cloud_online_switch">Kişiselleştirilmiş öneriler</string>
+  <string name="cloud_online_switch_close_time">%s içinde kişiselleştirilmiş içerik önerilerini açabilirsiniz</string>
+  <string name="cloud_online_switch_open_time">Kişiselleştirilmiş içerik önerilerini göster</string>
   <string name="collect_diagnosis_log">Günlükleri topla</string>
   <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> adresine git ve yukarıda gösterilen kodu gir.</string>
   <string name="com_facebook_image_download_unknown_error">Görüntü indirilirken beklenmedik bir hata oluştu.</string>
@@ -175,6 +182,7 @@
   <string name="comment_model_add_comment">Yorum ekle</string>
   <string name="comment_model_bg_add_comment">Düşüncelerinizi topluluğumuzla paylaşın</string>
   <string name="comment_model_bg_deleted_comment">Bu yorum silindi</string>
+  <string name="comment_model_close">Yorum mevcut değil. Bizi izlemeye devam edin!</string>
   <string name="comment_model_comment">Yorumlar</string>
   <string name="comment_model_confirm_delete">Yorum şimdi silinsin mi?</string>
   <string name="comment_model_copy">Kopyala</string>
@@ -232,6 +240,7 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="do_not_show_again">Tekrar gösterme</string>
   <string name="empty_channels">Kanalları yönet</string>
   <string name="empty_subscribe">Henüz hiç aboneliğiniz yok.</string>
+  <string name="error_details">Beklenmeyen hata</string>
   <string name="enable_background_audio">Arka planda oynat</string>
   <string name="error_drm_not_supported">Korumalı içerik 18 altındaki API seviyelerinde desteklenmez</string>
   <string name="error_drm_unknown">Bilinmeyen bir DRM hatası oluştu</string>
@@ -283,7 +292,8 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="exo_track_surround_5_point_1">5.1 surround ses</string>
   <string name="exo_track_surround_7_point_1">7.1 surround ses</string>
   <string name="exo_track_unknown">Bilinmiyor</string>
-  <string name="explore_on_mi_video">"Mi Video'da daha fazlasına erişin"</string>
+  <string name="explore">Keşfedin</string>
+  <string name="explore_on_mi_video">Mi Video hakkında daha fazla bilgi edinin</string>
   <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi Hesabı ile ilişkilendirilmiş durumda</string>
   <string name="failed_to_fetch_data">Bilgi yüklenemedi.</string>
   <string name="favor_online_video">Videolar</string>
@@ -339,6 +349,7 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="gallery_video_adjust_hint">Yalnızca 960fps videolar destekleniyor</string>
   <string name="gallery_video_adjust_text">Ayarla</string>
   <string name="gallery_video_default_music_text">Otomatik</string>
+  <string name="gallery_video_icon_is_record_log">GÜNLÜK</string>
   <string name="gallery_video_item3_default_text">Duygular</string>
   <string name="gallery_video_item4_default_text">Gündoğumu</string>
   <string name="gallery_video_item5_default_text">Anılar</string>
@@ -363,6 +374,7 @@ Bu kodu yöneticiye gönderin."</string>
   <string name="history">Geçmiş</string>
   <string name="history_local_video">Yerel</string>
   <string name="history_online_video">Çevrimiçi</string>
+  <string name="hot">Popüler</string>
   <string name="identity">Kimlik doğrulama</string>
   <string name="inconsistent_pwd">Şifreler eşleşmiyor</string>
   <string name="init_channels">Varsayılan ayarlara sıfırla</string>
@@ -384,6 +396,7 @@ seçin"</string>
   <string name="lbl_player_response_failed_alert_dialog_text">Üzgünüz, isteğiniz şu anda tamamlanamıyor. Lütfen bir süre sonra tekrar deneyin.</string>
   <string name="lbl_setting_playback_streaming_auto">Otomatik</string>
   <string name="lbl_url_alert">Bilgi</string>
+  <string name="live_tv_title">Canlı TV</string>
   <string name="loading">Sadece bir saniye…</string>
   <string name="local_push_title">Bugün popüler</string>
   <string name="login">Oturum açın</string>
@@ -550,6 +563,7 @@ seçin"</string>
   <string name="need_update_app">Tüm özelliklerinden faydanalanabilmek için Mi Video uygulamasını güncelleyin</string>
   <string name="network_connect_info">Ağa bağlanılamadı. Ağ bağlantılarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="network_failed">Ağa bağlanılamadı</string>
+  <string name="new_channel_tip">Yeni kanallara bir göz atın!</string>
   <string name="next">İleri</string>
   <string name="nick_name">Takma Ad</string>
   <string name="no_account">Oturum açılmadı</string>
@@ -559,6 +573,7 @@ seçin"</string>
   <string name="no_recommend_data">Şu anda tavsiye edilen video yok</string>
   <string name="no_subscriptions">Burada öge yok</string>
   <string name="not_show">Tekrar gösterme</string>
+  <string name="not_support_share">Bu öğe şu anda paylaşılamıyor</string>
   <string name="notice_comment_action">%s, gönderinize yorum yaptı</string>
   <string name="notice_comment_action_deleted">Bu yorum silindi</string>
   <string name="notice_feedback_content">Geri bildiriminiz hakkında bir güncelleme var. Görüntülemek için dokunun.</string>
@@ -925,6 +940,8 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="restart_phone_bind_title">Kurtarma telefon numarasını değiştir</string>
   <string name="restore_channel_list">Varsayılan ayarlara sıfırlansın mı?</string>
   <string name="retry">Tekrar dene</string>
+  <string name="reveal">Döndür</string>
+  <string name="reveal_tip">Daha iyi görüntüleme deneyimi için cihazınızı döndürün</string>
   <string name="revoke">Geri al</string>
   <string name="s1">Resmi kaydet</string>
   <string name="s2">Reklamın, Resim galerisine resim kaydetmesine izin verilsin mi?</string>
@@ -938,7 +955,11 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="save">KAYDET</string>
   <string name="save_cancel_toast">Videoyu kaydetmeyi iptal etmek için \"Geri\" seçeneğine dokunun</string>
   <string name="screenrecord_cancel">Uyumluluk sorunları</string>
-  <string name="screenrecord_nosupport_record">Ekran kaydedici bu cihazda desteklenmiyor.</string>
+  <string name="screenrecord_nosupport_record">Ekran kaydedici şu anda bu cihazda desteklenmiyor.</string>
+  <string name="screenshot_8k">8K ekran görüntüsü</string>
+  <string name="screenshot_8k_save_toast">8K ekran görüntüsü %s konumuna kaydedildi</string>
+  <string name="screenshot_8k_saving">8K ekran görüntüsü kaydediliyor…</string>
+  <string name="screenshot_8k_share">Dosyayı şuraya gönder</string>
   <string name="search">Ara</string>
   <string name="search_choose_language">Dil seçin</string>
   <string name="search_choose_voice_language">Sesli arama için kullanılacak dili seçin</string>
@@ -1035,6 +1056,7 @@ Hizmetlerin cihazınız için daha iyi özelleştirilmesi;
   <string name="ticket_sign_in">SMS ile oturum aç</string>
   <string name="title_publisher">Yayıncılar</string>
   <string name="title_subscribe">Abonelikler</string>
+  <string name="toast_no_data">Bu öğe şu anda kullanılamıyor. Daha sonra gel.</string>
   <string name="toast_share_failed">Paylaşılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="today">Bugün</string>
   <string name="tuesday">Salı</string>
