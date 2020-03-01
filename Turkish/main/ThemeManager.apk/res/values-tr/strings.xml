@@ -135,6 +135,7 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="de_to_comment">Yorum</string>
   <string name="de_try">Dene</string>
   <string name="deleting">Siliniyor...</string>
+  <string name="desc_more_online_wallpaper">Çevrimiçi daha fazla duvar kağıdı</string>
   <string name="description_author">Yazar</string>
   <string name="description_designer">Tasarımcı</string>
   <string name="description_download">İndirilen</string>
@@ -289,6 +290,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="lockscreen_apply_failured_but_home_apply_success">Ana ekran duvar kağıdı uygulandı. Kilit ekranı duvar kağıdı uygulanamıyor.</string>
   <string name="lockscreen_apply_success">Kilit ekranı duvar kağıdı uygulandı</string>
   <string name="lockscreen_apply_success_but_home_apply_failured">Kilit ekranı duvar kağıdı uygulandı. Ana ekran duvar kağıdı uygulanamıyor.</string>
+  <string name="lockscreen_desk_wallpaper">Ana ekran ve Kilit ekranı duvar kağıtları</string>
   <string name="lockscreen_magazine_subscribe">%1$s takipçi</string>
   <string name="lockscreen_magazine_summary">Kategoriler</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s duvar kağıdı</string>
@@ -328,6 +330,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="mix_lockscreen_option_des">Duvar kağıdı ve saat. Varsayılan seçenekleri kullanmak için bu kutunun işaretini kaldırın.</string>
   <string name="mix_tip">Tema bileşenleri</string>
   <string name="more_sub_comment">Tüm cevapları gör (%1$d)&gt;</string>
+  <string name="more_system_wallpaper">Daha fazla sistem duvar kağıtları</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Bu zil sesi her iki SIM kart için de uygulanacaktır.</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Zil sesi her iki SIM karta da uygulanır.</string>
@@ -340,6 +343,10 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="network_exception">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="no_data">Ağa bağlanamıyor</string>
   <string name="no_net_work_connection">Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
+  <string name="no_network_desc">Ağa bağlanılamadı</string>
+  <string name="no_network_please_retry">Ağ ayarlarınızı kontrol edip tekrar deneyin</string>
+  <string name="no_wallpaper">Henüz burada öğe yok</string>
+  <string name="not_support_incall_show">Bu duvar kağıdı profil videolarıyla çalışmıyor</string>
   <string name="online_no_network">Ağa bağlanamıyor</string>
   <string name="online_precust_abstract">Soyut</string>
   <string name="online_precust_animal">Hayvan</string>
@@ -600,8 +607,18 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="sdcard_not_mounted_dialog_message">"Şimdi SD kart ekleyin.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">SD Kart tespit edilemedi</string>
+  <string name="search_filter_name">Filtre</string>
   <string name="search_hint_header_text">Sözler</string>
   <string name="search_menu_title">Arama</string>
+  <string name="search_non_filter_result">Sonuç bulunamadı</string>
+  <string name="search_price_charge">Ücretli</string>
+  <string name="search_price_free">Ücretsiz</string>
+  <string name="search_price_name">"Fiyat: "</string>
+  <string name="search_price_no_limit">Sınırsız</string>
+  <string name="search_sort_name">Sırala</string>
+  <string name="search_sort_news">Yeni</string>
+  <string name="search_sort_synthesize">Genel</string>
+  <string name="search_sort_top">Popüler</string>
   <string name="selected_resource_file_invalid">Seçilen kaynak dosyası kullanılamıyor</string>
   <string name="server_internal_error">Bir sunucu hatası oluştu. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="service_btn_text_know">Tanıyın</string>
@@ -705,6 +722,8 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="theme_select_others">Gözat</string>
   <string name="theme_setting">Ayarlar</string>
   <string name="theme_setting_all">Tüm temalar</string>
+  <string name="theme_settings_title">Temalar</string> 
+  <string name="theme_share_app_name">Mi Temalar</string>
   <string name="theme_staggered_item_text">Mi Kredisi alın</string>
   <string name="theme_user_agreement_allow">Kabul</string>
   <string name="theme_user_agreement_content1">"Bu ürünü kullanarak, "</string>
@@ -725,6 +744,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="title_my_miwallpaper_desktop_effects">Canlı duvar kağıtları</string>
   <string name="title_my_miwallpaper_resource">Video duvar kağıtlarım</string>
   <string name="title_my_miwallpaper_video_file_resource">Duvar kağıdı filmlerim</string>
+  <string name="title_my_wallpaper">Duvar kağıtlarım</string>
   <string name="title_my_wallpaper_resource">Duvar kağıtlarım</string>
   <string name="title_system_audio_alarm_resource">Sistem alarmları</string>
   <string name="title_system_audio_notification_resource">Sistem bildirimleri</string>
@@ -798,6 +818,7 @@ Daha fazla seçenek için Temalar &gt; Profil &gt; Tema laboratuvarına gidin."<
   <string name="wallpaper_decoded_error">Duvar Kağıdı yüklenemiyor</string>
   <string name="wallpaper_delete_all">Seçili öğeler silinsin mi?</string>
   <string name="wallpaper_detail_load_page_no_network">Ağa bağlanın ve tekrar deneyin.</string>
+  <string name="wallpaper_download_incall_show">Video indir</string>
   <string name="wallpaper_dynamic">Dinamik</string>
   <string name="wallpaper_loop_add_success">Başarıyla eklendi</string>
   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Ana ekran slayt gösterisine ekle</string>
@@ -839,6 +860,7 @@ Daha fazla seçenek için Temalar &gt; Profil &gt; Tema laboratuvarına gidin."<
   <string name="wallpaper_settings_no_history">Geçmiş yok</string>
   <string name="wallpaper_settings_pad_more_page_title">Daha fazla</string>
   <string name="wallpaper_settings_page_title">Duvar Kağıdı</string>
+  <string name="wallpaper_share_alert">Bir hata oluştu. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="wallpaper_static">Statik</string>
   <string name="wechat_not_found">"Önce WeChat'i yükleyin"</string>
   <string name="wifi_check_cancel">İptal</string>

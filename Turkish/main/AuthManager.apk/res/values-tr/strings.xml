@@ -219,6 +219,8 @@
   <string name="HIPS_Perm_add_voicemail_Desc">Sisteme sesli mesajlar ekler</string>
   <string name="HIPS_Perm_background_start_activity">Arka planda çalışırken açılır pencereleri görüntüler</string>
   <string name="HIPS_Perm_background_start_activity_Desc">arka planda çalışırken açılır pencereleri görüntüler</string>
+  <string name="HIPS_Perm_clipboard">Pano</string>
+  <string name="HIPS_Perm_clipboard_Desc">Panodaki içeriğe erişme ve içeriği değiştirme</string>
   <string name="HIPS_Perm_deamon_notification">Kalıcı bildirim</string>
   <string name="HIPS_Perm_deamon_notification_Desc">Kalıcı bildirimleri göster</string>
   <string name="HIPS_Perm_get_accounts">Aygıttaki hesaplara erişebilir</string>
@@ -289,6 +291,7 @@
   <string name="grant_dialog_button_allow_always">Her zaman izin ver</string>
   <string name="grant_dialog_button_allow_background">Her zaman izin ver</string>
   <string name="grant_dialog_button_allow_foreground">Yalnızca uygulamayı kullanırken izin ver</string>
+  <string name="grant_dialog_button_allow_onetime">Bu zamana izin ver</string>
   <string name="grant_dialog_button_deny">Reddet</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Reddet ve bir daha sorma</string>
   <string name="grant_dialog_button_deny_background">Sadece uygulamayı kullanırken</string>

@@ -88,7 +88,7 @@
   <string name="description_title">Hesap Makinesi hakkında</string>
   <string name="deselect_all">Seçimi kaldır</string>
   <string name="devided_by_zero_reminder_message">Sıfıra bölünemez</string>
-  <string name="dialog_privacy_content">Hesap Makinesi, temel işlevlerin yanı sıra para birimlerini ve ölçüm birimlerini dönüştürmenize, ipotek geri ödemelerini hesaplamanıza ve daha fazlasına olanak tanır. Bazı özelliklerin normal şekilde çalışabilmesi için internet bağlantısı gereklidir. &lt;Data&gt;Bu uygulamayı kullanmadan önce &lt;a href=%1$s&gt;Kullanıcı Sözleşmemizi&lt;/a&gt; ve &lt;a href=%2$s&gt;Gizlilik Politikamızı&lt;/a&gt; okuyun ve kabul edin.&lt;/Data&gt;</string>
+  <string name="dialog_privacy_content">Hesap Makinesi, temel işlevlerin yanı sıra para birimlerini ve ölçüm birimlerini dönüştürmenize, ipotek geri ödemelerini hesaplamanıza ve daha fazlasına olanak tanır. Bazı özelliklerin normal şekilde çalışabilmesi için internet bağlantısı gereklidir. <Data>Bu uygulamayı kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="dialog_privacy_title">Şartlar ve Koşullar</string>
   <string name="dialog_rating_desc_ask">Hesap makinesi hakkında ne düşünüyorsunuz?</string>
   <string name="dialog_rating_desc_less">Bize geri bildiriminizi verebilir misiniz?</string>
@@ -106,6 +106,7 @@
   <string name="digit9">9</string>
   <string name="div">÷</string>
   <string name="divDesc">böl</string>
+  <string name="dob_selection_error">Doğum tarihi bugünün tarihinden önce olmalıdır</string>
   <string name="dot">.</string>
   <string name="dotDesc">nokta</string>
   <string name="early_morning">ÖÖ</string>
@@ -159,6 +160,7 @@
   <string name="hint_annual_rate">Yıllık oranı girin</string>
   <string name="hint_enter_amount">Miktarı girin</string>
   <string name="hint_floatwindow_alpha_guide_text">Opaklığı ayarlamak için dokunun</string>
+  <string name="history_delete_confirmation">Geçmiş şimdi temizlensin mi?</string>
   <string name="home_loan">İpotek faizi</string>
   <string name="home_title_calculator">Hesap Makinesi</string>
   <string name="house_rent">Kira</string>
@@ -189,14 +191,19 @@
   <string name="item_title_vel_conversion">Hız</string>
   <string name="item_title_volume_conversion">Hacim</string>
   <string name="item_title_weight_conversion">Ağırlık</string>
+  <string name="label_about">Hakkında</string>
+  <string name="label_clear_history">Tümünü temizle</string>
   <string name="label_date_difference">Fark</string>
   <string name="label_days">Gün</string>
+  <string name="label_delete">Temizle</string>
   <string name="label_emi">Aylık Eşit Taksit</string>
   <string name="label_first_repayment">İlk ödeme</string>
   <string name="label_from_date">Başlangıç</string>
+  <string name="label_history">Geçmiş</string>
   <string name="label_interest">Faiz</string>
   <string name="label_loan_tenure">Kredi süresi</string>
   <string name="label_months">Ay</string>
+  <string name="label_no_history">Henüz burada öğe yok</string>
   <string name="label_principal">Ana para</string>
   <string name="label_share">Paylaş</string>
   <string name="label_start_date">Başlangıç tarihi</string>

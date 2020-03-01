@@ -372,9 +372,11 @@
   <string name="credit_limit_text">Kredi limiti</string>
   <string name="cur_debt">Hesap bakiyesi</string>
   <string name="custom_from_account_label">Posta olarak gönder:</string>
+  <string name="database_exception">Veri istisnası, lütfen tekrar giriş yapın</string>
   <string name="date_heading">"Tarih: "</string>
   <string name="date_message_received">%1$s, %2$s</string>
   <string name="date_message_received_today">Bugün, %1$s</string>
+  <string name="db_error">E-posta verilerinde bir istisna var. Lütfen tekrar giriş yapın. E-posta verileri oturum açtıktan sonra kurtarılabilir.</string>
   <string name="debug_mode_preferencecategory">Günlük çıktısını ayarla</string>
   <string name="debug_mode_settings">Hata ayıklama modu ayarları</string>
   <string name="default_">VARSAYILAN</string>

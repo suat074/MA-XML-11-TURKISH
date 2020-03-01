@@ -96,4 +96,5 @@
   <string name="summary_float_enable_notification_first">Bildirimlerin, kayan bildirimleri açabilmesi için izin ver</string>
   <string name="summary_lock_screen_enable_notification_first">Bildirimlerin, Kilit ekranı bildirimlerini açabilmesi için izin ver</string>
   <string name="summary_show_badge_enable_notification_first">Bildirimlerin, bildirim rozetlerini açabilmesi için izin ver</string>
+  <string name="tip_select_category">Bildirim türünü seçin</string>
 </resources>

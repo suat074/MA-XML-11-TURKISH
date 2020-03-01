@@ -738,6 +738,12 @@ mevcut"</string>
   <string name="filter_sky_download_sdk_without_wifi_msg">Wi-Fi\’ye bağlı değilseniz, fotoğraflarınızdaki gökyüzünü değiştirmenize olanak sağlayan eklentiyi (%1$dMB) indirmek için mobil veri kullanabilirsiniz.</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Eklentiyi indir</string>
   <string name="filter_sky_dusk">Alacakaranlık</string>
+  <string name="filter_sky_dynamic_note">Bu filtreye sahip öğeler video olarak kaydedilir</string>
+  <string name="filter_sky_dynamic_rain">Yağmur</string>
+  <string name="filter_sky_dynamic_saving">Video oluşturma</string>
+  <string name="filter_sky_dynamic_snow">Kar</string>
+  <string name="filter_sky_dynamic_stop_saving">Kaydetmeyi iptal etmek için tekrar dokunun</string>
+  <string name="filter_sky_dynamic_unavailable">Bu filtre bu tür resimlere uygulanamıyor</string>
   <string name="filter_sky_glow">Parlaklık</string>
   <string name="filter_sky_hint">Gökyüzü değişimi</string>
   <string name="filter_sky_nimbus">Yağmur bulutu</string>

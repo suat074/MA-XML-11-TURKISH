@@ -476,7 +476,7 @@ Makro modunu kullanın"</string>
   <string name="module_name_square">Kare</string>
   <string name="module_name_video">Video</string>
   <string name="moive_frame">Film çerçevesi</string>
-  <string name="multi_window_mode_not_supported">Kamera, Çoklu pencerede çalışmıyor</string>
+  <string name="multi_window_mode_not_supported">Kamera çoklu pencere modunda kullanılamaz</string>
   <string name="network_access_user_notice_agree">Kabul</string>
   <string name="network_access_user_notice_message_live_video"><Data>"Kamera\'nın, kısa videolar için efekt, müzik ve diğer özellikleri sağlaması için internete bağlanması gerekir. &lt;br/>&lt;br/&gt;Aşağıdaki \"Kabul \" seçeneğine dokunarak, &lt;a href =%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikamızı&lt;/a> kabul etmiş ve Kamera\'nın internete bağlanmasına izin vermiş olursunuz."</Data></string>
   <string name="network_access_user_notice_message_mi_live_video"><Data>Kısa videolara hoş geldiniz! Hizmetimizin size müzik ve diğer özellikleri sağlaması için ağa bağlanması gerekir. &lt;br/>&lt;br/>Hizmetimizi kullanmadan önce, &lt;a href =%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href =%2$s>Gizlilik Politikası&lt;/a> okumalı ve kabul etmeli ve uygulamanın internete bağlanmasına izin vermelisiniz.</Data></string>
@@ -487,6 +487,7 @@ Makro modunu kullanın"</string>
   <string name="no_storage">Kamerayı kullanmadan önce SD kart takın</string>
   <string name="not_enough_space">Dahili Depolama dolu</string>
   <string name="object_track_enable_toast">Bir nesneyi seçmek için, eş zamanlı olarak kenar etrafındaki iki köşegen noktasına dokunun.</string>
+  <string name="only_mimoji_multi_window_mode_not_supported">Bu özellik çoklu pencere modunda kullanılamaz</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Referans çizgisi ile oku hizalayın</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Devam et…</string>
   <string name="pano_how_to_use_prompt_slow_down">Lütfen biraz yavaşlayın</string>
@@ -574,7 +575,7 @@ için Portre modunu kullanın"</string>
 Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="portrait_with_facebeauty_hint">Güzelleştir şimdi Portre modunda kullanılabilir</string>
   <string name="pref_960_watermark_title">960FPS filigranı</string>
-  <string name="pref_advance_settings">Ek Ayarlar</string>
+  <string name="pref_advance_settings">Ek ayarlar</string>
   <string name="pref_ai_detect">AI algılama</string>
   <string name="pref_audio_focus_entry_front">Ön</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
