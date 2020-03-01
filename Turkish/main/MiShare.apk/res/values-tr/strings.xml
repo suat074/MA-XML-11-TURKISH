@@ -46,6 +46,7 @@
   <string name="device_type_pc">Bilgisayarlar</string>
   <string name="disconnect">BAĞLANTIYI KES</string>
   <string name="enable_midrop">Aç</string>
+  <string name="error_ap_in_use">Paylaşım noktası açıkken diğer cihazlara dosya gönderilemiyor</string>
   <string name="error_ap_or_screen_already_hosting">Yansıtma yapılırken veya internet paylaşımı kullanılırken öğeler diğer cihazlara gönderilemiyor.</string>
   <string name="error_device_lost">Diğer cihaz ulaşılamıyor gibi görünüyor. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="error_has_occurred">Bir hata oluştu</string>
@@ -65,8 +66,10 @@
   <string name="error_send_file_not_found">Dosya bulunamadı. Tekrar deneyin.</string>
   <string name="error_send_file_service_disabled">Giden transfer iptal edildi</string>
   <string name="error_send_transfer_error">Öğe aktarılamadı. Tekrar deneyin.</string>
+  <string name="error_slave_wifi_in_use">Çift Wi-Fi açıkken Dosya Paylaşımı çalışmaz. Ayarlar\'dan çift Wi-Fi\'yi kapatın ve tekrar deneyin.</string>
   <string name="error_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="error_user_refuse">Gönderilemiyor. Transfer reddedildi.</string>
+  <string name="error_wifi_display_in_use">Yansıtma yapılırken diğer cihazlara dosya gönderilemiyor</string>
   <string name="fail_in_send">Gönderilemedi</string>
   <string name="file_cannot_print">Bu öğe yazdırılamıyor.</string>
   <string name="file_cannot_screen_throw">Bu öğe yansıtılamıyor</string>
@@ -77,6 +80,7 @@
   <string name="file_transfer_progress">İlerleme: %1$d%%</string>
   <string name="file_transfer_progress_title">İlerleme</string>
   <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi izlemeye devam edin!</string>
+  <string name="go_to_settings">Ayarlar</string>
   <string name="hide">Gizle</string>
   <string name="i_know">Anladım</string>
   <string name="location_enabled">Yakındaki cihazları bulmak için konum servisleri açıldı</string>

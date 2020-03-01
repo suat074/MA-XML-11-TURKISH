@@ -160,6 +160,7 @@
   <string name="current_lyric">Güncel şarkı sözleri</string>
   <string name="current_version">Geçerli Sürüm</string>
   <string name="daily_recommendation">Günlük karışım</string>
+  <string name="dark_mode">Koyu mod</string>
   <string name="data_usage_warning">Veri kullanımı</string>
   <string name="data_usage_warning_summary">Yüksek kalite ayarlarını kullanmanız daha yüksek veri trafiğine neden olacaktır.</string>
   <string name="data_use_desc">Yasal belgeler</string>

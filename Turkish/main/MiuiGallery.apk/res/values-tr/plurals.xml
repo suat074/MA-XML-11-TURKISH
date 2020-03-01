@@ -226,7 +226,7 @@
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">Cihazda olmayan %d fotoğraf atlandı.</item>
-        <item quantity="one">Cihazda olmayan bir fotoğrafı atladı.</item>
+        <item quantity="one">Cihazda olmayan %d fotoğraf atlandı.</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">%1$d yeni fotoğraf bulundu</item>
