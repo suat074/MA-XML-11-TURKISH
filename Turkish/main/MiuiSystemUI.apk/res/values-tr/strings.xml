@@ -1219,7 +1219,7 @@
   <string name="notification_menu_filter_secondary_text">%s ile ilgili tüm bildirimler ayrı bir klasörde görünecektir.</string>
   <string name="notification_menu_filter_title">Önemsiz</string>
   <string name="notification_menu_gear_description">Bildirim kontrolleri</string>
-  <string name="notification_menu_remove_from_filter_secondary_text">%s ile ilgili tüm önemli bildirimler doğrudan Bildirim gölgesinde görünecektir.</string>
+  <string name="notification_menu_remove_from_filter_secondary_text">%s ile ilgili tüm önemli bildirimler doğrudan Bildirim alanında görünecektir.</string>
   <string name="notification_menu_remove_from_filter_title">Önemli</string>
   <string name="notification_menu_snooze_description">Bildirim erteleme seçenekleri</string>
   <string name="notification_more_settings">Daha fazla ayar</string>
