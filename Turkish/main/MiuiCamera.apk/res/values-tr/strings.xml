@@ -115,6 +115,7 @@ ve tercihleri otomatik olarak ayarlama"</string>
   <string name="auxiliary_exposure_feedback_status">Pozlama doğrulaması açık</string>
   <string name="auxiliary_focus_peak_status">Odak tepe noktası açık</string>
   <string name="back_bokeh_use_hint">En iyi etki için nesneyi 1,5 metrede tutun</string>
+  <string name="background">Arka plan</string>
   <string name="beauty_body">Şekil</string>
   <string name="beauty_body_body">İnce</string>
   <string name="beauty_body_head">Kafa</string>
@@ -255,7 +256,7 @@ otomatik olarak hizala ve iyileştir"</string>
   <string name="edit_skin_white">Ton</string>
   <string name="edit_slim_nose">Burun</string>
   <string name="edit_smile">Gülümseme</string>
-  <string name="emoticon">Emoji paketi</string>
+  <string name="emoticon">Çıkartma paketi</string>
   <string name="error_action_not_found">Bu uygulama cihazınızda bulunamadı.</string>
   <string name="error_barcode_lookup">Barkod araması başarısız oldu.</string>
   <string name="error_barcode_no_results">Eşleşen ürün bulunamadı.</string>
@@ -410,6 +411,9 @@ Makro modunu kullanın"</string>
   <string name="mimoji_check_no_face">Bir yüz algılanamadı</string>
   <string name="mimoji_check_normal">Çekim düğmesine dokunun</string>
   <string name="mimoji_confirm">Tamam</string>
+  <string name="mimoji_create_emoticon">Çıkartma paketi oluştur</string>
+  <string name="mimoji_create_emoticon_error">Çıkartma paketi oluşturulamadı</string>
+  <string name="mimoji_create_emoticon_progress">Çıkartma paketi oluşturuluyor…</string>
   <string name="mimoji_create_tips">Mimoji\'nizi oluşturmak için doğrudan kameraya bakın</string>
   <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Sil&lt;/font></string>
   <string name="mimoji_delete_dialog_title">Mimoji\'yi sil?</string>
@@ -433,6 +437,8 @@ Makro modunu kullanın"</string>
   <string name="mimoji_edit_cancel_alert">Tüm değişiklikler kaybolacak. Yine de iptal edilsin mi?</string>
   <string name="mimoji_edit_mimoji">Mimoji\'yi düzenle</string>
   <string name="mimoji_editor">Düzenle</string>
+  <string name="mimoji_emoticon_save">Çıkartma paketini kaydet</string>
+  <string name="mimoji_emoticon_with_jpeg_save">Görüntüleri de kaydet</string>
   <string name="mimoji_eye">Gözler</string>
   <string name="mimoji_eye_shape">Göz şekli</string>
   <string name="mimoji_eyebrow">Kaşlar</string>
@@ -442,7 +448,12 @@ Makro modunu kullanın"</string>
   <string name="mimoji_featured_face">Yüz</string>
   <string name="mimoji_fragment_tab_name">Mimoji</string>
   <string name="mimoji_freckle">Çiller</string>
+  <string name="mimoji_gif_accelerate">Hız</string>
+  <string name="mimoji_gif_clear_bg">Arka planı kaldır</string>
+  <string name="mimoji_gif_edit_hint">Metin eklemek için dokunun</string>
+  <string name="mimoji_gif_edit_title">GIF\'i düzenle</string>
   <string name="mimoji_gif_record_time_short">Kaydedilen video çok kısa</string>
+  <string name="mimoji_gif_reverse">Ters</string>
   <string name="mimoji_hairstyle">Saç</string>
   <string name="mimoji_headwear">Şapka</string>
   <string name="mimoji_mole">Ben</string>
@@ -458,6 +469,7 @@ Makro modunu kullanın"</string>
   <string name="mimoji_save">Kaydet</string>
   <string name="mimoji_save_finish">Bitti</string>
   <string name="mimoji_save_success">Başarıyla kaydedildi</string>
+  <string name="mimoji_select_number_error">En az 1 öğe seçin</string>
   <string name="mimoji_selected">Seçin</string>
   <string name="mimoji_start_create">Mimoji oluşturuluyor…</string>
   <string name="mimoji_tips">Fotoğraf çekmek için dokunun. Video kaydı için basılı tutun.</string>
@@ -934,6 +946,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_watermark_on">Açık</string>
   <string name="pref_watermark_title">Filigran</string>
   <string name="preparing_sd">SD kart kontrol ediliyor…</string>
+  <string name="preview_back_pressed_hint">Önizlemeye geri dönmek için yeniden dokunun</string>
   <string name="pro_color_mode">Pro renk</string>
   <string name="recapture_dialog_message">Geri almayı onayla?</string>
   <string name="recapture_dialog_title">Yeniden çekim yapmak geçerli görüntüyü temizler</string>
@@ -988,6 +1001,13 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="tap_to_focus">Odaklanmak için dokunun</string>
   <string name="text_ai_scene_selector_text_off">TERS IŞIK</string>
   <string name="text_ai_scene_selector_text_on">SİLUET</string>
+  <string name="timbre">Ses</string>
+  <string name="timbre_baby">Çocuk</string>
+  <string name="timbre_gentlemen">Bay</string>
+  <string name="timbre_girl">Kız</string>
+  <string name="timbre_lady">Bayan</string>
+  <string name="timbre_normal">Orijinal</string>
+  <string name="timbre_robot">Robot</string>
   <string name="time_lapse_error">Zaman aralıklı kayıt için bu video boyutu kullanılamıyor</string>
   <string name="title_snap_double_confirm">Yeniden onaylayın</string>
   <string name="toast_burst_snap_finished_summary">Çekim yapıldı, %1$s fotoğraf çekildi</string>
@@ -1021,6 +1041,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="ultra_wide_recommend_tip_hint_sat">0.6X ultra geniş açıya geçin</string>
   <string name="ultra_widem_mode_use_hint_text">"Daha geniş bir görünüm kaydetmek için süper geniş açı modunu açın.
 Daha heyecan verici güzelliği keşfedin."</string>
+  <string name="unknow_error">Bilinmeyen hata</string>
   <string name="user_agree">Kabul et</string>
   <string name="user_agreement2">Kullanım Şartları</string>
   <string name="user_agreement4">Gizlilik Politikası</string>

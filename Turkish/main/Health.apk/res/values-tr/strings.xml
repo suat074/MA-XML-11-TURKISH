@@ -82,6 +82,8 @@ düğmeye dokunun"</string>
     <string name="cancel_mark_start">Bu kaydı sil</string>
     <string name="card_on_using">Kullanılıyor</string>
     <string name="channel_id_background_service">Arka plan hizmetleri</string>
+	<string name="character_counter_content_description">Girilen karakter sayısı %1$d / %2$d</string>
+    <string name="character_counter_overflowed_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
     <string name="chart_no_data">Veri yok</string>
 	<string name="chip_text">Çip metni</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
@@ -189,6 +191,7 @@ Mi Sağlık yalnızca önemli ögeler hakkında bildirim gönderir."</string>
     <string name="exercise_setting_label_reach_standard_remind">Etkinlik uyarısı</string>
     <string name="exercise_setting_page_title">Etkinlik ayarları</string>
     <string name="expand_button_title">Gelişmiş</string>
+	<string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
     <string name="feedback_need_permission_msg">"Geri bildirim için kullanılan kayıtları oluşturabilmesi için Mi Sağlık'a harici depolamaya yazma izni verin."</string>
     <string name="feedback_permission_denied_msg">"Mi Sağlık harici depolamaya yazamıyor. Mi Sağlık'a ayarlarda gerekli izni verin."</string>
     <string name="finish">Bitir</string>
@@ -228,6 +231,7 @@ Mi Sağlık yalnızca önemli ögeler hakkında bildirim gönderir."</string>
     <string name="hour">S</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+	<string name="icon_content_description">İletişim Kutusu Simgesi</string>
     <string name="improve_step_target">Hedefinize çok sık ulaşıyorsunuz. Daha yüksek bir hedef seçmeyi deneyin.</string>
     <string name="improve_your_health_default_tips">Sağlıklı kalmak için egzersiz yapın ve uykunuzu alın.</string>
     <string name="input_body_weight">Sağlık tavsiyeleri almak için ağırlık verisi girin</string>
@@ -520,5 +524,12 @@ Yenilikler:
 	<string name="weight_keep_up">Harika! Sağlıklı bir kiloyu korumaya devam edin.</string>
     <string name="weight_trend_offset_date">Başlangıç: %1$s Bitiş: %2$s</string>
     <string name="weight_unit_kg">KG</string>
+	<string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme Yöneticisi\'ne bağlanma başarısız oldu, lütfen Uygulama Yönetimi\'ndeki İndirme Yöneticisi durumunu kontrol edin.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"%1$s sürümüyle tanışın
+Boyut: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"%1$s sürümüyle tanışın
+Delta güncelleme boyutu: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s güncelleme!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama alanı kullanılamıyor, lütfen SD kartı kontrol edin.</string>
     <string name="year">Yıl</string>
 </resources>

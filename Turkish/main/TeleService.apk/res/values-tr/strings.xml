@@ -548,7 +548,7 @@
   <string name="daltonizer_mode_protanomaly">Protanomaly (kırmızı-yeşil)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomomi (mavi-sarı)</string>
   <string name="daltonizer_type_overridden">"%1$s tarafından geçersiz kılınmış "</string>
-  <string name="data_disable_warning_no_mms">Mobil veriyi (WCDMA / LTE) kapatırsanız yine de MMS gönderebilir ve alabilirsiniz. İnterneti kullanmak için WLAN\'a bağlanın.</string>
+  <string name="data_disable_warning_no_mms">Mobil veriyi (WCDMA/LTE) kapatırsanız MMS gönderemez ve alamazsınız. Ancak, cihazınız WLAN\'a bağlandığında bunu yapabilirsiniz.</string>
   <string name="data_disable_warning_with_mms">Mobil veriyi (WCDMA / LTE) kapatırsanız yine de MMS gönderebilir ve alabilirsiniz. İnterneti kullanmak için WLAN\'a bağlanın.</string>
   <string name="data_enable_always_warn">Mobil veri kullanıp kullanmayacağınızı sorun</string>
   <string name="data_enable_summary">Bu cihazın mobil veri kullanmasına izin ver</string>

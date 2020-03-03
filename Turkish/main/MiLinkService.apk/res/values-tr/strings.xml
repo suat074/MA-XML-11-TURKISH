@@ -40,6 +40,11 @@ Bağlantı sırasında sorun yaşarsanız yardımı görüntüleyin."</string>
   <string name="help_page_text_05">1. Adım: Cihazlarınızı ve ağ ortamınızı kontrol edin</string>
   <string name="help_page_text_06">"1. Bir Mi telefonundan bir Mi TV\'ye bir şey yansıtmak istiyorsanız, internete bağlanmanıza gerek yoktur.
 2. İki cihaz arasında bağlantı kuramazsanız, ikisini de aynı Wi-Fi ağına bağlamayı deneyin."</string>
+  <string name="help_page_text_06_global">"1. Mi TV\'ler, Mi Box\'lar ve Mi Projektörler:
+En iyi sonucu elde etmek için hem telefonunuzu hem de harici monitörünüzü aynı Wi-Fi ağına bağlayın. Farklı ağlara bağlıysalar harici monitörü bulup bağlanmak daha fazla zaman alabilir.
+Not: Eski Mi TV\'ler farklı ağlarda yansıtmayı desteklemeyebilir.
+2. TV\'leri, set üstü kutuları veya diğer markaların projektörlerini kullanıyorsanız, hem telefonunuzu hem de harici monitörünüzü aynı Wi-Fi ağına bağlayın.
+İki cihaz aynı ağa bağlanamıyorsa, harici monitörünüzde Miracast\'ı açın. Miracast işlevlerinin adlandırılması değişiklik gösterebilir."</string>
   <string name="help_page_text_08">2. Adım: Yansıtmayı açın</string>
   <string name="help_page_text_09">Telefonunuzun Bildirim alanında bulunan \"Yansıt\" düğmesine dokunun. Daha istikrarlı bir bağlantı için hem WLAN hem de Bluetooth\'u açın.</string>
   <string name="help_page_text_10">Öğeleri Galeri veya Mi Video ile yayınlamak isterseniz, bu uygulamalarda bulunan yerleşik yansıtma özelliklerini kullanabilirsiniz.</string>
@@ -86,7 +91,7 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt
   <string name="help_page_text_40">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, Uygulamalar &gt; Ekran Aynalama öğesini seçebilirsiniz.</string>
   <string name="help_page_text_41">Panasonic müşteri desteği: 400-881-1315</string>
   <string name="help_page_text_42">Changhong</string>
-  <string name="help_page_text_43">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, Sistem &gt; Sistem Araçları &gt; Çoklu Ekran&gt; Ekran Yansıtma\'yı seçebilirsiniz.</string>
+  <string name="help_page_text_43">Harici monitörünüzün Miracast işlevini desteklediğinden emin olmak için TV\'nizin ayarlarını kontrol edin.</string>
   <string name="help_page_text_44">Changhong müşteri desteği: 400-811-1666</string>
   <string name="help_page_text_45">TCL</string>
   <string name="help_page_text_46">Öncelikle, cihazınızda Miracast işlevselliğinin desteklendiğinden emin olun. Bazı modellerde, Uygulamalar &gt; Kablosuz Ekran\'ı seçebilirsiniz.</string>
@@ -102,6 +107,7 @@ Miracast\'i açmanız gerekirse, [MENU] düğmesine basın ve Uygulamalarım &gt
   <string name="help_page_text_55_global">"Ağa bağlanamıyorsanız, harici monitörünüzün Miracast işlevselliğini desteklediğinden ve açık olduğundan emin olun. Bazı modellerde, bu özelliğe Kablosuz Ekran, Ekran Aynalama veya Çoklu ekran denir.
 4. Herhangi bir sorunla karşılaşırsanız, \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bunları bildirebilirsiniz."</string>
   <string name="help_page_text_end">Cihazınızın markası burada listelenmemişse, yansıtma işlevi hakkında daha fazla bilgi edinmek için üreticiye başvurun.</string>
+  <string name="nfc_connect_failed_toast">Yansıtılamadı. Tekrar deneyin.</string>
   <string name="notification_rc_desc">Cep telefonunuz için XiaoMi Box\'a (veya TV) video, fotoğraf ve uygulama yansıtmak için en iyi TV Yardımcısı, şimdi deneyin!</string>
   <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
   <string name="notification_show_more">Daha fazla özellik görüntülemek için dokunun</string>
@@ -122,6 +128,7 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="san_wait_msg_4">Aygıtları bulamıyorsanız \"Yardım\" sayfasını görüntüleyin</string>
   <string name="service_name">Evrensel Oynatıcı Hizmeti</string>
   <string name="small_window">Pencereyi küçült</string>
+  <string name="small_window_not_supported">Yansıtılırken bu uygulama simge durumuna küçültülemiyor</string>
   <string name="status_bar_in_casting">Yansıtılıyor…</string>
   <string name="status_bar_in_casting_long">Daha fazla yansıtma özelliği görüntülemek için dokunun</string>
   <string name="tile_label">Yansıt</string>

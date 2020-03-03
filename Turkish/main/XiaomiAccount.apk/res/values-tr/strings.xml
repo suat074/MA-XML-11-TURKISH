@@ -476,6 +476,7 @@
   <string name="passport_wrong_voice">Girdiğiniz kod yanlış</string>
   <string name="passport_wx_bind_account_limit">Şimdi hesap oluşturulamıyor. Diğer oturum açma yöntemlerini deneyin.</string>
   <string name="passport_yes">Evet</string>
+  <string name="password_toggle_content_description">Parola görünürlüğünü değiştir</string>
   <string name="permission_group_contacts">Kişiler</string>
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>

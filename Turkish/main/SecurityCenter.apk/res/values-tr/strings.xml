@@ -126,6 +126,7 @@
   <string name="antivirus_monitor_clean_tips">Silinen Öğeler: %s</string>
   <string name="antivirus_monitor_risk_advice">Bu uygulama güvenli olmadığından silin</string>
   <string name="antivirus_monitor_virus_advice">Bu uygulama virüs içerebileğinden, silin</string>
+  <string name="antivirus_monitored_app_empty">Uyumlu ödeme uygulamaları bulunamadı</string>
   <string name="antivirus_none_engine_dialog_ok">Tamam</string>
   <string name="antivirus_not_wlan">WLAN\'a bağlı değilsiniz. Mobil verileri kullanmak ek ücretler üretebilir. Her halükarda devam edilsin mi</string>
   <string name="antivirus_privacy_dialog_cloudscan">Uygulama adlarını ve ayrıntılarını yükle</string>
