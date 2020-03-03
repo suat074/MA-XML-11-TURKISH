@@ -1984,6 +1984,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="dump_log_summary">"Bu özellik, MIUI\'nin Alfa ve Beta sürümlerinde 284 günlüğünü oluşturmak için tasarlanmıştır. Dikkatli kullanın.
 Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</string>
   <string name="dump_log_title">Bu özellik hakkında</string>
+  <string name="easymode_hint">Basit modu kapatmak için dokunun</string>
   <string name="edge_mode_back">Geri dön</string>
   <string name="edge_mode_back_summary">Telefonunuzun kenarına geri dönmek için iki kez hafifçe vurun</string>
   <string name="edge_mode_clean">Sistem Önbelleğini Temizle</string>
@@ -3759,21 +3760,22 @@ Bu cihazda mevcut başka kullanıcılar var.
   <string name="off">Kapalı</string>
   <string name="ok_rules">Bitti</string>
   <string name="okay">Tamam</string>
-  <string name="oldman_app_label">Lite mod</string>
+  <string name="oldman_app_label">Basit mod</string>
   <string name="oldman_installed_current_btn">Orijinal Ana ekranı geri yükle</string>
-  <string name="oldman_installed_current_des">Lite modu varsayılan Ana ekranınız olarak ayarladınız. Orijinal Ana ekrana geri dönmek için aşağıdaki düğmeye dokunun.</string>
+  <string name="oldman_installed_current_des">Basit modu varsayılan Ana ekranınız olarak ayarladınız. Orijinal Ana ekrana geri dönmek için aşağıdaki düğmeye dokunun.</string>
   <string name="oldman_installed_not_current_btn">Varsayılan Ana ekran olarak ayarla</string>
-  <string name="oldman_installed_not_current_des">Lite modu cihazınıza yüklenir. Bunu varsayılan Giriş ekranı olarak kullanabilirsiniz.</string>
-  <string name="oldman_mode_entry_name">Lite mod</string>
-  <string name="oldman_uninstalled_btn">Yükleme</string>
-  <string name="oldman_uninstalled_des">Lite mod görsel karmaşadan kurtarır, Ana ekranınızı basit ve minimalist tutar.</string>
+  <string name="oldman_installed_not_current_des">Basit mod cihazınızda yüklü. Varsayılan Ana ekranınız olarak kullanabilirsiniz.</string>
+  <string name="oldman_mode_entry_name">Basit mod</string>
+  <string name="oldman_mode_settings">Basit mod</string>
+  <string name="oldman_uninstalled_btn">Yükle</string>
+  <string name="oldman_uninstalled_des">Basit mod görsel karmaşadan kurtarır, Ana ekranınızı basit ve minimalist tutar.</string>
   <string name="on">Açık</string>
   <string name="one_cacrt">one CA Sertifikası</string>
   <string name="one_usercrt">Bir kullanıcı sertifikası</string>
   <string name="one_userkey">Bir kullanıcı anahtarı</string>
   <string name="onehour">30 dakika</string>
   <string name="onekey_migrate">Mi Transfer</string>
-  <string name="onscreen_keyboard_settings_summary">Ekran Klavyesinin Ayarları</string>
+  <string name="onscreen_keyboard_settings_summary">Ekran klavyesi ayarları</string>
   <string name="open_dark_mode_dialog_summary">Bazı ekran ayarları Karanlık modla uyumlu değil. Ancak, Karanlık modu kapattığınızda bunlar geri yüklenir. Karanlık mod açılsın mı?</string>
   <string name="open_dark_mode_dialog_title">Karanlık mod uyumluluğu</string>
   <string name="open_demo_mode">Aç</string>
@@ -6126,6 +6128,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="verify_apps_over_usb_summary">Zararlı davranışı için ADB/ADT üzerinden yüklenen uygulamaları kontrol edin.</string>
   <string name="verify_apps_over_usb_title">USB üzerinden uygulamaları doğrula</string>
   <string name="version_text">Sürüm %1$s</string>
+  <string name="video_tool_box_title">Video araç kutusu</string>
   <string name="vibrate_category_title">Titreşim</string>
   <string name="vibrate_in_normal_title">Çaldığında titret</string>
   <string name="vibrate_in_silent_title">Sessiz modda titret</string>

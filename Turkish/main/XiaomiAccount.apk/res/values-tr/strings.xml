@@ -164,25 +164,33 @@
   <string name="exit">Çıkış</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
+  <string name="find_device">Cihazı bul</string>
   <string name="find_device_access_denied">Durum alınamıyor, erişim reddedildi</string>
   <string name="find_device_account_error">Hesap hatası nedeniyle durum alınamıyor</string>
   <string name="find_device_activate_account">Hesabı etkinleştir</string>
   <string name="find_device_bad_response_error">Bir sunucu hatası oluştu, bir veya iki dakika bekleyin ve tekrar deneyin</string>
+  <string name="find_device_clear_data">Verileri sil</string>
+  <string name="find_device_close">Kapalı</string>
   <string name="find_device_error_password_not_confirmed">Cihazı bul özelliği kapatılamıyor. Mi Hesap şifrenizi tekrar girin.</string>
   <string name="find_device_error_password_recently_changed">Şifrenizi son 3 gün içinde değiştirdiniz. Güvenlik nedeniyle, Cihazı bul artık kapatılamıyor.</string>
   <string name="find_device_interrupted">İşlem kesintiye uğradı, bir iki dakika bekleyin ve tekrar deneyin</string>
   <string name="find_device_io_error">Ağa bağlanamadı</string>
+  <string name="find_device_location">Konumlandır</string>
   <string name="find_device_locked_account_email" formatted="false">%s, ilişkili e-posta adresi: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, ilişkili telefon numarası: %s</string>
   <string name="find_device_message">Cihaz kilitlendi. Mesaj: %1$s. Çağrı %2$s.</string>
   <string name="find_device_null_credential_error">Cihaz bilgisi alınamadı, Xiaomi yönetici hizmetine başvurun</string>
+  <string name="find_device_open">Açık</string>
   <string name="find_device_operation_failed_error">Bir sunucu hatası oluştu, bir iki dakika bekleyin ve tekrar deneyin</string>
   <string name="find_device_operation_failed_error_unknown">Bir hata oluştu, sonra yeniden deneyin</string>
   <string name="find_device_owner_phone">Cihaz kilitlendi. Çağrı %1$s.</string>
+  <string name="find_device_play_sound">Ses çal</string>
   <string name="find_device_prompt_message">Cihaz kilitlendi. Mesaj: %1$s.</string>
   <string name="find_device_remote_exception">RPC Hatası</string>
   <string name="find_device_request_error">Bir sunucu hatası oluştu, bir iki dakika bekleyin ve tekrar deneyin</string>
   <string name="find_device_request_prepare_error">Cihaz durumu alınamadı, sonra yeniden deneyin</string>
+  <string name="find_device_set_lost_model">Kayıp modu</string>
+  <string name="find_device_title">Cihazı bul</string>
   <string name="find_device_unknown_error">Cihaz durumu alınamıyor, bir iki dakika bekleyip tekrar deneyin</string>
   <string name="for_diagnosis_usage_only">Bu bilgiyi sadece teşhis için kullanın.</string>
   <string name="get_back_pwd">Şifreyi geri al</string>

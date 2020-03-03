@@ -19,6 +19,8 @@
   <string name="audio">Ses</string>
   <string name="audio_video_document">Ses, video ve belgeler</string>
   <string name="back">Geri</string>
+  <string name="backup_died_summary">\"Yeniden bağlan\" düğmesine dokunun. Aktarım ilerlemesi kaldığınız yerden devam edecektir.</string>
+  <string name="backup_died_title">Bir hata oluştu</string>
   <string name="birthday">Doğum günü</string>
   <string name="btn_got_it">Anladım</string>
   <string name="btn_install_complete">Yüklendi. Aktarmayı başlatın.</string>
