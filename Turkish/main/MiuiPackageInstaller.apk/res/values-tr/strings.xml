@@ -88,7 +88,7 @@
   <string name="increment_install_pause_for_wifi">Ağ bekleniyor</string>
   <string name="increment_preparing">Hazırlanıyor…</string>
   <string name="install">Yükle</string>
-  <string name="install_app_progress_clear_apk">APK\'yı sil</string>
+  <string name="install_app_progress_clear_apk">APK sil</string>
   <string name="install_confirm_question">Bu uygulamayı yüklemek istiyor musunuz? Şunlara erişecek:</string>
   <string name="install_confirm_question_no_perms">Bu uygulamayı yüklemek istiyor musunuz? Özel bir izin gerektirmez.</string>
   <string name="install_confirm_question_update">Bu mevcut uygulama için bir güncelleme yüklemek istiyor musunuz? Mevcut uygulama verileri kaybolmaz. Güncellenen uygulama şunlara erişecek:</string>
