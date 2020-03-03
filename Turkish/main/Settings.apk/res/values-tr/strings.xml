@@ -6128,7 +6128,6 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="verify_apps_over_usb_summary">Zararlı davranışı için ADB/ADT üzerinden yüklenen uygulamaları kontrol edin.</string>
   <string name="verify_apps_over_usb_title">USB üzerinden uygulamaları doğrula</string>
   <string name="version_text">Sürüm %1$s</string>
-  <string name="video_tool_box_title">Video araç kutusu</string>
   <string name="vibrate_category_title">Titreşim</string>
   <string name="vibrate_in_normal_title">Çaldığında titret</string>
   <string name="vibrate_in_silent_title">Sessiz modda titret</string>
