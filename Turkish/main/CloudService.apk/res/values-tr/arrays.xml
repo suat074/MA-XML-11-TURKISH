@@ -9,7 +9,7 @@
   <string-array name="micloud_entrance_subtitleArray">
     <item>Rehberinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını eşitleyin</item>
     <item>Uygulamaları, ana ekran düzenini ve duvar kağıdını yedekleyin</item>
-    <item>WLAN ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
+    <item>Wi-Fi ve ekran dahil olmak üzere önemli ayarları yedekleyin</item>
     <item>Cihazınızı kaybederseniz uzaktan kilitleyin</item>
   </string-array>
   <string-array name="korea_permission_groups_descriptions">
@@ -126,13 +126,13 @@
     <item>Yetersiz depolama;Üyelik;Depolama;Depolama alanı;Bulut;Eşitleme;Bulut hizmetleri;Xiaomi Bulut;Çöp;Silinmiş öğeler;Güvenlik</item>
   </string-array>
   <string-array name="settings_search_wlan">
-    <item>Xiaomi Bulut ile WLAN ayarlarını eşitle</item>
+    <item>Wi-Fi ayarlarını Xiaomi Bulut ile eşitle</item>
     <item>Eşitlemeyi aç</item>
     <item>WLAN;wifi;WLAN;Bulut;Eşitle;Bulut hizmetleri;Xiaomi Bulut</item>
   </string-array>
   <string-array name="user_detail_fixed_items">
-    <item>Senkronize edilmiş öğeleri göster</item>
-    <item>Depolama detayları</item>
+    <item>Eşitlenen öğeleri görüntüle</item>
+    <item>Depolama ayrıntıları</item>
   </string-array>
   <string-array name="privacy_dialog_sync_runtime_perm_desc">
     <item>Etkinlikleri eşitlemek için</item>

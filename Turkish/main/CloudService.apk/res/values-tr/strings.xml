@@ -33,8 +33,8 @@
   <string name="cloudservice_new_sync">%s Xiaomi Bulut ile eşitle</string>
   <string name="confirm_delete">Sil</string>
   <string name="confirm_save">Tut</string>
-  <string name="connect_network">WLAN ağına bağlanın veya bir SIM kartı takın</string>
-  <string name="connect_wlan">WLAN ağına bağlan</string>
+  <string name="connect_network">Wi-Fi\'ye bağlanın veya bir SIM kart takın</string>
+  <string name="connect_wlan">Wi-Fi\'ye bağlan</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Bu hesap başka bir cihazda da kullanılıyor. Birden fazla uygulamadaki öğeler (%1$s ve %2$s dahil) bu cihazdaki öğelerle birleştirilsin mi?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_one">Bu hesap başka bir cihazda da kullanılıyor. %s konumundaki öğeler bu cihazdaki öğelerle birleştirilsin mi?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_two">Bu hesap başka bir cihazda da kullanılıyor. %1$s ve %2$s konumundaki öğeler bu cihazdaki öğelerle birleştirilsin mi?</string>
@@ -220,9 +220,9 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_main_sync_mode_title">Hızlı eşitleme</string>
   <string name="micloud_main_wait_charge">Eşitlemeye devam etmek için cihazınızı tamamen şarj edin.</string>
   <string name="micloud_main_wait_charge_sleep">Ekranı kapatın ve eşitlemeye devam etmek için cihazınızı tamamen şarj edin.</string>
-  <string name="micloud_main_wait_wlan">WLAN bekleniyor</string>
-  <string name="micloud_main_wait_wlan_charge">WLAN\'a bağlanın ve eşitlemeye devam etmek için cihazınızı tamamen şarj edin.</string>
-  <string name="micloud_main_wait_wlan_charge_sleep">WLAN\'a bağlan, ekranı kapat ve eşitlemeye devam etmek için cihazını tamamen şarj et.</string>
+  <string name="micloud_main_wait_wlan">Wi-Fi bekleniyor</string>
+  <string name="micloud_main_wait_wlan_charge">Wi-Fi\'ye bağlanın ve eşitlemeye devam etmek için cihazınızı tamamen şarj edin.</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Wi-Fi\'ye bağlan, ekranı kapat ve eşitlemeye devam etmek için cihazınızı tamamen şarj edin.</string>
   <string name="micloud_manage_space_data">Bulut verilerini yönet</string>
   <string name="micloud_manaul_sync_success_button_text">Detayları göster</string>
   <string name="micloud_manaul_sync_success_time_prefix">Son eşitleme: %s</string>
@@ -260,9 +260,9 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_member_pay_miid_error_toast">Hesap hatası</string>
   <string name="micloud_member_pay_order_error_toast">Veri hatası</string>
   <string name="micloud_notif_content_battery_low">Pil çok düşük.</string>
-  <string name="micloud_notif_content_depend_wifi">Eşitlemek için WLAN\'a bağlanın.</string>
+  <string name="micloud_notif_content_depend_wifi">Eşitlemek için Wi-Fi\'ye bağlanın.</string>
   <string name="micloud_notif_content_dirty_data">Detaylar</string>
-  <string name="micloud_notif_content_master_depend_wifi">WLAN\'a bağlanın veya eşitleme ayarlarını değiştirin. Değiştirmek için dokunun.</string>
+  <string name="micloud_notif_content_master_depend_wifi">Wi-Fi\'ye bağlanın veya eşitleme ayarlarını değiştirin. Değiştirmek için dokunun.</string>
   <string name="micloud_notif_content_memory_low">Yetersiz depolama alanı.</string>
   <string name="micloud_notif_content_multi_user_error">İlk alan ile aynı hesapla oturum açtınız.</string>
   <string name="micloud_notif_content_privacy_reopen_failed">Detayları göster</string>
@@ -303,7 +303,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_setting_recorder_summary">Ses ve çağrı kayıtları</string>
   <string name="micloud_setting_sms_summary">SMS ve MMS mesajları</string>
   <string name="micloud_setting_sms_summary_for_google_csp">Metin mesajları</string>
-  <string name="micloud_setting_wifi_summary">WLAN ayarları</string>
+  <string name="micloud_setting_wifi_summary">Wi-Fi ayarları</string>
   <string name="micloud_space_applist_detail">Ana ekranınızdaki uygulamaları yönetin</string>
   <string name="micloud_space_applist_title">Uygulamaları yönet</string>
   <string name="micloud_space_duokan_detail">Duokan uygulamasıyla e-kitapları indirin ve yönetin.</string>
@@ -334,7 +334,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_sync_result_request_error">Eşitleme isteği hatası</string>
   <string name="micloud_sync_result_secure_space_limit">İkinci alandan gelen öğeler eşitlenmesin</string>
   <string name="micloud_sync_result_sim_activated_error">SIM kart etkinleştirilemedi</string>
-  <string name="micloud_sync_result_wifi_only">Bu öğe çok büyük. WLAN bağlandığında eşitleyin.</string>
+  <string name="micloud_sync_result_wifi_only">Bu öğe çok büyük. Wi-Fi bağlandığında eşitleyin.</string>
   <string name="micloud_upgrade_member">Depolama al</string>
   <string name="micloud_user_space_title">Depolama alanı</string>
   <string name="micloud_warn_full_sum">Yeni öğeler Xiaomi Bulut ile eşitlenmeyecek.</string>
@@ -347,7 +347,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_wipe_data_remove">Kaldır</string>
   <string name="micloud_wipe_data_retain">Koru</string>
   <string name="mx_dspt">Mi Mesaj</string>
-  <string name="mx_dspt_provision">Mi Mesaj, WLAN bağlandığında ücret ödemeden diğer MIUI cihazlarına mesaj göndermenizi sağlar.\n\nAyarlar\'dan bu özelliği istediğiniz zaman açıp kapatabilirsiniz.</string>
+  <string name="mx_dspt_provision">Mi Mesaj, Wi-Fi bağlandığında ücret ödemeden diğer MIUI cihazlarına mesaj göndermenizi sağlar.\n\nAyarlar\'dan bu özelliği istediğiniz zaman açıp kapatabilirsiniz.</string>
   <string name="mx_dspt_provision_privacy">Bu özellik telefon numaranıza ihtiyaç duyabilir. Bu hizmeti etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.\n\nBu özellik, cihazınızın kimliğini Mi sunucularına şifreler ve gönderir.</string>
   <string name="mx_dspt_provision_privacy_2_sim">Bu özellik telefon numaranıza ihtiyaç duyabilir. Bu servisi etkinleştirmek için 2 giden SMS mesajı gerekebilir. Operatörünüz sizden bu mesajlar için ücret alabilir.\n\nBu özellik, cihazınızın kimliğini Mi sunucularına şifreler ve gönderir.</string>
   <string name="mx_dspt_provision_privacy_no_sim">Bu özellik telefon numaranıza ihtiyaç duyabilir. SIM kart algılandığında, bu servisi etkinleştirmek için giden bir SMS mesajı gerekebilir. Operatörünüz bu mesaj için sizden ücret alabilir.\n\nBu özellik, cihazınızın kimliğini Mi sunucularına şifreler ve gönderir.</string>
@@ -366,14 +366,14 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="picker_search_hint">Ara</string>
   <string name="pre_privacy_policy">Gizlilik Politikası</string>
   <string name="pre_user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">WLAN ağına bağlıyken, yalnızca kişilerin profil resimlerini eşitle</string>
-  <string name="pref_title_sync_contacts_title">Kişileri Eşitle</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları sadece WLAN kullanarak eşitle</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Kişilerin profil resimlerini yalnızca bir Wi-Fi ağına bağlı olduğunda eşitle</string>
+  <string name="pref_title_sync_contacts_title">Kişileri eşitle</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları eşitlemek için sadece Wi-Fi kullan</string>
   <string name="privacy_and_agreement">Şartlar ve koşullar</string>
   <string name="privacy_dialog_finddevice_all_purpose_pad">"Cihazı bul\'a hoş geldiniz! Bu hizmeti, kaybolduğunda cihazınızdaki verileri bulmak, kilitlemek veya silmek için kullanabilirsiniz."</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone">"Cihazı bul\'a hoş geldiniz! Bu hizmeti, kaybolduğunda cihazınızdaki verileri bulmak, kilitlemek veya silmek için kullanabilirsiniz."</string>
-  <string name="privacy_dialog_sync_all_purpose">Xiaomi Bulut hizmetlerine hoş geldiniz! Mesajlarınızı eşitlemek, çağrı geçmişi, rehber, notlar, Tarayıcı ayarları, şarkılar, fotoğraflar ve videolar, WLAN ayarları, kayıtlar, Ana ekranı düzen, uygulamalar, takvim etkinlikleri, Engelli listesi öğeleri ve Uygulama kasasını tüm bağlı cihazlarda eşitlemek için Xiaomi Bulut hizmetini kullanabilirsiniz.</string>
-  <string name="privacy_doc_cloudservice">"Xiaomi Bulut hizmetlerine hoş geldiniz! Mesajlarınızı eşitlemek, çağrı geçmişi, rehber, notlar, Tarayıcı ayarları, şarkılar, fotoğraflar ve videolar, WLAN ayarları, kayıtlar, Ana ekranı düzen, uygulamalar, takvim etkinlikleri, Engelli listesi öğeleri ve Uygulama kasasını tüm bağlı cihazlarda eşitlemek için Xiaomi Bulut hizmetini kullanabilirsiniz. Eşitlediğiniz öğelere herhangi bir tarayıcı üzerinden bu adresten erişebilirsiniz: &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Bu hizmeti etkinleştirmek için giden bir SMS mesajı gerekebilir. Bu mesaj için operatörünüz sizden ücret isteyecektir. SIM kartınızı değiştirdiğinizde, bu servisleri tekrar etkinleştirmek için otomatik olarak bir mesaj daha gönderilebilir.&lt;br />&lt;br />Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.&lt;br />Normal çalışabilmesi için bu hizmetin internete bağlanması ve kişisel bilgilerinize ulaşmak için aşağıdaki izinleri alması gerekir:&lt;br />• Takvim:&lt;br />Etkinlikleri eşitlemek için&lt;br />• SMS\'e erişir:&lt;br />Mesajları eşitlemek için&lt;br />• MMS\'e erişir:&lt;br />Mesajları eşitlemek için&lt;br />• Kişilere erişir:&lt;br />Kişileri eşitlemek için&lt;br />• Kişileri düzenler:&lt;br />Kişileri eşitlemek için&lt;br />• Depolama:&lt;br />Cihazınızdaki öğeleri kaydetmek için (örneğin resimler, videolar, şarkılar)&lt;br />Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu hizmeti kullanamazsınız. Bu gibi durumlarda, uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.&lt;br />Xiaomi Bulut\'u kullanmadan önce &lt;a href=%1$s><u>Kullanıcı Sözleşmemizi </u>&lt;/a> ve &lt;a href=%2$s><u>Gizlilik Politikamızı</u>&lt;/a> okuyup kabul edin.&lt;br />"</string>
+  <string name="privacy_dialog_sync_all_purpose">Xiaomi Bulut hizmetlerine hoş geldiniz! Mesajlarınızı eşitlemek, çağrı geçmişi, rehber, notlar, Tarayıcı ayarları, şarkılar, fotoğraflar ve videolar, Wi-Fi ayarları, kayıtlar, Ana ekranı düzen, uygulamalar, takvim etkinlikleri, Engelli listesi öğeleri ve Uygulama kasasını tüm bağlı cihazlarda eşitlemek için Xiaomi Bulut hizmetini kullanabilirsiniz.</string>
+  <string name="privacy_doc_cloudservice">"Xiaomi Bulut hizmetlerine hoş geldiniz! Mesajlarınızı eşitlemek, çağrı geçmişi, rehber, notlar, Tarayıcı ayarları, şarkılar, fotoğraflar ve videolar, Wi-Fi ayarları, kayıtlar, Ana ekranı düzen, uygulamalar, takvim etkinlikleri, Engelli listesi öğeleri ve Uygulama kasasını tüm bağlı cihazlarda eşitlemek için Xiaomi Bulut hizmetini kullanabilirsiniz. Eşitlediğiniz öğelere herhangi bir tarayıcı üzerinden bu adresten erişebilirsiniz: &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Bu hizmeti etkinleştirmek için giden bir SMS mesajı gerekebilir. Bu mesaj için operatörünüz sizden ücret isteyecektir. SIM kartınızı değiştirdiğinizde, bu servisleri tekrar etkinleştirmek için otomatik olarak bir mesaj daha gönderilebilir.&lt;br />&lt;br />Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.&lt;br />Normal çalışabilmesi için bu hizmetin internete bağlanması ve kişisel bilgilerinize ulaşmak için aşağıdaki izinleri alması gerekir:&lt;br />• Takvim:&lt;br />Etkinlikleri eşitlemek için&lt;br />• SMS\'e erişir:&lt;br />Mesajları eşitlemek için&lt;br />• MMS\'e erişir:&lt;br />Mesajları eşitlemek için&lt;br />• Kişilere erişir:&lt;br />Kişileri eşitlemek için&lt;br />• Kişileri düzenler:&lt;br />Kişileri eşitlemek için&lt;br />• Depolama:&lt;br />Cihazınızdaki öğeleri kaydetmek için (örneğin resimler, videolar, şarkılar)&lt;br />Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu hizmeti kullanamazsınız. Bu gibi durumlarda, uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.&lt;br />Xiaomi Bulut\'u kullanmadan önce &lt;a href=%1$s><u>Kullanıcı Sözleşmemizi </u>&lt;/a> ve &lt;a href=%2$s><u>Gizlilik Politikamızı</u>&lt;/a> okuyup kabul edin.&lt;br />"</string>
   <string name="privacy_doc_finddevice_pad">"Cihazı bul\'a hoş geldiniz! Bu hizmeti, kaybolduğunda cihazınızdaki verileri bulmak, kilitlemek veya silmek için kullanabilirsiniz. Bulmak, kilitlemek veya sıfırlamak için &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresine gidebilirsiniz.&lt;br />&lt;br />Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.&lt;br />Normal çalışabilmesi için bu hizmetin internete bağlanması ve kişisel bilgilerinize ulaşmak için aşağıdaki izinleri alması gerekir:&lt;br />• Cihaz bilgisine erişir:&lt;br />Cihazınızı tanımlamak için&lt;br />• Konum:&lt;br />Cihazınızı bulmak ve kayıp moduna geçmek için&lt;br />Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu hizmeti kullanamazsınız. Bu gibi durumlarda, uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.&lt;br />Cihazı bul\'u kullanmadan önce &lt;a href=%1$s><u>Kullanıcı Sözleşmemizi </u>&lt;/a> ve &lt;a href=%2$s><u>Gizlilik Politikamızı</u>&lt;/a> okuyup kabul edin.&lt;br />"</string>
   <string name="privacy_doc_finddevice_phone">"Cihazı bul\'a hoş geldiniz! Bu hizmeti, kaybolduğunda cihazınızdaki verileri bulmak, kilitlemek veya silmek için kullanabilirsiniz. Bulmak, kilitlemek veya sıfırlamak için &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresine gidebilirsiniz.&lt;br />&lt;br />Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.&lt;br />Normal çalışabilmesi için bu hizmetin internete bağlanması ve kişisel bilgilerinize ulaşmak için aşağıdaki izinleri alması gerekir:&lt;br />• Cihaz bilgisine erişir:&lt;br />Cihazınızı tanımlamak için&lt;br />• Konum:&lt;br />Cihazınızı bulmak ve kayıp moduna geçmek için&lt;br />Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu hizmeti kullanamazsınız. Bu gibi durumlarda, uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.&lt;br />Cihazı bul\'u kullanmadan önce &lt;a href=%1$s><u>Kullanıcı Sözleşmemizi </u>&lt;/a> ve &lt;a href=%2$s><u>Gizlilik Politikamızı</u>&lt;/a> okuyup kabul edin.&lt;br />"</string>
   <string name="privacy_doc_finddevice_with_telephony_feature_pad">"Cihazı bul\'a hoş geldiniz! Bu hizmeti, kaybolduğunda cihazınızdaki verileri bulmak, kilitlemek veya silmek için kullanabilirsiniz. Bulmak, kilitlemek veya sıfırlamak için &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> adresine gidebilirsiniz.&lt;br />&lt;br />Bu hizmeti etkinleştirmek için giden bir SMS mesajı gerekebilir. Bu mesaj için operatörünüz sizden ücret isteyecektir. SIM kartınızı değiştirdiğinizde, bu servisi yeniden etkinleştirmek için otomatik olarak bir mesaj daha gönderilebilir.&lt;br />&lt;br />Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.&lt;br />Normal çalışabilmesi için bu hizmetin internete bağlanması ve kişisel bilgilerinize ulaşmak için aşağıdaki izinleri alması gerekir:&lt;br />• Cihaz bilgisine erişir:&lt;br />Cihazınızı tanımlamak için&lt;br />• Konum:&lt;br />Cihazınızı bulmak ve kayıp moduna geçmek için&lt;br />Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu hizmeti kullanamazsınız. Bu gibi durumlarda, uygulamayı kaldırmayı, oturumu kapatmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.&lt;br />Cihazı bul\'u kullanmadan önce &lt;a href=%1$s><u>Kullanıcı Sözleşmemizi </u>&lt;/a> ve &lt;a href=%2$s><u>Gizlilik Politikamızı</u>&lt;/a> okuyup kabul edin.&lt;br />"</string>
@@ -403,7 +403,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="sina_share_success">Gönder</string>
   <string name="sina_token_expired_warning">Weibo hesabının süresi doldu, hesabı tekrar ekle.</string>
   <string name="sina_token_invalid_warning">Weibo hesabı geçersiz, hesabı tekrar ekleyin.</string>
-  <string name="soundrecorder_sync_only_in_wifi">Eşitlemek için için sadece WLAN kullan</string>
+  <string name="soundrecorder_sync_only_in_wifi">Eşitlemek için yalnızca Wi-Fi kullan</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Kaydedici, kayıtları indirmek veya yüklemek için mobil veri kullanmayacak</string>
   <string name="soundrecorder_sync_records">Xiaomi Bulut ile eşitle</string>
   <string name="starred_contact">Favoriler</string>
@@ -415,8 +415,8 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="storage_manage_upgrade">Yükselt</string>
   <string name="sub_alert_notif_content">Xiaomi Bulut\'u açın</string>
   <string name="sub_alert_notif_title">Xiaomi Bulut ile eşitle</string>
-  <string name="sub_sync_item_sms_summary">Fotoğraf, ses veya diğer medya içeren mesajları sadece WLAN ağına bağlıyken eşitle</string>
-  <string name="sub_sync_item_sms_title_wifi_only">MMS eşitlemesi için sadece WLAN kullan</string>
+  <string name="sub_sync_item_sms_summary">Fotoğraf, ses veya diğer medya içeren mesajları sadece Wi-Fi ağına bağlıyken eşitle</string>
+  <string name="sub_sync_item_sms_title_wifi_only">MMS eşitlemek için sadece Wi-Fi kullan</string>
   <string name="sync_detail_summary_master_sync_off">Eşitleme kapalı</string>
   <string name="sync_detail_summary_off">Eşitleme kapalı</string>
   <string name="sync_detail_text">Eşitleme ayrıntıları</string>
@@ -426,7 +426,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="sync_dspt_entrance_provision_confirm_content">MIUI sistem uygulamalarının fotoğraflarınızı, mesajlarınızı, notlarınızı ve daha fazlasını yedekleyebilmesi için Xiaomi Bulut\'a ihtiyaç duyar. Xiaomi Bulut, ücretsiz ve kullanıma hazırdır.</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Xiaomi Bulut kullan</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Xiaomi Bulut kullanmıyor musunuz?</string>
-  <string name="sync_dspt_entrance_provision_network">Bu uygulamanın normal çalışması için internete bağlanması gerekiyor. Veri eşitlemesi mobil veri bağlantısı ve WLAN\'ı açmayı gerektirebilir.</string>
+  <string name="sync_dspt_entrance_provision_network">Bu uygulamanın normal çalışması için internete bağlanması gerekiyor. Verileri eşitlemek için mobil veri bağlantısı ve Wi-Fi\'nin açılması gerekebilir.</string>
   <string name="sync_dspt_entrance_provision_skip">Bu adımı atla</string>
   <string name="sync_dspt_provision">"Fotoğrafları, kişileri, notları ve daha fazlasını eşitleyin, her yerden erişin "</string>
   <string name="sync_dspt_provision3">". Ayarlar'dan bu özelliği istediğiniz zaman açıp kapatabilirsiniz.
