@@ -1488,7 +1488,7 @@
   <string name="recents_caption_resize">Yeni görev düzenini seçin</string>
   <string name="recents_dimiss_task">Temizle</string>
   <string name="recents_drag_hint_message">Bir uygulamaya basın ve basılı tutun, ardından buraya sürükleyin.</string>
-  <string name="recents_empty_message">Son kullanılan öge yok</string>
+  <string name="recents_empty_message">Son kullanılan öğe yok</string>
   <string name="recents_empty_message_dismissed_all">Her şeyi temizlediniz</string>
   <string name="recents_empty_message_multi_window">Ana ekrandan uygulamaları aç</string>
   <string name="recents_exit_multi_window_mode">Çık</string>

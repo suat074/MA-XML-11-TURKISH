@@ -33,6 +33,7 @@
   <string name="create_shortcut">Ana ekran kısayolu</string>
   <string name="created">Oluşturuldu</string>
   <string name="created_successfully">Başarıyla oluşturuldu</string>
+  <string name="cu_confirm">Ayarla</string>
   <string name="display_description">Daha büyük simgeler, büyük metin, daha az görsel karmaşa</string>
   <string name="display_title">Daha büyük öğeler</string>
   <string name="exit_easymode">Basit modu kapat</string>
@@ -85,6 +86,10 @@
   <string name="sms_received_sound_title">Gelen mesaj</string>
   <string name="srgb_color_region_summary">Tüm ekran içeriğini sRGB renk gamında göster</string>
   <string name="start_easymode">Basit modu aç</string>
+  <string name="steady_on_screen_notification_title">Telefonunuzu bırakın ve bir mola verin</string>
+  <string name="steady_on_screen_notify">Kesintisiz kullanım hakkında bildirim</string>
+  <string name="steady_on_screen_setting">Kesintisiz oturumlar için zaman sınırı</string>
+  <string name="steady_on_screen_summary">Kesintisiz oturumlar için zaman sınırı</string>
   <string name="stop_app_timer">Ekran süresini kapat</string>
   <string name="stop_app_timer_fail">Ekran süresi kapatılamadı</string>
   <string name="stop_app_timer_success">Ekran süresi başarıyla kapatıldı</string>
@@ -93,6 +98,7 @@
   <string name="suggestion">Geri bildirim</string>
   <string name="thememanager_not_found">Temalar açılamadı. Bu uygulamanın cihazınızda yüklü olduğundan emin olun.</string>
   <string name="title_activity_easy_mode">Basit mod</string>
+  <string name="to_authorize">İzin ver</string>
   <string name="today_usage_title">Bugün</string>
   <string name="today_use_time">Ekran süresi: %1$s</string>
   <string name="touch_description">Optimize edilmiş düğmeler ve kısayollar, yanlışlıkla dokunmayı önlemenize yardımcı olur</string>

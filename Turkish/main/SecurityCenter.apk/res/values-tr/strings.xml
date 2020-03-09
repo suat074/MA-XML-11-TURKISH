@@ -1293,7 +1293,14 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gmscore_support_service">Temel Google hizmetleri</string>
   <string name="go_to">İlerle</string>
   <string name="go_to_setting_fingerprint">Ayarlar</string>
+  <string name="google_base_app_fail">İndirilemedi. Güvenlik için internete bağlanmasına izin verilip verilmediğini kontrol edin.</string>
   <string name="google_base_app_install_choice">Uygulamanın normal çalışması için Google Hizmetleri Çerçevesi gereklidir, indirilsin ve yüklensin mi?</string>
+  <string name="google_base_app_installed">Başarıyla yüklendi</string>
+  <string name="google_base_app_installing">Yükleniyor…</string>
+  <string name="google_base_app_network_anomaly">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
+  <string name="google_base_app_timeout">Oturum zaman aşımına uğradı. Bir iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="google_base_app_title">Google hizmetleri yükleniyor</string>
+  <string name="google_base_app_toast">Google Hizmetleri Çerçevesi arka planda yükleniyor. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="gs_advanced_setting_summary">Bireysel oyunlar için ayarlar</string>
   <string name="gs_advanced_setting_title">Ek ayarlar</string>
   <string name="gs_anto_clean_memory_whitelist">İstisnalar</string>
