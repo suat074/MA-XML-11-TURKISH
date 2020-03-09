@@ -390,6 +390,11 @@
   <string name="dialog_request_network_message">"Mi Transfer\'e Hoşgeldiniz! Öğeleri eski cihazınızdan yenisine aktarmak için bu uygulamayı kullanabilirsiniz.
 Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Mi Transfer\'in internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerektiğini unutmayın: Wi-Fi açma ve kapatma, kişilerinize erişme ve aktarma, çağrı geçmişinize erişme, SMS, MMS, çağrı kayıtları ve ses kayıtları."</string>
   <string name="dialog_request_network_message_extra">Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda, uygulamayı kaldırmayı veya Ayarlar\'dan izinleri kısıtlamayı seçebilirsiniz.</string>
+  <string name="dialog_request_permission_message">"Mi Transfer\'e hoş geldin! Bu uygulamayı, verileri eski cihazınızdan veya iCloud\'dan yeni bir cihaza aktarmak için kullanabilirsiniz.
+Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.
+Mi Transfer\'in internete bağlanması, Wi-Fi ve Bluetooth\'u açıp kapatabilmesi ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerektiğini unutmayın:"</string>
+  <string name="dialog_request_permission_message_extra">"Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda bu uygulamayı kaldırmayı veya oturumu kapatmayı seçebilirsiniz."</string>
+  <string name="dialog_request_permission_message_link" formatted="false"><Data>"Bu uygulamayı kullanmadan önce &lt;a href='%1s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2s'>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin."</Data></string>
   <string name="dialog_tip_upgrade_summary">Mi Transfer sürümü eski görünüyor. Dosyaları aktarabilmek için Mi Transfer\'i en son sürümüne güncelleyin.</string>
   <string name="dialog_tip_upgrade_title">Mi Transfer güncelle</string>
   <string name="dialog_version_summary_tip">Yenilikler:</string>
@@ -531,13 +536,13 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="install_app_old_title">Mi Transfer\'i eski cihaza yüklemek için QR kodunu tarayın</string>
   <string name="install_app_to_another_phone_content">Mi Transfer\'i yeni cihazınıza yükleyin</string>
   <string name="install_complete_count_down_time">Başarıyla yüklendi. Aktarım başlatılıyor (%1$d)</string>
-  <string name="install_new_app_link_text">Yeni aygıtınıza bağlanabilmek için Mi Transfer\'i yükleyin. Yüklemek için dokunun.</string>
+  <string name="install_new_app_link_text">Yeni cihazınıza bağlanabilmek için Mi Transfer\'i yükleyin. Yüklemek için dokunun.</string>
   <string name="international_new_trans_intro_desc_8">Metin mesajları uyumluluk sorunları nedeniyle aktarılamıyor. Üçüncü taraf uygulamalar güvenlik nedeniyle uygulama verilerinin aktarılmasını kısıtlayabilir.</string>
   <string name="international_new_trans_intro_question_8">8. Bazı üçüncü taraf uygulamaların verileri ve metin mesajları neden aktarılamıyor?</string>
   <string name="international_scanner_send_dialog_message">Bazı üçüncü taraf uygulamaların verileri ve metin mesajları aktarılamıyor. Aktarım sırasında Wi-Fi\'yi kapatmayın veya ağlar arasında geçiş yapmayın.</string>
   <string name="instruction">Önemli güvenlik bilgileri</string>
   <string name="label">MIUI SDK</string>
-  <string name="lack_perm_msg">Mi Transfer aşağıdaki izinlere ihtiyaç duyuyor: &lt;b>%s&lt;/b>.</string>
+  <string name="lack_perm_msg">Mi Transfer\'in normal çalışması için aşağıdaki izinlere ihtiyacı var: &lt;b>%s&lt;/b>.</string>
   <string name="lack_perm_title">Gerekli izinler</string>
   <string name="launcher">Ana ekran düzeni</string>
   <string name="less_than_1_minute">1 dakikadan az</string>
@@ -675,7 +680,7 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="other_user_data">Üçüncü parti uygulama verileri</string>
   <string name="password">Şifreyi girin</string>
   <string name="password_null">Şifre boş olamaz</string>
-  <string name="perm_location">Konum</string>
+  <string name="perm_location">Konuma erişir</string>
   <string name="perm_package_stats">Uygulama kullanım istatistiklerine erişim</string>
   <string name="perm_payment_dspt">Uygulamanın Mi Ödeme Hizmetleri\'ni kullanarak ödeme yapmasına izin ver</string>
   <string name="perm_payment_lab">Mi Ödeme</string>
@@ -683,10 +688,27 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="perm_read_contacts">Kişilere erişim</string>
   <string name="perm_read_phone_state">Telefon durumuna erişim</string>
   <string name="perm_read_sms">Mesajlara erişim</string>
-  <string name="perm_storage">Harici depolama alanında okuma ve yazma</string>
+  <string name="perm_storage">Öğelere erişir ve depolamaya kaydeder</string>
+  <string name="perm_write_settings">Sistem ayarlarını değiştir</string>
   <string name="permdesc_sendSmsNoConfirmation">Uygulama iznini istemeden SMS mesajları gönderebilir. Operatörünüz bu mesajlar için sizden ücret alabilir.</string>
   <string name="permission_alert_message_usage_access">Mi Transfer\'in uygulama kullanım istatistiklerine erişmesi gerekiyor. Mi Transfer\'e Ayarlardan gerekli izinleri verin.</string>
   <string name="permission_alert_title">Gerekli izinler</string>
+  <string name="permission_calender_summary">Takvim etkinliklerini eski cihazdan yenisine aktarmak için</string>
+  <string name="permission_calender_title">Takvime erişir</string>
+  <string name="permission_call_log_summary">Çağrı geçmişini eski cihazdan yeni bir cihaza aktarmak için</string>
+  <string name="permission_call_log_title">Çağrı geçmişine erişir</string>
+  <string name="permission_contacts_summary">Kişileri eski cihazdan yeni bir cihaza aktarmak için</string>
+  <string name="permission_contacts_title">Kişilere erişir</string>
+  <string name="permission_locale_summary">Yakındaki Wi-Fi ağlarına bağlanmak için</string>
+  <string name="permission_locale_title">Konum bilgilerine erişir</string>
+  <string name="permission_message_summary">Mesajları eski cihazdan yeni bir cihaza aktarmak için</string>
+  <string name="permission_message_title">SMS okur</string>
+  <string name="permission_phone_summary">Android Kimliği kullanan cihazları tanımlamak ve uyumluluk sorunlarını tespit etmek için</string>
+  <string name="permission_phone_title">Cihaz bilgilerine erişir</string>
+  <string name="permission_read_storage_summary">Kullanılabilir depolama alanı miktarını belirlemek ve dosya boyutunu tahmin etmek için</string>
+  <string name="permission_read_storage_title">Depolamaya erişir</string>
+  <string name="permission_write_storage_summary">Dosyaları eski cihazdan yeni bir cihaza aktarmak için</string>
+  <string name="permission_write_storage_title">Depolamaya öğe kaydeder</string>
   <string name="permlab_sendSmsNoConfirmation">Arka planda SMS mesajlarına izin ver</string>
   <string name="phone">Telefon</string>
   <string name="pm">ÖS</string>
@@ -838,8 +860,9 @@ Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikaları
   <string name="time_picker_dialog_title">Zamanı ayarla</string>
   <string name="time_picker_label_hour">S</string>
   <string name="time_picker_label_minute">D</string>
-  <string name="time_spent">Zaman: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
+  <string name="time_spent">Zaman: &lt;g id="time">%1$s&lt;/g></string>
   <string name="title_request_package_stats_perm">Gerekli izinler</string>
+  <string name="title_request_write_settings_perm">Sistem ayarlarını değiştirme izni gerekiyor</string>
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
   <string name="trans_detail_item_app_data_skip_data">Uygulama verileri aktarılamıyor</string>

@@ -1758,7 +1758,7 @@ mevcut"</string>
   <string name="trash_menu_recovery">Geri yükle</string>
   <string name="trash_purge_all">Tüm fotoğraflar ve videolar buluttan silinecek. Onları geri yükleyemezsin. Yine de silinsin mi?</string>
   <string name="trash_purge_positive_button">Sil</string>
-  <string name="trash_vip_button_login">Genişlet</string>
+  <string name="trash_vip_button_login">Uzat</string>
   <string name="trash_vip_button_login_top_level">Yenile</string>
   <string name="trash_vip_button_unlogin">Giriş yap</string>
   <string name="try_again_later">Daha sonra tekrar deneyin.</string>

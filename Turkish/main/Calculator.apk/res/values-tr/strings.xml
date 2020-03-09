@@ -88,7 +88,7 @@
   <string name="description_title">Hesap Makinesi hakkında</string>
   <string name="deselect_all">Seçimi kaldır</string>
   <string name="devided_by_zero_reminder_message">Sıfıra bölünemez</string>
-  <string name="dialog_privacy_content">Hesap Makinesi, temel işlevlerin yanı sıra para birimlerini ve ölçüm birimlerini dönüştürmenize, ipotek geri ödemelerini hesaplamanıza ve daha fazlasına olanak tanır. Bazı özelliklerin normal şekilde çalışabilmesi için internet bağlantısı gereklidir. <Data>Bu uygulamayı kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="dialog_privacy_content">Uygulamamız, hesap makinesinin temel özelliklerinin yanı sıra, bilimsel bir hesap makinesi ve çok amaçlı bir dönüştürücü de içeriyor. Bazı özelliklerin normal şekilde çalışabilmesi için internet bağlantısı gereklidir. Hesap Makinesi\'ni kullanmadan önce %1$s ve %2$s okumalı ve kabul etmelisiniz.</string>
   <string name="dialog_privacy_title">Şartlar ve Koşullar</string>
   <string name="dialog_rating_desc_ask">Hesap makinesi hakkında ne düşünüyorsunuz?</string>
   <string name="dialog_rating_desc_less">Bize geri bildiriminizi verebilir misiniz?</string>
