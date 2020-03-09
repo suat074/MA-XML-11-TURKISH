@@ -14,6 +14,7 @@
   <string name="hide_touch_assistant_intro">Seçili uygulamalarda Hızlı topu gizle.</string>
   <string name="hide_when_fullscreen">Tam ekran olduğunda kenara taşı</string>
   <string name="hide_when_fullscreen_intro">Tam ekran moduna girerken kenara taşı.</string>
+  <string name="mi_ai">Mi AI kısayolları</string>
   <string name="mi_wallet_summary">Taşıma kartı/Mi Pay/Anahtar kart</string>
   <string name="motion_behavior">Tercih edilen jest</string>
   <string name="name_alipay_payment_code">Alipay ödeme</string>

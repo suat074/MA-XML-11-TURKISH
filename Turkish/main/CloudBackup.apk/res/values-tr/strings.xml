@@ -1,6 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_to_recover">Biraz bekleyin...</string>
+  <string name="abc_action_bar_home_description">Ana ekrana git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+  <string name="abc_capital_off">KAPAT</string>
+  <string name="abc_capital_on">AÇ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">sil</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+  <string name="abc_menu_space_shortcut_label">boşluk</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menü+</string>
+  <string name="abc_search_hint">Arama…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Ara</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="about_to_recover">Sadece bir saniye…</string>
   <string name="app_is_running">Uygulama çalışıyor…</string>
   <string name="app_name">Bulut yedekleme</string>
   <string name="arrange_restore_order">Uygulamaları yeniden düzenle…</string>
@@ -88,9 +115,10 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="confirm_cancel_restore_negative">İptal</string>
   <string name="confirm_cancel_restore_positive">Devam et</string>
   <string name="confirm_cancel_restore_title">Geri yüklemeyi iptal et?</string>
-  <string name="confirm_restore">Geri Yükle</string>
+  <string name="confirm_restore">Geri yükle</string>
   <string name="confirm_restore_summary">Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir.</string>
-  <string name="confirm_restore_title">Geri Yükle</string>
+  <string name="confirm_restore_title">Geri yükle</string>
+  <string name="copy">Kopyala</string>
   <string name="customization"><u>Özelleştir</u></string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarm Saati</string>
@@ -124,6 +152,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="download_settings_fail">Ana Ekran Ayarları indirilemedi</string>
   <string name="error_retry_later">Eylem tamamlanamadı. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="error_unknown">Bazı şeyler ters gitti</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="get_device_id_error">Cihaz kimliği alınamadı</string>
   <string name="hint_restore_cross_space">Öğeleri alanlar arasında aktarırsanız, Ana ekran düzeni yanlış görüntülenebilir.</string>
   <string name="home_hint_global_launcher">POCO Başlatıcı</string>
@@ -146,11 +175,11 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecek.&lt;/font>&lt;/b>"</string>
   <string name="msg_restore_with_metered_network_hint">Bu öğeleri geri yüklemeye devam ederseniz, indirmek için mobil veri kullanılacaktır.</string>
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> dosya indirilecek."</string>
-  <string name="name_model">%1$s\'nın %2$s</string>
   <string name="network_error">Ağa bağlan</string>
   <string name="no_account">Mi Hesabında oturum açılmadı.</string>
   <string name="no_backup">Xiaomi Bulut\'ta yedek yok.</string>
-  <string name="notification_channel_remind">Hatırlatma</string>
+  <string name="not_set">Ayarlanmadı</string>
+  <string name="notification_channel_remind">Hatırlatıcı</string>
   <string name="notification_channel_service">Hizmet</string>
   <string name="open_backup_switch">Yedek anahtarını değiştirin</string>
   <string name="open_wifi">Şimdi Wi-Fi\'ı aç</string>
@@ -158,6 +187,7 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
   <string name="open_wifi_setting">Wi-Fi ayarları</string>
   <string name="other_device_main_space">İlk alan</string>
   <string name="other_device_second_space">İkinci alan</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="process_whole_recovery">\"%s\" geri yükleniyor</string>
   <string name="provision_background_restore_more_data">Arka planda daha fazla öğe geri yükle</string>
   <string name="provision_error_connect_msg">Ağı test edebilir ve tekrar deneyebilirsiniz. Geçerli bir ağ olmadan yedekleme işlevi kullanılamaz.</string>
@@ -211,7 +241,8 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="restoring_file_title_no_progress">Dosyalar geri yükleniyor…</string>
   <string name="restoring_home_screen_apps">Xiaomi Bulut\'tan geri yükleniyor…</string>
   <string name="restoring_settings">Ayarlar geri yükleniyor…</string>
-  <string name="retry">Yeniden Dene</string>
+  <string name="retry">Yeniden dene</string>
+  <string name="search_menu_title">Ara</string>
   <string name="selected">Seçili</string>
   <string name="self_device_main_space">Bu telefonun İlk alanı</string>
   <string name="self_device_second_space">Bu telefonun ikinci alanı</string>
@@ -228,5 +259,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="try_continue">Devam etmek için dokunun</string>
   <string name="unselected">Seçili değil</string>
   <string name="unsupported_home">MIUI\'yi en son sürüme güncelleyin.</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="wait_icon_download">Uygulama simgeleri indiriliyor</string>
 </resources>

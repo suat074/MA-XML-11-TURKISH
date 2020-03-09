@@ -215,6 +215,7 @@ yüklü uygulamaları kontrol edin ve kullanımı kısıtlayın"</string>
   <string name="master_clear_apply_step_2">Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun. \"Tamam\" seçeneğine dokunduktan sonra, cihazınızda fabrika verilerine sıfırlama işlemi gerçekleştirilecek, hesaplar, kişiler, fotoğraflar ve uygulamalar dahil olmak üzere tüm dosya ve veriler kalıcı olarak silinecektir.</string>
   <string name="master_clear_apply_title">Dikkat</string>
   <string name="master_clear_not_available">Fabrika ayarlarına sıfırlama şirketiniz tarafından sınırlandırılmıştır.</string>
+  <string name="master_clear_not_available_ep">Fabrika ayarlarına sıfırlama işlemi yapmanıza veya yetkilendirmenizi iptal etmenize izin verilmİYOR. Yöneticinize başvurun.</string>
   <string name="menu_item_about_privacy_title">Gizlilik Politikası</string>
   <string name="messageData">Mesajlar</string>
   <string name="more_settings">Daha</string>
