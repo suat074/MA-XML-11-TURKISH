@@ -137,6 +137,8 @@ dd/MM"</string>
   <string name="select_notification_notify_style">Bildirim efektini seç</string>
   <string name="show_battery">Pil durumunu göster</string>
   <string name="show_battery_status">Pil durumunu göster</string>
+  <string name="show_lunar">Geleneksel Çin takvimini göster</string>
+  <string name="show_lunar_desc">Çift saat Geleneksel Çin takvimini desteklemez</string>
   <string name="show_notification">Bildirimleri göster</string>
   <string name="show_notificaton">Bildirimleri göster</string>
   <string name="shownone_arround_image">Yok</string>

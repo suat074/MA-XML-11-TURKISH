@@ -8,7 +8,17 @@
   <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
   <string name="abc_capital_off">KAPAT</string>
   <string name="abc_capital_on">AÇ</string>
-  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">sil</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+  <string name="abc_menu_space_shortcut_label">boşluk</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menü+</string>
+  <string name="abc_search_hint">Arama…</string>
   <string name="abc_searchview_description_clear">Sorguyu temizle</string>
   <string name="abc_searchview_description_query">Sorguyu ara</string>
   <string name="abc_searchview_description_search">Ara</string>
@@ -91,6 +101,7 @@
   <string name="change_email_address">E-Posta adresini değiştir</string>
   <string name="change_password">Şifreyi değiştir</string>
   <string name="change_phone_number">Telefon numarasını değiştir</string>
+  <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
   <string name="cloud_service">Xiaomi Bulut</string>
   <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
   <string name="com_facebook_device_auth_instructions"><b>facebook.com/device</b> adresini ziyaret edin ve yukarıda gösterilen kodu girin.</string>
@@ -231,6 +242,7 @@
   <string name="mipay_indentity_done">Doğrulanmış</string>
   <string name="mipay_others">Diğer</string>
   <string name="mipay_transit_card">Taşıma Kartı</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="multi_user_not_show_sync_activity_message_1">İlk Alandaki Mi Hesabını kullanıyorsunuz gibi görünüyor.</string>
   <string name="multi_user_not_show_sync_activity_message_2">Bu durumda, tüm veriler İkinci alanınızda eşitlenir. Bunu önlemek için, bulut ile eşitlemeyi açmayın.</string>
   <string name="multi_user_not_show_sync_activity_title">Bulut ile eşitlemeyi açma</string>
@@ -257,7 +269,7 @@
   <string name="passport_account_hint_text">E-Posta/Telefon/Mi Hesap ID</string>
   <string name="passport_account_identity_title">Kimliğinizi doğrulayın</string>
   <string name="passport_account_label">Mi Hesabı</string>
-  <string name="passport_account_name">Hesap: %1$s</string>
+  <string name="passport_account_name">"Hesap: %1$s "</string>
   <string name="passport_account_not_activated">Hesap etkinleştirilmedi</string>
   <string name="passport_account_not_actived">Hesabınız etkinleştirilmedi</string>
   <string name="passport_account_set_password">Şifreyi ayarla</string>
@@ -476,7 +488,7 @@
   <string name="passport_wrong_voice">Girdiğiniz kod yanlış</string>
   <string name="passport_wx_bind_account_limit">Şimdi hesap oluşturulamıyor. Diğer oturum açma yöntemlerini deneyin.</string>
   <string name="passport_yes">Evet</string>
-  <string name="password_toggle_content_description">Parola görünürlüğünü değiştir</string>
+  <string name="password_toggle_content_description">Şifreyi göster</string>
   <string name="permission_group_contacts">Kişiler</string>
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>
