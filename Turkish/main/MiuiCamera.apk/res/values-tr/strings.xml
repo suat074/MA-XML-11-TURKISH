@@ -28,6 +28,9 @@
   <string name="accessibility_camera_ultra_wide_bokeh_on">Tam vücut modu açık</string>
   <string name="accessibility_closed">Kapalı</string>
   <string name="accessibility_effect_mode_button">Efekt düğmesi</string>
+  <string name="accessibility_eis_normal">EIS açık</string>
+  <string name="accessibility_eis_off">EIS kapalı</string>
+  <string name="accessibility_eis_pro">EIS Pro açık</string>
   <string name="accessibility_filter_close_panel">Filtre menüsü kapandı</string>
   <string name="accessibility_filter_open_panel">Filtre menüsü açıldı</string>
   <string name="accessibility_filter_pad_close">Filtre menüsü gizlendi</string>
@@ -652,6 +655,10 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_device_watermark_title">Cihaz filigranı</string>
   <string name="pref_camera_dual_enable_title">Çift kamerayı aç</string>
   <string name="pref_camera_dual_sat_enable_title">Çift SAT kamerayı aç</string>
+  <string name="pref_camera_eis_entry_normal">EIS</string>
+  <string name="pref_camera_eis_entry_off">Kapalı</string>
+  <string name="pref_camera_eis_entry_pro">EIS Pro</string>
+  <string name="pref_camera_eis_title">EIS</string>
   <string name="pref_camera_exposuretime_entry_0_5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -994,6 +1001,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="subtitle_network_exception_tips">Ağa bağlanılamadı. Şu anda yazıya çeviremiyorum.</string>
   <string name="super_eis">Sabit video</string>
   <string name="super_eis_disabled_hint">Sabit video kapalı</string>
+  <string name="super_eis_pro">Sabit video Pro</string>
+  <string name="super_eis_pro_disabled_hint">Sabit video Pro kapalı</string>
   <string name="super_night_hint">Görüntüyü optimize ediliyor… Cihazınızı sabit tutun.</string>
   <string name="super_night_se_tip">Gece modu</string>
   <string name="super_night_toast">Fotoğraf çekerken telefonunuzu sabit tutun</string>
