@@ -652,6 +652,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="button_text_next_step_timer">Sonraki adım (%d)</string>
   <string name="button_text_open_now">Aç</string>
   <string name="button_text_reject">Reddet</string>
+  <string name="button_text_trust">Bu ağa güven</string>
   <string name="button_text_update_now">Güncelle</string>
   <string name="button_to_setting">Ayarlar</string>
   <string name="call_address">Engelli Listesinin Alanı</string>
@@ -2343,6 +2344,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="sms_stranger_block">Engellendi</string>
   <string name="sorted_dialog_title">Sırala</string>
   <string name="sp_background_risk_dialog_summary">, ödeme sorunlarını kontrol edin ve düzeltin.</string>
+  <string name="sp_background_risk_dialog_summary_new">Mevcut ödeme ortamı güvenlik riski oluşturabilir. Mevcut sorunları çözmek için bir dakikanızı ayırın.</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Güvensiz olabilecek genel bir WLAN ağına bağlısınız. Ödemenizin tamamlanmadan önce korunduğundan emin olun.</string>
   <string name="sp_background_risk_dialog_title">Dikkat</string>
   <string name="sp_background_risk_dialog_title_wifi_approve">Genel WLAN uyarısı</string>
@@ -2367,9 +2369,9 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="sp_settings_check_item_title_virus_exception">İstisnalar</string>
   <string name="sp_settings_exception_count_zero">Öğe yok</string>
   <string name="sp_settings_group_title_check_item">Çoklu Öğeler</string>
-  <string name="sp_settings_info_input_method">Ödeme Uygulamasında kullanılan giriş usulu</string>
+  <string name="sp_settings_info_input_method">Ödeme yaparken klavyeleri güvenlik sorunları için test edin</string>
   <string name="sp_settings_info_monitor">Ödeme uygulaması başlatıldığında sistem bileşenlerini izle</string>
-  <string name="sp_settings_title_input_method">IME Güvenliği</string>
+  <string name="sp_settings_title_input_method">Klavyeleri güvenlik sorunları için test et</string>
   <string name="sp_toast_removed_from_sign_white_list">İstisnalar kaldırıldı. Öğe bir dahaki seferde taranır.</string>
   <string name="special_number_group">Raporlu numarayı engelle</string>
   <string name="sponsored_sec_fb">Sponsor:</string>
@@ -2956,13 +2958,16 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="wakepath_confirm_start_activity">İzin verilen %1$s, %2$s açsın mı?</string>
   <string name="website">Web sitesi</string>
   <string name="whitelist_prefix_add_hint">Önek içeren tüm numaraları istisnalara ekle</string>
+  <string name="wifi_danger_dialog_messgae">Mevcut WLAN ağı güvenlik riskleri oluşturabilir. Dikkatli kullanın.</string>
+  <string name="wifi_danger_dialog_tips">WLAN güvenliğini Güvenlik &gt; Güvenlik taraması &gt; Ayarlar &gt; WLAN bölümünden yönetebilirsiniz.</string>
+  <string name="wifi_danger_dialog_title">WLAN ağı güvenli değil</string>
   <string name="wifi_exception_summary">Mevcut WLAN ağlarını test et</string>
   <string name="wifi_exception_title">WLAN Ağ Testi</string>
   <string name="wifi_item_status_connection_no">Bağlantı yok</string>
   <string name="wifi_item_title_arp_attack">ARP saldırıları</string>
   <string name="wifi_item_title_connection">Wi-Fi bağlantısı</string>
   <string name="wifi_item_title_dns">DNS Sunucu Güvenliği</string>
-  <string name="wifi_item_title_encryption">WLAN Şifrelemesi</string>
+  <string name="wifi_item_title_encryption">WLAN şifreli değil</string>
   <string name="wifi_item_title_fake">Sahte WLAN Tespiti</string>
   <string name="wifi_network_blocked_notification_title">İnternet bağlantısı yok</string>
   <string name="wifi_optizition_loading">Xunyou Ağ hızı artırmayı açılıyor...</string>

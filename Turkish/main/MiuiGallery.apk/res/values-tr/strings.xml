@@ -529,6 +529,8 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">İndirilen resimlerin kalitesini seçebilir veya Ayarlar\'dan otomatik indirmeleri kapatabilirsiniz.</string>
   <string name="downloading_title">Xiaomi Bulut\'tan fotoğraflar indiriliyor</string>
+  <string name="drag_view_tip_sub_title">Yeniden düzenlemek için bir albüme basın ve basılı tutun</string>
+  <string name="drag_view_tip_title">Albümleri yeniden düzenle</string>
   <string name="dump_db_info">Veri tabanı bilgisi dökümü</string>
   <string name="early_morning">ÖÖ</string>
   <string name="edit_baby_info">Bebek bilgilerini görüntüle</string>
@@ -731,7 +733,7 @@ mevcut"</string>
   <string name="filter_people_sepia">Sepya</string>
   <string name="filter_people_story">Hikaye</string>
   <string name="filter_people_tea">Çay</string>
-  <string name="filter_portrait_hint">Renk vurgusu</string>
+  <string name="filter_portrait_hint">Renk odaklama</string>
   <string name="filter_scene_city">Şehir</string>
   <string name="filter_scene_df">Sis</string>
   <string name="filter_scene_koizora">Aşk</string>
@@ -1244,7 +1246,7 @@ mevcut"</string>
   <string name="photo_page_save_uri_image_ok">Fotoğraf Galeri\'ye kaydedildi</string>
   <string name="photo_portrait_color_download_fail">Eklenti indirilemedi. Ağa bağlanın ve tekrar deneyin.</string>
   <string name="photo_portrait_color_download_success">Filtreler başarıyla indirildi</string>
-  <string name="photo_portrait_color_no_face">Renk vurgusu yalnızca fotoğraflarda ve kişilerde çalışır</string>
+  <string name="photo_portrait_color_no_face">Renk odaklama yalnızca kişi bulunan fotoğraflarda çalışır</string>
   <string name="photo_portrait_download_sdk_without_wifi_msg">Cihazınız artık Wi-Fi\'ya bağlı değil gibi görünüyor. Mobil veri kullanarak filtreleri (%1$dMB) indirebilirsiniz.</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Filtreleri indir</string>
   <string name="photo_print_menu_loading">Eklenti yükleniyor…</string>
@@ -1971,6 +1973,7 @@ mevcut"</string>
   <string name="vlog_caption_style">Altyazı biçimi</string>
   <string name="vlog_caption_title">Kredi</string>
   <string name="vlog_clip_cut_fail">Klipler en az %1$d saniye uzunluğunda olmalıdır</string>
+  <string name="vlog_clip_cut_fail_min_time">Klipsler en az %1$s saniye uzunluğunda olmalıdır</string>
   <string name="vlog_clip_delete_dialog_btn_cancel">İptal</string>
   <string name="vlog_clip_delete_dialog_btn_delete">Sil</string>
   <string name="vlog_clip_delete_dialog_btn_msg">Bu video silinsin mi?</string>
