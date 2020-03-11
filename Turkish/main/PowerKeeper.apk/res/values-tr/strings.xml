@@ -15,9 +15,10 @@
   <string name="atrace_start">İzleme günlüğü kayıt ediliyor…</string>
   <string name="base_info">Temel bilgi</string>
   <string name="cloud_addr_info">Bulut bilgisi</string>
-  <string name="cloud_china_addr">Çinli sunucu verilerini güncelleme</string>
-  <string name="cloud_international_addr">Uluslararası sunucu verilerini güncelleme</string>
-  <string name="cloud_staging_addr">Sunucusu veri hazırlama güncellemesi</string>
+  <string name="cloud_china_addr">Çince sunucu verilerini güncelle</string>
+  <string name="cloud_international_addr">Uluslararası sunucu verilerini güncelle</string>
+  <string name="cloud_russion_addr">Rus sunucusu verilerini güncelle</string>
+  <string name="cloud_staging_addr">Hazırlık sunucusu verilerini güncelle</string>
   <string name="config_classify">Uygulama ayarlarına göre sırala</string>
   <string name="config_description">MIUI, belirli arka plan işlemlerine sahip uygulamaları (örneğin, mesajlaşma ve navigasyon uygulamaları, medya oynatıcılar) tanımlayabilir ve arka plan etkinliğini fazla etkilemeyecek şekilde Pil tasarrufu uygulayabilir.</string>
   <string name="config_mode_title">Arka plan ayarları</string>

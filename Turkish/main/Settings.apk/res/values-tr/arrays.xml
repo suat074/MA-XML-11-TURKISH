@@ -4,6 +4,16 @@
     <item>Ev Ağı</item>
     <item>Tüm Ağ</item>
   </string-array>
+  <string-array name="aggregate_entries">
+    <item>Önerilen</item>
+    <item>Önemli</item>
+    <item>Önemsiz</item>
+  </string-array>
+  <string-array name="aggregate_summaries">
+    <item>MIUI, hangi bildirimlerin doğrudan görünmesi gerektiğine karar verecek</item>
+    <item>Bildirimler, Bildirim alanında görünecek</item>
+    <item>Bildirimler ayrı bir klasörde görünecek</item>
+  </string-array>
   <string-array name="alarm_repeat_type">
     <item>Hergün</item>
     <item>Hafta içi akşam</item>
