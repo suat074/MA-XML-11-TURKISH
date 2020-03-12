@@ -472,7 +472,7 @@ Makro modunu kullanın"</string>
   <string name="mimoji_save">Kaydet</string>
   <string name="mimoji_save_finish">Bitti</string>
   <string name="mimoji_save_success">Başarıyla kaydedildi</string>
-  <string name="mimoji_select_number_error">En az 1 öğe seçin</string>
+  <string name="mimoji_select_number_error">En az %d öğe seçin</string>
   <string name="mimoji_selected">Seçin</string>
   <string name="mimoji_start_create">Mimoji oluşturuluyor…</string>
   <string name="mimoji_tips">Fotoğraf çekmek için dokunun. Video kaydı için basılı tutun.</string>
