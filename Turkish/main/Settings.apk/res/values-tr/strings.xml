@@ -1593,12 +1593,12 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="data_usage_menu_auto_sync">Verileri otomatik eşitle</string>
   <string name="data_usage_menu_cellular_networks">Hücresel Şebeke</string>
   <string name="data_usage_menu_hide_ethernet">Ethernet kullanımını gizle</string>
-  <string name="data_usage_menu_hide_wifi">WLAN\'i Gizle</string>
+  <string name="data_usage_menu_hide_wifi">WLAN\'ı Gizle</string>
   <string name="data_usage_menu_metered">Mobil İnternet Paylaşımları</string>
   <string name="data_usage_menu_restrict_background">Arkaplan verilerini sınırla</string>
   <string name="data_usage_menu_roaming">Veri dolaşımı</string>
   <string name="data_usage_menu_show_ethernet">Ethernet kullanımını göster</string>
-  <string name="data_usage_menu_show_wifi">WLAN\'i göster</string>
+  <string name="data_usage_menu_show_wifi">WLAN\'ı göster</string>
   <string name="data_usage_menu_sim_cards">SIM Kart</string>
   <string name="data_usage_menu_split_4g">Parçalı 4G kullanımı</string>
   <string name="data_usage_metered_body">iNet Paylaşımı olan WLAN ağları gösterir. Uygulamalar arkaplanda bu ağları kullanmanızı kısıtlayabilir. Uygulamalar da büyük yüklemeler için bu ağları kullanmadan önce sizi uyarır.</string>
@@ -6526,7 +6526,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_eap_sim_simcard">SIM Seç</string>
   <string name="wifi_eap_user_cert">Kullanıcı sertifikası</string>
   <string name="wifi_empty_list_user_restricted">WLAN ağını değiştirmek için izniniz yok.</string>
-  <string name="wifi_empty_list_wifi_off">Kullanılabilir ağları görmek için, WLAN\'i açın.</string>
+  <string name="wifi_empty_list_wifi_off">Kullanılabilir ağları görmek için, WLAN\'ı açın.</string>
   <string name="wifi_empty_list_wifi_on">WLAN ağları aranıyor...</string>
   <string name="wifi_enable">WLAN</string>
   <string name="wifi_enable_watchdog_service_summary">Zayıf bağlantılardan kaçın</string>
@@ -6664,7 +6664,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_security">Güvenlik</string>
   <string name="wifi_security_none">Yok</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="wifi_select_network">WLAN\'i Seç</string>
+  <string name="wifi_select_network">WLAN\'ı Seç</string>
   <string name="wifi_setting_category">Kullanılabilir Ağlar</string>
   <string name="wifi_setting_frequency_band_error">Frekans bandını ayarlarken sorun oluştu.</string>
   <string name="wifi_setting_frequency_band_summary">Operasyon frekans aralığını belirtir</string>
@@ -6704,7 +6704,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_setup_title_connected_network">%s WLAN ağına bağlandı</string>
   <string name="wifi_setup_title_connecting_network">%s WLAN ağına bağlanıyor…</string>
   <string name="wifi_setup_title_editing_network">%s WLAN ağına bağlan</string>
-  <string name="wifi_setup_wizard_title">WLAN\'i seçin</string>
+  <string name="wifi_setup_wizard_title">WLAN\'ı seçin</string>
   <string name="wifi_setup_wps">Otomatik Kurulum (WPS)</string>
   <string name="wifi_share">WLAN Paylaşımı</string>
   <string name="wifi_share_action_turn_off">Ağ paylaşımını durdur</string>

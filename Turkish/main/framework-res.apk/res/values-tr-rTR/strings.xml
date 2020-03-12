@@ -1575,7 +1575,7 @@ izin istendi."</string>
   <string name="wifi_p2p_invitation_to_connect_title">Bağlantı Davetiyesi</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Şuraya:</string>
-  <string name="wifi_p2p_turnon_message">Direkt WLAN\'i başlat. Bu WLAN; iNet Paylaşımını kapatır.</string>
+  <string name="wifi_p2p_turnon_message">Direkt WLAN\'ı başlat. Bu WLAN; iNet Paylaşımını kapatır.</string>
   <string name="wifi_wakeup_enabled_content">Kayıtlı bir ağa yakınsınız: %1$s</string>
   <string name="wifi_wakeup_enabled_title">Wi-Fi otomatik olarak açıldı</string>
   <string name="wifi_wakeup_onboarding_action_disable">Bir daha geri dönme</string>

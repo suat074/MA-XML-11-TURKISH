@@ -366,11 +366,13 @@
   <string name="permdesc_install_widget">Uygulamaya, kullanıcı müdahalesi olmadan widget ekleme izni verir.</string>
   <string name="permdesc_read_settings">Uygulamaya, Ana ekran ayarlarını ve kısayollarını okuma izni verir.</string>
   <string name="permdesc_uninstall_shortcut">Uygulamaya, kullanıcı müdahalesi olmadan kısayolları kaldırma izni verir.</string>
+  <string name="permdesc_uninstall_widget">Uygulamaya, kullanıcı müdahalesi olmadan widget\'ları kaldırma izni verir.</string>
   <string name="permdesc_write_settings">Uygulamaya, Ana ekran ayarlarını ve kısayollarını değiştirme izni verir.</string>
   <string name="permlab_install_shortcut">Kısayolları yükle</string>
-  <string name="permlab_install_widget">Widgetleri yükle</string>
+  <string name="permlab_install_widget">Widget\'ları yükle</string>
   <string name="permlab_read_settings">Ana ekran ayarlarını ve kısayolları okuyun</string>
   <string name="permlab_uninstall_shortcut">Kısayolları kaldır</string>
+  <string name="permlab_uninstall_widget">Widget\'ları kaldır</string>
   <string name="permlab_write_settings">Ana ekran ayarlarını ve kısayolları düzenle</string>
   <string name="photo_adjust">Önizle</string>
   <string name="photo_confirm">Ayarla</string>
