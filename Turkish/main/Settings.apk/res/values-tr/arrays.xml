@@ -4,6 +4,16 @@
     <item>Ev Ağı</item>
     <item>Tüm Ağ</item>
   </string-array>
+  <string-array name="aggregate_entries">
+    <item>Önerilen</item>
+    <item>Önemli</item>
+    <item>Önemsiz</item>
+  </string-array>
+  <string-array name="aggregate_summaries">
+    <item>MIUI, hangi bildirimlerin doğrudan görünmesi gerektiğine karar verecek</item>
+    <item>Bildirimler, Bildirim alanında görünecek</item>
+    <item>Bildirimler ayrı bir klasörde görünecek</item>
+  </string-array>
   <string-array name="alarm_repeat_type">
     <item>Hergün</item>
     <item>Hafta içi akşam</item>
@@ -1395,13 +1405,15 @@
   </string-array>
   <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
     <item>Düşük gecikme için optimize edilmiş</item>
+    <item>Düşük gecikme için optimize edilmiş</item>
     <item>Bağlantı kalitesi için optimize edilmiş</item>
     <item>Dengeli ses ve bağlantı kalitesi</item>
     <item>Ses kalitesi için optimize edilmiş</item>
     <item>En iyi çaba (Otomatik bit hızı)</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-    <item>Düşük gecikme için optimize edilmiştir (256kbps)</item>
+    <item>Düşük gecikme için optimize edilmiş (192kbps)</item>
+    <item>Düşük gecikme için optimize edilmiş (256kbps)</item>
     <item>Bağlantı kalitesi için optimize edilmiş (400kbps)</item>
     <item>Dengeli ses ve bağlantı kalitesi (500/560kbps)</item>
     <item>Ses kalitesi için optimize edilmiş (900kbps)</item>
