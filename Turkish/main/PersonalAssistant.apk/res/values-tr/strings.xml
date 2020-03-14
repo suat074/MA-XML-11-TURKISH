@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_change_text" formatted="false">Şu anda seçilen öğe, %d öğesiyle değiştirilen %d öğesidir.</string>
+  <string name="access_deselect">%s seçilmemiş</string>
+  <string name="access_deselected">%s seçilmemiş</string>
   <string name="access_select">%s seçili</string>
-  <string name="access_unselect">%s seçimi kaldırıldı</string>
+  <string name="access_selected">%s seçili</string>
   <string name="accordingto_position">GPS kullanarak sık kullanılan yerleri tanı</string>
   <string name="account_address">Adres</string>
   <string name="add_stock">Ekle</string>
@@ -71,6 +73,7 @@
   <string name="app_suggest_setting_brief">Kullanmanız muhtemel uygulamalar ve özellikler hakkında öneriler al</string>
   <string name="app_suggest_setting_brief_detail">Kullanmanız muhtemel uygulamalar ve özellikler hakkında öneriler alın.</string>
   <string name="app_suggest_setting_title">Akıllı öneriler</string>
+  <string name="app_version_name">"Uygulama kasası sürümü: "</string>
   <string name="apps">Uygulama Önerisi</string>
   <string name="apps_label">Uygulamalar</string>
   <string name="arr_airport">Varış havaalanı</string>
@@ -222,7 +225,7 @@
   <string name="corpus_hint_apps">Uygulamaları ara</string>
   <string name="corpus_label_apps">Uygulamalar</string>
   <string name="cta_desc">Tüm önemli özellikler tek bir yerde</string>
-  <string name="cta_dialog_miot_text_all">Mi Ev\'in normal şekilde çalışabilmesi için, ağınızı, konumunuzu, Bluetooth\'unuzu açmak için yetkilendirilmesi, hücresel ağınızı, mikrofonunuzu kullanması ve kişilerinizi okuması gerekebilir. Onaylıyor musunuz?</string>
+  <string name="cta_dialog_miot_text_all">Mi Home\'un normal şekilde çalışabilmesi için, ağınızı, konumunuzu, Bluetooth\'unuzu açmak için yetkilendirilmesi, hücresel ağınızı, mikrofonunuzu kullanması ve kişilerinizi okuması gerekebilir. Onaylıyor musunuz?</string>
   <string name="cta_dialog_negative">Çık</string>
   <string name="cta_dialog_positive">Kabul et</string>
   <string name="cta_dialog_text_all">Uygulama kasasını kullanmak için %1$s \"Kullanıcı Sözleşmesi\" %2$s ve %3$s \"Gizlilik Politikası\" %4$s okumalı ve kabul etmelisiniz. Servis ayrıca internet bağlantısı ve konum servislerine erişim gerektiriyor.</string>
@@ -239,7 +242,10 @@
   <string name="cta_title">Uygulama kasasına hoş geldiniz</string>
   <string name="daily_greeting">Günlük Olaylar</string>
   <string name="data_error">Bir hata oluştu, bir iki dakika bekleyin ve tekrar deneyin.</string>
-  <string name="data_error_show">Sipariş tamamlandı, ayrıntıları göremiyorum</string>
+  <string name="data_error_show">Sipariş tamamlandı, ayrıntılar görüntülenemiyor</string>
+  <string name="debug_card_brief">Hata ayıklama ayarları ve araçları</string>
+  <string name="debug_card_detail">Hata ayıklama ayarları ve araçları</string>
+  <string name="debug_card_title">Hata ayıklama</string>
   <string name="delete">Sil</string>
   <string name="detail_action_delete">Sil</string>
   <string name="detail_action_open_in_browser">Tarayıcıda aç</string>
@@ -734,17 +740,19 @@
   <string name="miot_cta_dialog_title">Yetkilendirme izni ver</string>
   <string name="miot_del_dialog_cancel">Tut</string>
   <string name="miot_del_dialog_sure">Kaldır</string>
-  <string name="miot_delete_dialog_content">Mi Ev kartını Uygulama kasası ayarlarından geri yükleyebilirsiniz.</string>
-  <string name="miot_delete_dialog_title">Mi ev kartı kaldırıldı</string>
+  <string name="miot_delete_dialog_content">Mi Home kartını Uygulama kasası ayarlarından geri yükleyebilirsiniz.</string>
+  <string name="miot_delete_dialog_title">Mi Home kartı kaldırıldı</string>
   <string name="miot_device_add_device">Cihaz ekle</string>
   <string name="miot_device_all_device">Tüm cihazlar</string>
   <string name="miot_device_cancel">İptal</string>
-  <string name="miot_device_card_title">Mi Ev cihazları</string>
+  <string name="miot_device_card_title">Mi Home cihazları</string>
   <string name="miot_device_click_show_detail">Akıllı ev cihazları hakkında daha fazla bilgi edinmek için dokunun.</string>
-  <string name="miot_device_cta_and">" ve "</string>
+  <string name="miot_device_closed">Cihaz kapalı</string>
+  <string name="miot_device_cta_and"> ve </string>
   <string name="miot_device_cta_message">"Uygulama kasasından kontrol edebilmek için akıllı cihazlarınızı ekleyin. Aşağıdaki \"Kabul\" seçeneğine dokunarak kabul etmiş olursunuz "</string>
   <string name="miot_device_cta_priv">Gizlilik Politikası</string>
-  <string name="miot_device_cta_use_info">Mi Ev Kullanıcı Sözleşmesi</string>
+  <string name="miot_device_cta_use_info">Mi Home Kullanıcı Sözleşmesi</string>
+  <string name="miot_device_disabled">Bu cihaz şu anda kontrol edilemiyor</string>
   <string name="miot_device_edit">Düzenle</string>
   <string name="miot_device_edit_device">Cihazları yeniden düzenle</string>
   <string name="miot_device_empty_text">İsteğe bağlı olarak çalıştırmak için hava temizleyici, kamera, robot vakum ve diğer akıllı cihazlar ekleyin.</string>
@@ -754,9 +762,10 @@
   <string name="miot_device_login">Oturum aç</string>
   <string name="miot_device_mijia_logout_message">Herhangi bir cihaz eklemeden veya kullanmadan önce Mi hesabınızla oturum açmanız gerekir. Şimdi oturum açmak ister misiniz?</string>
   <string name="miot_device_mijia_logout_title">Oturum açılmamış</string>
-  <string name="miot_device_mijia_uninstall_message">Mi Ev uygulaması yüklü değil. Uygulama mağazasını kullanarak indirmek ister misiniz?</string>
+  <string name="miot_device_mijia_uninstall_message">Mi Home uygulaması yüklü değil. Uygulama mağazasını kullanarak indirmek ister misiniz?</string>
   <string name="miot_device_mijia_uninstall_title">Yüklü değil</string>
   <string name="miot_device_network_error">Bağlantı yok</string>
+  <string name="miot_device_opening">Cihaz açık</string>
   <string name="miot_more_device">Daha fazla cihaz</string>
   <string name="miot_nearby_device">Yakındaki bağlı cihazlar</string>
   <string name="miot_not_warn">Bu uyarıyı yoksay</string>
@@ -1158,6 +1167,7 @@
   <string name="trip_assistant_all_btn">Tüm geziler</string>
   <string name="trip_profession">Birinci sınıf araba</string>
   <string name="trip_quick">Sürücü</string>
+  <string name="trip_required_info">Zorunlu</string>
   <string name="trip_taxi">Taksi</string>
   <string name="try_again">Tekrar dene</string>
   <string name="understandassistant">Uygulama kasası Hakkında</string>

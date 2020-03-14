@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="app_usage_day">
-    <item quantity="other">%d gün boyunca kullanılmadı</item>
-    <item quantity="one">%d gün boyunca kullanılmadı</item>
+    <item quantity="other">%d gündür kullanılmadı</item>
+    <item quantity="one">%d gündür kullanılmadı</item>
   </plurals>
   <plurals name="app_usage_month">
-    <item quantity="other">%d ay boyunca kullanılmamış</item>
-    <item quantity="one">%d ay boyunca kullanılmamış</item>
+    <item quantity="other">%d aydır kullanılmadı</item>
+    <item quantity="one">%d aydır kullanılmadı</item>
   </plurals>
   <plurals name="app_usage_year">
-    <item quantity="other">%d yıl boyunca kullanılmamış</item>
-    <item quantity="one">%d yıl boyunca kullanılmamış</item>
+    <item quantity="other">%d yıldır kullanılmadı</item>
+    <item quantity="one">%d yıldır kullanılmadı</item>
   </plurals>
   <plurals name="clean_long_msg_p1">
     <item quantity="other">"%1$d dosya temizleniyor (%2$d%%)\n\n "</item>

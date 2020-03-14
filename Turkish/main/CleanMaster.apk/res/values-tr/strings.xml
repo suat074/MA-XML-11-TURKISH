@@ -39,8 +39,8 @@
   <string name="app_description_content">Temizleyici, cihazınızda çöpleri bulur ve depolama alanını boşaltır. Uygulamayı kaldırmadan önce bu özelliklere sahip olmadığınızdan emin olun.</string>
   <string name="app_description_title">Temizleyici Hakkında</string>
   <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
-  <string name="app_usage_never">Önceden kullanılmamış</string>
-  <string name="app_usage_recently">Önceden kullanılan</string>
+  <string name="app_usage_never">Yakında kullanılmadı</string>
+  <string name="app_usage_recently">Yakında kullanıldı</string>
   <string name="appcleaner_wechat_scanning_trash">Çöp</string>
   <string name="apps_sort_type_item_size">Boyut</string>
   <string name="apps_sort_type_item_time">Sık kullanılan</string>
