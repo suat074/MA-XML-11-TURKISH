@@ -156,7 +156,7 @@
   <string name="app_behavior_audio_bg">%1s arka planda ses kaydetti</string>
   <string name="app_behavior_audio_bg_single">Bu uygulama arka planda ses kaydetti</string>
   <string name="app_behavior_audio_single">Bu uygulama ses kaydetti</string>
-  <string name="app_behavior_autostart">%1s otomatik başlatma</string>
+  <string name="app_behavior_autostart">%1s otomatik başlatıldı</string>
   <string name="app_behavior_autostart_single">Bu uygulama otomatik olarak başlatıldı</string>
   <string name="app_behavior_calendar">%1s takvim etkinliklerinize erişti</string>
   <string name="app_behavior_calendar_bg">%1s arka planda takvim etkinliklerinize erişti</string>
@@ -170,10 +170,10 @@
   <string name="app_behavior_callphone_single">Bu uygulama bir çağrı yaptı</string>
   <string name="app_behavior_camera">%1s fotoğraf çekti veya video kaydetti</string>
   <string name="app_behavior_camera_single">Bu uygulama fotoğraf çekti veya video kaydetti</string>
-  <string name="app_behavior_clipboard">%1s panodaki öğelere erişti veya kaydetti</string>
-  <string name="app_behavior_clipboard_bg">%1s arka planda panodaki öğelere erişti veya kaydetti</string>
-  <string name="app_behavior_clipboard_bg_single">Bu uygulama arka planda panodaki öğelere erişti veya kaydetti</string>
-  <string name="app_behavior_clipboard_single">Bu uygulama panodaki öğelere erişti veya kaydetti</string>
+  <string name="app_behavior_clipboard">%1s panoya erişti veya öğe kaydetti</string>
+  <string name="app_behavior_clipboard_bg">%1s arka planda panoya erişti veya öğe kaydetti</string>
+  <string name="app_behavior_clipboard_bg_single">Bu uygulama arka planda panoya erişti veya öğe kaydetti</string>
+  <string name="app_behavior_clipboard_single">Bu uygulama panoya erişti veya öğe kaydetti</string>
   <string name="app_behavior_contacts">%1s kişilerinize erişti</string>
   <string name="app_behavior_contacts_bg">%1s arka planda kişilerinize erişti</string>
   <string name="app_behavior_contacts_bg_single">Bu uygulama arka planda kişilerinize erişti</string>
@@ -230,8 +230,8 @@
   <string name="app_behavior_sms_read_single">Bu uygulama SMS okudu</string>
   <string name="app_behavior_sms_send">%1s SMS gönderdi</string>
   <string name="app_behavior_sms_send_single">Bu uygulama SMS gönderdi</string>
-  <string name="app_behavior_storage">%1s dosyalara dosyalara erişti veya kaydetti</string>
-  <string name="app_behavior_storage_bg">%1s arka planda dosyalara dosyalara erişti veya kaydetti</string>
+  <string name="app_behavior_storage">%1s dosyalara erişti veya kaydetti</string>
+  <string name="app_behavior_storage_bg">%1s arka planda dosyalara erişti veya kaydetti</string>
   <string name="app_behavior_storage_bg_single">Bu uygulama arka planda dosyalara erişti veya kaydetti</string>
   <string name="app_behavior_storage_single">Bu uygulama dosyalara erişti veya kaydetti</string>
   <string name="app_behavior_wakepath" formatted="false">%1s, %2s uygulamasını başlattı</string>

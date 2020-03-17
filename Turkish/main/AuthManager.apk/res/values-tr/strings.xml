@@ -295,7 +295,7 @@
   <string name="grant_dialog_button_deny">Reddet</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Reddet ve bir daha sorma</string>
   <string name="grant_dialog_button_deny_background">Sadece uygulamayı kullanırken</string>
-  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Reddet ve bir daha sorma</string>
+  <string name="grant_dialog_button_deny_background_and_dont_ask_again">Yalnızca uygulamayı kullanırken izin ver ve bir daha sorma</string>
   <string name="location_settings">Konum Ayarları</string>
   <string name="location_warning">%1$s bu cihaz için konum hizmetleri sağlayıcısıdır. Konum erişimini Konum Ayarları\'ndan değiştirilebilirsiniz.</string>
   <string name="never_ask_again">Kısıtladıktan sonra tekrar sorma</string>

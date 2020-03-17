@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana ekrana git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+  <string name="abc_capital_off">KAPAT</string>
+  <string name="abc_capital_on">AÇ</string>
+  <string name="abc_search_hint">Arama…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Ara</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="access_sd_fail">SD karta erişilemedi.</string>
   <string name="accessibility_ai_scene_off">AI kamera kapalı</string>
   <string name="accessibility_ai_scene_on">AI kamera açık</string>
@@ -966,6 +983,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="reset_manually_parameter_hint">Sıfırla</string>
   <string name="screen_on_proximity_sensor_hint">Bu özelliği kapatmak için, Ses açma ve Geri düğmelerine aynı anda basın.</string>
   <string name="screen_on_proximity_sensor_summary">Kulaklık alanını kapatmayın</string>
+  <string name="search_menu_title">Ara</string>
   <string name="search_settings">Kamera Ayarları;Kalite;Fotoğraf Kalitesi;Resim Konumu;Fotoğraf Konumu;Yüz Tespiti;Kamera Sesi</string>
   <string name="see_qrcode_detals">QR Kodu Detayları</string>
   <string name="share">Paylaş</string>
@@ -995,6 +1013,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="snap_confirmed">Değiştir</string>
   <string name="spaceIsLow_content_external_storage_priority">SD kartta yeterli alan yok</string>
   <string name="spaceIsLow_content_primary_storage_priority">USB Depolamada yeterli alan yok</string>
+  <string name="speech_shutter_open_tip">Fotoğraf çekmek için \"拍照\" ya da \"茄子\" deyin</string>
+  <string name="speech_shutter_tip">Sesli deklanşör</string>
   <string name="start_capture">Tamam</string>
   <string name="sticker_tab1">Sevimli</string>
   <string name="sticker_tab2">Komik</string>

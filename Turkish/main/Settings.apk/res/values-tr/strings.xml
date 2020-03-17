@@ -903,8 +903,8 @@ Sorun şunlar olabilir:
   <string name="bluetooth_max_connected_audio_devices_dialog_title">Maksimum bağlı Bluetooth ses cihazı sayısını seçin</string>
   <string name="bluetooth_max_connected_audio_devices_string">Maksimum bağlı Bluetooth ses cihazı</string>
   <string name="bluetooth_menu_advanced">Gelişmiş</string>
-  <string name="bluetooth_mi_fast_connect">Mi Link</string>
-  <string name="bluetooth_mi_fast_connect_summary">Yakınlardaki Bluetooth cihazlarına bağlanın</string>
+  <string name="bluetooth_mi_fast_connect">Uyumlu cihazları eşleştir</string>
+  <string name="bluetooth_mi_fast_connect_summary">Basitleştirilmiş bir eşleştirme işlemi kullanarak yakındaki cihazlara bağlanın</string>
   <string name="bluetooth_middle_name">Durum</string>
   <string name="bluetooth_name_not_set">İsim ayarlanmadı, hesap adı kullanılıyor</string>
   <string name="bluetooth_no_devices_found">Yakınlarda Bluetooth cihazı bulunamadı.</string>

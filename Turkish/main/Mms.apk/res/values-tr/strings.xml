@@ -179,7 +179,7 @@
   <string name="delete_verification_code_sms_message">Tüm tek seferlik şifreleri sil?</string>
   <string name="delete_verification_code_sms_title">Tek seferlik şifreleri sil</string>
   <string name="delete_wild_sims">Numaraları sil</string>
-  <string name="delete_wild_sims_confirm">Seçilen numaralara ait tüm mesajlar bu telefondan silinecek. Bunları i.mi.com adresinde geri yükleyebilirsiniz.</string>
+  <string name="delete_wild_sims_confirm">Seçilen numaralara ait tüm mesajlar bu telefondan silinecek. Onları i.mi.com adresinde geri yükleyebilirsiniz.</string>
   <string name="delete_wild_sims_title">Seçili numaraları sil</string>
   <string name="delivery_report_activity">Teslim raporu</string>
   <string name="delivery_toast_body">Mesaj %s tarafından alındı.</string>
