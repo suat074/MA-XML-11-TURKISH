@@ -1,5 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana ekrana git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+  <string name="abc_capital_off">KAPAT</string>
+  <string name="abc_capital_on">AÇ</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">sil</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+  <string name="abc_menu_space_shortcut_label">boşluk</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menü+</string>
+  <string name="abc_search_hint">Arama…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Ara</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="action_folder_description">Klasörleri görüntüle</string>
   <string name="action_mode_switcher_grid_description">Izgara görünümü</string>
   <string name="action_mode_switcher_list_description">Liste görünümü</string>
@@ -36,11 +63,14 @@
   <string name="cloud_trash_bin_title">Buluttan silinmiş notlar</string>
   <string name="confirm_cancel">Reddet</string>
   <string name="confirm_ok">Kabul et</string>
+  <string name="copy">Kopyala</string>
   <string name="cta_confirm_cancel">İzin verme</string>
   <string name="cta_confirm_ok">İzin ver</string>
   <string name="cta_dialog_message">Notlar\'ın normal çalışması için, internete bağlanması, ses kaydetmesi ve kişilerinize erişmesi gerekir. İzin verilsin mi?</string>
   <string name="cta_dialog_title">İzin gerekli</string>
   <string name="cta_reminder">Notlar\'ın normal çalışması için internete bağlanma, ses kaydetme ve kişilerinize erişme izinlerine ihtiyacı var. İzin ver?</string>
+  <string name="data_empty_note">Burada henüz not yok</string>
+  <string name="data_empty_todo">Burada henüz not yok</string>
   <string name="date_calculate_today">0 gün</string>
   <string name="date_time_picker_alarm_reminder">Alarm</string>
   <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
@@ -87,6 +117,7 @@
   <string name="error_unsupport_content">Bu not desteklenmeyen içerik içeriyor, güncellemek için buraya dokunun</string>
   <string name="error_widget_exist_for_send_to_desktop">Bu not zaten Ana ekranınızda</string>
   <string name="exceed_todo_text_limitation">Görev açıklaması çok uzun.</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="first_enter_custom_folder_hint">Buradan klasörleri yeniden adlandırabilir veya silebilirsiniz</string>
   <string name="folder_exist">Aynı ada sahip bir klasör zaten var</string>
   <string name="folder_operation_delete">Sil</string>
@@ -132,6 +163,7 @@
   <string name="new_audio_create_guide_tip">Sesli not oluşturmak için basılı tutun</string>
   <string name="new_audio_create_talkback_des">Metin notu oluşturmak için dokunun. Sesli not oluşturmak için basılı tutun. Kaydı durdurmak ve notu oluşturmak için düğmeyi bırakın veya iptal etmek için yukarı kaydırın.</string>
   <string name="not_now">Şimdi değil</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="note_description_content">Notlar uygulaması, fikirlerinizi kaydetmek için harika bir araçtır. Yerleşik hatırlatıcılara sahiptir ve öğelerinizi bulut ile eşitler, böylece her yerde, istediğiniz zaman erişebilirsiniz. Uygulamayı silmeden önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="note_description_title">Notlar hakkında</string>
   <string name="note_link_email">E-posta oluştur</string>
@@ -167,6 +199,7 @@
   <string name="pref_title_skip_confirm_for_quick_delete">Hareket kullanarak sil</string>
   <string name="pref_title_todo_float_mode">Görev araç kutusunu kullan</string>
   <string name="pref_title_todo_shorcut">Araç kutusu</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="privacy_note_content_empty">Henüz burada öğe yok.</string>
   <string name="recover_notes_hint">Bir hata oluştu, notları geri yüklemek için i.mi.com adresine gidin.</string>
   <string name="redo">Yeniden yap</string>
@@ -207,6 +240,7 @@
   <string name="search_hint">Notlarda ara</string>
   <string name="search_keyword_notes">Notlar;Memo</string>
   <string name="search_label">Aranıyor…</string>
+  <string name="search_menu_title">Ara</string>
   <string name="search_path_notes">Sistem uygulamaları/Notlar</string>
   <string name="search_setting_description">Notlarınızda metin arayın</string>
   <string name="select_account_prompt">Notları eşitle</string>
@@ -335,6 +369,8 @@
   <string name="unclassfied_folder_name">Kategorilenmemiş</string>
   <string name="undo">Geri al</string>
   <string name="unknown_source">Bilinmeyen kaynak</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="widget_content_loading">Sadece bir saniye…</string>
   <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için widgete basılı tutun.</string>
 </resources>
