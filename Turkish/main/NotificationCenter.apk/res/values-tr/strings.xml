@@ -18,10 +18,13 @@
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="app_name">Bildirimler</string>
+  <string name="cancel">İptal</string>
+  <string name="category_other">Diğer</string>
   <string name="character_counter_content_description">Girilen karakter sayısı %1$d / %2$d</string>
   <string name="character_counter_overflowed_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
   <string name="chip_text">Yonga metni</string>
   <string name="clear_text_end_icon_content_description">Metni temizle</string>
+  <string name="confirm">Tamam</string>
   <string name="default_list_type">Alınan zamana göre sırala</string>
   <string name="disable_float_notification">Kayan bildirimlere izin verilmiyor</string>
   <string name="disable_lockscreen_notification">Kilit ekranı bildirimlerine izin verilmiyor</string>
@@ -33,7 +36,12 @@
   <string name="expand_top_notification">Üst bildirimi genişlet</string>
   <string name="expandable_under_keyguard">Kilit ekranında Bildirim alanını aç</string>
   <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+  <string name="feedback">Geri bildirim</string>
+  <string name="feedback_tip_cancel">Bildirim verileri toplanmayacak.</string>
+  <string name="feedback_tip_msg">Bildirimleri daha doğru gruplamak için uygulama adı, bildirim başlığı ve açıklaması ile bildirimin gönderildiği saati toplamamız gerekir. Geri bildiriminiz gönderilsin mi?</string>
+  <string name="feedback_tip_title">Bildirim kategorileri hakkında geri bildirim</string>
   <string name="float_notifications">Kayan bildirimler</string>
+  <string name="function_description">Bu özellik hakkında</string>
   <string name="hint_search_all">Uygulamaları ara</string>
   <string name="hint_search_in_disabled_apps">Bildirimleri gösteremeyen uygulamaları arayın</string>
   <string name="hint_search_in_enabled_apps">Bildirimleri gösterebilen uygulamaları arayın</string>
@@ -44,6 +52,15 @@
   <string name="lock_screen_display_rules">Biçim</string>
   <string name="lock_screen_tip_toast">\"Biçim\" içinde Kilit ekranı bildirimlerine izin ver</string>
   <string name="lockscreen_notifications">Kilit ekranı bildirimleri</string>
+  <string name="menu_setting_recommend_to_minus">Daha az bildirim göster</string>
+  <string name="menu_setting_recommend_to_normal">Bildirimleri azaltma</string>
+  <string name="menu_setting_show_in_home">Gruplandırma</string>
+  <string name="menu_setting_tip_recommend_minus">%s tarafından daha az bildirim göreceksiniz</string>
+  <string name="menu_setting_tip_recommend_normal">%s tarafından gönderilen bildirimler azaltılmayacak</string>
+  <string name="menu_setting_tip_show_in_home">%s tarafından gönderilen bildirimler gruplandırılmayacak</string> 
+  <string name="menu_setting_toast_recommend_minus">%s tarafından daha az bildirim göreceksiniz</string>
+  <string name="menu_setting_toast_recommend_normal">%s tarafından gönderilen bildirimler azaltılmayacak</string>
+  <string name="menu_setting_toast_show_in_home">%s tarafından gönderilen bildirimler gruplandırılmayacak</string>
   <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="mtrl_picker_a11y_next_month">Gelecek aya değiştir</string>
@@ -72,12 +89,18 @@
   <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
   <string name="not_sent_recently">Yakınlarda yok</string>
   <string name="notch_and_status_bar_setting">Çentik &amp; durum çubuğu</string>
-  <string name="notification_aggregate_title">Bildirim toplayıcı</string>
+  <string name="notification_aggregate_description1">MIUI, push ve promosyon bildirimlerini otomatik olarak gruplandırarak Bildirim alanınızı daha az kalabalık hale getirebilir.</string>
+  <string name="notification_aggregate_description2">Algoritmalarımız bildirim içeriğini analiz eder ve bu özelliği anlık mesajlaşma uygulamalarından gelen önemli uyarılara ve bildirimlere uygulamaz. Önemli bildirimlerin yanlışlıkla gruplandığını görürseniz, \"Geri bildirim\" özelliğimizi kullanarak karşılaştığınız sorunu bildirin.</string>
+  <string name="notification_aggregate_summary">MIUI için bildirimleri otomatik olarak gruplandırmasına izin ver</string>
+  <string name="notification_aggregate_summary_inner">Push ve promosyon bildirimlerini otomatik olarak gruplandırmak için açın</string>
+  <string name="notification_aggregate_title">Grup bildirimleri</string>
   <string name="notification_display_setting">Bildirim alanı</string>
   <string name="notification_display_style">Bildirim tarzı</string>
   <string name="notification_fold_summary">Tüm önemsiz bildirimler ayrı bir klasörde görünecektir</string>
   <string name="notification_fold_title">Bildirimler klasörü</string>
   <string name="notification_manager">Uygulama bildirimleri</string>
+  <string name="notification_setting_menu_feedback_text">"Bu bildirim burada olmamalı mı?
+Bu sorunu bildirin &gt;"</string>
   <string name="notification_style_android">Android</string>
   <string name="notification_style_miui">MIUI</string>
   <string name="off">Kapalı</string>
@@ -96,5 +119,6 @@
   <string name="summary_float_enable_notification_first">Bildirimlerin, kayan bildirimleri açabilmesi için izin ver</string>
   <string name="summary_lock_screen_enable_notification_first">Bildirimlerin, Kilit ekranı bildirimlerini açabilmesi için izin ver</string>
   <string name="summary_show_badge_enable_notification_first">Bildirimlerin, bildirim rozetlerini açabilmesi için izin ver</string>
-  <string name="tip_select_category">Bildirim türünü seçin</string>
+  <string name="tip_feedback_success">Başarıyla gönderildi</string>
+  <string name="tip_select_category">Bildirim kategorisini seçin</string>
 </resources>

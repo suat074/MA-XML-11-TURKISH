@@ -25,7 +25,7 @@
   <string name="calendar_tip">Etkinlik hatırlatıcı sesleri, takvim hatırlatıcıları, notlar ve görevler için çalışır</string>
   <string name="category_other">Diğer</string>
   <string name="color_gamut">Renk gamı</string>
-  <string name="contact_description">Ana ekranınıza kişi kısayollarını yerleştirin ve çağrı yapmak için dokunun</string>
+  <string name="contact_description">Çağrı yapmak için Ana ekran kısayollarına dokunun</string>
   <string name="contact_title">Kişi kısayolları</string>
   <string name="contrast_ratio">Kontrast</string>
   <string name="create">Oluştur</string>

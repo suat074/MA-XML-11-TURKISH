@@ -12,6 +12,18 @@
     <item quantity="other">%1$s ile %2$s arasında %3$d kez kısıtlandı</item>
     <item quantity="one">%1$s ile %2$s arasında %3$d kez kısıtlandı</item>
   </plurals>
+  <plurals name="app_behavior_notification_audio_more">
+    <item quantity="other">%1$s ve %2$d uygulama daha ses kaydediyor</item>
+    <item quantity="one">%1$s is ses kaydediyor</item>
+  </plurals>
+  <plurals name="app_behavior_notification_camera_more">
+    <item quantity="other">%1$s ve %2$d uygulama daha kamerayı kullanıyor</item>
+    <item quantity="one">%1$s kamerayı kullanıyor</item>
+  </plurals>
+  <plurals name="app_behavior_notification_location_more">
+    <item quantity="other">%1$s ve %2$d uygulama daha konumunuza erişiyor</item>
+    <item quantity="one">%1$s konumunuza erişiyor</item>
+  </plurals>
   <plurals name="app_behavior_privacy_manager_off">
     <item quantity="other">%1$d uygulama tarafından gerçekleştirilen hassas eylemler hakkında bildirim almayacaksınız</item>
     <item quantity="one">%1$d uygulama tarafından gerçekleştirilen hassas eylemler hakkında bildirim almayacaksınız</item>

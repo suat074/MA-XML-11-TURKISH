@@ -59,6 +59,7 @@ dd/MM"</string>
   <string name="background_icon">Arka plan</string>
   <string name="below_image">Aşağı</string>
   <string name="black_white_clock_panel">Saat</string>
+  <string name="btn_know">Anladım</string>
   <string name="cancel">İptal</string>
   <string name="character_counter_content_description">Girilen karakter sayısı %1$d / %2$d</string>
   <string name="character_counter_overflowed_content_description">Karakter sınırı %1$d / %2$d değerini aştı</string>
@@ -85,6 +86,8 @@ dd/MM"</string>
   <string name="line_space">Satır aralığı</string>
   <string name="mini_time">Küçük saat</string>
   <string name="minimalist_clock">Basit saat</string>
+  <string name="modify_scheduled_time">Zamanı değiştir</string>
+  <string name="more_online_theme">Çevrimiçi öğeler</string>
   <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
   <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="mtrl_picker_a11y_next_month">Gelecek aya değiştir</string>
@@ -122,12 +125,15 @@ dd/MM"</string>
   <string name="notification_screen_on">Ekranı aydınlat</string>
   <string name="only_show_bg_description">Saati, tarihi ve diğer öğeleri gösterme</string>
   <string name="only_show_bg_title">Sadece arka planı göster</string>
+  <string name="open_aod_mode">Aç</string>
   <string name="panel_clock">Analog</string>
   <string name="paper_mode_end_time_title">Kapat</string>
   <string name="paper_mode_start_time_title">Aç</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
   <string name="photo_editor_saving">Kaydediliyor…</string>
   <string name="please_input_signature">İmzayı girin</string>
+  <string name="scheduled_mode_dialog_msg">Öğeler bu süre içinde Her Zaman açık ekranınızda görüntülenecek: %s.</string>
+  <string name="scheduled_mode_msg">Aktif dönem: %s</string>
   <string name="scheduled_style">Zamanlanmış</string>
   <string name="scope_des">Her kaleydoskop, ekran her yandığında sırayla görüntülenecek 5 farklı desen içerir.</string>
   <string name="scope_icon">Kaleydoskop tarzı</string>
@@ -156,4 +162,5 @@ olacağına inan"</string>
   <string name="time_location">Saat pozisyonu</string>
   <string name="time_style">Stil</string>
   <string name="time_style_layout">Yerleşim</string>
+  <string name="tip_to_open_aod_mode">Her zaman açık ekran kapalı. Şimdi açılsın mı?</string>
 </resources>
