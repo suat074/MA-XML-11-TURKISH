@@ -149,7 +149,7 @@
   <string name="apn_exception_title">APN yapılandırmalarını kontrol et</string>
   <string name="apn_exception_wap_summary">WAP şu anda kararsız. Ağa geçin.</string>
   <string name="app_behavior_about_content_no_link">MIUI, uygulamalar diğer uygulamaları başlattığında, otomatik olarak başlatıldığında, kullanılan izinlerde ve hassas eylemler yaptığında bunları gösterebilir. Android sürüm uyumluluğu sorunları nedeniyle, bu kayıtların bazıları doğru olmayabilir. Doğru olmayan bir uygulama davranışı kaydı bulursanız \"Hizmetler &amp; geri bildirim\" uygulamasını kullanarak bize bildirin.</string>
-  <string name="app_behavior_about_negative">Geri bildirim</string>
+  <string name="app_behavior_about_negative">Hataları bildir</string>
   <string name="app_behavior_about_positive">Anladım</string>
   <string name="app_behavior_allowed">İzin ver</string>
   <string name="app_behavior_audio">%1s ses kaydetti</string>
@@ -183,10 +183,10 @@
   <string name="app_behavior_desc_deny_once">%1$s itibarıyla kısıtlandı</string>
   <string name="app_behavior_door">Uygulama davranışı</string>
   <string name="app_behavior_header_time">dd MMMM</string>
-  <string name="app_behavior_key_audio">Ses kaydı</string>
-  <string name="app_behavior_key_camera">Kamera</string>
+  <string name="app_behavior_key_audio">Ses kaydetme</string>
+  <string name="app_behavior_key_camera">Fotoğraf çekme</string>
   <string name="app_behavior_key_location">Konum</string>
-  <string name="app_behavior_key_protect">Özel bilgileri koruyun</string>
+  <string name="app_behavior_key_protect">Kişisel bilgileri koruyun</string>
   <string name="app_behavior_list_load_more">Yükleniyor…</string>
   <string name="app_behavior_location">%1s konumunuza erişti</string>
   <string name="app_behavior_location_bg">%1s arka planda konumunuza erişti</string>
@@ -202,11 +202,11 @@
   <string name="app_behavior_monitor_tips_summary">Uygulamalar ses kaydettiğinde, konumunuza eriştiğinde veya arka planda diğer hassas eylemleri gerçekleştirdiğinde bildirim alabilirsiniz.</string>
   <string name="app_behavior_no_recorder">Sonuç bulunamadı</string>
   <string name="app_behavior_notification_audio_now_one">%1s ses kaydediyor</string>
-  <string name="app_behavior_notification_audio_now_two">%1s ve 1 uygulama daha ses kaydediyor</string>
-  <string name="app_behavior_notification_camera_one">%1s kamerayı kullanıyor</string>
-  <string name="app_behavior_notification_camera_two">%1s ve 1 uygulama daha kamerayı kullanıyor</string>
+  <string name="app_behavior_notification_audio_now_two" formatted="false">%1s ve %2s ses kaydediyor</string>
+  <string name="app_behavior_notification_camera_one">%1s fotoğraf çekiyor</string>
+  <string name="app_behavior_notification_camera_two" formatted="false">%1s ve %2s fotoğraf çekiyor</string>
   <string name="app_behavior_notification_location_one">%1s konumunuza erişiyor</string>
-  <string name="app_behavior_notification_location_two">%1s ve 1 uygulama daha konumunuza erişiyor</string>
+  <string name="app_behavior_notification_location_two" formatted="false">%1s ve %2s konumunuza erişiyor</string>
   <string name="app_behavior_notification_title_calllog_read">%1s arka planda çağrı geçmişine erişti</string>
   <string name="app_behavior_notification_title_calllog_write">%1s arka planda çağrı geçmişini düzenledi</string>
   <string name="app_behavior_notification_title_clipboard_read">%1s arka planda panoya erişti</string>
@@ -236,18 +236,27 @@
   <string name="app_behavior_search">Ara</string>
   <string name="app_behavior_sensor">%1s sensör verilerine erişti</string>
   <string name="app_behavior_sensor_single">Bu uygulama sensör verilerine erişti</string>
-  <string name="app_behavior_settings_category_perm">İzin kullanım hatırlatıcısı</string>
-  <string name="app_behavior_settings_category_privacy">Özel bilgi koruması</string>
-  <string name="app_behavior_settings_perm_tips">Uygulama bu izinlerden herhangi birini kullandığında bir durum çubuğu bildirimi görüntüle:</string>
-  <string name="app_behavior_settings_privacy_tips">Uygulama arka planda hassas bilgileri her okuduğunda/yazdığında (kişiler, çağrı geçmişi vb.) bir bildirim görüntüle</string>
+  <string name="app_behavior_settings_category_perm">Hassas eylemler hakkında bilgilendir</string>
+  <string name="app_behavior_settings_category_privacy">Kişisel bilgileri koruyun</string>
+  <string name="app_behavior_settings_perm_tips">Uygulamalar konumunuza eriştiğinde, ses kaydettiğinde veya fotoğraf çektiğinde durum çubuğunda bir uyarı göster</string>
+  <string name="app_behavior_settings_privacy_tips">Uygulamalar kişilerinize veya çağrı geçmişine eriştiğinde veya diğer hassas eylemleri gerçekleştirdiğinde bildirim alın</string>
   <string name="app_behavior_sms_read">%1s SMS okudu</string>
   <string name="app_behavior_sms_read_single">Bu uygulama SMS okudu</string>
   <string name="app_behavior_sms_send">%1s SMS gönderdi</string>
   <string name="app_behavior_sms_send_single">Bu uygulama SMS gönderdi</string>
+  <string name="app_behavior_start_from_app_single">Bu uygulama %1s tarafından başlatıldı</string>
+  <string name="app_behavior_start_from_launcher">%1s, Ana ekrandan başlatıldı</string>
+  <string name="app_behavior_start_from_launcher_single">Bu uygulama Ana ekrandan başlatıldı</string>
+  <string name="app_behavior_start_from_notification">%1s bir bildirim tarafından başlatıldı</string>
+  <string name="app_behavior_start_from_notification_single">Bu uygulama bir bildirim tarafından başlatıldı</string>
+  <string name="app_behavior_start_from_recent">%1s, Son kullanılanlar bölümünden başlatıldı</string>
+  <string name="app_behavior_start_from_recent_single">Bu uygulama Son kullanılanlar bölümünden başlatıldı</string>
   <string name="app_behavior_storage">%1s dosyalara erişti veya kaydetti</string>
   <string name="app_behavior_storage_bg">%1s arka planda dosyalara erişti veya kaydetti</string>
   <string name="app_behavior_storage_bg_single">Bu uygulama arka planda dosyalara erişti veya kaydetti</string>
   <string name="app_behavior_storage_single">Bu uygulama dosyalara erişti veya kaydetti</string>
+  <string name="app_behavior_time_today">Bugün</string>
+  <string name="app_behavior_time_yesterday">Dün</string>
   <string name="app_behavior_wakepath" formatted="false">%1s, %2s uygulamasını başlattı</string>
   <string name="app_behavior_wakepath_single">Bu uygulama %2s uygulamasını başlattı</string>
   <string name="app_behavior_warning_audio_title">%1s arka planda ses kaydediyor</string>
@@ -291,7 +300,7 @@
   <string name="app_manager_data_size">Kullanıcı verileri</string>
   <string name="app_manager_default_cleared">Temizlendi</string>
   <string name="app_manager_default_close_summary">Varsayılan ayar yok.</string>
-  <string name="app_manager_default_open_summary">Bazı işlemler için bu uygulamayı varsayılan olarak başlatmayı seçtiniz.</string>
+  <string name="app_manager_default_open_summary">Bazı eylemler için bu uygulamayı varsayılan olarak başlatmayı seçtiniz.</string>
   <string name="app_manager_default_open_title">Varsayılanları temizle</string>
   <string name="app_manager_defaults_setting">Varsayılan</string>
   <string name="app_manager_details_electric_title">Pil</string>
@@ -379,6 +388,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="app_name_na">Veri Kullanımı</string>
   <string name="app_name_securitycenter">Güvenlik</string>
   <string name="app_not_installed_toast">Uygulama telefonunuzda yüklü değil.</string>
+  <string name="app_perm_manager_service">İzinler</string>
   <string name="app_permission_use_group_calendar">Takvim</string>
   <string name="app_permission_use_group_calendar_des">Takvim bilgilerini okuyun ve ekleyin</string>
   <string name="app_permission_use_group_camera">Kamera</string>
@@ -405,9 +415,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="app_running_tip_dialog_text">Arka planda çalışmasını önlemek için %1$s uygulamasından çıkın. Bu, cihazınızı hızlandıracak ve güç tüketimini azaltacaktır.</string>
   <string name="app_running_tip_dialog_title">Uygulamadan çık</string>
   <string name="app_running_tip_uninstall">Bu uygulamayı kaldır</string>
-  <string name="app_statusbar_audio_now">Kaydediyor</string>
-  <string name="app_statusbar_camera_now">Çekim yapıyor</string>
-  <string name="app_statusbar_location_now">Konumlandırıyor</string>
+  <string name="app_statusbar_audio_now">Ses kaydetme</string>
+  <string name="app_statusbar_camera_now">Fotoğraf çekme</string>
+  <string name="app_statusbar_location_now">Konum</string>
   <string name="app_usage_never">Hiç kullanılmadı</string>
   <string name="app_usage_recently">Yakınlarda kullanıldı</string>
   <string name="app_version">Sürüm:</string>
@@ -1725,7 +1735,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="notification_masked_subtitle">Seçilen uygulamalarda bildirim içeriğini gizlemek için Uygulama kilidini kullanın</string>
   <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun.</string>
   <string name="notify_channel_mipush">Güvenlik push mesajları</string>
-  <string name="notify_channel_name_behavior">Uygulama davranışı</string>
+  <string name="notify_channel_name_behavior">Davranış geçmişi</string>
   <string name="notify_channel_name_security">Sistem güvenliği</string>
   <string name="notify_channel_optimize">Güvenlik bildirimleri</string>
   <string name="notify_daily_data_usage_body">Otomatik olarak veri kullanımını sınırlamak için, aylık veri planını ayarla.</string>
