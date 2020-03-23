@@ -529,6 +529,7 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">İndirilen resimlerin kalitesini seçebilir veya Ayarlar\'dan otomatik indirmeleri kapatabilirsiniz.</string>
   <string name="downloading_title">Xiaomi Bulut\'tan fotoğraflar indiriliyor</string>
+  <string name="downloading_title_file">Xiaomi Bulut\'tan öğeler indiriliyor…</string>
   <string name="drag_view_tip_sub_title">Yeniden düzenlemek için bir albüme basın ve basılı tutun</string>
   <string name="drag_view_tip_title">Albümleri yeniden düzenle</string>
   <string name="dump_db_info">Veri tabanı bilgisi dökümü</string>
@@ -1951,6 +1952,7 @@ mevcut"</string>
   <string name="vlog_back_dialog_exit_cancel">İptal</string>
   <string name="vlog_bottom_view_back">Geri</string>
   <string name="vlog_bottom_view_edit">Düzenle</string>
+  <string name="vlog_bottom_view_exit">Çık</string>
   <string name="vlog_bottom_view_save">Kaydet</string>
   <string name="vlog_cancel_download">İptal</string>
   <string name="vlog_caption">Metin</string>

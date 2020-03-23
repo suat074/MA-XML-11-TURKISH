@@ -208,7 +208,7 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_state_focus_level_summary">Mevcut seviye: %s</string>
   <string name="usage_state_focus_mode_experience_warning_message">Odak modu sadece Kamera kullanımına ve acil çağrı yapılmasına izin verir. Odak modunu vaktinden önce kapatamazsınız.</string>
   <string name="usage_state_focus_mode_summary">Acil çağrı ve Kamera dışındaki tüm özellikleri kısıtla</string>
-  <string name="usage_state_focus_mode_summary1">İyi başladı yarısı bitti</string>
+  <string name="usage_state_focus_mode_summary1">İyi başlangıç yarısı bitti</string>
   <string name="usage_state_focus_mode_summary2">Odaklanın</string>
   <string name="usage_state_focus_mode_summary3">Odaklanmış kalmak için bir çaba gerekir</string>
   <string name="usage_state_focus_mode_title">Odak modu</string>
@@ -257,7 +257,7 @@ Bu uygulamanın ayrıca internete bağlanması ve kişisel bilgilerinizi toplaya
   <string name="usage_state_usage_time_weekday_title">Hafta içi</string>
   <string name="usage_state_usage_time_weekend_title">Hafta sonu</string>
   <string name="usage_state_use_time_remind_title">Ekran süresi uyarısı</string>
-  <string name="usage_state_wakeups_title">Ekranda açık</string>
+  <string name="usage_state_wakeups_title">Ekran açıldı</string>
   <string name="usage_state_wednesday">Çrş</string>
   <string name="usage_state_week_day_hour_minute">Hafta sonu: %1$ds %2$dd</string>
   <string name="usage_state_week_total_text">Ekran süresi (son 7 gün)</string>

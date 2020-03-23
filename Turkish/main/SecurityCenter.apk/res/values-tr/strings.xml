@@ -2744,7 +2744,7 @@ Videolar Oyun Turbo &gt; Önemli anlar konumuna kaydedilir."</string>
   <string name="title_background_connection">%s arka planda kullanamıyor musunuz?</string>
   <string name="title_block_calls_from_cantacts">Kişilerinizden çağrı mı kaçırdınız?</string>
   <string name="title_block_calls_from_strangers">Kaçırdığınız önemli aramalar mı?</string>
-  <string name="title_chain_start">Kısıtlı Zincirleme Başlatıcı</string>
+  <string name="title_chain_start">Başlatma tetiklemeyi kısıtla</string>
   <string name="title_cleaner_cloudscan">Bulut çöpünü tara</string>
   <string name="title_cloud_account">Mi Hesabı</string>
   <string name="title_cloud_service">Xiaomi  Bulut</string>

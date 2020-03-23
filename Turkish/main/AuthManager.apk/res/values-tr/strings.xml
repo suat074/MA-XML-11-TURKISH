@@ -136,4 +136,10 @@
   <string name="screen_overlay_message">Bu izni değiştirmek için Ayarlar &gt; Uygulamalar\'dan ekran kaplamasını kapatmanız gerekir.</string>
   <string name="screen_overlay_title">Ekran kaplaması algılandı</string>
   <string name="Su_Package_Forbidden2">root erişimi yok.</string>
+  <string name="virtual_reject_notice_content">Kişisel bilgilerinizi korumak için uygulamaya boş bir yanıt gönderildi</string>
+  <string name="virtual_reject_notice_title_calendar">%1$s takvime erişmeye çalışıyor</string>
+  <string name="virtual_reject_notice_title_calllog">%1$s çağrı geçmişine erişmeye çalışıyor</string>
+  <string name="virtual_reject_notice_title_contacts">%1$s kişilere erişmeye çalışıyor</string>
+  <string name="virtual_reject_notice_title_phonestate">%1$s cihaz bilgilerine erişmeye çalışıyor</string>
+  <string name="virtual_reject_notice_title_sms">%1$s mesajlara erişmeye çalışıyor</string>
 </resources>

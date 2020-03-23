@@ -16,7 +16,7 @@
   <string-array name="app_behavior_type_menu">
     <item>Tüm kayıtlar</item>
     <item>Otomatik başlatma</item>
-    <item>Zincirleme başlatma</item>
+    <item>Başlatma tetikleme</item>
     <item>Kullanılan izinler</item>
     <item>Hassas eylemler</item>
   </string-array>

@@ -233,7 +233,7 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Politikası</string>
   <string name="title_fingerprint">Şifreyi belirle</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="user_agreement_declare">MIUI kullanmadan önce, Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okumalı ve kabul etmelisiniz. Cihazınız etkinleştirilirken, Mi SIM Etkinleştirme Hizmeti, Cihazı Bul, Ana ekran, Sık Kullanılan ifadeler, Çeviri Hizmeti, MIUI Daemon, HTML Görüntüleyici, AI Yardımcısı, Pil ve performans, Güç Algılayıcısı, Joyose, OS AI Ayarı, ve Güncelleyici ağa bağlanacaktır. Akıllı hizmetler ağa bağlanır ve konumunuza erişir.</string>
+  <string name="user_agreement_declare">MIUI kullanmadan önce, Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okumalı ve kabul etmelisiniz. Cihazınız etkinleştirilirken, Mi SIM Etkinleştirme Hizmeti, Cihazı Bul, Ana ekran, Sık Kullanılan ifadeler, Çeviri Hizmeti, MIUI Daemon, HTML Görüntüleyici, AI Yardımcısı, Pil ve performans, Güç Algılayıcısı, Joyose, OS AI Ayarı, İzin Yöneticisi, ve Güncelleyici ağa bağlanacaktır. Akıllı hizmetler ağa bağlanır ve konumunuza erişir.</string>
   <string name="voice_assist_advice">Mi AI ses kontrollerini kullanmanızı sağlar, ancak daha fazla güç tüketir (Her saat +1%).</string>
   <string name="voice_assist_condition">Bu durumlarda Mi AI kullanmak mümkün olacak:\n1. Ekran açıkken.\n2. Ekranı kapalı müzik dinlerken.</string>
   <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecek.</string>
