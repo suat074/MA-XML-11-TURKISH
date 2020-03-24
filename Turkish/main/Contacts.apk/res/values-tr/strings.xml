@@ -101,7 +101,7 @@
   <string name="call_work_pager">İş çağrı cihazını ara</string>
   <string name="callAgain">Tekrar ara</string>
   <string name="callBack">Geri ara</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s dak %s san</string>
+  <string name="callDetailsDurationFormat">%1$s dak %2$s san</string>
   <string name="callDetailTitle">Çağrı detayları</string>
   <string name="calllog_call_note_menu">Çağrı notları</string>
   <string name="calllog_call_record_menu">Kaydedilen çağrılar</string>
@@ -383,17 +383,17 @@
   <string name="device_paired_dialog_title">Kişiler alınıyor...</string>
   <string name="device_pairing_dialog_message">Eşleştiriliyor...</string>
   <string name="device_pairing_dialog_title">Cihazlar eşleştiriliyor</string>
-  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Diğer cihazda Bluetooth\'u açın.
+  <string name="device_transfer_by_bluetooth_message">"%1$d. Diğer cihazda Bluetooth\'u açın.
   
 - Bluetooth, Android cihazlardaki genellikle ağ ayarlarında bulunur.
 - iOS cihazlarda Bluetooth, Ayarlar\'da bulunur.
 
-%d. Android cihazlarda keşfedilebilir mod açık olmalıdır.
+%2$d. Android cihazlarda keşfedilebilir mod açık olmalıdır.
 
-%d. \"İleri\" düğmesine dokunun ve Kişilere gerekli izinleri verin."</string>
-  <string name="device_transfer_by_sim_message" formatted="false">"%d. Kişileri diğer cihazdan SIM karta kaydedin;
+%3$d. \"İleri\" düğmesine dokunun ve Kişilere gerekli izinleri verin."</string>
+  <string name="device_transfer_by_sim_message">"%1$d. Kişileri diğer cihazdan SIM karta kaydedin;
  
- %d. Kişiler uygulamasında Ayarları açın ve ardından \"Kişileri İçe/Dışa aktar\" -- \"SIM karttan içe aktar\" seçeneğine gidin, seçmek için herhangi bir SIM kişisini basılı tutun, gerekli tüm kişileri seçin ve \"İçe Aktar\" seçeneğini seçin."</string>
+%2$d. Kişiler uygulamasında Ayarları açın ve ardından \"Kişileri İçe/Dışa aktar\" -- \"SIM karttan içe aktar\" seçeneğine gidin, seçmek için herhangi bir SIM kişisini basılı tutun, gerekli tüm kişileri seçin ve \"İçe Aktar\" seçeneğini seçin."</string>
   <string name="device_version_header_bluetooth">Bluetooth yoluyla aktar</string>
   <string name="device_version_header_no_bluetooth">SIM Kart yoluyla aktar</string>
   <string name="dial">Çevir</string>
@@ -469,13 +469,13 @@
   <string name="exporting_contact_failed_message">Kişi bilgisi dışa aktarılamadı.\nSebep: \"%s\"</string>
   <string name="exporting_contact_failed_title">Dışa aktarılamıyor</string>
   <string name="exporting_contact_list_message">%s aktarılıyor...</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s / %s kişiler aktarılıyor...</string>
+  <string name="exporting_contact_list_progress">%1$s / %2$s kişiler aktarılıyor...</string>
   <string name="exporting_contact_list_title">Kişi bilgisi dışa aktarılıyor...</string>
   <string name="exporting_vcard_canceled_title">%s dişa aktarımı iptal edildi.</string>
   <string name="exporting_vcard_finished_title">%s dışa aktarımı bitti.</string>
   <string name="external_profile_title">Benim %1$s Profilim</string>
   <string name="fail_reason_could_not_initialize_exporter">Dışa aktarım başlatılamıyor: \"%s\".</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">" \"%s\": %s açılamadı."</string>
+  <string name="fail_reason_could_not_open_file">\"%1$s\" açılamadı: %2$s.</string>
   <string name="fail_reason_error_occurred_during_export">Dışa aktarma sırasında bir sorun oluştu: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">vCard dosyalarından Meta bilgileri toplanamıyor.</string>
   <string name="fail_reason_failed_to_read_files">Bir veya daha fazla dosya içe aktarılamıyor (%s).</string>
@@ -721,6 +721,14 @@
   <string name="miprofile_switch_on_alertdialog_title">Profil fotoğrafını güncelle</string>
   <string name="missing_name">(İsimsiz)</string>
   <string name="missing_required_permission">Gerekli bir izni devre dışı bıraktınız.</string>
+  <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshing">yenileniyor</string>
+  <string name="miuix_sb_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sb_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sb_tracking_progress_labe_up_none">bunu yapma</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh">yenileniyor</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="mobile_equipment_identification">Mobil Ekipman Tanımlama</string>
   <string name="more_call_logs">&lt;a href="https://i.mi.com">i.mi.com&lt;/a> sitesinden detaylı çağrı geçmişini görüntüle</string>
   <string name="move_and_resize">Taşı ve yeniden boyutlandır</string>
@@ -729,6 +737,7 @@
   <string name="multi_number_menu_group">Yeni grup</string>
   <string name="multi_number_menu_message">Mesaj</string>
   <string name="multi_number_title">Konferans çağrısı</string>
+  <string name="multi_select">Seç</string>
   <string name="multipleContactDeleteConfirmation">Bu kişiyi silmek, birden fazla hesap bilgilerinin de silinmesine neden olacak.</string>
   <string name="my_phone_not_provider_bluetooth">Hayır</string>
   <string name="my_phone_provider_bluetooth">Evet</string>
@@ -1055,7 +1064,7 @@ Favori listenize kişi eklemek için:
   <string name="showAllContactsJoinItem">Tüm kişileri göster</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">SIM kart alanını görüntüleyin</string>
-  <string name="sim_capacity_content" formatted="false">Toplam %d | Kullanılan %d</string>
+  <string name="sim_capacity_content">%1$d toplam | %2$d kullanılan</string>
   <string name="sim_card_no_free_space_message">Yeterli alan yok</string>
   <string name="sim_card_no_free_space_title">SIM kart dolu</string>
   <string name="sim_contact_existing">Kişi zaten var</string>
@@ -1084,8 +1093,8 @@ Favori listenize kişi eklemek için:
   <string name="smart_group_company_label">Şirketler</string>
   <string name="smart_group_company_unavailable">Şirket bilgisi yok</string>
   <string name="smart_group_frequency_1">Geçen ay içinde</string>
-  <string name="smart_group_frequency_2" formatted="false">%d - %d ay</string>
-  <string name="smart_group_frequency_3" formatted="false">%d - %d ay</string>
+  <string name="smart_group_frequency_2">%1$d - %2$d ay</string>
+  <string name="smart_group_frequency_3">%1$d - %2$d ay</string>
   <string name="smart_group_frequency_4">%d aydan daha önce</string>
   <string name="smart_group_frequency_label">Son kullanılanlar</string>
   <string name="smart_group_label">Akıllı gruplar</string>
