@@ -588,8 +588,8 @@
   <string name="trust_lost_locks_screen_summary">Etkinleştirilirse son güven aracısı güvenini kaybettiğinde cihaz kilitlenecektir.</string>
   <string name="trust_lost_locks_screen_title">Güven kaybedildiğinde ekranı kilitle</string>
   <string name="tx_link_speed">%1$d Mb/sn.</string>
-  <string name="tx_link_speed_label">Transmit link speed:</string>
-  <string name="tx_wifi_speed">Bağlantı iletim hızı</string>
+  <string name="tx_link_speed_label">İletim bağlantı hızı:</string>
+  <string name="tx_wifi_speed">İletim bağlantı hızı</string>
   <string name="unlock_footer_high_complexity_requested">%1$s güçlü bir PIN veya şifre öneriyor ve bu olmadan düzgün çalışmayabilir</string>
   <string name="unlock_footer_low_complexity_requested">%1$s yeni bir desen, PIN veya şifre öneriyor ve bu olmadan beklendiği gibi çalışmayabilir.</string>
   <string name="unlock_footer_medium_complexity_requested">%1$s yeni bir PIN veya şifre öneriyor ve bu olmadan beklendiği gibi çalışmayabilir</string>
