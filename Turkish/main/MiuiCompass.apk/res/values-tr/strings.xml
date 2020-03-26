@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="allow">İzin ver</string>
   <string name="altitude">%.1f</string>
   <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
@@ -22,6 +39,7 @@
   <string name="calibrate_title">Pusulayı Kalibre Et</string>
   <string name="cancel">İptal</string>
   <string name="compass_settings">Ayarlar</string>
+  <string name="copy">Kopyala</string>
   <string name="cta_v2_app_purpose">Yönleri, koordinatları, atmosferik basıncı ve mevcut irtifayı gösterir</string>
   <string name="dialog_body_no_network">Wi-Fi\'ye bağlanın veya mobil veriyi açın.</string>
   <string name="dialog_calibrat_altitude">Kalibre ediliyor...</string>
@@ -37,6 +55,7 @@
   <string name="do_not_show_next_time">"Tekrar gösterme"</string>
   <string name="error_camera_unavailable">Başka bir uygulamanın Kamerayı kullanıp-kullanmadığını kontrol edin.</string>
   <string name="error_camera_unavailable_title">Kamera kullanılamıyor</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="first_using_dialog_message">"Pusula uygulamasının doğru çalışması için cihazınızın ağ bağlantısını, kamera ve konum servislerini kullanması gerekiyor."</string>
   <string name="first_using_dialog_title">Erişim izni</string>
   <string name="guide_toast">Kalibre etmek için, cihazınızı aşağıda gösterildiği gibi hareket ettirin.</string>
@@ -54,17 +73,22 @@
   <string name="longitude">BOYLAM</string>
   <string name="mobiledata_alert_dialog_message">Rakım kalibrasyonu için internete bağlanılsın mı?</string>
   <string name="mobiledata_alert_dialog_title">Veri kullanım uyarısı</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="open_perm_msg">Pusula için konum bilgisi ve kameraya erişim gerekli. Bu koordinatları belirlemek ve canlı önizleme sağlamak için lazım. İzin verilsin mi?</string>
   <string name="open_perm_title">İzin gerekli</string>
   <string name="permission_camera_desc">Su terazisi olarak kullanma</string>
   <string name="permission_location_desc">Koordinatların ve atmosfer basıncının görüntülenmesi için</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="preference_other">Diğer</string>
   <string name="preference_privacy_title">Gizlilik Politikası</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Basınç</string>
   <string name="pressure_unit">hPa</string>
+  <string name="search_menu_title">Ara</string>
   <string name="shake_enter_tip">Kalibrasyon için telefonu ∞ şeklinde birkaç kez sallayın</string>
   <string name="unit_degree">Derece</string>
   <string name="using_camera_confirm_cancel">Çık</string>
   <string name="using_camera_confirm_ok">Katılıyorum</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
 </resources>

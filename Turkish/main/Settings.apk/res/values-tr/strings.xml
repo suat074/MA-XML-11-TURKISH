@@ -4494,6 +4494,9 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="screen_confirm">Aç</string>
   <string name="screen_dark_mode_advanced_title">Gelişmiş</string>
   <string name="screen_dark_mode_select_time_error_summary">Başlangıç saati ve bitiş saati aynı olamaz</string>
+  <string name="screen_dark_mode_smart_dark_3rd_apps_list">Üçüncü taraf uygulamaları</string>
+  <string name="screen_dark_mode_smart_dark_apps_setting_summary">Bazı uygulamalar Karanlık modda yanlış görüntülenebilir. Burada uygulamalar için tek tek Karanlık modunu kullanmayı kısıtlayabilirsiniz.</string>
+  <string name="screen_dark_mode_smart_dark_apps_setting_title">Bireysel uygulamalar</string>
   <string name="screen_dark_mode_smart_dark_summary">Üçüncü taraf uygulamalara da karanlık modu uygulayın. Bazı uygulamalar yanlış görüntülenebilir</string>
   <string name="screen_dark_mode_smart_dark_title">Küresel karanlık modu</string>
   <string name="screen_dark_mode_time_title">Zamanlama</string>

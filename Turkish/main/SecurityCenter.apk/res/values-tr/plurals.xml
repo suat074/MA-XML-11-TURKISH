@@ -12,6 +12,10 @@
     <item quantity="other">%1$s ile %2$s arasında %3$d kez kısıtlandı</item>
     <item quantity="one">%1$s ile %2$s arasında %3$d kez kısıtlandı</item>
   </plurals>
+  <plurals name="app_behavior_desc_virtual">
+    <item quantity="other">%1$s ile %2$s arasında %3$d boş mesaj geri gönderildi</item>
+    <item quantity="one">%1$s ile %2$s arasında %3$d boş mesaj geri gönderildi</item>
+  </plurals>
   <plurals name="app_behavior_notification_audio_more">
     <item quantity="other">%1$1s dahil %2$d uygulama ses kaydediyor</item>
     <item quantity="one">%1$1s dahil %2$d uygulama ses kaydediyor</item>
