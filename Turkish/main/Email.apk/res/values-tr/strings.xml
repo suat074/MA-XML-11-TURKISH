@@ -1035,7 +1035,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="recognize_ticket_train_return">İade</string>
   <string name="recognize_ticket_train_user_name">Yolcu: %1$s</string>
   <string name="recognize_title">Seyahat Bilgileri</string>
-  <string name="recommend_protocal">Öneriler Kullanım Protokolü</string>
+  <string name="recommend_protocal">Önerilen Kullanım Protokolü</string>
   <string name="reduce_the_receiving_frequencye_summary">Rahatsız etme açıkken gelen kutusu daha az sıklıkla eşitlenir</string>
   <string name="reduce_the_receiving_frequencye_title">Daha az sıklıkta eşitle</string>
   <string name="refresh">Yenile</string>
@@ -1233,7 +1233,7 @@ Tamamen eşitleninceye kadar bekleyin veya mesajı bilgisayarınızda görüntü
   <string name="user_privacy_settings">Gizlilik ayarları</string>
   <string name="user_privacy_settings_agreement_authorization">(\"Kabul et\" seçeneğine dokunduğunuzda Posta\'ya gerekli tüm izinleri vermiş olursunuz)</string>
   <string name="user_privacy_settings_path">Yetkinizi iptal etmek için Ayarlar &gt; Gizlilik ayarları\'na gidin.</string>
-  <string name="user_privacy_settings_summary">Android kimliğinizi şifrelenmiş formda toplayacak ve Posta\'da ayrıcalıklı kullanıcı tanımlamak için kullanacağız. Kullanım günlüklerini de toplayabiliriz. Gizlilik ayarlarından yetkinizi istediğiniz zaman iptal edebilirsiniz.</string>
+  <string name="user_privacy_settings_summary">Android kimliğinizi şifrelenmiş formda toplayacağız ve Posta\'da ayrıcalıklı kullanıcı tanımlama için kullanacağız. Ayrıca kullanım günlüklerini de toplayabiliriz. Gizlilik ayarlarından yetkinizi istediğiniz zaman iptal edebilirsiniz.</string>
   <string name="user_privacy_settings_title">Posta gizlilik bildirimi</string>
   <string name="validation_failed_prompt">Hesap doğrulanamıyor, %s için sunucu ayarlarını kontrol et</string>
   <string name="verify_code">Doğrulama kodu</string>

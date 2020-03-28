@@ -183,7 +183,11 @@
   <string name="delete_wild_sims_title">Seçili numaraları sil</string>
   <string name="delivery_report_activity">Teslim raporu</string>
   <string name="delivery_toast_body">Mesaj %s tarafından alındı.</string>
+  <string name="dialog_choice_all_correct_as_normal">%s tarafından gönderilen tüm mesajlar</string>
+  <string name="dialog_choice_finance_correct_as_normal">%s tarafından teklif içeren mesajlar</string>
   <string name="dialog_complain_tips">Öğeleri rapor edebilmek için Mesajlaşma\'nın ağa bağlanmasına izin verin.</string>
+  <string name="dialog_message_correct_as_ad">%s tarafından gönderilen (doğrulama kodları hariç) tüm mesajlar tanıtım mesajlarına taşınacak.</string>
+  <string name="dialog_message_correct_as_normal">Taşınacak mesajları seçin</string>
   <string name="dialog_message_fake_cell_detect_error">Bu mesajla ilgili bilgileri düzeltin? Bunu yapmak için, MIUI\'nin telefon numarasını (%1$s), mesajın içeriğini ve yakındaki konum hakkındaki bilgileri kendi sunucularına yüklemesi gerekir.</string>
   <string name="dialog_message_mx">Mi Mesaj, ücret ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar. Mi Mesajı etkinleştirmek için bir SMS mesajı gönderilmesi gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir. Mi Mesajı kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz.</string>
   <string name="dialog_message_networking">Mesajlaşma, Gönderen Kimliğini tanıması için Sarı sayfaları kullanmalıdır. Mesajlaşma ve Sarı sayfaların normal olarak çalışması için internete bağlanması ve konumunuza erişmesi gerekir. İzin ver?</string>
@@ -192,6 +196,8 @@
   <string name="dialog_sim_locked_message">SIM kartınız bu telefonla tam olarak çalışmıyor çünkü aboneliğinizin şartlarına ve koşullarına uymuyor. Herhangi bir sorunuz varsa veya bu konuda daha fazla bilgiye ihtiyacınız varsa, lütfen Xiaomi servis merkezlerine veya size ürünü satan mağazaya başvurun.</string>
   <string name="dialog_smart_message_privacy_tips">Akıllı Mesajlaşma hizmetleri kısmen Dianhuabang tarafından verilmektedir. Akıllı Mesajlaşma özelliğini kullanmadan önce \"%1$s\" kabul etmelisiniz. Akıllı Mesajlaşma\'nın normal çalışması için internete bağlanması ve konumunuza erişmesi gerekir. Kabul et?</string>
   <string name="dialog_smart_message_privacy_tips_title">Dianhuabang Gizlilik Politikası</string>
+  <string name="dialog_title_correct_as_ad">Tanıtım mesajlarına taşı</string>
+  <string name="dialog_title_correct_as_normal">Normal mesajlara taşı</string>
   <string name="dialog_title_fake_cell_detect_error">Düzelt</string>
   <string name="dialog_title_mx_rcs">Mi Mesaj</string>
   <string name="dialog_title_networking">Şartlar ve Koşullar</string>
@@ -291,6 +297,8 @@
   <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">Gizli gönderen adresi</string>
   <string name="hold_to_talk">Konuşmak için basılı tutun</string>
+  <string name="home_tab_ad">Tanıtım</string>
+  <string name="home_tab_common">Normal</string>
   <string name="hybrid_check_network">Ağ Ayarları</string>
   <string name="hybrid_data_error">Bir hata oluştu</string>
   <string name="hybrid_locating_fail">Konumunuz bulunamadı</string>
@@ -325,6 +333,8 @@
   <string name="menu_call">Çağrı</string>
   <string name="menu_compose_new">Yeni Mesaj</string>
   <string name="menu_contact">Kişi bilgisini görüntüle</string>
+  <string name="menu_correct_as_ad">Tanıtıma taşı</string>
+  <string name="menu_correct_as_normal">Normale taşı</string>
   <string name="menu_delete_messages">Mesajları sil</string>
   <string name="menu_edit">Düzenle</string>
   <string name="menu_forward">Yönlendir</string>
@@ -368,6 +378,14 @@
   <string name="messaging">Mesajlaşma</string>
   <string name="mi_message_title">Mi Mesaj</string>
   <string name="millionbyte">MB</string>
+  <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshing">yenileniyor</string>
+  <string name="miuix_sb_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sb_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sb_tracking_progress_labe_up_none">bunu yapma</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh">yenileniyor</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Yetkili gönderenlerden gelen mesajlar dışındaki tüm MMS\'ler engellenir. Yetkili gönderenler ağ taşıyıcıları, ulusal demiryolu rezervasyon sistemlerini vb. içerir.</string>
   <string name="mms_block_alert_ok">Engelle</string>
@@ -473,6 +491,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="non_english_subject_limit">13 karakter</string>
   <string name="nosend_message">Gönderme</string>
   <string name="not_prepare_for_send">Gönderilecek mesaj yok</string>
+  <string name="notification_ad_content">%s tarafından bir tanıtım mesajı aldınız</string>
   <string name="notification_add_todo">Bana hatırlat</string>
   <string name="notification_add_todo_content">Alıcı kodu: %s</string>
   <string name="notification_channel_msg_description">Mesajlarla ilgili bildirimler</string>
@@ -535,6 +554,8 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="pref_sms_theme_title">Görüntüle</string>
   <string name="pref_summary_allow_si_sl_push">Mesajların web sitelerinden içerik yüklemesine izin verir</string>
   <string name="pref_summary_auto_delete">Sınıra ulaşıldığında eski mesajları sil</string>
+  <string name="pref_summary_collapse_ad_notification">Tüm tanıtım mesajlarını Bildirim alanında ayrı bir klasörde görüntüle</string>
+  <string name="pref_summary_collapse_ad_notification_mms">Tüm tanıtım mesajlarını ayrı bir sekmede görüntüle</string>
   <string name="pref_summary_delete_limit">Konuşma başına %1$s mesaj</string>
   <string name="pref_summary_delivery_reports">Gönderilen mesajların teslim durumunu göster</string>
   <string name="pref_summary_delivery_ringtone">Teslim edilen mesajlar için sesli bildirim alın</string>
@@ -553,6 +574,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="pref_title_allow_si_sl_push">WAP push mesajlarına izin ver (SI/SL)</string>
   <string name="pref_title_auto_delete">Eski mesajları sil</string>
   <string name="pref_title_card_format">Kart paylaşım biçimi</string>
+  <string name="pref_title_collapse_ad_notification">Tanıtım mesajları ile ilgili grup bildirimleri</string>
   <string name="pref_title_delivery_reports">Teslim durumu</string>
   <string name="pref_title_fwd_sender_info">Gönderen bilgisini ilet</string>
   <string name="pref_title_manage_sim_messages">SIM kart hafızası</string>
@@ -596,6 +618,8 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="privacy_password_title3">Parolanızı yükseltin</string>
   <string name="privacy_password_title4">Şifre yükseltildi</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="private_entry_available">Özel klasörü açmak için bırakın</string>
+  <string name="private_entry_default">Özel klasörü açmak için aşağı kaydırın</string>
   <string name="private_message">Özel mesajlar</string>
   <string name="private_new_notification">Mesaj bildirimleri</string>
   <string name="private_protect">Şifreler</string>
@@ -610,12 +634,14 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="prvate_contact">Özel kişiler</string>
   <string name="quick_reply">Cevapla</string>
   <string name="rate_limit_surpassed">Tamam</string>
+  <string name="recent_label">Son kullanılan kişiler</string>
   <string name="recommend_both_dialog_title">Mesajlaşma\'ya hoş geldiniz!</string>
   <string name="recommend_dialog_message">Ek özelliklere erişmek için Mi Mesaj ve Akıllı Mesajlaşma özelliğini açabilirsiniz.</string>
   <string name="recommend_mx_dialog_title">Mi Mesaj\'a hoş geldiniz!</string> 
   <string name="recommend_mx_setting_summary">Mi Mesaj, diğer Mi Mesaj kullanıcılarına internet üzerinden ücretsiz mesaj göndermenizi sağlar.</string> 
   <string name="recommend_smart_sms_dialog_title">Akıllı Mesajlaşma\'ya hoş geldiniz!</string> 
   <string name="recommend_smart_sms_setting_summary">Akıllı mesajlaşma Gönderen kimliği tanıma ve akıllı menüler sağlar.</string>
+  <string name="release_end">Durdurmak için bırakın</string>
   <string name="rcs_auto_resend_as_sms_remind_change">Ayarları değiştir</string>
   <string name="rcs_auto_resend_as_sms_remind_desp">Şebeke sinyali zayıf olduğunda 900Bayt\'a kadar olan mesajlar dönüştürülebilir ve SMS olarak gönderilebilir. Mesajlarınızı SMS\'e dönüştürmek istemiyorsanız \"Ayarları değiştir\"e dokunun.</string>
   <string name="rcs_auto_resend_as_sms_remind_title">SMS\'e dönüştür</string>

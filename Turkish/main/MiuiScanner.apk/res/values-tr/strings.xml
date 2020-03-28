@@ -64,6 +64,7 @@
   <string name="choose_open_code_app">Bir uygulama seçin</string>
   <string name="choose_pay_title">Ödeme yöntemini seçin</string>
   <string name="choose_picture">QR kod resmini seçin</string>
+  <string name="choosed_title">Seçili</string>
   <string name="classesNameNull_toast">Sınıf adı boş olamaz</string>
   <string name="classes_canfirmTitle">Sonuçları onaylayın ve içe aktarmaya başlayın</string>
   <string name="classes_company">İçe aktar</string>
@@ -77,6 +78,11 @@
   <string name="classes_titlt">Sınıf programı</string>
   <string name="classes_topTitle">Sınıf programınızı tarayın</string>
   <string name="close_hotspot_when_connecting_to_wifi">Bağlantı noktası açık. Wi-Fi\'yi açın.</string>
+  <string name="create">QR kodu oluştur</string>
+  <string name="createFail">QR kodu oluşturulamadı. Mesajınız çok uzun.</string>
+  <string name="createQRCode_hint">Metin girin</string>
+  <string name="createQRCode_save">Kaydet</string>
+  <string name="create_again">Yenile</string>
   <string name="crop__cancel">İPTAL</string>
   <string name="crop__done">BİTTİ</string>
   <string name="crop__pick_error">Resim kaynağı yok</string>
@@ -105,6 +111,7 @@
   <string name="crop_done_description">Bitti</string>
   <string name="crop_title_study">Fotoğrafı kırp</string>
   <string name="crop_title_translation">Çevirilecek metni seçin</string>
+  <string name="delete">Sil</string>
   <string name="document_color_picture">Renk</string>
   <string name="document_color_picture_tip">Renkliye dönüştürülüyor…</string>
   <string name="document_crop_title">Belgeyi kırp</string>
@@ -161,8 +168,10 @@
   <string name="grant_permission">İzin ver</string>
   <string name="got_it">Anladım</string>
   <string name="gps">Gezinin</string>
+  <string name="history">Geçmiş</string>
   <string name="image_file_name_format">\'scanner\'_yyyyMMdd_HHmmss</string>
   <string name="import_contact">Kişiyi içe aktar</string>
+  <string name="importFailed">İçe aktarılamadı</string>
   <string name="impunity_declaration_content">Tarayıcının kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğraflarını çekmek için Tarayıcı\'yı kullanmayın. \"Kabul Et\" düğmesine dokunduğunuzda, &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Gizlilik Politikamızı&lt;/a>&lt;/font> kabul etmiş ve Tarayıcının internete bağlanmasına izin vermiş olursunuz.</string>
   <string name="impunity_declaration_negative_text">Çıkış</string>
   <string name="impunity_declaration_title">Gizlilik Politikası</string>
@@ -243,8 +252,13 @@
   <string name="recognize_fail">Kod okunamıyor</string>
   <string name="request_server_failed">Sunucuya bağlanılamadı</string>
   <string name="refresh">Yenile</string>
+  <string name="saveDone">Başarıyla kaydedildi</string>
   <string name="scan_result">Sonuç</string>
   <string name="scan_support_type">WeChat, Alipay, QR kodları, barkodlar</string>
+  <string name="scanHistory">Tarayıcı geçmişi</string>
+  <string name="scanHistory_close">Kapat</string>
+  <string name="scanHistory_isOpen">Taranan öğelerin geçmişini takip etmeye şimdi başlansın mı?</string>
+  <string name="scanHistory_open">Aç</string>
   <string name="sdk_not_ready">SDK hazırlanıyor. Daha sonra tekrar deneyin.</string>
   <string name="search_menu_title">Arama</string>
   <string name="secure_access_web_url">Web sitesine git</string>
