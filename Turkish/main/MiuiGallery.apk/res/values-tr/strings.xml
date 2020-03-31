@@ -752,7 +752,7 @@ mevcut"</string>
   <string name="filter_sky_double_rainbow">Çift gökkuşağı</string>
   <string name="filter_sky_download_failed">Eklenti indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="filter_sky_download_finish">Eklenti başarıyla indirildi</string>
-  <string name="filter_sky_download_sdk_without_wifi_msg">Wi-Fi\’ye bağlı değilseniz, fotoğraflarınızdaki gökyüzünü değiştirmenize olanak sağlayan eklentiyi (%1$dMB) indirmek için mobil veri kullanabilirsiniz.</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">Wi-Fi\'ye bağlı değilseniz, fotoğraflarınızdaki gökyüzünü değiştirmenize olanak sağlayan eklentiyi (%1$dMB) indirmek için mobil veri kullanabilirsiniz.</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Eklentiyi indir</string>
   <string name="filter_sky_dusk">Alacakaranlık</string>
   <string name="filter_sky_dynamic_note">Bu filtreye sahip öğeler video olarak kaydedilir</string>

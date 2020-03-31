@@ -5427,63 +5427,104 @@ Cihazınıza yüklenmiş güvenilir bir kimlik bilgisi bunu mümkün kılıyor."
   <string name="storage_summary">%2$s/%1$s kullanıldı</string>
   <string name="storage_summary_format">%2$s içindeki %1$s kullanıldı</string>
   <string name="storage_summary_with_sdcard">Dahili depolama: %1$s kullanılan - %2$s boş</string>
-  <string name="storage_title_usb">USB Bilgisayar Bağlantısı</string>
+  <string name="storage_title_usb">USB bilgisayar bağlantısı</string>
   <string name="storage_type_external">Harici Depolama</string>
   <string name="storage_type_internal">Dahili Depolama</string>
   <string name="storage_unmount_failure">%1$s güvenli şekilde çıkartılmadı</string>
   <string name="storage_unmount_success">%1$s güvenli şekilde çıkartıldı</string>
   <string name="storage_usb">USB Depolama</string>
-  <string name="storage_usb_settings">Depolama &amp; USB</string>
-  <string name="storage_used">Depolama kullanıldı:</string>
+  <string name="storage_usb_settings">Depolama</string>
+  <string name="storage_used">Kullanılan depolama alanı</string>
   <string name="storage_volume_summary">%2$s / %1$s kullanıldı</string>
-  <string name="storage_volume_total">" %1$s kullanıldı"</string>
-  <string name="storage_volume_used">" %1$s kullanıldı"</string>
+  <string name="storage_volume_total">%1$s kullanıldı</string>
+  <string name="storage_volume_used">%1$s kullanıldı</string>
   <string name="storage_volume_used_total">Toplam %1$s kullanıldı</string>
-  <string name="storage_wizard_format_confirm_body">"Güvenli bir şekilde biçimlendirmek için ^1 ihtiyaç var.\n\nBiçimlendirdikten sonra, ^1 bu cihazda çalışır. \n\n\"Geçerli depolamadaki ^1 biçimlendirme esnasında tüm veriler silinecek.\" Veriler kaybedileceği için, yedekleme yapmayı unutmayın. "</string>
-  <string name="storage_wizard_format_confirm_next">Sil &amp; Biçimlendir</string>
-  <string name="storage_wizard_format_confirm_public_body">"Biçimlendirmek için ^1 ihtiyaç var. \n\n\"Geçerli depolamadaki ^1 biçimlendirme esnasında tüm veriler silinecek\" Veriler kaybedileceği için, yedekleme yapmayı unutmayın. "</string>
+  <string name="storage_wizard_format_confirm_body">"Güvenli olması için bu ^1 için biçimlendirme gereklidir.
+
+Biçimlendirmeden sonra, bu ^1 yalnızca bu cihazda çalışır. 
+
+"<b>Biçimlendirme, şu anda ^1 üzerinde depolanan tüm verileri siler.</b>" Verileri kaybetmemek için yedekleme yapın. "</string>
+  <string name="storage_wizard_format_confirm_next">Sil &amp; biçimlendir</string>
+  <string name="storage_wizard_format_confirm_public_body">"Bu, ^1 için biçimlendirme gerektirir. 
+"<b>Biçimlendirme, şu anda ^1 üzerinde depolanan tüm verileri siler.</b>" Verileri kaybetmemek için yedekleme yapın. "</string>
   <string name="storage_wizard_format_confirm_public_title">Taşınabilir depolama olarak biçimlendir</string>
-  <string name="storage_wizard_format_confirm_third_body">^1 biçimlendirildi</string>
+  <string name="storage_wizard_format_confirm_third_body">^1 biçimlendiriliyor</string>
   <string name="storage_wizard_format_confirm_title">Dahili depolama olarak biçimlendir</string>
-  <string name="storage_wizard_format_progress_body">Biçimlendirildiğinde ^1 kaldır.</string>
+  <string name="storage_wizard_format_confirm_v2_action">^1 biçimlendir</string>
+  <string name="storage_wizard_format_confirm_v2_body">"Bu ^1, uygulamaları, dosyaları ve ortamları depolamak için biçimlendirilmelidir. 
+
+Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını önlemek için, başka bir ^3 veya cihaza yedekleme yapın."</string>
+  <string name="storage_wizard_format_confirm_v2_title">Bu ^1 biçimlendirilsin mi?</string>
+  <string name="storage_wizard_format_progress_body">Biçimlendirilirken ^1 kaldırmayın.</string>
   <string name="storage_wizard_format_progress_title">^1 biçimlendiriliyor…</string>
-  <string name="storage_wizard_init_external_summary">Fotoğraflar ve diğer medya arasında taşıyın.</string>
+  <string name="storage_wizard_init_external_summary">Fotoğrafları ve diğer ortamları cihazlar arasında taşımak için.</string>
   <string name="storage_wizard_init_external_title">Taşınabilir depolama olarak kullan</string>
-  <string name="storage_wizard_init_internal_summary">Uygulamalar ve fotoğraflar da dahil olmak üzere yalnızca bu cihazda bir şey saklamak için. Diğer cihazlarla çalışmasını engelleyen biçimlendirme gerektirir.</string>
+  <string name="storage_wizard_init_internal_summary">Uygulamalar ve fotoğraflar dahil olmak üzere yalnızca bu cihazda bir şey saklamak için. Diğer cihazlarla çalışmasını engelleyen biçimlendirme gerektirir.</string>
   <string name="storage_wizard_init_internal_title">Dahili depolama olarak kullan</string>
-  <string name="storage_wizard_init_title">^1 Ayarla</string>
-  <string name="storage_wizard_migrate_body">Fotoğraflar, dosyalar ve bazı uygulamalar yeni ^1 taşınabilir.\n\nDahili depolamada ^2 ve ^3 taşınacak. Bazı uygulamalar bunun sonucunda çalışmayabilir.</string>
-  <string name="storage_wizard_migrate_confirm_body">^1 taşınacak. ^3 yerinde ^2 boş yer olacak.</string>
+  <string name="storage_wizard_init_title">^1 aygıtınızı ayarlayın</string>
+  <string name="storage_wizard_init_v2_external_action">Taşınabilir depolama</string>
+  <string name="storage_wizard_init_v2_external_summary">Cihazlar arasında dosya ve medya aktarmak için</string>
+  <string name="storage_wizard_init_v2_external_title">Taşınabilir depolama için kullan</string>
+  <string name="storage_wizard_init_v2_internal_action">Telefon depolaması</string>
+  <string name="storage_wizard_init_v2_internal_summary">Yalnızca bu telefondaki uygulamalar, dosyalar ve medya için</string>
+  <string name="storage_wizard_init_v2_internal_title">Ekstra telefon depolama alanı için kullan</string>
+  <string name="storage_wizard_init_v2_later">Daha sonra ayarla</string>
+  <string name="storage_wizard_init_v2_or">Veya</string>
+  <string name="storage_wizard_init_v2_title">Bu ^1 nasıl kullanacaksınız?</string>
+  <string name="storage_wizard_migrate_body">"Fotoğraflarınızı, dosyalarınızı ve bazı uygulamalarınızı bu yeni ^1 üzerine taşıyabilirsiniz. 
+Taşıma yaklaşık ^2 sürer ve dahili depolama alanında ^3 alan serbest kalır. Devam ederken bazı uygulamalar çalışmaz."</string>
+  <string name="storage_wizard_migrate_confirm_body"><b>Taşıma yaklaşık ^1 sürer.  ^3 üzerinde ^2 serbest kalacak.</b></string>
   <string name="storage_wizard_migrate_confirm_next">Taşı</string>
   <string name="storage_wizard_migrate_confirm_title">Veriyi şimdi taşı</string>
-  <string name="storage_wizard_migrate_details">Taşınma esnasında: \n• ^1 kaldırma. \n• Bazı uygulamalar düzgün çalışmaz. \n• Cihaz değişikliğini korur.</string>
+  <string name="storage_wizard_migrate_details">"Taşıma sırasında: 
+• ^1 aygıtını kaldırmayın.
+• Bazı uygulamalar düzgün çalışmaz. 
+• Cihazı şarjlı tutun."</string>
   <string name="storage_wizard_migrate_later">Sonra taşı</string>
   <string name="storage_wizard_migrate_now">Şimdi taşı</string>
   <string name="storage_wizard_migrate_progress_title">Veri taşınıyor…</string>
-  <string name="storage_wizard_migrate_title">Yeni depolamaya veriyi taşı</string>
-  <string name="storage_wizard_move_confirm_body">^1 ve ^2 birkaç dakikada veri taşınacak. Taşınma işleminden sonra kullanılabilecek. \n\nTaşınma işlemi esnasında ^2 kaldırmayın.</string>
+  <string name="storage_wizard_migrate_progress_v2_title">İçerik taşınıyor…</string>
+  <string name="storage_wizard_migrate_title">Verileri yeni depolamaya taşı</string>
+  <string name="storage_wizard_migrate_v2_body">"Dosyaları, medyayı ve belirli uygulamaları bu ^1 üzerine taşıyabilirsiniz.
+
+Bu işlem, telefon depolama alanından ^2  serbest bırakacaktır ve yaklaşık ^3 sürer."</string>
+  <string name="storage_wizard_migrate_v2_checklist">Taşıma sırasında:</string>
+  <string name="storage_wizard_migrate_v2_checklist_apps">Bazı uygulamalar çalışmaz</string>
+  <string name="storage_wizard_migrate_v2_checklist_battery">Cihazı şarjlı tutun</string>
+  <string name="storage_wizard_migrate_v2_checklist_media">^1 aygıtını kaldırmayın</string>
+  <string name="storage_wizard_migrate_v2_later">İçeriği daha sonra taşı</string>
+  <string name="storage_wizard_migrate_v2_now">İçeriği taşı</string>
+  <string name="storage_wizard_migrate_v2_title">İçerik ^1 aygıtına taşınsın mı?</string>
+  <string name="storage_wizard_move_confirm_body">"^1 ve verilerini ^2 aygıtına taşımak kısa bir süre alacak. Taşıma tamamlanana kadar uygulamayı kullanamazsınız.
+
+Taşıma sırasında ^2 aygıtını kaldırmayın."</string>
   <string name="storage_wizard_move_confirm_title">^1 taşı</string>
-  <string name="storage_wizard_move_progress_body">Taşınma işlemi esnasında ^1 kaldırmayın. \n\nBu cihazdaki ^2 uygulaması taşınma esnasında kullanılamaz.</string>
+  <string name="storage_wizard_move_progress_body">"Taşıma sırasında ^1 aygıtını kaldırmayın. 
+
+Taşıma tamamlanana kadar bu cihazdaki ^2 uygulaması kullanılamayacak."</string>
   <string name="storage_wizard_move_progress_cancel">Taşımayı iptal et</string>
   <string name="storage_wizard_move_progress_title">^1 taşınıyor…</string>
-  <string name="storage_wizard_ready_external_body">^1 tüm ayarları fotoğraflar ve diğer medyada kullan.</string>
-  <string name="storage_wizard_ready_internal_body">Yeni ^1 çalışıyor. \n\nFotoğraflar, dosyalar ve uygulama verisini bu cihaza taşı. Bunun için Ayarlar &gt; Depolama bölümüne gidin.</string>
-  <string name="storage_wizard_ready_title">^1 hazır</string>
-  <string name="storage_wizard_ready_v2_external_body">İçeriği ^1 bölümüne taşıyabilirsiniz</string>
-  <string name="storage_wizard_ready_v2_internal_body">İçeriği ^1 üzerine taşımak için, <b>Ayarlar &gt; Depolama</b> bölümüne gidin</string>
-  <string name="storage_wizard_ready_v2_internal_moved_body">"İçeriğiniz ^1 bölümüne taşındı. 
+  <string name="storage_wizard_move_unlock">Verileri taşımak için ^1 kullanıcısının kilidini açmanız gerekir.</string>
+  <string name="storage_wizard_ready_external_body">^1 aygıtınızın tümü fotoğraflar ve diğer ortamlarla kullanılmak üzere ayarlanmıştır.</string>
+  <string name="storage_wizard_ready_internal_body">"Yeni ^1 aygıtınız çalışıyor. 
 
-^2 yönetmek için, <b>Ayarlar &gt; Depolama</b> bölümüne gidin.</string>
+Fotoğrafları, dosyaları ve uygulama verilerini bu aygıta taşımak için Ayarlar &gt; Depolama bölümüne gidin."</string>
+  <string name="storage_wizard_ready_title">^1 hazır</string>
+  <string name="storage_wizard_ready_v2_external_body">İçeriği ^1 aygıtına taşıyabilirsiniz</string>
+  <string name="storage_wizard_ready_v2_internal_body">İçeriği ^1 aygıtına taşımak için, <b>Ayarlar &gt; Depolama</b> bölümüne gidin</string>
+  <string name="storage_wizard_ready_v2_internal_moved_body">"İçeriğiniz ^1 aygıtına taşındı. 
+
+Bu ^2 yönetmek için, "<b>Ayarlar &gt; Depolama</b> bölümüne gidin.</string>
   <string name="storage_wizard_slow_body">"Bu ^1 yavaş görünüyor. 
 
-Devam edebilirsiniz, ancak bu yere taşınan uygulamalar kekemelik yapabilir ve veri aktarımı uzun zaman alabilir. 
+Devam edebilirsiniz, ancak bu konuma taşınan uygulamalar kesintiye uğrayabilir ve veri aktarımı uzun sürebilir.
 
 Daha iyi performans için daha hızlı bir ^1 kullanmayı düşünün."</string>
-  <string name="storage_wizard_slow_v2_body">"Bu ^1 hala kullanılabilir, ancak yavaş olacaktır. 
+  <string name="storage_wizard_slow_v2_body">"Bu ^1 yine de kullanabilirsiniz, ancak yavaş olabilir. 
 
-Bu ^2 üzerinde depolanan uygulamalar düzgün çalışmayabilir ve içerik aktarımları uzun sürebilir. 
+Bu ^2 üzerinde depolanan uygulamalar düzgün çalışmayabilir ve içerik aktarımı uzun sürebilir. 
 
-Daha hızlı bir ^3 kullanmayı deneyin veya bunu ^4 yerine taşınabilir depolama için kullanın."</string>
+Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşınabilir depolama için kullanın."</string>
   <string name="storage_wizard_slow_v2_continue">Devam et</string>
   <string name="storage_wizard_slow_v2_start_over">Baştan başla</string>
   <string name="storage_wizard_slow_v2_title">^1 yavaş</string>
