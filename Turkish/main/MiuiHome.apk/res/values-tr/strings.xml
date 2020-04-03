@@ -408,6 +408,7 @@
   <string name="recents_empty_message">Son kullanılan öğe yok</string>
   <string name="recents_empty_message_dismissed_all">Her şeyi temizledin</string>
   <string name="recents_empty_message_multi_window">Uygulamaları Ana ekrandan aç</string>
+  <string name="recents_exit_multi_window_mode">Çık</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Yansıtma yapılırken Ekran bölme kullanılamıyor</string>
   <string name="recents_task_screening">Yansıt</string>
   <string name="recents_title_app_manager">Uygulamaları yönet</string>
