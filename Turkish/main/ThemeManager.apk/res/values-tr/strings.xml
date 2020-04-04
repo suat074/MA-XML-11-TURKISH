@@ -819,7 +819,7 @@ Daha fazla seçenek için Temalar &gt; Profil &gt; Tema laboratuvarına gidin."<
   <string name="wallpaper_delete_all">Seçili öğeler silinsin mi?</string>
   <string name="wallpaper_detail_load_page_no_network">Ağa bağlanın ve tekrar deneyin.</string>
   <string name="wallpaper_download_incall_show">Video indir</string>
-  <string name="wallpaper_dynamic">Dinamik</string>
+  <string name="wallpaper_dynamic">Hareketli</string>
   <string name="wallpaper_loop_add_success">Başarıyla eklendi</string>
   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Ana ekran slayt gösterisine ekle</string>
   <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Kilit ekranı slayt gösterisine ekle</string>
@@ -861,7 +861,7 @@ Daha fazla seçenek için Temalar &gt; Profil &gt; Tema laboratuvarına gidin."<
   <string name="wallpaper_settings_pad_more_page_title">Daha fazla</string>
   <string name="wallpaper_settings_page_title">Duvar Kağıdı</string>
   <string name="wallpaper_share_alert">Bir hata oluştu. Bir iki dakika bekleyin ve tekrar deneyin.</string>
-  <string name="wallpaper_static">Statik</string>
+  <string name="wallpaper_static">Sabit</string>
   <string name="wechat_not_found">"Önce WeChat'i yükleyin"</string>
   <string name="wifi_check_cancel">İptal</string>
   <string name="wifi_check_confirm">Onayla</string>

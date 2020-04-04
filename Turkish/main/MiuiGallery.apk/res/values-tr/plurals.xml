@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="add_secret_ensure_message">
-        <item quantity="other">Bu dosyaları gizle?</item>
-        <item quantity="one">Bu dosyayı gizle?</item>
+        <item quantity="other">Bu öğeler özel albüme eklensin mi?</item>
+        <item quantity="one">Bu öğe özel albüme eklensin mi?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">%d bulut fotoğraflarına eklendi, görüntülemek için \"Sadece yerel albümleri göster\" özelliğini kapatın.</item>
@@ -13,8 +13,8 @@
         <item quantity="one">%2$d öğe albüme eklenemiyor. %1$s.</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d öğe gizli albüme eklenemez. %1$s.</item>
-        <item quantity="one">%2$d öğe gizli albüme eklenemez. %1$s.</item>
+        <item quantity="other">%2$d öğe özel albüme eklenemiyor. %1$s.</item>
+        <item quantity="one">%2$d öğe özel albüme eklenemiyor. %1$s.</item>
     </plurals>
     <plurals name="age_day">
         <item quantity="other">%d gün</item>
@@ -204,9 +204,13 @@
         <item quantity="other">%d dosya henüz indirilmedi. Yine de iptal edilsin mi?</item>
         <item quantity="one">%d dosya henüz indirilmedi. Yine de iptal edilsin mi?</item>
     </plurals>
+	<plurals name="picker_file_will_download">
+        <item quantity="other">Kalan %d dosya indiriliyor</item>
+        <item quantity="one">Kalan %d dosya indiriliyor</item>
+    </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">%1$d fotoğraflar indirilemiyor, ağa bağlanıp, yeniden deneyin</item>
-        <item quantity="one">Fotoğraf indirilemiyor, ağa bağlanıp, yeniden deneyin</item>
+        <item quantity="other">%1$d fotoğraf indirilemedi, ağa bağlanın ve yeniden deneyin</item>
+        <item quantity="one">Fotoğraf indirilemedi, ağa bağlanın ve yeniden deneyin</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">%1$d dosya indirilemedi (%2$dMB). Ağa bağlanın ve yeniden deneyin.</item>
@@ -237,8 +241,8 @@
         <item quantity="one">Toplam %d fotoğraf</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">%2$d öğe gizli albümden kaldırılamaz. %1$s.</item>
-        <item quantity="one">%2$d öğe gizli albümden kaldırılamaz. %1$s.</item>
+        <item quantity="other">%2$d öğe özel albümden kaldırılamıyor. %1$s.</item>
+        <item quantity="one">%2$d öğe özel albümden kaldırılamıyor. %1$s.</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">%1$d fotoğraf \"%2$s\" ve veritabanına eklendi.</item>
