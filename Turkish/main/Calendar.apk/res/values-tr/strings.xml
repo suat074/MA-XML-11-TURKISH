@@ -41,7 +41,7 @@
   <string name="action_bar_date_button_title">Tarih hesapla</string>
   <string name="action_bar_return">Geri</string>
   <string name="action_label">Girin</string>
-  <string name="action_text_card_manager">Bir kanala abone ol</string>
+  <string name="action_text_card_manager">Kanal</string>
   <string name="ad_card_connecting">Bağlanıyor</string>
   <string name="ad_card_download_count">%1$s indir</string>
   <string name="ad_card_download_count_million">%1$s milyon kez indirildi</string>
@@ -494,7 +494,7 @@
   <string name="productivity_move_event_failed">Bu etkinlik dd MMMM, yyyy tarihine taşınamıyor</string>
   <string name="productivity_move_event_hint">Bir etkinliği başka bir tarihe taşımak için basılı tutun</string>
   <string name="productivity_move_event_success">Bu etkinlik dd MMMM, yyyy tarihine taşındı</string>
-  <string name="productivity_no_event">Bugün için planlanmış bir etkinlik yok</string>
+  <string name="productivity_no_event">Henüz burada etkinlik yok</string>
   <string name="pull_to_refresh_hint">%1$d faaliyetleri yenilemek için çekin</string>
   <string name="receive_net_mock_success">Net alay başarı alındı</string>
   <string name="recommend_card_add">Abone ol</string>
