@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">1 saat önce</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">1 saat önce</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Yarım saat önce</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">1 saat içinde</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Yarım saat içinde</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Hemen</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">%d dak içinde</item>
+    <item quantity="one">1 dak içinde</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Şu anda</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d dak önce</item>
+    <item quantity="one">1 dak önce</item>
+  </plurals>
+  <plurals name="count_duration_standard">
+    <item quantity="other">%1$d-%2$d kere</item>
+    <item quantity="one">%1$d-%2$d kere</item>
+  </plurals>
   <plurals name="daily_suggestions_steps">
     <item quantity="other">Her gün en az %1$d adım yürüyün</item>
     <item quantity="one">Her gün en az %1$d adım yürüyün</item>
@@ -16,6 +49,10 @@
     <item quantity="other">%1$d kayıt silinsin mi?</item>
     <item quantity="one">%1$d kayıt silinsin mi?</item>
   </plurals>
+  <plurals name="dream_talk_segment">
+    <item quantity="other">%1$d kayıt</item>
+    <item quantity="one">%1$d kayıt</item>
+  </plurals>
   <plurals name="goal_format_with_unit">
     <item quantity="other">Hedef: %1$d adım</item>
     <item quantity="one">Hedef: %1$d adım</item>
@@ -28,9 +65,25 @@
     <item quantity="other">%1$d adım</item>
     <item quantity="one">%1$d adım</item>
   </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Yarım saat önce</item>
+  </plurals>
   <plurals name="hours">
     <item quantity="other">%1$d saat</item>
     <item quantity="one">%1$d saat</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">1 saat içinde</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Yarım saat içinde</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Hemen</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">%d dak içinde</item>
+    <item quantity="one">1 dak içinde</item>
   </plurals>
   <plurals name="last_measure_date_interval">
     <item quantity="other">Son tartımdan bu yana %1$d gün</item>
@@ -39,6 +92,9 @@
   <plurals name="last_measure_day_body_weight">
     <item quantity="other">Son tartımdan bu yana %1$d gün</item>
     <item quantity="one">Son tartımdan bu yana %1$d gün</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Şu anda</item>
   </plurals>
   <plurals name="menstruation_sum_days">
     <item quantity="other">%1$d günlük adet dönemi</item>
@@ -60,9 +116,17 @@
     <item quantity="other">%1$d dak</item>
     <item quantity="one">%1$d dak</item>
   </plurals>
+  <plurals name="minutes_ago">
+    <item quantity="other">%1$d dak önce</item>
+    <item quantity="one">%1$d dak önce</item>
+  </plurals>
   <plurals name="mtrl_badge_content_description">
     <item quantity="other">%d yeni bildirim</item>
     <item quantity="one">%d yeni bildirim</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d dakika önce</item>
+    <item quantity="one">1 dakika önce</item>
   </plurals>
   <plurals name="sleep_goal_by_hour">
     <item quantity="other">Hedef: %1$d saat</item>
@@ -96,6 +160,34 @@
     <item quantity="other">%1$d günlük döngü</item>
     <item quantity="one">%1$d günlük döngü</item>
   </plurals>
+  <plurals name="time_duration_compare_standard">
+    <item quantity="other">≤%1$d dakika</item>
+    <item quantity="one">≤%1$d dakika</item>
+  </plurals>
+  <plurals name="time_duration_hour_float">
+    <item quantity="other">%1$.2f saat</item>
+    <item quantity="one">%1$.2f sa</item>
+  </plurals>
+  <plurals name="time_duration_hour_int">
+    <item quantity="other">%d saat</item>
+    <item quantity="one">%d sa</item>
+  </plurals>
+  <plurals name="time_duration_hour_standard">
+    <item quantity="other">%1$.1f-%2$.1f saat</item>
+    <item quantity="one">%1$.1f-%2$.1f saat</item>
+  </plurals>
+  <plurals name="time_duration_minute">
+    <item quantity="other">%1$d dakika</item>
+    <item quantity="one">%1$d dakika</item>
+  </plurals>
+  <plurals name="time_duration_minute_standard">
+    <item quantity="other">%1$d-%2$d dakika</item>
+    <item quantity="one">%1$d-%2$d dakika</item>
+  </plurals>
+  <plurals name="time_duration_time">
+    <item quantity="other">%1$d kere</item>
+    <item quantity="one">%1$d kere</item>
+  </plurals>
   <plurals name="times_format">
     <item quantity="other">%1$d kez</item>
     <item quantity="one">%1$d kez</item>
@@ -119,6 +211,10 @@
   <plurals name="unit_days">
     <item quantity="other">" gün"</item>
     <item quantity="one">" gün"</item>
+  </plurals>
+  <plurals name="unit_times">
+    <item quantity="other"> kez</item>
+    <item quantity="one"> kez</item>
   </plurals>
   <plurals name="user_age_display_format_year">
     <item quantity="other">%1$d yaşında</item>

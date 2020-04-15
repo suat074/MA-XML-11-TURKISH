@@ -20,6 +20,11 @@
   <string name="accessibility_menu_item_split_disable">Uygulama Bölünmüş ekranı desteklemiyor.</string>
   <string name="accessibility_menu_item_split_enable">Uygulama Bölünmüş ekranı destekliyor</string>
   <string name="accessibility_recents_item_open_app_info">%s uygulama bilgilerini aç.</string>
+  <string name="accessibility_recent_task_enter">Son kullanılanlar Açıldı</string>
+  <string name="accessibility_recent_task_exit">Son kullanılanlar Kapatıldı</string>
+  <string name="accessibility_recent_task_locked_state">Kilitli</string>
+  <string name="accessibility_recent_task_memory_info">Toplam RAM: %2$s | Kullanılabilir RAM: %1$s. Temizlemek için iki kez dokunun.</string>
+  <string name="accessibility_recent_task_unlocked_state">Kilit açık</string>
   <string name="accessibility_splite_screen_primary">Bölünmüş ekranda birincil uygulama olarak eklendi</string>
   <string name="accessibility_splite_screen_secondary">Bölünmüş ekranda ikincil uygulama olarak eklendi</string>
   <string name="action_add_to_workspace">Çalışma alanına ekle</string>
@@ -410,6 +415,7 @@
   <string name="recents_empty_message_multi_window">Uygulamaları Ana ekrandan aç</string>
   <string name="recents_exit_multi_window_mode">Çık</string>
   <string name="recents_forbid_dock_when_screening_toast_text">Yansıtma yapılırken Ekran bölme kullanılamıyor</string>
+  <string name="recents_incompatible_app_message">Bu uygulama Bölünmüş ekranı desteklemiyor</string>
   <string name="recents_task_screening">Yansıt</string>
   <string name="recents_title_app_manager">Uygulamaları yönet</string>
   <string name="recents_title_game">Oyunlar</string>
