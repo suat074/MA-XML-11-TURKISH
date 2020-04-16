@@ -464,6 +464,7 @@
   <string name="show_mem_info_title">Hafıza durumunu göster</string>
   <string name="show_most_popular_apps_you_used">Çekmecede en sık kullanılan uygulamaları görüntüle</string>
   <string name="show_recents_recommend_title">Önerileri göster</string>
+  <string name="slide_to_open_newhome">İçerik Merkezi\'ni açmak için yukarı kaydırın</string>
   <string name="sort_by_abc">İsme göre sırala</string>
   <string name="sort_by_frequency">Kullanıma göre sırala</string>
   <string name="sort_by_not_defined">Otomatik sırala</string>
