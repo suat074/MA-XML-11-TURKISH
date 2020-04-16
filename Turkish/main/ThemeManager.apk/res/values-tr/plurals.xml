@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="aod_batch_has_update_text">
+        <item quantity="one">%1$d tema için güncelleme mevcut</item>
+        <item quantity="other">%1$d tema için güncelleme mevcut</item>
+    </plurals>
+    <plurals name="aod_batch_updating_text">
+        <item quantity="one">%1$d tema güncelleniyor</item>
+        <item quantity="other">%1$d tema güncelleniyor</item>
+    </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">%1$d cihazda uygulandı</item>
         <item quantity="one">%1$d cihazda uygulandı</item>
