@@ -147,7 +147,6 @@
 Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</string>
     <string name="data_provided_by">Verileri sağlayan</string>
     <string name="edit_city">Şehirleri yönet</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Güncelleniyor…</string>
     <string name="empty_view_net_unavailable">Ağa bağlanılamadı</string>
     <string name="empty_view_refresh">Tekrar deneyin</string>
@@ -169,8 +168,6 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
     <string name="first_start_network_title">İnternet bağlantısı ve konum erişimi</string>
     <string name="global_aqi">HKE: %1$s %2$s</string>
     <string name="hourly_forcast_now">Şimdi</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">24-saatlik hava durumu</string>
     <string name="hourly_forecast_title_hourly_desc">Saatlik hava durumu</string>
@@ -181,7 +178,6 @@ Yenilemek için aşağı doğru çekin veya ağ ayarlarınızı kontrol edin"</s
     <string name="indices_title_feel">Hissedilen</string>
     <string name="indices_title_pressure">Basınç</string>
     <string name="install">Yükle</string>
-    <string name="install_progress">%%%1$s</string>
     <string name="international_details_pressure_title">BASINÇ</string>
     <string name="international_details_title">Ayrıntılar</string>
     <string name="international_details_uv_index_title">UV ENDEKSİ</string>
