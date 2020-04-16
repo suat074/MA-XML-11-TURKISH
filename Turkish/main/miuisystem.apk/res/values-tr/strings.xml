@@ -10,6 +10,7 @@
   <string name="anti_aggression_day">Anti-Saldırganlık günü</string>
   <string name="arbor_day">Ağaç Dikim günü</string>
   <string name="asend">Bir Gönder</string>
+  <string name="atlantis">Atlantis (stereo)</string>
   <string name="beep">Bip</string>
   <string name="bells">Çanlar</string>
   <string name="birdcicada_preview">Doğa - Kuşlar &amp; ateşböcekleri</string>
@@ -68,6 +69,7 @@
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dewdrops">Çiy damlaları</string>
+  <string name="digitaluniverse">Dijital evren (stereo)</string>
   <string name="double_seventh_day">Tanabata</string>
   <string name="easter">Paskalya</string>
   <string name="echo">Eko</string>
@@ -172,6 +174,7 @@
   <string name="radar">Radar</string>
   <string name="raindrops">Yağmur damlaları</string>
   <string name="retrocession_day">İade Günü</string>
+  <string name="reveries">Hayaller (stereo)</string>
   <string name="robot">Robot</string>
   <string name="secretgarden">Gizli Bahçe</string>
   <string name="slight_cold">小寒</string>
