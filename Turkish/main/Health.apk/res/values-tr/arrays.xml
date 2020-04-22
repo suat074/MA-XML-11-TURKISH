@@ -34,6 +34,15 @@
     <item>" km/s"</item>
     <item>" m/s"</item>
   </string-array>
+  <string-array name="stand_guide_page_content1">
+    <item>Hareketsizlik birçok sağlık sorununa neden olabilir. Hareketsizlik süresi azaltılamıyorsa, aralıklı ayakta kalma faaliyetleri, sık karşılaşılan sorunları etkin bir şekilde iyileştirebilir.</item>
+    <item>Ayakta asistan, hareketsizliğin saatte en az 1 dakika ayakta durularak, her gün 12 saatlik ayakta durma hedefine ulaşılmasına ve hareketsiz yaşam tehlikesinden uzak kalınmasına yardımcı olur.</item>
+    <item>Ayakta asistanı anlamak ve açmak için Devam\'ı tıklayın.</item>
+  </string-array>
+  <string-array name="stand_guide_page_content2">
+    <item>Ayakta asistan, cep telefonunun kullanım durumunu tespit ederek ayakta kalma durumu kaydeder. 1 saat içinde ayakta kalma durumu tespit edilmediğinde, size ayakta durmanızı veya elle bir kayıt eklemenizi hatırlatan bir bildirim gönderilecek.</item>
+    <item>Etkinleştirmenin onaylanması, eşzamanlı olarak ayakta durma algılamayı ve ayakta durma anımsatıcısını etkinleştirir.</item>
+  </string-array>
   <string-array name="week">
     <item>Pazar</item>
     <item>Pazartesi</item>

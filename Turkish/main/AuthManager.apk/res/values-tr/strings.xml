@@ -83,8 +83,8 @@
   <string name="HIPS_Perm_Settings_Desc">sistem ayarlarını değiştirir</string>
   <string name="HIPS_Perm_show_when_locked">Kilit ekranında gösterme</string>
   <string name="HIPS_Perm_show_when_locked_Desc">kilit ekranında gösterilir</string>
-  <string name="HIPS_Perm_SystemAlert">Açılır pencereyi görüntüleme</string>
-  <string name="HIPS_Perm_SystemAlert_Desc">açılır pencereyi görüntüler</string>
+  <string name="HIPS_Perm_SystemAlert">Açılır pencerede görüntüle</string>
+  <string name="HIPS_Perm_SystemAlert_Desc">açılır pencerede görüntülenir</string>
   <string name="HIPS_Perm_UDevice_ID">Oyun deneyiminizi geliştirmelerine yardımcı olmak için cihaz bilgilerinin parçalarını oyun geliştiricileriyle paylaşın. Kabul?</string>
   <string name="HIPS_Perm_UDevice_ID_DESC">oyun deneyiminizi geliştirmelerine yardımcı olmak için cihaz bilgilerinin parçalarını oyun geliştiricileriyle paylaşın. Kabul?</string>
   <string name="HIPS_Perm_use_sip">Video hizmetleri</string>

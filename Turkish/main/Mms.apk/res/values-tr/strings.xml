@@ -164,6 +164,7 @@
   <string name="converting_to_picture_message">Multimedya mesajına dönüştürülüyor…</string>
   <string name="converting_to_text_message">Kısa mesaja dönüştürülüyor…</string>
   <string name="converting_vcard_failed">Kişi dönüştürülemedi</string>
+  <string name="copy">Kopyala</string>
   <string name="copy_message_text">Kopyala</string>
   <string name="copy_message_text_success">Başarıyla kopyalandı</string>
   <string name="copy_to_sdcard">Eki kaydet</string>
@@ -240,6 +241,7 @@
   <string name="exceed_message_size_limitation">Mesaj boyut sınırına ulaşıldı.</string>
   <string name="exceed_message_size_limitation_add_slide">Mesaj boyutu slayt eklemek için yeterli değil</string>
   <string name="exceed_message_text_limitation">Mesaj metni uzunluğu sınırına ulaşıldı.</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="expire_on">Son Geçerlilik Tarihi: %s</string>
   <string name="exporting_progress_private_message">Aktarılıyor…</string>
   <string name="fail_to_add_attachment">Ek eklenemedi</string>
@@ -386,6 +388,14 @@
   <string name="miuix_sb_tracking_progress_labe_up_none">bunu yapma</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh">yenileniyor</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">başarısız</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">yenilemek için çek</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">yenileme tamamlandı</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">yenilemek için bırak</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">veri yok</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">bunu yapma</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">yenileniyor</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">başarısız</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Yetkili gönderenlerden gelen mesajlar dışındaki tüm MMS\'ler engellenir. Yetkili gönderenler ağ taşıyıcıları, ulusal demiryolu rezervasyon sistemlerini vb. içerir.</string>
   <string name="mms_block_alert_ok">Engelle</string>
@@ -491,6 +501,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="non_english_subject_limit">13 karakter</string>
   <string name="nosend_message">Gönderme</string>
   <string name="not_prepare_for_send">Gönderilecek mesaj yok</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="notification_ad_content">%s tarafından bir tanıtım mesajı aldınız</string>
   <string name="notification_add_todo">Bana hatırlat</string>
   <string name="notification_add_todo_content">Alıcı kodu: %s</string>
@@ -600,6 +611,7 @@ Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gerekir. Bu mesaj için
   <string name="pref_title_system_mms_priority">Varsayılan olarak ayarla</string>
   <string name="pref_title_vcard">vCard ile gönder</string>
   <string name="pref_title_wake_up_screen">Ekranı uyandır</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="preferences_title">Ayarlar</string>
   <string name="prepare_send">Göndermeye hazırlanıyor…</string>
   <string name="preview">Önizle</string>
@@ -982,6 +994,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın."</string>
   <string name="system_permission_declare_no_say_no">"Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.
 Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmiyorsanız, bu uygulamayı kullanamazsınız."</string>
   <string name="system_permission_declare_privacy_declare">%1s verilerinizi toplamalı ve normal çalışması için aşağıdaki izinleri alması gerekir:</string>
+  <string name="system_permission_declare_privacy_declare_new">Bu uygulamanın normal şekilde çalışabilmesi için internete bağlanması ve aşağıdaki izinlerin alması gerekir:</string>
   <string name="system_permission_declare_revoke_path">Mesajlaşma ayarlarından izninizi iptal edebilir ve servisleri kapatabilirsiniz.</string>
   <string name="system_permission_declare_single_link">Bu özelliği kullanmadan önce %1s okuyun ve kabul edin.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Bu özellikleri kullanmadan önce %1s, %2s ve %3s okuyun ve kabul edin.</string>
@@ -1048,6 +1061,8 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="url_scanning">Link kontrol ediliyor…</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="user_term">Kullanıcı Sözleşmesi</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="verification_code_icon_name">D</string>
   <string name="verification_code_list_title">Doğrulama kodları</string>
   <string name="view">Görüntüle</string>

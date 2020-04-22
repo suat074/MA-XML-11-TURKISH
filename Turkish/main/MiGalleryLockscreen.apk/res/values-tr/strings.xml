@@ -449,7 +449,8 @@
   <string name="passport_wrong_voice">Girdiğiniz kod yanlış</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
   <string name="permission_account_tip">Hesap bilgisine erişir</string>
-  <string name="permission_storage_tip">Duvar kağıdı olarak kullanmak için cihazınızdaki resimlere erişir.</string>
+  <string name="permission_storage_read_tip">Cihazınızda depolanan fotoğraflara erişir</string>
+  <string name="permission_storage_tip">İndirilen öğeleri cihazınıza kaydedin</string>
   <string name="phone_bind_too_many">Bu telefon kısa bir süre içinde birkaç Mi Hesabı ile ilişkilendirildi. Başka bir telefon numarası kullanmayı deneyin.</string>
   <string name="phone_hint">Telefon numarası</string>
   <string name="phone_num_use_for">Telefon numarası şunlar için kullanılır:</string>
@@ -613,8 +614,10 @@
   <string name="status_wallpaper_loop_start">Açık</string>
   <string name="subscribe_apply_wp">Kilit ekranı duvar kağıdı başarıyla uygulandı</string>
   <string name="subscribe_dlg_btn">Başlat</string>
+  <string name="subscribe_dlg_btn_txt">Abone ol</string>
   <string name="subscribe_dlg_content">Günlük olarak Kilit ekranınıza gönderilen taze duvar kağıtlarını almak için abone olun ve sabah selamlarını alın.</string>
   <string name="subscribe_dlg_content2">\"%1$s\" için abone ol</string>
+  <string name="subscribe_dlg_desc">Slayt gösterilerini görüntülemek için abone olun</string>
   <string name="subscribe_dlg_title">Favori resimlerinizi karışıma ekleyin</string>
   <string name="subscribe_free">Abone ol</string>
   <string name="subscribe_item_checked">Abone olundu</string>
