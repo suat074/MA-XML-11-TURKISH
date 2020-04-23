@@ -53,6 +53,10 @@
     <item quantity="other">%1$d kayıt</item>
     <item quantity="one">%1$d kayıt</item>
   </plurals>
+  <plurals name="dream_talk_segment_unit">
+    <item quantity="other">kayıt</item>
+    <item quantity="one">kayıt</item>
+  </plurals>
   <plurals name="goal_format_with_unit">
     <item quantity="other">Hedef: %1$d adım</item>
     <item quantity="one">Hedef: %1$d adım</item>
